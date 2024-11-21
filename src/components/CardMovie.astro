@@ -1,0 +1,25 @@
+---
+import { Image } from 'astro:assets';
+const { title , excerpt , date, dateFormatted, imageUrl, imageAlt, url , sizes , srcset  } = Astro.props;
+---
+
+<li class="card">
+
+    <a href={`/movie/${url}`}>
+        <div class="card-thumbnail">
+            <Image
+                srcset={srcset}
+                sizes={sizes}
+                src={imageUrl}
+                alt={imageAlt}
+                width="300"
+                height="429"
+                loading="lazy"
+            />
+        </div>
+        <div class="card-content">
+            <span class="card-title">{title}</span>
+            <!-- <div class="entry-excerpt" set:html={excerpt}></div> -->
+        </div>
+    </a>
+</li>

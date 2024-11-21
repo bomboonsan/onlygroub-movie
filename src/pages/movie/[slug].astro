@@ -1,0 +1,104 @@
+---
+// TYPES
+import type { Post } from '../../types/post';
+
+import { Image } from 'astro:assets';
+
+import "../../styles/content.scss";
+import "../../styles/breadcrumb.scss";
+
+import { GraphQLClient } from 'graphql-request';
+import { ALL_POSTS_QUERY } from '../../queries/posts';
+
+import { formatDateToThai } from '../../lib/formatDate';
+
+import Layout from '../../layouts/Layout.astro';
+
+export async function getStaticPaths() {
+    let allPosts : any = [];
+    let hasNextPage : boolean = true;
+    let afterCursor : any = null;
+
+    while (hasNextPage) { // วนลูปเพื่อดึงข้อมูลบทความทั้งหมด เพราะว่า WpGraphQL แสดงได้สูงสุดแค่ 100 บทความแต่หน้า
+        const client = new GraphQLClient('https://api.onlygroub.com/graphql');
+        const data : any = await client.request(ALL_POSTS_QUERY , { after: afterCursor });
+        allPosts = allPosts.concat(data.posts.nodes);
+        hasNextPage = data.posts.pageInfo.hasNextPage;
+        afterCursor = data.posts.pageInfo.endCursor;
+    }
+
+    return allPosts.map((post: { slug: string }) => {
+        const index = allPosts.indexOf(post);
+        const prev = allPosts[index - 1];
+        const next = allPosts[index + 1];
+        return {
+            params: { slug: post.slug },
+            props: { post, prev, next },
+        };
+    });
+}
+let { post, prev, next }: { post: Post, prev?: Post, next?: Post } = Astro.props;
+const relatedPosts = (post as any)?.relatedPosts.nodes;
+
+const isMovie : boolean = ['thai', 'inter'].includes(post.terms.nodes[0]?.slug);
+
+
+let postTitle : any;
+let structuredData : any;
+if (isMovie) {
+    
+    postTitle = `${post.title} : ดูหนัง เต็มเรื่อง เรื่องย่อ ตัวอย่าง`;
+    const randomRatingCount = Math.floor(Math.random() * (8 - 5 + 1) + 5);
+    structuredData  = `
+    {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "name": "${post.title}",
+        "director": {
+            "@type": "Person",
+            "name": "${post.movie.director}"
+        },
+        "image": "${post.featuredImageMedium.node.sourceUrl}",
+        "dateCreated": "${post.date}+07:00",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": "10",
+            "ratingCount": "1",
+            "ratingValue": "${randomRatingCount}",
+            "reviewCount": "1"
+        },
+        "trailer": {
+            "@type": "VideoObject",
+            "name": "ตัวอย่างหนัง ${post.title}",
+            "description": "ตัวอย่างหนัง ${post.title} HD",
+            "thumbnailUrl": "${post.featuredImageMedium.node.sourceUrl}",
+            "uploadDate": "${post.date}+07:00",
+            "contentUrl": "https://youtu.be/${post.movie.youtubeId}",
+            "embedUrl": "https://www.youtube.com/embed/${post.movie.youtubeId}"
+        }
+    }`;
+
+
+    let raw : any = JSON.parse(post.seo.schema.raw);
+    // raw['@graph'][0]['@type'] = 'Article'; // เปลี่ยนประเภทเป็น Article
+    raw['@graph'].splice(0, 1); // ลบประเภท Article เพื่อใส่ ประเภท Movie
+    const structuredData_json : any = JSON.parse(structuredData);
+    raw['@graph'].push(structuredData_json);
+
+    post.seo.schema.raw = JSON.stringify(raw);
+
+    post.seo.metaDesc = `ดูหนัง ${post.title} กำกับโดย ${post.movie.director} จะเข้าฉายวันที่ ${formatDateToThai(post.movie.releaseDate)} เตรียมดูหนังเต็มเรื่อง`;
+
+    // console.log(post.seo.schema.raw);
+
+} else {
+    postTitle = post.title;    
+}
+
+
+---
+<Layout title={postTitle} seo={post.seo}>
+    <div>
+        <p>{postTitle}</p>
+    </div>
+</Layout>

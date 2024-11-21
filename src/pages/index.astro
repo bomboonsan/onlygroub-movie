@@ -1,16 +1,10 @@
 ---
-
+import Layout from '../layouts/Layout.astro';
+import HomeLastPost from '../components/HomeLastPost.astro';
 ---
-
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>
+<Layout>
+	<div class="py-2 md:py-10 space-y-4 max-w-screen-md mx-auto">
+        <h1 class="text-2xl sm:text-3xl md:text-5xl font-semibold text-white text-center">ดูหนัง</h1>
+    </div>
+    <HomeLastPost />
+</Layout>
