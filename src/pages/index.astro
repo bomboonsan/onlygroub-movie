@@ -7,6 +7,7 @@ import { HOME_QUERY } from '../queries/home';
 
 const client = new GraphQLClient('https://api.onlygroub.com/graphql');
 const data : any = await client.request(HOME_QUERY);
+import '../../styles/archive.scss';
 ---
 <Layout seo={data.seo} type="home">
     <div class="header-section">
