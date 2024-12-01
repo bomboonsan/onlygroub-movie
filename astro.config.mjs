@@ -9,6 +9,7 @@ import tailwind from '@astrojs/tailwind';
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://movie.onlygroub.com',
   integrations: [
     sitemap({
       changefreq: 'daily',
