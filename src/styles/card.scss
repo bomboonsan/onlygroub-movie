@@ -7,7 +7,7 @@
 // =================================================== ARCHIVE ===================================================
 // ===============================================================================================================
 .list-cards {
-    @apply grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-5;
+    @apply grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-7;
 }
 .card {
     @apply block relative w-full transition-all overflow-hidden;
@@ -21,16 +21,18 @@
         }
     }
     .card-content {
-        @apply p-3 pb-0;
+        @apply p-3 pb-0 mb-2 relative flex flex-col justify-between min-h-[5.5rem];
     }
     .card-title {
-        @apply block text-center line-clamp-2;
+        @apply block text-center line-clamp-2 text-[0.9rem]; 
     }
-    // .entry-excerpt {
-    //     @apply absolute top-[-100%] opacity-0 left-0 w-full h-fit bg-neutral-800 bg-opacity-90 text-center p-3 transition-all z-20 overflow-hidden rounded-t-md;
-    //     @apply text-sm text-neutral-200 font-light;
-    //     p {
-    //         @apply line-clamp-3;
-    //     }
-    // }
+    .card-terms {
+        @apply text-neutral-400 text-center;
+    }
+    .term {
+        @apply inline-block bg-black text-neutral-200 text-[0.8rem] rounded-full border border-neutral-900/60 px-4 py-1 transition-all;
+    }
+}
+.card:hover .term {
+    @apply bg-gradient-to-br from-primary/90 to-primary/50 text-white drop-shadow-sm transition-all;
 }

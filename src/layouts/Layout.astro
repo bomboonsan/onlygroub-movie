@@ -1,14 +1,22 @@
 ---
 Astro.response.headers.set('Cache-Control','max-age=600, must-revalidate');
 
+const { seo , type } = Astro.props;
+
 import { AstroFont } from "astro-font";
 
 // import { ViewTransitions } from 'astro:transitions';
 
+import Head from '../components/Head.astro';
 import Navbar from '../components/Navbar.astro';
 import Footer from '../components/Footer.astro';
 
 import '../styles/layout.scss';
+
+import HeadHome from '../seo/Home.astro';
+import HeadMovie from '../seo/Movie.astro';
+import HeadTerm from '../seo/Term.astro';
+import HeadPage from '../seo/Page.astro';
 ---
 
 <!doctype html>
@@ -16,16 +24,23 @@ import '../styles/layout.scss';
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+		{type === 'home' && <HeadHome seo={seo} />}
+		{type === 'movie' && <HeadMovie seo={seo} />}
+		{type === 'term' && <HeadTerm seo={seo} />}
+		{type === 'page' && <HeadPage seo={seo} />}
+
 		<meta name="generator" content={Astro.generator} />
-        
+
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />			
+
 		<!-- PWA Manifest and Theme Color for Browsers -->
 		<link rel="manifest" href="/manifest.json">
 		<meta name="theme-color" content="#ffa500">
 
 		<!-- Preconnect for Faster Loading of Google Fonts -->
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-
+		
 		<AstroFont
 			config={[
 				{
@@ -40,6 +55,16 @@ import '../styles/layout.scss';
 				},
 			]}
 		/>
+
+		<!-- Google tag (gtag.js) -->
+		<script type="text/partytown" async src="https://www.googletagmanager.com/gtag/js?id=G-GBWYWF9KWG"></script>
+		<script type="text/partytown">
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-GBWYWF9KWG');
+		</script>
+
 	</head>
 	<body>
 		<Navbar />
@@ -47,6 +72,29 @@ import '../styles/layout.scss';
 			<div class="container">
 				<slot />
 			</div>
+			<button 
+				id="to-top-btn" 
+				aria-label="Back to Top" 
+				data-show="false"
+			>
+				<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="h-6 w-6"> <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 15.75l7.5-7.5 7.5 7.5"></path></svg>
+			</button>
+			<script>
+				const toTopBtn: HTMLElement | null = document.getElementById('to-top-btn');
+				window.addEventListener('scroll', () => {
+					if (window.scrollY > 100) {
+						if (toTopBtn) toTopBtn.dataset.show = "true";
+					} else {
+						if (toTopBtn) toTopBtn.dataset.show = "false";
+					}
+				});
+				toTopBtn?.addEventListener('click', () => {
+					window.scrollTo({
+						top: 0,
+						behavior: 'smooth'
+					});
+				});
+			</script>
 		</main>
 		<Footer />
 	</body>

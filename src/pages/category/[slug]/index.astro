@@ -1,0 +1,157 @@
+---
+import { GraphQLClient } from 'graphql-request';
+import { ALL_POSTS_QUERY } from '../../../queries/posts';
+
+import Layout from '../../../layouts/Layout.astro';
+
+import CardMovie from '../../../components/CardMovie.astro';
+
+import { formatDateToThai } from '../../../lib/formatDate';
+
+import '../../../styles/archive.scss';
+import '../../../styles/card.scss';
+
+// ดึงข้อมูลทั้งหมดของ CATEGORY
+export async function getStaticPaths() {
+    const client = new GraphQLClient('https://api.onlygroub.com/graphql');
+    const category_Query = `
+        query GetCategories {
+			categories {
+				nodes {
+				slug
+				}
+			}
+		}
+    `;
+    const dataCategory : any = await client.request(category_Query);
+	return dataCategory.categories.nodes.map((category : { slug: string }) => ({
+		params: { slug: category.slug },
+	}));	
+}
+
+// ดึงรายชื่อโพส
+const { slug } = Astro.params;
+const post_query = `
+			query GetCategory {
+				categories(where: {slug: "${slug}"}) {
+					nodes {
+						name
+						description
+						slug
+						seo {
+							title
+							metaDesc
+							opengraphDescription
+							opengraphTitle
+							opengraphImage {
+								altText
+								sourceUrl
+								srcSet
+							}
+							opengraphUrl
+							opengraphSiteName
+							opengraphPublishedTime
+							opengraphModifiedTime
+							twitterTitle
+							twitterDescription
+							twitterImage {
+								altText
+								sourceUrl
+								srcSet
+							}
+							breadcrumbs {
+								url
+								text
+							}
+							cornerstone
+							schema {
+								raw
+							}
+						}
+						posts(first: 10) {
+							nodes {
+								title
+								slug
+								date
+								excerpt
+								terms {
+									nodes {
+										name
+										slug
+									}
+								}
+								featuredImageThumbnail: featuredImage {
+									node {
+									id
+									sourceUrl(size: THUMBNAIL)
+									altText
+									srcSet(size: THUMBNAIL)
+									sizes(size: THUMBNAIL)
+									}
+								}
+								featuredImagePoster: featuredImage {
+									node {
+									id
+									sourceUrl(size: MEDIUM)
+									altText
+									srcSet(size: MEDIUM)
+									sizes(size: MEDIUM)
+									}
+								}
+								featuredImageFull: featuredImage {
+									node {
+									id
+									sourceUrl(size: _2048X2048)
+									altText
+									srcSet(size: _2048X2048)
+									sizes(size: _2048X2048)
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+`;
+const client = new GraphQLClient('https://api.onlygroub.com/graphql');
+const data : any = await client.request(post_query);
+const seo : any = data.categories.nodes[0].seo;
+---
+<Layout seo={seo} type="term">
+	<div class="container">
+		<div class="header-section">
+			<h1 class="section-title">{data.categories.nodes[0].name}</h1>
+			<p set:html={data.categories.nodes[0].description}></p>
+		</div>
+		<div class="list-cards">
+			{
+				data.categories.nodes[0].posts.nodes.map((post : any) => {
+					return (
+						<CardMovie 
+							title={post.title} 
+							terms={post.terms}
+							imageUrl={post.featuredImageThumbnail.node.sourceUrl} 
+							imageAlt={post.featuredImageThumbnail.node.altText} 
+							sizes={post.featuredImageThumbnail.node.srcSet} 
+							url={post.slug} 
+						/>
+					);
+				})
+			}
+		</div>
+		<!-- เพิ่ม pagination สำหรับหน้าแรก -->
+		{data.categories.nodes[0].posts.nodes.length == 10 && (
+			<div class="flex justify-center gap-4 my-8">
+				<span class="px-4 py-2">
+					หน้า 1
+				</span>
+				<a 
+					href={`/category/${slug}/2`}
+					class="px-4 py-2 bg-black rounded-full hover:bg-primary transition-colors text-white"
+				>
+					หน้าต่อไป →
+				</a>
+			</div>
+		)}
+	</div>
+</Layout>

@@ -1,0 +1,200 @@
+---
+import { Image } from 'astro:assets';
+
+const { imdbId , post } = Astro.props;
+
+import { GraphQLClient } from 'graphql-request';
+
+import { formatDateToThai } from '../lib/formatDate';
+
+import { genresTranslate } from '../lib/genresTranslate';
+
+let data : any;
+
+if (imdbId) {
+    // คำสั่งนี้ใช้ในการดึงข้อมูลจาก API
+    // const client = new GraphQLClient('https://graph.imdbapi.dev/v1');
+    // const client = new GraphQLClient('http://localhost:3000/imdb');
+    const client = new GraphQLClient('https://imdb.bomboonsan.com/imdb');
+
+    const query : string = `
+    query titleById {
+        title(id: "${imdbId}") {
+            id
+            type
+            is_adult
+            primary_title
+            original_title
+            start_year
+            end_year
+            runtime_minutes
+            plot
+            rating {
+                aggregate_rating
+                votes_count
+            }
+            genres
+            posters {
+                url
+                width
+                height
+            }
+            certificates {
+                country {
+                    code
+                    name
+                }
+                rating
+            }
+            spoken_languages {
+                code
+                name
+            }
+            origin_countries {
+                code
+                name
+            }
+            critic_review {
+                score
+                review_count
+            }
+            directors: credits(first: 5, categories: ["director"]) {
+                name {
+                    id
+                    display_name
+                    avatars {
+                        url
+                        width
+                        height
+                    }
+                }
+            }
+            writers: credits(first: 5, categories: ["writer"]) {
+                name {
+                    id
+                    display_name
+                    avatars {
+                        url
+                        width
+                        height
+                    }
+                }
+            }
+            casts: credits(first: 15, categories: ["actor", "actress"]) {
+                name {
+                    id
+                    display_name
+                    avatars {
+                        url
+                        width
+                        height
+                    }
+                }
+                characters
+            }
+        }
+    }
+    `;
+    data = await client.request(query);
+}
+---
+<div class="imdb-box">    
+    <dl class="movie-info">
+        <dt aria-label="ผู้กำกับภาพยนตร์">ผู้กำกับ</dt>
+        <dd>{post.movie.director}</dd>
+        <dt aria-label="นักแสดงนำ">นักแสดงนำ</dt>
+        <dd>{post.movie.actors}</dd>
+        <dt aria-label="วันที่ฉาย">วันที่ฉาย</dt>
+        <dd>{formatDateToThai(post.movie.releaseDate)}</dd>   
+        {
+            imdbId &&
+            <>
+                <dt aria-label="runtime">เวลา</dt>
+                <dd>{data.title.runtime_minutes} นาที</dd>
+                <dt aria-label="genres">ประเภท</dt>
+                <dd>
+                    {
+                        genresTranslate(data.title.genres).join(' , ')
+                    }
+                </dd>
+                <dt aria-label="certificates-rating">ภาษา</dt>
+                <dd>{data.title.spoken_languages[0].name}</dd>
+            </>
+        }        
+    </dl>   
+    {
+        imdbId &&
+        <>
+        <div class="imdb-rating">
+            <span>
+                <a href={`https://www.imdb.com/title/${imdbId}`} target="_blank" rel="noopener noreferrer" title="ข้อมูลจาก IMDb">
+                    <svg class="shrink-0 size-10 text-primary" xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 32 32"><path fill="currentColor" d="M0 7v18h32V7zm2 2h28v14H2zm3 2.688v8.624h2v-8.625zm3.094 0v8.624H10V15.5l.906 4.813h1.281L13 15.5v4.813h1.813v-8.625H12l-.5 4.124l-.688-4.124zm7.812 0v8.5h2.406c1.301 0 1.79-.2 2.188-.5c.398-.2.594-.688.594-1.188v-5.188c0-.601-.196-1.113-.594-1.312c-.5-.2-.688-.313-2.188-.313zm6.188.124v8.5h1.812s.086-.601.188-.5c.199 0 1.008.375 1.406.375c.5 0 .7.008 1-.093c.398-.2.5-.48.5-.782v-5c0-.699-.71-1.218-1.313-1.218c-.601 0-1.175.394-1.375.594v-1.876zM18 13c.398 0 .813.008.813.406v5c0 .399-.512.407-.813.407zm6.594 1c.101 0 .218.105.218.406v4.281c0 .2-.019.407-.218.407c-.102 0-.188-.106-.188-.407v-4.28c0-.2-.011-.407.188-.407z"/></svg>
+                </a>
+            </span>
+            <span>
+                <span class="rating-score">
+                    {data.title.rating ? data.title.rating.aggregate_rating : 'N/A'}
+                </span>
+                <span class="rating-votes">
+                    ({data.title.rating ? data.title.rating.votes_count : '0'})
+                </span>
+            </span>
+        </div>
+        {
+            data.title.directors && data.title.directors.length > 0 && 
+            <>
+            <p class="imdb-subtitle">ผู้กำกับเพิ่มเติม</p>
+            <ul class="list-cards">
+                {
+                    data.title.directors.map((director: typeof data.title.directors[0]) => {
+                        return (
+                        <li>
+                            <Image
+                                class="imdb-avatar"
+                                src={director.name.avatars ? director.name.avatars[0].url.replace('_.jpg', '_QL75_UX140_CR0,21,140,140_.jpg') : 'https://via.placeholder.com/140x140?text=No+Image'}
+                                alt={director.name.display_name}
+                                width="140"
+                                height="140"
+                                sizes="(max-width: 140px) 100vw, 140px"
+                                loading="lazy"
+                                onerror={`this.src = 'https://via.placeholder.com/140x140?text=${director.name.display_name}'`}
+                            />
+                            <span class="imdb-name">{director.name.display_name}</span>
+                        </li>
+                        )
+                    })
+                }
+            </ul>
+            </>
+        }
+        {
+            data.title.casts && data.title.casts.length > 0 && 
+            <>
+            <p class="imdb-subtitle">นักแสดงเพิ่มเติม</p>
+            <ul class="list-cards">
+                {
+                    data.title.casts.map((cast: typeof data.title.casts[0]) => {
+                        return (
+                        <li>
+                            <Image
+                                class="imdb-avatar"
+                                src={cast.name.avatars ? cast.name.avatars[0].url.replace('_.jpg', '_QL75_UX140_CR0,21,140,140_.jpg') : 'https://via.placeholder.com/140x140?text=No+Image'}
+                                alt={cast.name.display_name}
+                                width="140"
+                                height="140"
+                                sizes="(max-width: 140px) 100vw, 140px"
+                                loading="lazy"
+                                onerror={`this.src = 'https://via.placeholder.com/140x140?text=${cast.name.display_name}'`}
+                            />
+                            <span class="imdb-name">{cast.name.display_name}</span>
+                            <span class="imdb-characters">{cast.characters}</span>
+                        </li>
+                        )
+                    })
+                }
+            </ul>
+            </>
+        }
+        </>
+    }
+</div>

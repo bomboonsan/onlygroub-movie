@@ -38,7 +38,7 @@ const variables = { id: page_id };
 
 const data : any = await client.request(query, variables);
 ---
-<Layout title={data.page.seo.title} seo={data.page.seo}>
+<Layout seo={data.page.seo} type="page">
     <Page>
         <div class="my-10">
         <!-- Title -->

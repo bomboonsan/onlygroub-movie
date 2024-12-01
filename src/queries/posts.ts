@@ -2,6 +2,7 @@ export const ALL_POSTS_QUERY = `
     query LoadAllPosts($after: String) {
         posts(first: 100, after: $after) {
             nodes {
+                guid
                 title
                 slug
                 date
@@ -13,6 +14,8 @@ export const ALL_POSTS_QUERY = `
                     releaseDate
                     youtubeId
                     imdbId
+                    rating
+                    ratingCount
                     synopsis
                 }
                 featuredImageThumbnail: featuredImage {
@@ -98,7 +101,7 @@ export const ALL_POSTS_QUERY = `
                         raw
                     }
                 }
-                relatedPosts(where: { limit: 3 }) {
+                relatedPosts(where: { limit: 4 }) {
                     nodes {
                         title
                         slug

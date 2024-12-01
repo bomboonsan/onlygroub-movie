@@ -10,24 +10,18 @@ const { post } = Astro.props;
 import '../styles/movie.scss';
 
 import AdsenseMovie from '../components/AdsenseMovie.astro';
+import DataImdb from '../components/DataImdb.astro';
+import TrailerMovie from '../components/TrailerMovie.astro';
+
+const imdbId : string | null = post.movie.imdbId;
 ---
-<main>
-    <article>
+<article>
     <div class="movie-detail-container">
         <header class="movie-detail">
-            <div class="movie-link-wrap"><a class="movie-link" href="/movie">ดูหนัง</a></div>
             <h1 class="movie-name">{post.title}</h1>
-            <dl class="movie-info">
-                <dt aria-label="ผู้กำกับภาพยนตร์">ผู้กำกับ</dt>
-                <dd>{post.movie.director}</dd>
-                <dt aria-label="นักแสดงนำ">นักแสดงนำ</dt>
-                <dd>{post.movie.actors}</dd>
-                <dt aria-label="วันที่ฉาย">วันที่ฉาย</dt>
-                <dd>{formatDateToThai(post.movie.releaseDate)}</dd>                
-            </dl>
+            <div class="font-light" set:html={post.movie.synopsis}></div>            
         </header>
         <figure class="movie-poster">
-            <a href={post.featuredImageFull.node.sourceUrl} target="_blank">
             <Image
                 class="rounded-lg"
                 src={post.featuredImageMedium.node.sourceUrl}
@@ -37,27 +31,39 @@ import AdsenseMovie from '../components/AdsenseMovie.astro';
                 sizes="(max-width: 300px) 100vw, 300px"
                 loading="eager"
             />
-            </a>
         </figure>
-        {post.movie.synopsis && (
-            <div class="movie-synopsis">
-                <h2 class="title">เรื่องย่อ</h2>
-                <div class="font-light" set:html={post.movie.synopsis}></div>
-            </div>
-        )}
     </div>
     <AdsenseMovie />
-    <div class="entry-content" set:html={post.content.replace('<a href="https://assets.onlygroub', '<a href="https://onlygroub')}></div>
-    {
-        post.movie.youtubeId && (    
-            <div class="trailer">
-                <h2 class="title">ดูตัวอย่างหนัง {post.title}</h2>
-                <YouTube id={`https://youtu.be/${post.movie.youtubeId}`} />
-            </div>
-        )
-    }
-    <footer class="text-center mb-4">
-        แก้ไขเมื่อ <time datetime={post.date}>{formatDateToThai(post.date)}</time>
-    </footer>
-    </article>
-</main>
+    <div class="tabs">
+        <div class="tabs-nav">
+            <button class="tabs-nav-item active" id="btn-tab-1" aria-label="เรื่องย่อ">เรื่องย่อ</button>
+            <button class="tabs-nav-item" id="btn-tab-2" aria-label="ข้อมูล">ข้อมูล</button>
+            <button class="tabs-nav-item" id="btn-tab-3" aria-label="ตัวอย่าง">ตัวอย่าง</button>
+        </div>
+        <div id="tab-1" class="tabs-content" data-show="true">            
+            <div class="entry-content" set:html={post.content.replace('<a href="https://assets.onlygroub', '<a href="https://onlygroub')}></div>
+        </div>
+        <div id="tab-2" class="tabs-content" data-show="false">
+            <DataImdb imdbId={imdbId} post={post} />        
+        </div>
+        <div id="tab-3" class="tabs-content" data-show="false">
+            <TrailerMovie movieName={post.title} youtubeId={post.movie.youtubeId} />
+        </div>
+    </div>
+</article>
+<script>
+    const tabs : NodeListOf<HTMLButtonElement> = document.querySelectorAll('.tabs-nav-item');
+    const contents : NodeListOf<HTMLDivElement> = document.querySelectorAll('.tabs-content');
+    tabs.forEach((tab, index) => {
+        tab.addEventListener('click', () => {
+            tabs.forEach((tab) => {
+                tab.classList.remove('active');
+            });
+            contents.forEach((content) => {
+                content.dataset.show = 'false';
+            });
+            tab.classList.add('active');
+            contents[index].dataset.show = 'true';
+        });
+    });
+</script>

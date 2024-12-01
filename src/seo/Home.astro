@@ -1,0 +1,84 @@
+---
+const { seo } = Astro.props;
+---
+<title>{seo.meta.homepage.title}</title>
+<meta name="description" content={seo.meta.homepage.description} />
+<link rel="canonical" href="https://movie.onlygroub.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content={seo.meta.homepage.title} />
+<meta property="og:description" content="เราเป็นคนหนึ่งที่ชื่นชอบการดูหนังเป็นชีวิตจิตใจ เราเลยสร้างเว็บไซต์ &quot;Onlygroup&quot; ขึ้นมาเพื่อเป็นแหล่งรวมข้อมูลและข่าวสารเกี่ยวกับภาพยนตร์ ทั้งไทยและต่างประเทศ" />
+<meta property="og:url" content="https://movie.onlygroub.com/" />
+<meta property="og:site_name" content={seo.meta.homepage.title} />
+<meta property="og:image" content={seo.schema.companyLogo.mediaItemUrl} />
+<meta property="og:image:width" content="750" />
+<meta property="og:image:height" content="393" />
+<meta property="og:image:type" content="image/webp" />
+<meta name="twitter:card" content="summary_large_image" />
+<script type="application/ld+json" class="yoast-schema-graph">
+    {
+        "@context": "https://schema.org",
+        "@graph": [
+        {
+            "@type": "CollectionPage",
+            "@id": "https://movie.onlygroub.com/",
+            "url": "https://movie.onlygroub.com/",
+            "name": "ดูหนัง",
+            "isPartOf": { "@id": "https://movie.onlygroub.com/#website" },
+            "about": { "@id": "https://movie.onlygroub.com/#organization" },
+            "description": "เราเป็นคนหนึ่งที่ชื่นชอบการดูหนังเป็นชีวิตจิตใจ เราเลยสร้างเว็บไซต์ \"Onlygroup\" ขึ้นมาเพื่อเป็นแหล่งรวมข้อมูลและข่าวสารเกี่ยวกับภาพยนตร์ ทั้งไทยและต่างประเทศ",
+            "breadcrumb": { "@id": "https://movie.onlygroub.com/#breadcrumb" },
+            "inLanguage": "en-US"
+        },
+        {
+            "@type": "BreadcrumbList",
+            "@id": "https://movie.onlygroub.com/#breadcrumb",
+            "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "Home" }
+            ]
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://movie.onlygroub.com/#website",
+            "url": "https://movie.onlygroub.com/",
+            "name": "ดูหนัง",
+            "description": "ชวนดูหนังโดย Onlygroub",
+            "publisher": { "@id": "https://movie.onlygroub.com/#organization" },
+            "alternateName": "ดูหนัง",
+            "potentialAction": [
+            {
+                "@type": "SearchAction",
+                "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://movie.onlygroub.com/?s={search_term_string}"
+                },
+                "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+                }
+            }
+            ],
+            "inLanguage": "en-US"
+        },
+        {
+            "@type": "Organization",
+            "@id": "https://movie.onlygroub.com/#organization",
+            "name": "ดูหนัง",
+            "alternateName": "ONLYGROUB",
+            "url": "https://movie.onlygroub.com/",
+            "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://api.onlygroub.com/#/schema/logo/image/",
+            "url": "https://api.onlygroub.com/wp-content/uploads/2024/11/cover.webp",
+            "contentUrl": "https://api.onlygroub.com/wp-content/uploads/2024/11/cover.webp",
+            "width": 750,
+            "height": 393,
+            "caption": "ดูหนัง"
+            },
+            "image": { "@id": "https://movie.onlygroub.com/#/schema/logo/image/" }
+        }
+        ]
+    }
+</script>

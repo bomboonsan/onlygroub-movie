@@ -40,7 +40,7 @@ const data : any = await client.request(query, variables);
 
 
 ---
-<Layout title={data.page.seo.title} seo={data.page.seo}>
+<Layout seo={data.page.seo} type="page">
     <Page>
         <div class="page">
             <h1 class="page-title">{data.page.title}</h1>

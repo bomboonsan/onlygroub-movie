@@ -1,0 +1,33 @@
+---
+import { Image } from "astro:assets";
+const { relatedPosts } = Astro.props;
+import { formatDateToThai } from '../lib/formatDate';
+import "../styles/archive.scss";
+---
+<section class="related-posts">
+    <h2 class="section-title">เรื่องที่คุณอาจสนใจ</h2>
+    <div class="list-related">
+        {   // related posts
+        relatedPosts.map((post : any) => {
+            return (
+            <a href={`/movie/${post.slug}`}>
+                    <div class="trailer-thumbnail">
+                        <Image
+                            srcset={post.featuredImage.node.srcSet}
+                            sizes={post.featuredImage.node.srcSet}
+                            src={post.featuredImage.node.sourceUrl}
+                            alt={post.featuredImage.node.altText}
+                            width="320"
+                            height="180"
+                            loading="lazy"
+                        />
+                    </div>
+                    <div class="trailer-content">
+                        <p class="title">{post.title}</p>
+                    </div>
+                </a>
+            )
+        })
+        }
+    </div>
+</section>

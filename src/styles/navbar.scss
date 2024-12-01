@@ -10,7 +10,7 @@
 // ==============================================================================================================
 .site-logo {
     filter: invert(1);
-    @apply w-24 md:w-32 h-auto ;
+    @apply w-32 h-auto ;
 }
 .site-header {
     @apply relative flex flex-wrap sm:justify-start sm:flex-nowrap w-full text-sm py-3 bg-neutral-950/40 mb-5;

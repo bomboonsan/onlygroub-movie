@@ -18,6 +18,10 @@ body {
     @apply bg-[#121212] text-neutral-200 antialiased tracking-wide;
 }
 
+#to-top-btn {
+    @apply z-50 fixed bottom-8 bottom-8 end-4 flex h-10 w-10 translate-y-28 items-center justify-center rounded-full border-2 border-transparent bg-zinc-800 text-3xl opacity-0 transition-all duration-300 hover:border-zinc-800 data-[show=true]:translate-y-0 data-[show=true]:opacity-100 sm:end-8 sm:h-12 sm:w-12;
+}
+
 .container {
     @apply mx-auto px-4 lg:px-0;
     max-width: 1024px !important;

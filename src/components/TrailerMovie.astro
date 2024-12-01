@@ -1,0 +1,20 @@
+---
+import { Image } from 'astro:assets';
+
+import { YouTube } from 'astro-embed';
+
+const { movieName , youtubeId } = Astro.props;
+---
+<div class="trailer-container">
+    {
+        youtubeId ?
+        <div class="trailer">
+                <h2 class="title">ดูตัวอย่างหนัง {movieName}</h2>
+                <YouTube id={`https://youtu.be/${youtubeId}`} />
+        </div>
+        :
+        <div>
+            <p class="title">ไม่มีตัวอย่างหนัง {movieName}</p>
+        </div>
+    }    
+</div>

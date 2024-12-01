@@ -22,13 +22,23 @@ header.content-header {
 
 
 .entry-content {
-    @apply font-light max-w-screen-md mx-auto;
+    // @apply font-light max-w-screen-md mx-auto;
+    @apply border border-neutral-900 bg-neutral-800/50 shadow rounded p-5;
+    @apply font-light;
     @apply prose;
     @apply prose-headings:text-white prose-a:text-primary hover:prose-a:text-white prose-a:font-semibold;
     @apply prose-h1:text-2xl prose-h2:text-xl prose-h3:text-lg prose-h4:text-base prose-h5:text-sm prose-h6:text-sm;
     @apply prose-p:text-neutral-200 prose-li:text-neutral-200 prose-headings:text-white prose-em:text-neutral-200 prose-strong:text-neutral-200;
     @apply text-neutral-200;
+    @apply max-w-full;
+    p:first-child {
+        @apply mt-0;
+    }
+    p:last-child {
+        @apply mb-0;
+    }
 }
+
 .wp-block-embed-youtube {
     @apply w-full max-w-full;
     iframe {

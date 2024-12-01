@@ -1,4 +1,5 @@
 export type Post = {
+    guid: string;
     title: string;
     slug: string;
     excerpt: string;
@@ -10,6 +11,8 @@ export type Post = {
         releaseDate: string;
         youtubeId: string;
         imdbId: string;
+        rating : number;
+        ratingCount : number;
         synopsis: string;
     }
     featuredImage: {

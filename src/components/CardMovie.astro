@@ -1,6 +1,6 @@
 ---
 import { Image } from 'astro:assets';
-const { title , excerpt , date, dateFormatted, imageUrl, imageAlt, url , sizes , srcset  } = Astro.props;
+const { title , excerpt , date, dateFormatted, imageUrl, imageAlt, url , sizes , srcset , terms  } = Astro.props;
 ---
 
 <li class="card">
@@ -19,7 +19,11 @@ const { title , excerpt , date, dateFormatted, imageUrl, imageAlt, url , sizes ,
         </div>
         <div class="card-content">
             <span class="card-title">{title}</span>
-            <!-- <div class="entry-excerpt" set:html={excerpt}></div> -->
+            <div class="card-terms">
+                <span class="term">
+                    {terms.nodes[0].name}
+                </span>
+            </div>
         </div>
     </a>
 </li>

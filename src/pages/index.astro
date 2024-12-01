@@ -1,10 +1,17 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import HomeLastPost from '../components/HomeLastPost.astro';
+
+import { GraphQLClient } from 'graphql-request';
+import { HOME_QUERY } from '../queries/home';
+
+const client = new GraphQLClient('https://api.onlygroub.com/graphql');
+const data : any = await client.request(HOME_QUERY);
 ---
-<Layout>
-	<div class="py-2 md:py-10 space-y-4 max-w-screen-md mx-auto">
-        <h1 class="text-2xl sm:text-3xl md:text-5xl font-semibold text-white text-center">ดูหนัง</h1>
+<Layout seo={data.seo} type="home">
+    <div class="header-section">
+        <h1 class="section-title">ดูหนัง</h1>
+        <p>เราเป็นคนหนึ่งที่ชื่นชอบการ<strong>ดูหนัง</strong>เป็นชีวิตจิตใจ เราเลยสร้างเว็บไซต์ <strong>"Onlygroup"</strong> ขึ้นมาเพื่อเป็นแหล่งรวมข้อมูลและข่าวสารเกี่ยวกับภาพยนตร์ ทั้งไทยและต่างประเทศ เอาไว้ให้ทุกคนได้ติดตามกันแบบอัพเดท ไม่ว่าจะเป็นเรื่องย่อ <em>ตัวอย่างหนัง</em> รีวิว หรือบทความน่าสนใจ รับรองว่าถูกใจคอหนังแน่นอน!</p>
     </div>
     <HomeLastPost />
 </Layout>

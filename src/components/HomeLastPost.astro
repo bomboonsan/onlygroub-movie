@@ -20,6 +20,12 @@ const query = `
 					slug
 					date
 					excerpt
+                    terms {
+                        nodes {
+                            name
+                            slug
+                        }
+                    }
                     featuredImageThumbnail: featuredImage {
 						node {
 						id
@@ -57,6 +63,12 @@ type PostNode = {
     slug: string;
     date: string;
     excerpt: string;
+    terms: {
+        nodes: {
+            name: string;
+            slug: string;
+        }[];
+    }
     featuredImageThumbnail: {
         node: {
             id: string;
@@ -99,7 +111,7 @@ const posts : PostNode[] = data.posts.nodes;
     {
         posts.map((post: typeof posts[0]) => {
             return (
-                <CardMovie srcset={post.featuredImageThumbnail.node.srcSet} sizes={post.featuredImageThumbnail.node.srcSet} title={post.title} excerpt={post.excerpt} data={post.date} dateFormatted={formatDateToThai(post.date)} imageUrl={post.featuredImageThumbnail.node.sourceUrl} imageAlt={post.featuredImageThumbnail.node.altText} url={post.slug} />
+                <CardMovie srcset={post.featuredImageThumbnail.node.srcSet} sizes={post.featuredImageThumbnail.node.srcSet} title={post.title} excerpt={post.excerpt} data={post.date} dateFormatted={formatDateToThai(post.date)} imageUrl={post.featuredImageThumbnail.node.sourceUrl} imageAlt={post.featuredImageThumbnail.node.altText} url={post.slug} terms={post.terms} />
             );
         })
     }
