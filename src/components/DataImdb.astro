@@ -99,6 +99,17 @@ if (imdbId) {
 }
 ---
 <div class="imdb-box">    
+    <figure class="movie-poster-mobile">
+        <Image
+            class="rounded-lg"
+            src={post.featuredImageMedium.node.sourceUrl}
+            alt={`โปสเตอร์หนัง ${post.title} กำกับโดย ${post.movie.director}`}
+            width="300"
+            height="429"
+            sizes="(max-width: 300px) 100vw, 300px"
+            loading="eager"
+        />
+    </figure>
     <dl class="movie-info">
         <dt aria-label="ผู้กำกับภาพยนตร์">ผู้กำกับ</dt>
         <dd>{post.movie.director}</dd>

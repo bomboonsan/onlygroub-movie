@@ -26,7 +26,13 @@
     @apply max-w-screen-sm;
 }
 .movie-poster {
-    @apply w-full md:w-[23%] md:-top-[2rem] md:-mb-[2rem] md:order-1 relative transition-all duration-300;
+    @apply hidden md:block w-full md:w-[23%] md:-top-[2rem] md:-mb-[2rem] md:order-1 relative transition-all duration-300;
+    img {
+        @apply block max-w-[220px] w-full mx-auto border border-neutral-400/30 rounded-lg;
+    }
+}
+.movie-poster-mobile {
+    @apply block md:hidden w-full text-center relative transition-all duration-300 mb-5;
     img {
         @apply block max-w-[220px] w-full mx-auto border border-neutral-400/30 rounded-lg;
     }
