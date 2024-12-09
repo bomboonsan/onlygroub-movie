@@ -97,6 +97,8 @@ if (imdbId) {
     `;
     data = await client.request(query);
 }
+
+console.log(data);
 ---
 <div class="imdb-box">    
     <figure class="movie-poster-mobile">
@@ -124,12 +126,18 @@ if (imdbId) {
                 <dd>{data.title.runtime_minutes} นาที</dd>
                 <dt aria-label="genres">ประเภท</dt>
                 <dd>
-                    {
+                    {   
+                        data.title.genres !== null &&
                         genresTranslate(data.title.genres).join(' , ')
                     }
                 </dd>
                 <dt aria-label="certificates-rating">ภาษา</dt>
-                <dd>{data.title.spoken_languages[0].name}</dd>
+                <dd>
+                    {
+                        data.title.spoken_languages !== null &&
+                        data.title.spoken_languages[0].name
+                    }
+                </dd>
             </>
         }        
     </dl>   
@@ -144,10 +152,10 @@ if (imdbId) {
             </span>
             <span>
                 <span class="rating-score">
-                    {data.title.rating ? data.title.rating.aggregate_rating : 'N/A'}
+                    {data.title.rating !== null ? data.title.rating.aggregate_rating : 'N/A'}
                 </span>
                 <span class="rating-votes">
-                    ({data.title.rating ? data.title.rating.votes_count : '0'})
+                    ({data.title.rating !== null ? data.title.rating.votes_count : '0'})
                 </span>
             </span>
         </div>

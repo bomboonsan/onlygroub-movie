@@ -18,7 +18,6 @@ import MoiveTemplate from '../../templates/Movie.astro';
 
 import RelatedPosts from '../../components/RelatedPosts.astro';
 
-
 export async function getStaticPaths() {
     let allPosts : any = [];
     let hasNextPage : boolean = true;
@@ -88,6 +87,7 @@ post.seo.metaDesc = `ดูหนัง ${post.title} กำกับโดย $
 post.seo.title = `${post.title} : ดูหนัง เต็มเรื่อง เรื่องย่อ ตัวอย่าง`;
 
 const postID = (post as any).guid.split('?p=')[1];
+
 
 ---
 <Layout seo={post.seo} type="movie">
