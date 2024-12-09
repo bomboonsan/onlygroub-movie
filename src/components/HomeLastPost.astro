@@ -14,7 +14,7 @@ const client = new GraphQLClient('https://api.onlygroub.com/graphql');
 
 const query = `
         query LoadAllPostsExcerpts {
-			posts (first:15 where: {categoryNotIn : ["281","282"]}) {
+			posts (first:30 where: {categoryNotIn : ["281","282"]}) {
 				nodes {
 					title
 					slug

@@ -68,7 +68,7 @@ const post_query = `
 								raw
 							}
 						}
-						posts(first: 10) {
+						posts(first: 30) {
 							nodes {
 								title
 								slug
@@ -140,7 +140,7 @@ const seo : any = data.categories.nodes[0].seo;
 			}
 		</div>
 		<!-- เพิ่ม pagination สำหรับหน้าแรก -->
-		{data.categories.nodes[0].posts.nodes.length == 10 && (
+		{data.categories.nodes[0].posts.nodes.length == 30 && (
 			<div class="flex justify-center gap-4 my-8">
 				<span class="px-4 py-2">
 					หน้า 1

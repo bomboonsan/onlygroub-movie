@@ -13,7 +13,7 @@ import '../../../styles/archive.scss';
 export async function getStaticPaths() {
     const client = new GraphQLClient('https://api.onlygroub.com/graphql');
 
-    const POSTS_PER_PAGE = 10;
+    const POSTS_PER_PAGE = 30;
 
     const category_Query = `
             query GetCategoriesWithCount {
@@ -45,7 +45,7 @@ export async function getStaticPaths() {
 
 
 const { slug , page } = Astro.params;
-const postPerPage = 10;
+const postPerPage = 30;
 let data_allpages : any[] = [];
 let hasNextPage : boolean = true;
 let endCursor : any = null;
