@@ -7,7 +7,6 @@ import CardMovie from '../../../components/CardMovie.astro';
 
 import { formatDateToThai } from '../../../lib/formatDate';
 
-import '../../../styles/card.scss';
 import '../../../styles/archive.scss';
 
 // ดึงข้อมูลทั้งหมดของ CATEGORY
@@ -42,7 +41,6 @@ export async function getStaticPaths() {
     });
     return paths;
 }
-
 
 
 
@@ -86,6 +84,8 @@ while (hasNextPage && i <= page) {
                             nodes {
                                 title
                                 slug
+                                date
+                                excerpt
                                 terms {
 									nodes {
 										name
@@ -148,7 +148,7 @@ const seo : any = data_allpages[indexData].categories.nodes[0].seo;
             {page > 2 && ( // page คือหน้าปัจจุบัน & i - 1 คือจำนวนหน้าแยกของหมวดหมู่
             <a 
                 href={`/category/${slug}/${Number(page) - 1}`}
-                class="px-4 py-2 bg-black rounded-full hover:bg-primary transition-colors text-white"
+                class="px-4 py-2 bg-gray-200 rounded hover:bg-gray-300 transition-colors text-black"
             >
                 ← หน้าก่อนหน้า
             </a>
@@ -156,7 +156,7 @@ const seo : any = data_allpages[indexData].categories.nodes[0].seo;
             {page == 2 && ( // page คือหน้าปัจจุบัน & i - 1 คือจำนวนหน้าแยกของหมวดหมู่
                 <a 
                     href={`/category/${slug}`}
-                    class="px-4 py-2 bg-black rounded-full hover:bg-primary transition-colors text-white"
+                    class="px-4 py-2 bg-gray-200 rounded hover:bg-gray-300 transition-colors text-black"
                 >
                     ← หน้าก่อนหน้า
                 </a>
@@ -167,7 +167,7 @@ const seo : any = data_allpages[indexData].categories.nodes[0].seo;
             {hasNextPage && ( // page คือหน้าปัจจุบัน & i - 1 คือจำนวนหน้าแยกของหมวดหมู่
             <a 
                 href={`/category/${slug}/${Number(page) + 1}`}
-                class="px-4 py-2 bg-black rounded-full hover:bg-primary transition-colors text-white"
+                class="px-4 py-2 bg-gray-200 rounded hover:bg-gray-300 transition-colors text-black"
             >
                 หน้าต่อไป →
             </a>
