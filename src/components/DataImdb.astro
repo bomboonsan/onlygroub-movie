@@ -164,11 +164,14 @@ if (imdbId) {
             <ul class="list-cards">
                 {
                     data.title.directors.map((director: typeof data.title.directors[0]) => {
+                        if (director.name == null) {
+                            return;
+                        }
                         return (
                         <li>
                             <Image
                                 class="imdb-avatar"
-                                src={director.name.avatars !== null ? director.name.avatars[0].url.replace('_.jpg', '_QL75_UX140_CR0,21,140,140_.jpg') : 'https://via.placeholder.com/140x140?text=No+Image'}
+                                src={director.name.avatars ? director.name.avatars[0].url.replace('_.jpg', '_QL75_UX140_CR0,21,140,140_.jpg') : 'https://via.placeholder.com/140x140?text=No+Image'}
                                 alt={director.name.display_name}
                                 width="140"
                                 height="140"
@@ -191,11 +194,14 @@ if (imdbId) {
             <ul class="list-cards">
                 {
                     data.title.casts.map((cast: typeof data.title.casts[0]) => {
+                        if (cast.name == null || cast.characters == null) {
+                            return;
+                        }
                         return (
                         <li>
                             <Image
                                 class="imdb-avatar"
-                                src={cast.name.avatars !== null ? cast.name.avatars[0].url.replace('_.jpg', '_QL75_UX140_CR0,21,140,140_.jpg') : 'https://via.placeholder.com/140x140?text=No+Image'}
+                                src={cast.name?.avatars ? cast.name.avatars[0].url.replace('_.jpg', '_QL75_UX140_CR0,21,140,140_.jpg') : 'https://via.placeholder.com/140x140?text=No+Image'}
                                 alt={cast.name.display_name}
                                 width="140"
                                 height="140"
@@ -203,8 +209,8 @@ if (imdbId) {
                                 loading="lazy"
                                 onerror={`this.src = 'https://via.placeholder.com/140x140?text=${cast.name.display_name}'`}
                             />
-                            <span class="imdb-name">{cast.name.display_name}</span>
-                            <span class="imdb-characters">{cast.characters}</span>
+                            <span class="imdb-name">{cast.name.display_name ? cast.name.display_name : 'N/A'}</span>
+                            <span class="imdb-characters">{cast.characters ? cast.characters : 'N/A'}</span>
                         </li>
                         )
                     })
