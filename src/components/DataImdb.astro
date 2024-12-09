@@ -169,7 +169,7 @@ if (imdbId) {
                         }
                         return (
                         <li>
-                            <Image
+                            {/* <Image
                                 class="imdb-avatar"
                                 src={director.name.avatars ? director.name.avatars[0].url.replace('_.jpg', '_QL75_UX140_CR0,21,140,140_.jpg') : 'https://via.placeholder.com/140x140?text=No+Image'}
                                 alt={director.name.display_name}
@@ -178,7 +178,7 @@ if (imdbId) {
                                 sizes="(max-width: 140px) 100vw, 140px"
                                 loading="lazy"
                                 onerror={`this.src = 'https://via.placeholder.com/140x140?text=${director.name.display_name}'`}
-                            />
+                            /> */}
                             <span class="imdb-name">{director.name.display_name}</span>
                         </li>
                         )
@@ -199,7 +199,7 @@ if (imdbId) {
                         }
                         return (
                         <li>
-                            <Image
+                            {/* <Image
                                 class="imdb-avatar"
                                 src={cast.name?.avatars ? cast.name.avatars[0].url.replace('_.jpg', '_QL75_UX140_CR0,21,140,140_.jpg') : 'https://via.placeholder.com/140x140?text=No+Image'}
                                 alt={cast.name.display_name}
@@ -208,7 +208,7 @@ if (imdbId) {
                                 sizes="(max-width: 140px) 100vw, 140px"
                                 loading="lazy"
                                 onerror={`this.src = 'https://via.placeholder.com/140x140?text=${cast.name.display_name}'`}
-                            />
+                            /> */}
                             <span class="imdb-name">{cast.name.display_name ? cast.name.display_name : 'N/A'}</span>
                             <span class="imdb-characters">{cast.characters ? cast.characters : 'N/A'}</span>
                         </li>
