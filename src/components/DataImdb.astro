@@ -97,8 +97,7 @@ if (imdbId) {
     `;
     data = await client.request(query);
 }
-
-console.log(data);
+console.log(data.title.directors[0]);
 ---
 <div class="imdb-box">    
     <figure class="movie-poster-mobile">
@@ -160,7 +159,7 @@ console.log(data);
             </span>
         </div>
         {
-            data.title.directors && data.title.directors.length > 0 && 
+            data.title.directors && data.title.directors[0].name !== null && data.title.directors.length > 0 && 
             <>
             <p class="imdb-subtitle">ผู้กำกับเพิ่มเติม</p>
             <ul class="list-cards">
@@ -170,7 +169,7 @@ console.log(data);
                         <li>
                             <Image
                                 class="imdb-avatar"
-                                src={director.name.avatars ? director.name.avatars[0].url.replace('_.jpg', '_QL75_UX140_CR0,21,140,140_.jpg') : 'https://via.placeholder.com/140x140?text=No+Image'}
+                                src={director.name.avatars !== null ? director.name.avatars[0].url.replace('_.jpg', '_QL75_UX140_CR0,21,140,140_.jpg') : 'https://via.placeholder.com/140x140?text=No+Image'}
                                 alt={director.name.display_name}
                                 width="140"
                                 height="140"
@@ -187,7 +186,7 @@ console.log(data);
             </>
         }
         {
-            data.title.casts && data.title.casts.length > 0 && 
+            data.title.casts && data.title.casts[0].name !== null && data.title.casts.length > 0 && 
             <>
             <p class="imdb-subtitle">นักแสดงเพิ่มเติม</p>
             <ul class="list-cards">
@@ -197,7 +196,7 @@ console.log(data);
                         <li>
                             <Image
                                 class="imdb-avatar"
-                                src={cast.name.avatars ? cast.name.avatars[0].url.replace('_.jpg', '_QL75_UX140_CR0,21,140,140_.jpg') : 'https://via.placeholder.com/140x140?text=No+Image'}
+                                src={cast.name.avatars !== null ? cast.name.avatars[0].url.replace('_.jpg', '_QL75_UX140_CR0,21,140,140_.jpg') : 'https://via.placeholder.com/140x140?text=No+Image'}
                                 alt={cast.name.display_name}
                                 width="140"
                                 height="140"
