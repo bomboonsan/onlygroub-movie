@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .tabs {
-    @apply max-w-screen-sm mx-auto;
+    @apply max-w-screen-md mx-auto;
 }
 .tabs-nav {
     @apply grid grid-cols-3 my-3 rounded-lg shadow-md overflow-hidden;
@@ -23,12 +23,12 @@
 .movie-detail-container {
     @apply md:mt-14;
     @apply flex flex-wrap justify-center gap-5 md:gap-5 md:gap-y-5 max-w-3xl -mx-1 md:mx-auto p-3 md:p-4 pt-6 md:pt-4 md:bg-neutral-800/50 rounded-lg md:shadow-md md:shadow-neutral-950/80 relative;
-    @apply max-w-screen-sm;
+    @apply max-w-screen-md;
 }
 .movie-poster {
     @apply hidden md:block w-full md:w-[23%] md:-top-[2rem] md:-mb-[2rem] md:order-1 relative transition-all duration-300;
     img {
-        @apply block max-w-[220px] w-full mx-auto border border-neutral-400/30 rounded-lg;
+        @apply block max-w-[220px] w-full mx-auto border border-neutral-400/30 rounded-lg aspect-[7/10] object-cover;
     }
 }
 .movie-poster-mobile {
@@ -71,9 +71,9 @@
 }
 
 .ads {
-    @apply max-w-screen-sm py-8 px-0 sm:px-3 my-5 bg-black text-center md:rounded-lg -mx-4 sm:mx-auto;
+    @apply max-w-screen-md py-8 px-0 sm:px-3 my-5 bg-black text-center md:rounded-lg -mx-4 sm:mx-auto;
     .inner {
-        @apply inline-block max-w-[336px] overflow-hidden;
+        @apply inline-block max-w-[336px] min-h-[280px] overflow-hidden;
     }
 }
 
@@ -82,7 +82,7 @@
 }
 
 .trailer {
-    @apply max-w-screen-sm mx-auto;
+    @apply max-w-screen-md mx-auto;
     .title {
         @apply mb-3 text-xl font-medium text-center text-primary;
     }

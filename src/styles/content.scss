@@ -21,7 +21,7 @@ header.content-header {
 }
 
 
-.entry-content {
+.entry-synopsis , .entry-content {
     // @apply font-light max-w-screen-md mx-auto;
     @apply border border-neutral-900 bg-neutral-800/50 shadow rounded p-5;
     @apply font-light;

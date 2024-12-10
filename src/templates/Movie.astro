@@ -19,7 +19,14 @@ const imdbId : string | null = post.movie.imdbId;
     <div class="movie-detail-container">
         <header class="movie-detail">
             <h1 class="movie-name">{post.title}</h1>
-            <div class="font-light" set:html={post.movie.synopsis}></div>            
+            <dl class="movie-info">
+                <dt aria-label="ผู้กำกับภาพยนตร์">ผู้กำกับ</dt>
+                <dd>{post.movie.director}</dd>
+                <dt aria-label="นักแสดงนำ">นักแสดงนำ</dt>
+                <dd>{post.movie.actors}</dd>
+                <dt aria-label="วันที่ฉาย">วันที่ฉาย</dt>
+                <dd>{formatDateToThai(post.movie.releaseDate)}</dd>
+            </dl>
         </header>
         <figure class="movie-poster">
             <Image
@@ -33,24 +40,28 @@ const imdbId : string | null = post.movie.imdbId;
             />
         </figure>
     </div>
-    <AdsenseMovie />
     <div class="tabs">
         <div class="tabs-nav">
             <button class="tabs-nav-item active" id="btn-tab-1" aria-label="เรื่องย่อ">เรื่องย่อ</button>
             <button class="tabs-nav-item" id="btn-tab-2" aria-label="ข้อมูล">ข้อมูล</button>
             <button class="tabs-nav-item" id="btn-tab-3" aria-label="ตัวอย่าง">ตัวอย่าง</button>
         </div>
-        <div id="tab-1" class="tabs-content" data-show="true">            
-            <div class="entry-content" set:html={post.content.replace('<a href="https://assets.onlygroub', '<a href="https://onlygroub')}></div>
+        <div id="tab-1" class="tabs-content" data-show="true">
+            <div class="entry-synopsis" set:html={post.movie.synopsis}></div>
         </div>
         <div id="tab-2" class="tabs-content" data-show="false">
-            <DataImdb imdbId={imdbId} post={post} />        
+            <div class="entry-content" set:html={post.content.replace('<a href="https://assets.onlygroub', '<a href="https://onlygroub')}></div>
+            {
+                imdbId &&
+                <DataImdb imdbId={imdbId} post={post} />
+            }
         </div>
         <div id="tab-3" class="tabs-content" data-show="false">
             <TrailerMovie movieName={post.title} youtubeId={post.movie.youtubeId} />
         </div>
     </div>
 </article>
+<AdsenseMovie />
 <script>
     const tabs : NodeListOf<HTMLButtonElement> = document.querySelectorAll('.tabs-nav-item');
     const contents : NodeListOf<HTMLDivElement> = document.querySelectorAll('.tabs-content');

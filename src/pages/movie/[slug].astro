@@ -57,13 +57,6 @@ structuredData  = `
     },
     "image": "${post.featuredImageMedium.node.sourceUrl}",
     "dateCreated": "${post.date}+07:00",
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "bestRating": "10",
-        "ratingCount": "1",
-        "ratingValue": "${post.movie.rating ? post.movie.rating : randomRatingCount}",
-        "reviewCount": "1"
-    },
     "trailer": {
         "@type": "VideoObject",
         "name": "ตัวอย่างหนัง ${post.title}",
@@ -84,7 +77,7 @@ post.seo.schema.raw = JSON.stringify(raw);
 
 post.seo.metaDesc = `ดูหนัง ${post.title} กำกับโดย ${post.movie.director} จะเข้าฉายวันที่ ${formatDateToThai(post.movie.releaseDate)} เตรียมดูหนังเต็มเรื่อง`;
 
-post.seo.title = `${post.title} : ดูหนัง เต็มเรื่อง เรื่องย่อ ตัวอย่าง`;
+post.seo.title = `ดูหนัง ${post.title}`;
 
 const postID = (post as any).guid.split('?p=')[1];
 
