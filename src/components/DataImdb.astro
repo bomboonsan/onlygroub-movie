@@ -1,4 +1,7 @@
 ---
+import fs from 'fs';
+import path from 'path';
+
 import { Image } from 'astro:assets';
 
 const { imdbId , post } = Astro.props;
@@ -12,90 +15,105 @@ import { genresTranslate } from '../lib/genresTranslate';
 let data : any;
 
 if (imdbId) {
-    // คำสั่งนี้ใช้ในการดึงข้อมูลจาก API
-    // const client = new GraphQLClient('https://graph.imdbapi.dev/v1');
-    // const client = new GraphQLClient('http://localhost:3000/imdb');
-    const client = new GraphQLClient('https://imdb.bomboonsan.com/imdb');
 
-    const query : string = `
-    query titleById {
-        title(id: "${imdbId}") {
-            id
-            type
-            is_adult
-            primary_title
-            original_title
-            start_year
-            end_year
-            runtime_minutes
-            plot
-            rating {
-                aggregate_rating
-                votes_count
-            }
-            genres
-            posters {
-                url
-                width
-                height
-            }
-            certificates {
-                country {
+    const cachePath = path.resolve(`./src/data/${imdbId}.json`);
+    console.log(cachePath);
+    
+    if (fs.existsSync(cachePath)) {
+        console.log('ดึงข้อมูลจาก cache');
+        data = JSON.parse(fs.readFileSync(cachePath, 'utf-8'));
+
+    } else {
+        
+        const client = new GraphQLClient('https://imdb.bomboonsan.com/imdb');
+
+        const query : string = `
+        query titleById {
+            title(id: "${imdbId}") {
+                id
+                type
+                is_adult
+                primary_title
+                original_title
+                start_year
+                end_year
+                runtime_minutes
+                plot
+                rating {
+                    aggregate_rating
+                    votes_count
+                }
+                genres
+                posters {
+                    url
+                    width
+                    height
+                }
+                certificates {
+                    country {
+                        code
+                        name
+                    }
+                    rating
+                }
+                spoken_languages {
                     code
                     name
                 }
-                rating
-            }
-            spoken_languages {
-                code
-                name
-            }
-            origin_countries {
-                code
-                name
-            }
-            critic_review {
-                score
-                review_count
-            }
-            directors: credits(first: 5, categories: ["director"]) {
-                name {
-                    id
-                    display_name
-                    avatars {
-                        url
-                        width
-                        height
+                origin_countries {
+                    code
+                    name
+                }
+                critic_review {
+                    score
+                    review_count
+                }
+                directors: credits(first: 5, categories: ["director"]) {
+                    name {
+                        id
+                        display_name
+                        avatars {
+                            url
+                            width
+                            height
+                        }
                     }
                 }
-            }
-            writers: credits(first: 5, categories: ["writer"]) {
-                name {
-                    id
-                    display_name
-                    avatars {
-                        url
-                        width
-                        height
+                writers: credits(first: 5, categories: ["writer"]) {
+                    name {
+                        id
+                        display_name
+                        avatars {
+                            url
+                            width
+                            height
+                        }
                     }
                 }
-            }
-            casts: credits(first: 15, categories: ["actor", "actress"]) {
-                name {
-                    id
-                    display_name
-                    avatars {
-                        url
-                        width
-                        height
+                casts: credits(first: 15, categories: ["actor", "actress"]) {
+                    name {
+                        id
+                        display_name
+                        avatars {
+                            url
+                            width
+                            height
+                        }
                     }
+                    characters
                 }
-                characters
             }
         }
+        `;
+
+        data = await client.request(query);
     }
-    `;
-    data = await client.request(query);
+
+    
+
+    const jsonData = JSON.stringify(data, null, 2);  
+    fs.writeFileSync(cachePath, jsonData);
+    
 }
 ---
 <div class="imdb-box">    

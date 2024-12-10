@@ -1,0 +1,350 @@
+{
+  "title": {
+    "id": "tt3554046",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Space Jam: A New Legacy",
+    "original_title": null,
+    "start_year": 2021,
+    "end_year": null,
+    "runtime_minutes": 115,
+    "plot": "A rogue artificial intelligence kidnaps the son of famed basketball player LeBron James, who then has to work with Bugs Bunny to win a basketball game.",
+    "rating": {
+      "aggregate_rating": 4.5,
+      "votes_count": 80434
+    },
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Sci-Fi",
+      "Sport"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDkyOGM4MDMtZWU4ZS00YWMxLTgzNjAtYzI4M2Y1ODA4YWJlXkEyXkFqcGc@._V1_.jpg",
+        "width": 1080,
+        "height": 1600
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "AU",
+        "name": "Australia"
+      },
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "SG",
+        "name": "Singapore"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 36,
+      "review_count": 46
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0002700",
+          "display_name": "Malcolm D. Lee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWZkNzI5Y2YtZjU3ZS00ZTkyLWI2MGQtZjJhNzg0MTMzNzEyXkEyXkFqcGdeQXVyMjExNzI0Njc@._V1_.jpg",
+              "width": 2100,
+              "height": 1400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1080144",
+          "display_name": "Leo Benvenuti",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0748874",
+          "display_name": "Steve Rudnick",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMxNDQzNTM0Nl5BMl5BanBnXkFtZTcwMzE1NDY4NQ@@._V1_.jpg",
+              "width": 1356,
+              "height": 765
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0365390",
+          "display_name": "Timothy Harris",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0918339",
+          "display_name": "Herschel Weingrod",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm3541432",
+          "display_name": "Juel Taylor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGNlMWJlODEtYzA4ZC00MGM4LWIwYTItYTRlMzgwOGViMDdkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+              "width": 2001,
+              "height": 3000
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1429908",
+          "display_name": "LeBron James",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzE2NzEwMTUxM15BMl5BanBnXkFtZTYwMzQ4NTQz._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "LeBron James"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000332",
+          "display_name": "Don Cheadle",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDMxNDM3MzY5N15BMl5BanBnXkFtZTcwMjkzOTY4MQ@@._V1_.jpg",
+              "width": 313,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Al G. Rhythm"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9347978",
+          "display_name": "Cedric Joe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjZhOWU1OGMtZDkwNy00NDdlLTlmYTAtYWU2NDkyNzVmOWNjXkEyXkFqcGdeQXVyODIyNjc3NTA@._V1_.jpg",
+              "width": 1290,
+              "height": 1861
+            }
+          ]
+        },
+        "characters": [
+          "Dom James"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7800057",
+          "display_name": "Khris Davis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWNhY2VmNjAtZjlhZi00NTI5LThjMGYtNWNhMWYzOTg2MGRmXkEyXkFqcGdeQXVyMTExNzQ3MzAw._V1_.jpg",
+              "width": 265,
+              "height": 348
+            }
+          ]
+        },
+        "characters": [
+          "Malik"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2792296",
+          "display_name": "Sonequa Martin-Green",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgxMTc1MTYzM15BMl5BanBnXkFtZTgwNzI5NjMwOTE@._V1_.jpg",
+              "width": 475,
+              "height": 594
+            }
+          ]
+        },
+        "characters": [
+          "Kamiyah James"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8023946",
+          "display_name": "Ceyair J Wright",
+          "avatars": null
+        },
+        "characters": [
+          "Darius James"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12374417",
+          "display_name": "Harper Leigh Alexander",
+          "avatars": null
+        },
+        "characters": [
+          "Xosha James"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2837872",
+          "display_name": "Xosha Roquemore",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ1OTg2NzU5M15BMl5BanBnXkFtZTcwOTkyODAyOA@@._V1_.jpg",
+              "width": 500,
+              "height": 700
+            }
+          ]
+        },
+        "characters": [
+          "Shanice James"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11090489",
+          "display_name": "Stephen Kankole",
+          "avatars": null
+        },
+        "characters": [
+          "Young LeBron (13 years)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8786575",
+          "display_name": "Jalyn Hall",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjE3NGYyODktZDVlNi00MTA3LWE1YjYtOWJhMjI0ODI0ZDQzXkEyXkFqcGdeQXVyMTMwNzY1Mzkx._V1_.jpg",
+              "width": 2730,
+              "height": 4096
+            }
+          ]
+        },
+        "characters": [
+          "Young Malik (13 years)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0365445",
+          "display_name": "Wood Harris",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQyMDY2NDY4OF5BMl5BanBnXkFtZTcwNjM5OTY0OA@@._V1_.jpg",
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        "characters": [
+          "Coach C"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12693511",
+          "display_name": "Jordan Thomas",
+          "avatars": null
+        },
+        "characters": [
+          "Young Boy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4472288",
+          "display_name": "Randy Mims",
+          "avatars": null
+        },
+        "characters": [
+          "Barbershop Customer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3834526",
+          "display_name": "Gerald 'Slink' Johnson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjQ0MjM0MzEtOGU3Ny00MDQyLWEwNDEtOTYyNWRjOWIwZmMxXkEyXkFqcGc@._V1_.jpg",
+              "width": 3440,
+              "height": 3541
+            }
+          ]
+        },
+        "characters": [
+          "Warner Bros. Security Guard"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0798971",
+          "display_name": "Sarah Silverman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzZhMjUyY2MtYmYwMi00ZDcyLTg4Y2ItYjk4ODRhZmY0YTA3XkEyXkFqcGdeQXVyMTA2MTI2Njg5._V1_.jpg",
+              "width": 832,
+              "height": 928
+            }
+          ]
+        },
+        "characters": [
+          "Warner Bros. Executive"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "title": {
+    "id": "tt2316411",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Enemy",
+    "original_title": null,
+    "start_year": 2013,
+    "end_year": null,
+    "runtime_minutes": 91,
+    "plot": "A man seeks out his exact look-alike after spotting him in a movie.",
+    "rating": {
+      "aggregate_rating": 6.9,
+      "votes_count": 211309
+    },
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2NzA5NjE4N15BMl5BanBnXkFtZTgwMjQ4NzMxMTE@._V1_.jpg",
+        "width": 1980,
+        "height": 2916
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "ES",
+        "name": "Spain"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      }
+    ],
+    "critic_review": {
+      "score": 61,
+      "review_count": 30
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0898288",
+          "display_name": "Denis Villeneuve",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzU2MDk5MDI2MF5BMl5BanBnXkFtZTcwNDkwMjMzNA@@._V1_.jpg",
+              "width": 1389,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0764832",
+          "display_name": "José Saramago",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg5NjE5NTI0NV5BMl5BanBnXkFtZTcwMDYwNDM5Ng@@._V1_.jpg",
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1942197",
+          "display_name": "Javier Gullón",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0350453",
+          "display_name": "Jake Gyllenhaal",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjA0MTU2NDY3MF5BMl5BanBnXkFtZTgwNDU4ODkzMzE@._V1_.jpg",
+              "width": 1368,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Adam + Anthony"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0491259",
+          "display_name": "Mélanie Laurent",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU0NzQzNDc5M15BMl5BanBnXkFtZTcwNzMyOTYzNQ@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mary"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0300589",
+          "display_name": "Sarah Gadon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2I3YTA3M2EtYWJhYS00NjJlLTg1NzYtMTdmNjI5M2ViY2ZiXkEyXkFqcGdeQXVyMzE1MjkwODU@._V1_.jpg",
+              "width": 683,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Helen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000618",
+          "display_name": "Isabella Rossellini",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjg0MjczMzg2NV5BMl5BanBnXkFtZTcwOTM1MjA1NA@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mother"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0668702",
+          "display_name": "Joshua Peace",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDZlOWVkZTgtZDhjNS00YjU4LWI1MWMtNmNhNmNlZDlkNTBiXkEyXkFqcGdeQXVyMTQ5NTg1Nzk@._V1_.jpg",
+              "width": 1500,
+              "height": 2000
+            }
+          ]
+        },
+        "characters": [
+          "Teacher at School"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0692874",
+          "display_name": "Tim Post",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzk3ZjMwYTAtZTQyYS00YzcyLWE2N2YtYTljN2NiYTNhNzhkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3065,
+              "height": 2043
+            }
+          ]
+        },
+        "characters": [
+          "Anthony's Concierge"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0113983",
+          "display_name": "Kedar Brown",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI5MzMyMTMxMl5BMl5BanBnXkFtZTYwOTI1ODky._V1_.jpg",
+              "width": 384,
+              "height": 432
+            }
+          ]
+        },
+        "characters": [
+          "Security Guard"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2099067",
+          "display_name": "Darryl Dinn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMxNDcyNTQ0M15BMl5BanBnXkFtZTgwNzYwNTYzOTE@._V1_.jpg",
+              "width": 2592,
+              "height": 3888
+            }
+          ]
+        },
+        "characters": [
+          "Video Store Clerk"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3974808",
+          "display_name": "Misha Highstead",
+          "avatars": null
+        },
+        "characters": [
+          "Lady in the Dark Room"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7070084",
+          "display_name": "Megan Mane",
+          "avatars": null
+        },
+        "characters": [
+          "Lady in the Dark Room"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4446603",
+          "display_name": "Alexis Uiga",
+          "avatars": null
+        },
+        "characters": [
+          "Lady in the Dark Room"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1072900",
+          "display_name": "Kiran Friesen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmUyMTk4N2QtNGY3Zi00MzE1LThkMTQtNGNjNGJmYjk1MDhmXkEyXkFqcGdeQXVyOTk4NjIyMA@@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        },
+        "characters": [
+          "Sad, Broken Woman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1242679",
+          "display_name": "Stephen R. Hart",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM1NjIzMjkyNF5BMl5BanBnXkFtZTcwNjI2NTQ3MQ@@._V1_.jpg",
+              "width": 360,
+              "height": 240
+            }
+          ]
+        },
+        "characters": [
+          "Bouncer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0595576",
+          "display_name": "Jane Moffat",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjAwMGRjNmQtZDFlZS00YmE0LWEzZDMtZTU1NGZkZTgxYmQ5XkEyXkFqcGdeQXVyMTczMDg0MTY@._V1_.jpg",
+              "width": 3885,
+              "height": 5439
+            }
+          ]
+        },
+        "characters": [
+          "Eve"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1919185",
+          "display_name": "Paul Stephen",
+          "avatars": null
+        },
+        "characters": [
+          "Dark Room Patron"
+        ]
+      }
+    ]
+  }
+}

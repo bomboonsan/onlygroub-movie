@@ -1,0 +1,371 @@
+{
+  "title": {
+    "id": "tt1587310",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Maleficent",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 97,
+    "plot": "A vengeful fairy is driven to curse an infant princess, only to discover that the child could be the one person who can restore peace to their troubled land.",
+    "rating": {
+      "aggregate_rating": 6.9,
+      "votes_count": 397903
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Family",
+      "Fantasy",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjAwMzAzMzExOF5BMl5BanBnXkFtZTgwOTcwMDA5MTE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "IN",
+        "name": "India"
+      },
+      {
+        "code": "IT",
+        "name": "Italy"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      },
+      {
+        "code": "ZM",
+        "name": "Zambia"
+      }
+    ],
+    "critic_review": {
+      "score": 56,
+      "review_count": 44
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0834902",
+          "display_name": "Robert Stromberg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI3NDEzNTE1MV5BMl5BanBnXkFtZTcwMTI2MzMyMw@@._V1_.jpg",
+              "width": 400,
+              "height": 600
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0941314",
+          "display_name": "Linda Woolverton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTcxNjA2OTE0Ml5BMl5BanBnXkFtZTcwOTQzMjAyMw@@._V1_.jpg",
+              "width": 1000,
+              "height": 667
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0674518",
+          "display_name": "Charles Perrault",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODc5YzA2NzUtYWIwYS00NmE0LWFlZjQtMzAyNDc5MjBmMzczXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 3189,
+              "height": 4400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0052520",
+          "display_name": "Milt Banta",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0382548",
+          "display_name": "Winston Hibler",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0670328",
+          "display_name": "Bill Peet",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0001401",
+          "display_name": "Angelina Jolie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODg3MzYwMjE4N15BMl5BanBnXkFtZTcwMjU5NzAzNw@@._V1_.jpg",
+              "width": 1665,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Maleficent"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1102577",
+          "display_name": "Elle Fanning",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTM3ODNjNTYtNjBhOC00ZTNkLTg4YjAtMzU3M2EyMDhkM2EyXkEyXkFqcGdeQXVyMTk2ODc0MjY@._V1_.jpg",
+              "width": 2000,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Aurora"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1663205",
+          "display_name": "Sharlto Copley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU1MjU2MzkzNF5BMl5BanBnXkFtZTgwNDIzMjIwMjI@._V1_.jpg",
+              "width": 1510,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Stefan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0544334",
+          "display_name": "Lesley Manville",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ3NTU0OTc1OF5BMl5BanBnXkFtZTcwNzU5MTA3NA@@._V1_.jpg",
+              "width": 1307,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Flittle"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001767",
+          "display_name": "Imelda Staunton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ0NzcwOTE0NF5BMl5BanBnXkFtZTYwNjAxOTI1._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Knotgrass"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1017334",
+          "display_name": "Juno Temple",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmNhOGE0NDQtNmUxZi00YmZmLTllNjgtM2QwODYzYzM0ZmRhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+              "width": 5087,
+              "height": 3391
+            }
+          ]
+        },
+        "characters": [
+          "Thistlewit"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0727165",
+          "display_name": "Sam Riley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTczOTgwMzAxN15BMl5BanBnXkFtZTYwMjI4ODI4._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Diaval"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4154798",
+          "display_name": "Brenton Thwaites",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGVjZDY0NGEtMzMzOC00N2Q1LTg2MWEtNWJmYjM3ZTQ3OWI5XkEyXkFqcGdeQXVyNTg1Mjc3OTc@._V1_.jpg",
+              "width": 3000,
+              "height": 4500
+            }
+          ]
+        },
+        "characters": [
+          "Prince Phillip"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0186469",
+          "display_name": "Kenneth Cranham",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODYxNzIzOGItODY2Yi00MjA0LTlhNWQtMDYyZDRlODFmZWFhXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        "characters": [
+          "King Henry"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0282332",
+          "display_name": "Sarah Flind",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMxMDE1NjEzN15BMl5BanBnXkFtZTgwNDQ5NTI3NDE@._V1_.jpg",
+              "width": 976,
+              "height": 1248
+            }
+          ]
+        },
+        "characters": [
+          "Princess Leila's Handmaiden"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4026222",
+          "display_name": "Hannah New",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU5MDQzOTI4M15BMl5BanBnXkFtZTgwOTc1MzAzMDE@._V1_.jpg",
+              "width": 3840,
+              "height": 5514
+            }
+          ]
+        },
+        "characters": [
+          "Princess Leila"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5985215",
+          "display_name": "Isobelle Molloy",
+          "avatars": null
+        },
+        "characters": [
+          "Young Maleficent"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4747398",
+          "display_name": "Michael Higgins",
+          "avatars": null
+        },
+        "characters": [
+          "Young Stefan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3480246",
+          "display_name": "Ella Purnell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2UxMTFkNGYtNDUyNy00ZGUzLWE1MzMtM2QxZGRlY2I0MmUyXkEyXkFqcGdeQXVyMTI2Nzk2MjQ1._V1_.jpg",
+              "width": 2000,
+              "height": 1250
+            }
+          ]
+        },
+        "characters": [
+          "Teen Maleficent"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4797104",
+          "display_name": "Jackson Bews",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTY5MzViNzQtOTg0ZS00NjhjLWEwN2QtNDQ4MGM5NTlhM2Y2XkEyXkFqcGc@._V1_.jpg",
+              "width": 3168,
+              "height": 3168
+            }
+          ]
+        },
+        "characters": [
+          "Teen Stefan"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "title": {
+    "id": "tt1841642",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Demonic",
+    "original_title": null,
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 83,
+    "plot": "A police officer and a psychologist investigate the deaths of five people who were killed while trying to summon ghosts.",
+    "rating": {
+      "aggregate_rating": 5.3,
+      "votes_count": 16272
+    },
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2JmODVmYTYtYTFiMi00Mzg4LTk1M2EtMDVjYzNiY2VlOWZjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "width": 850,
+        "height": 1223
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm1949943",
+          "display_name": "Will Canon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI4MTExOTI2N15BMl5BanBnXkFtZTcwNjIzNTcyMw@@._V1_.jpg",
+              "width": 1462,
+              "height": 2014
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2188790",
+          "display_name": "Max La Bella",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1949943",
+          "display_name": "Will Canon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI4MTExOTI2N15BMl5BanBnXkFtZTcwNjIzNTcyMw@@._V1_.jpg",
+              "width": 1462,
+              "height": 2014
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1962738",
+          "display_name": "Doug Simon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmZlMjA3MWYtMWE2NS00NGUwLWJiZWMtZWQ1YjhjYTlmZjQ3XkEyXkFqcGdeQXVyMjIwMTkxNA@@._V1_.jpg",
+              "width": 4032,
+              "height": 6048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1682420",
+          "display_name": "Dustin Milligan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDYwMTk2MTQtZTUzOC00NTYwLThhOGEtNjhiMGQyNWY0Njk4XkEyXkFqcGdeQXVyMTAxMzAxNDE0._V1_.jpg",
+              "width": 4057,
+              "height": 5247
+            }
+          ]
+        },
+        "characters": [
+          "John"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1310709",
+          "display_name": "Scott Mechlowicz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmJhNTFmY2EtMGU4OS00MzY1LThlYjUtMzViZDIxMzdkNTNmXkEyXkFqcGdeQXVyMTI0NjEzNw@@._V1_.jpg",
+              "width": 598,
+              "height": 598
+            }
+          ]
+        },
+        "characters": [
+          "Bryan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3158974",
+          "display_name": "Cody Horn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAxOTI1Nzg1M15BMl5BanBnXkFtZTgwNTc4NjU2NDE@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Michelle"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0004742",
+          "display_name": "Maria Bello",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI3NDE3NTAyOF5BMl5BanBnXkFtZTcwNTg0MDEwMg@@._V1_.jpg",
+              "width": 308,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Elizabeth Klein"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0342029",
+          "display_name": "Frank Grillo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDEyMjk5NDM1M15BMl5BanBnXkFtZTgwOTAyMDE2MjE@._V1_.jpg",
+              "width": 2048,
+              "height": 1568
+            }
+          ]
+        },
+        "characters": [
+          "Detective Mark Lewis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1177914",
+          "display_name": "Megan Park",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjgwNDE5NzU4M15BMl5BanBnXkFtZTgwNTcyNTQ0MDI@._V1_.jpg",
+              "width": 1536,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Jules"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1683094",
+          "display_name": "Aaron Yoo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ3MzkxMzAwMl5BMl5BanBnXkFtZTgwODQ1MTY3NzE@._V1_.jpg",
+              "width": 4167,
+              "height": 2975
+            }
+          ]
+        },
+        "characters": [
+          "Donnie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1787678",
+          "display_name": "Alex Goode",
+          "avatars": null
+        },
+        "characters": [
+          "Sam"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0741893",
+          "display_name": "Terence Rosemore",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzU4OGYxY2ItMmMwOC00YmVhLTk1MzgtNTY3MDY5ZjlmMDZjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1280,
+              "height": 853
+            }
+          ]
+        },
+        "characters": [
+          "Jenkins"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1138242",
+          "display_name": "Jesse Steccato",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA5ODBjZjEtYTRlOC00M2M2LWJlNjEtNjM2MDAyYWE2OTc5XkEyXkFqcGc@._V1_.jpg",
+              "width": 423,
+              "height": 571
+            }
+          ]
+        },
+        "characters": [
+          "Peter"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1570245",
+          "display_name": "Meyer DeLeeuw",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTAzNjQzNDYxNjleQTJeQWpwZ15BbWU3MDIxNjE3Mjk@._V1_.jpg",
+              "width": 2352,
+              "height": 3514
+            }
+          ]
+        },
+        "characters": [
+          "Henry"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0975225",
+          "display_name": "Griff Furst",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGQ2NGRkZTQtZjNlZi00MmY4LTgwZDgtNTU5Y2VmZGEzMDQwXkEyXkFqcGdeQXVyMDYyMTUxMQ@@._V1_.jpg",
+              "width": 2229,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Reeves"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2958419",
+          "display_name": "Thomas Francis Murphy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGI5ZDNmNjItNTA2MS00YTlhLTg4ODMtNTk4YzZkYzYyN2Y3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 903,
+              "height": 1268
+            }
+          ]
+        },
+        "characters": [
+          "Aberknacky"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3554130",
+          "display_name": "Ashton Leigh",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGVjNzUyMWEtMzBiOC00OTYzLTg2ZmYtYjI5NzQyZjdlZDc2XkEyXkFqcGdeQXVyMjE4Mzc2MTI@._V1_.jpg",
+              "width": 4000,
+              "height": 6000
+            }
+          ]
+        },
+        "characters": [
+          "Sara Mathews"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2078655",
+          "display_name": "Katarina Boudreaux",
+          "avatars": null
+        },
+        "characters": [
+          "Martha Livingston"
+        ]
+      }
+    ]
+  }
+}

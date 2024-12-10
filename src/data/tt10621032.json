@@ -1,0 +1,289 @@
+{
+  "title": {
+    "id": "tt10621032",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Lupin III: The First",
+    "original_title": null,
+    "start_year": 2019,
+    "end_year": null,
+    "runtime_minutes": 93,
+    "plot": "Lupin III goes on a grand adventure to uncover the secrets of the Bresson Diary, which is tied to the legacy of his famous grandfather.",
+    "rating": {
+      "aggregate_rating": 6.9,
+      "votes_count": 3844
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Crime",
+      "Family",
+      "Mystery"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2ExNmE2MGMtYWE5Ny00ODMxLWI0MzItZGMxYWI1MDViYTllXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg",
+        "width": 1931,
+        "height": 2895
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "Not Rated"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "jpn",
+        "name": "Japanese"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "JP",
+        "name": "Japan"
+      }
+    ],
+    "critic_review": {
+      "score": 63,
+      "review_count": 5
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0945724",
+          "display_name": "Takashi Yamazaki",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGE0YzkxN2UtZDJiNC00NmVmLTk5NDktZjE5ZjM4YTM4YzE2XkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+              "width": 794,
+              "height": 756
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0700578",
+          "display_name": "Monkey Punch",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDc0NTM2MTUtMzUyZC00ZjYxLTg2YTEtMDU2ZTEzNTEyODVlXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+              "width": 984,
+              "height": 1440
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0945724",
+          "display_name": "Takashi Yamazaki",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGE0YzkxN2UtZDJiNC00NmVmLTk5NDktZjE5ZjM4YTM4YzE2XkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+              "width": 794,
+              "height": 756
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0495728",
+          "display_name": "Maurice Leblanc",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0475737",
+          "display_name": "Kan'ichi Kurita",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDAzYmQxMzYtYWFlOS00M2U1LThjNjAtZWRhMTE4NGZiYzc5XkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+              "width": 323,
+              "height": 467
+            }
+          ]
+        },
+        "characters": [
+          "Lupin III"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0462017",
+          "display_name": "Kiyoshi Kobayashi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjY3MDY0NzAtMGFhNy00MjM5LWJkNjUtOTRmZjdkY2U5YmYxXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+              "width": 427,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Daisuke Jigen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0620657",
+          "display_name": "Daisuke Namikawa",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWVhZjEzZjUtZWU1Ni00NDAyLTk3OGQtZWUyMWE3Mzc0OTJlXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+              "width": 460,
+              "height": 460
+            }
+          ]
+        },
+        "characters": [
+          "Goemon Ishikawa XIII"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1328076",
+          "display_name": "Miyuki Sawashiro",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjBhN2JkNDctMTA5Ni00MjBhLTkxYWQtODcwNDY5MjJjZDE4XkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+              "width": 450,
+              "height": 558
+            }
+          ]
+        },
+        "characters": [
+          "Fujiko Mine"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0945290",
+          "display_name": "Kôichi Yamadera",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzA5NWI0OWItNmE4Yi00MTNlLTk2MzUtOGY4NTNjNjFmNWVlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 796,
+              "height": 923
+            }
+          ]
+        },
+        "characters": [
+          "Inspector Koichi Zenigata"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1517688",
+          "display_name": "Kazuaki Ito",
+          "avatars": null
+        },
+        "characters": [
+          "Bresson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11162290",
+          "display_name": "Osamu Taira",
+          "avatars": null
+        },
+        "characters": [
+          "Hans"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3288507",
+          "display_name": "Mitsuru Takakuwa",
+          "avatars": null
+        },
+        "characters": [
+          "Hitler"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4387862",
+          "display_name": "Takeshi Hayakawa",
+          "avatars": null
+        },
+        "characters": [
+          "Laetitia's Father"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9052543",
+          "display_name": "Yuki Kazu",
+          "avatars": null
+        },
+        "characters": [
+          "Laetitia's Mother"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3394449",
+          "display_name": "Sôryû Konno",
+          "avatars": null
+        },
+        "characters": [
+          "Inspector"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1936833",
+          "display_name": "Hiroshi Shirokuma",
+          "avatars": null
+        },
+        "characters": [
+          "Man in Black"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4979802",
+          "display_name": "Shôzô Sasaki",
+          "avatars": null
+        },
+        "characters": [
+          "Party Guest 1"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3316518",
+          "display_name": "Tomisaburô Horikoshi",
+          "avatars": null
+        },
+        "characters": [
+          "Party Guest 2"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8901290",
+          "display_name": "Junji Iki",
+          "avatars": null
+        },
+        "characters": [
+          "Security Guard"
+        ]
+      }
+    ]
+  }
+}

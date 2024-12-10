@@ -1,0 +1,278 @@
+{
+  "title": {
+    "id": "tt3623726",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Ricki and the Flash",
+    "original_title": null,
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 101,
+    "plot": "A musician who gave up everything for her dream of rock-and-roll stardom returns home, looking to make things right with her family.",
+    "rating": {
+      "aggregate_rating": 6,
+      "votes_count": 24839
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY1NzIxNzkzM15BMl5BanBnXkFtZTgwMzAzNjIzNjE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 54,
+      "review_count": 36
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0001129",
+          "display_name": "Jonathan Demme",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY1NzY0OTQ0OF5BMl5BanBnXkFtZTcwNDY1Njk5Mg@@._V1_.jpg",
+              "width": 279,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1959505",
+          "display_name": "Diablo Cody",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg4MTM5NjQ0Ml5BMl5BanBnXkFtZTcwMjI4MzAxMw@@._V1_.jpg",
+              "width": 282,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000658",
+          "display_name": "Meryl Streep",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU4Mjk5MDExOF5BMl5BanBnXkFtZTcwOTU1MTMyMw@@._V1_.jpg",
+              "width": 427,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Ricki"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0819782",
+          "display_name": "Rick Springfield",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAzMzkxMzAwOF5BMl5BanBnXkFtZTcwMDk1MzMxMw@@._V1_.jpg",
+              "width": 294,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Greg"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2182471",
+          "display_name": "Rick Rosas",
+          "avatars": null
+        },
+        "characters": [
+          "Buster"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1909816",
+          "display_name": "Joe Vitale",
+          "avatars": null
+        },
+        "characters": [
+          "Joe"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0941600",
+          "display_name": "Bernie Worrell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkwMTM0NjA3NF5BMl5BanBnXkFtZTgwNjcyNzYyOTE@._V1_.jpg",
+              "width": 1361,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Billy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4805317",
+          "display_name": "Ben Platt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQ0NjUwMTYwNF5BMl5BanBnXkFtZTgwMDg4MTMwNTM@._V1_.jpg",
+              "width": 1920,
+              "height": 1536
+            }
+          ]
+        },
+        "characters": [
+          "Daniel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7500585",
+          "display_name": "Peter C. Demme",
+          "avatars": null
+        },
+        "characters": [
+          "Walt"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7500586",
+          "display_name": "Jim Roche",
+          "avatars": null
+        },
+        "characters": [
+          "Provocative Dancer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7500587",
+          "display_name": "Alexa Klienbard",
+          "avatars": null
+        },
+        "characters": [
+          "Provocative Dancer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4745222",
+          "display_name": "Keala Settle",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYxMjk1MDk3MV5BMl5BanBnXkFtZTgwNjkxODU5NDM@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        },
+        "characters": [
+          "Sharon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0869769",
+          "display_name": "Joe Toutebon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM4MDE2MjY4OV5BMl5BanBnXkFtZTcwNzc4ODIzMQ@@._V1_.jpg",
+              "width": 350,
+              "height": 446
+            }
+          ]
+        },
+        "characters": [
+          "Whitey"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1677524",
+          "display_name": "Jim Wheeler",
+          "avatars": null
+        },
+        "characters": [
+          "Elvis Guy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2897664",
+          "display_name": "Brooklyn Demme",
+          "avatars": null
+        },
+        "characters": [
+          "Salt Well Drinker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4120252",
+          "display_name": "Eamon O'Rourke",
+          "avatars": null
+        },
+        "characters": [
+          "Salt Well Dancer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2343418",
+          "display_name": "Aaron Moten",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjdjMmRiY2YtODc4NS00ODBmLWJmNDktNWQyYWFkNjliMTg2XkEyXkFqcGdeQXVyMjU2MDcyNjI@._V1_.jpg",
+              "width": 1280,
+              "height": 1408
+            }
+          ]
+        },
+        "characters": [
+          "Troy"
+        ]
+      }
+    ]
+  }
+}

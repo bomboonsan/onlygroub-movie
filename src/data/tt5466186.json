@@ -1,0 +1,331 @@
+{
+  "title": {
+    "id": "tt5466186",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "7 Days in Entebbe",
+    "original_title": "Entebbe",
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 107,
+    "plot": "Inspired by the true events of the 1976 hijacking of an Air France flight en route from Tel Aviv to Paris, and the most daring rescue mission ever attempted.",
+    "rating": {
+      "aggregate_rating": 5.9,
+      "votes_count": 17308
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "History",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjAwNDMzNzg0Nl5BMl5BanBnXkFtZTgwOTkxNjY2NDM@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      },
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      },
+      {
+        "code": "heb",
+        "name": "Hebrew"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "MT",
+        "name": "Malta"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 49,
+      "review_count": 29
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0655683",
+          "display_name": "José Padilha",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYzNTg3Mzc5Ml5BMl5BanBnXkFtZTYwNzgzMzM1._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2954373",
+          "display_name": "Gregory Burke",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm9962502",
+          "display_name": "Batsheva Dance Company",
+          "avatars": null
+        },
+        "characters": [
+          "Dance Performers"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8277521",
+          "display_name": "Zina Zinchenko",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWNmODBjNWEtYjkxYi00Yjk4LTg1MTAtMWM3OTgzMTk2ZjY3XkEyXkFqcGc@._V1_.jpg",
+              "width": 2193,
+              "height": 2808
+            }
+          ]
+        },
+        "characters": [
+          "Sarah"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3115493",
+          "display_name": "Ben Schnetzer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjNlZTE2OWQtNzhkZi00NWJmLWFlYzAtMmJjNTAyNjc4NjFlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3744,
+              "height": 5616
+            }
+          ]
+        },
+        "characters": [
+          "Zeev Hirsch"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0117709",
+          "display_name": "Daniel Brühl",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzliYzY1NWQtNTFhYy00NjVhLTlkOGItY2RhNDgwOTg5ZDhiXkEyXkFqcGdeQXVyNTkzODg0ODk@._V1_.jpg",
+              "width": 1490,
+              "height": 1987
+            }
+          ]
+        },
+        "characters": [
+          "Wilfried Böse"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8930453",
+          "display_name": "Amir Khoury",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDY0N2YxNTEtMWU0NC00M2FhLTk1ZTAtNmI3ODM2Yjg0NzlmXkEyXkFqcGdeQXVyMTYxMjQzNDA4._V1_.jpg",
+              "width": 2160,
+              "height": 2700
+            }
+          ]
+        },
+        "characters": [
+          "Ali Al-Maati"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8738069",
+          "display_name": "Ala Dakka",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTk1MTExMTQtNDhhMC00ZDM3LWJkNGItNjAyZGIwNmZhOTJhXkEyXkFqcGc@._V1_.jpg",
+              "width": 1100,
+              "height": 733
+            }
+          ]
+        },
+        "characters": [
+          "Haled Al Halili"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0683253",
+          "display_name": "Rosamund Pike",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDQ5MDIyMjg3NV5BMl5BanBnXkFtZTgwOTU2NTE0NDM@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Brigitte Kuhlmann"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8102508",
+          "display_name": "Paloma Coquant",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTdmNDhlYTktODVmOC00YTFhLWI3OTctZWZlODMzZjA3MjgwXkEyXkFqcGc@._V1_.jpg",
+              "width": 3840,
+              "height": 5760
+            }
+          ]
+        },
+        "characters": [
+          "Ann Franking"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0919189",
+          "display_name": "Trudy Weiss",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTc0NjMxNjQ2NF5BMl5BanBnXkFtZTgwNDA2MjgzOTE@._V1_.jpg",
+              "width": 2207,
+              "height": 2858
+            }
+          ]
+        },
+        "characters": [
+          "Dora Bloch"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0770652",
+          "display_name": "Danny Scheinmann",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjE5OTlhNTktMmJiOS00NTliLWE4N2ItN2M0YTg2NDY4MDdiXkEyXkFqcGc@._V1_.jpg",
+              "width": 819,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Ilan Hartuv"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0423526",
+          "display_name": "Brontis Jodorowsky",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYyNTgxNTY5NV5BMl5BanBnXkFtZTgwMjgyOTE3NjM@._V1_.jpg",
+              "width": 683,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Captain Michel Bacos"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1616970",
+          "display_name": "Denis Ménochet",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmE4MjFkNTItYWUxOC00MGMwLTk4NmItYWRjMWEyNThkNDVlXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 1505,
+              "height": 1437
+            }
+          ]
+        },
+        "characters": [
+          "Jacques Lemoine"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5369999",
+          "display_name": "Gal Pertsiger",
+          "avatars": null
+        },
+        "characters": [
+          "Pasco Cohen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9471268",
+          "display_name": "Saffron Scheinmann",
+          "avatars": null
+        },
+        "characters": [
+          "Talia Levy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2228509",
+          "display_name": "Michal Shtamler",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2U0YWE1ZTYtZjhkZC00ZTc1LWI2YjUtNDU1MTk2ODg1MTI0XkEyXkFqcGc@._V1_.jpg",
+              "width": 1150,
+              "height": 1140
+            }
+          ]
+        },
+        "characters": [
+          "Hanna Cohen"
+        ]
+      }
+    ]
+  }
+}

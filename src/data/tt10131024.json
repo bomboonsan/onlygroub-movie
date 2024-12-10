@@ -1,0 +1,149 @@
+{
+  "title": {
+    "id": "tt10131024",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Shut In",
+    "original_title": null,
+    "start_year": 2022,
+    "end_year": null,
+    "runtime_minutes": 89,
+    "plot": "When a young mother is barricaded inside a pantry by her violent ex-boyfriend, she must use ingenuity to protect her two small children from escalating danger while finding an escape.",
+    "rating": {
+      "aggregate_rating": 5.8,
+      "votes_count": 10935
+    },
+    "genres": [
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2I2NWYyYTgtNzIxNS00OGU5LTg3YmItMWJlMGViOWE1ZmQwXkEyXkFqcGc@._V1_.jpg",
+        "width": 1047,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "TV-MA"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm0142286",
+          "display_name": "D.J. Caruso",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg4NjgyODQ1M15BMl5BanBnXkFtZTYwMzA4Njg0._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm10343741",
+          "display_name": "Melanie Toast",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm3958585",
+          "display_name": "Rainey Qualley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjg1ZjQzYTgtYzQ4YS00NjM5LTg0MmYtNGFmNjY1NjBhZWE2XkEyXkFqcGdeQXVyMjM1MDg0ODg@._V1_.jpg",
+              "width": 636,
+              "height": 662
+            }
+          ]
+        },
+        "characters": [
+          "Jessica Nash"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4270477",
+          "display_name": "Jake Horowitz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMThhNjM2ZDYtODY1YS00ZmU2LTlkMzMtODYwM2RjM2VlYmM4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 5616,
+              "height": 3744
+            }
+          ]
+        },
+        "characters": [
+          "Rob"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001252",
+          "display_name": "Vincent Gallo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDM0MjQyNjQ3M15BMl5BanBnXkFtZTgwNjc5NDgxNjM@._V1_.jpg",
+              "width": 1028,
+              "height": 1278
+            }
+          ]
+        },
+        "characters": [
+          "Sammy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12866203",
+          "display_name": "Luciana VanDette",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGNlNmZkMmEtODQ4YS00ZmU3LWFiZjctMThmYTc2YjlmODJjXkEyXkFqcGc@._V1_.jpg",
+              "width": 857,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Lainey Nash"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm13509748",
+          "display_name": "Aidan Steimer",
+          "avatars": null
+        },
+        "characters": [
+          "Mason Nash"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "title": {
+    "id": "tt1137450",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Death Wish",
+    "original_title": null,
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 107,
+    "plot": "Dr. Paul Kersey is an experienced trauma surgeon, a man who has spent his life saving lives. After an attack on his family, Paul embarks on his own mission for justice.",
+    "rating": {
+      "aggregate_rating": 6.3,
+      "votes_count": 76509
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTkzNjU3MjE0MF5BMl5BanBnXkFtZTgwNTIyNDk0NDM@._V1_.jpg",
+        "width": 540,
+        "height": 800
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 31,
+      "review_count": 32
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0744834",
+          "display_name": "Eli Roth",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkyMjU0NDk2OF5BMl5BanBnXkFtZTgwMDY4MDE4NTM@._V1_.jpg",
+              "width": 442,
+              "height": 594
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0138620",
+          "display_name": "Joe Carnahan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcxNzQ1Mzk5MV5BMl5BanBnXkFtZTcwMjk5MTQ1Mw@@._V1_.jpg",
+              "width": 275,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0307257",
+          "display_name": "Brian Garfield",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDA3NjczNDUtNWQxMi00OGY1LWFjYjItZmE5YWVkMDI0ZWIwXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 272,
+              "height": 390
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0562606",
+          "display_name": "Wendell Mayes",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000246",
+          "display_name": "Bruce Willis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA0MjMzMTE5OF5BMl5BanBnXkFtZTcwMzQ2ODE3Mw@@._V1_.jpg",
+              "width": 340,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Paul Kersey"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000352",
+          "display_name": "Vincent D'Onofrio",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk0NTE2MDkzNF5BMl5BanBnXkFtZTYwODUzMjcz._V1_.jpg",
+              "width": 285,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Frank Kersey"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000223",
+          "display_name": "Elisabeth Shue",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWFkZTIxN2ItODhlOC00MDMwLWEyYTEtZWMxNWQ2MzU3ZjZmXkEyXkFqcGdeQXVyNjk1MjYyNTA@._V1_.jpg",
+              "width": 400,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Lucy Kersey"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6714979",
+          "display_name": "Camila Morrone",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmJjNGJhYjItMThmZi00OTI1LWFjZjAtOThhN2I0MmY0NWQ2XkEyXkFqcGdeQXVyNjk1MjYyNTA@._V1_.jpg",
+              "width": 900,
+              "height": 1349
+            }
+          ]
+        },
+        "characters": [
+          "Jordan Kersey"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0606487",
+          "display_name": "Dean Norris",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUzOTQ2NDIzOF5BMl5BanBnXkFtZTcwMTE0OTYwOQ@@._V1_.jpg",
+              "width": 1276,
+              "height": 1963
+            }
+          ]
+        },
+        "characters": [
+          "Detective Kevin Raines"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3354041",
+          "display_name": "Beau Knapp",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWY1NThiM2EtNzhlZC00MTFlLWI1MjgtNDU1OTlkYTUzZGFmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 439,
+              "height": 635
+            }
+          ]
+        },
+        "characters": [
+          "Knox"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0253708",
+          "display_name": "Kimberly Elise",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkxNDMxMzY1Ml5BMl5BanBnXkFtZTYwNTE2NjU1._V1_.jpg",
+              "width": 274,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Detective Leonore Jackson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0137230",
+          "display_name": "Len Cariou",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAyNDcwMTA3MF5BMl5BanBnXkFtZTcwMjE5OTUzNw@@._V1_.jpg",
+              "width": 2000,
+              "height": 1331
+            }
+          ]
+        },
+        "characters": [
+          "Ben"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4477836",
+          "display_name": "Jack Kesy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzUyZTg1OGYtNmIzNC00NjUzLWEwYWUtZTIwOTg5ZGZjNzFlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 750,
+              "height": 747
+            }
+          ]
+        },
+        "characters": [
+          "The Fish"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1237235",
+          "display_name": "Ronnie Gene Blevins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzljODQ5MDYtZTI4Yy00NWFiLThkY2YtY2Y0ZGNhNWYyMzhhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 590,
+              "height": 660
+            }
+          ]
+        },
+        "characters": [
+          "Joe"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1926300",
+          "display_name": "Kirby Bliss Blanton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY4Njk5Njg0OV5BMl5BanBnXkFtZTgwMzI1NTE2NjE@._V1_.jpg",
+              "width": 1441,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Bethany"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0032001",
+          "display_name": "Andreas Apergis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkzMjc5MTQ1N15BMl5BanBnXkFtZTgwMjczMjIyMjE@._V1_.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ]
+        },
+        "characters": [
+          "Belligerent Dad"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0560045",
+          "display_name": "Ian Matthews",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmMzNDgxNTctM2I1NS00NDYyLTk5MzMtYjg5YTc2NDU2MWY1XkEyXkFqcGdeQXVyNDgyMzQ2Mw@@._V1_.jpg",
+              "width": 2700,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Ponytail"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0187724",
+          "display_name": "Wendy Crewson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAzNTc0Njc3Ml5BMl5BanBnXkFtZTYwOTczMDY0._V1_.jpg",
+              "width": 275,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Jill Klavens"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2630735",
+          "display_name": "Warona Setshwaelo",
+          "avatars": null
+        },
+        "characters": [
+          "Nurse Carla"
+        ]
+      }
+    ]
+  }
+}

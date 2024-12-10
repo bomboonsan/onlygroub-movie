@@ -1,0 +1,347 @@
+{
+  "title": {
+    "id": "tt7349950",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "It Chapter Two",
+    "original_title": null,
+    "start_year": 2019,
+    "end_year": null,
+    "runtime_minutes": 169,
+    "plot": "Twenty-seven years after their first encounter with the terrifying Pennywise, the Losers Club have grown up and moved away, until a devastating phone call brings them back.",
+    "rating": {
+      "aggregate_rating": 6.5,
+      "votes_count": 297532
+    },
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTJlNjlkZTktNjEwOS00NzI5LTlkNDAtZmEwZDFmYmM2MjU2XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 58,
+      "review_count": 52
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0615592",
+          "display_name": "Andy Muschietti",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkwMDE0NTc0NF5BMl5BanBnXkFtZTcwNTcyMTM5OA@@._V1_.jpg",
+              "width": 1399,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0000175",
+          "display_name": "Stephen King",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA2ODIxNDM4Nl5BMl5BanBnXkFtZTYwMjkzMzU1._V1_.jpg",
+              "width": 257,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2477891",
+          "display_name": "Gary Dauberman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcyNDcxNTk4NV5BMl5BanBnXkFtZTgwNTcwODAzNjM@._V1_.jpg",
+              "width": 1593,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1567113",
+          "display_name": "Jessica Chastain",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU1MDM5NjczOF5BMl5BanBnXkFtZTcwOTY2MDE4OA@@._V1_.jpg",
+              "width": 1268,
+              "height": 1884
+            }
+          ]
+        },
+        "characters": [
+          "Beverly Marsh"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0564215",
+          "display_name": "James McAvoy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQzNzIxOTYzMl5BMl5BanBnXkFtZTcwNjYxNTk1Nw@@._V1_.jpg",
+              "width": 1569,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Bill Denbrough"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0352778",
+          "display_name": "Bill Hader",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTY3MzgwMjE3N15BMl5BanBnXkFtZTcwNjc2MjE3NA@@._V1_.jpg",
+              "width": 1342,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Richie Tozier"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2248149",
+          "display_name": "Isaiah Mustafa",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDAyNzM0NzMtMWZlYi00OGRjLWE3ZjctNTAyZDFiMWFhMGEzXkEyXkFqcGdeQXVyMTI0Mjk1Mjk@._V1_.jpg",
+              "width": 1125,
+              "height": 1623
+            }
+          ]
+        },
+        "characters": [
+          "Mike Hanlon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1216008",
+          "display_name": "Jay Ryan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGM2ZDZhMzUtZDg4ZS00ZGRlLWFiN2ItNWIzNzRlZGU4YjBjXkEyXkFqcGdeQXVyMTA5NTMyNTg@._V1_.jpg",
+              "width": 683,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Ben Hanscom"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0710447",
+          "display_name": "James Ransone",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMxNTU3NDg0NF5BMl5BanBnXkFtZTcwODIzNzExNg@@._V1_.jpg",
+              "width": 539,
+              "height": 720
+            }
+          ]
+        },
+        "characters": [
+          "Eddie Kaspbrak"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2811167",
+          "display_name": "Andy Bean",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWExMjdmNzItNDQ5Zi00YjI4LTllYjYtZTgxMWVkY2I5OWJhXkEyXkFqcGdeQXVyMjExOTAxMDA@._V1_.jpg",
+              "width": 703,
+              "height": 931
+            }
+          ]
+        },
+        "characters": [
+          "Stanley Uris"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0803889",
+          "display_name": "Bill Skarsgård",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODBlNmRhODYtOWE2Ni00MTZmLWExMWYtMmRjYWNhNDRjNGU2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 4638,
+              "height": 3236
+            }
+          ]
+        },
+        "characters": [
+          "Pennywise"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5897057",
+          "display_name": "Jaeden Martell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmNkZjgwZmYtNzNjOC00ZGUxLTgzMmQtYWU0NDQyNmE4NWM5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 3227,
+              "height": 4841
+            }
+          ]
+        },
+        "characters": [
+          "Young Bill Denbrough"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5200476",
+          "display_name": "Wyatt Oleff",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmYyMDRhODktY2RiZS00N2NhLWJkNTUtZjliZGZjM2I1MTZiXkEyXkFqcGdeQXVyMzU4NDY2MDQ@._V1_.jpg",
+              "width": 1327,
+              "height": 1720
+            }
+          ]
+        },
+        "characters": [
+          "Young Stanley Uris"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6244013",
+          "display_name": "Jack Dylan Grazer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjQzYmE5OGItM2UzOC00YmViLTk4OGUtNzNjOGYyMTg0Y2FlXkEyXkFqcGdeQXVyOTg2NzI4Nw@@._V1_.jpg",
+              "width": 1580,
+              "height": 2016
+            }
+          ]
+        },
+        "characters": [
+          "Young Eddie Kaspbrak"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6016511",
+          "display_name": "Finn Wolfhard",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjlkNTdhNjYtYTFhNy00MTUxLWIwNTgtMTE5NTY5Y2I3MDc0XkEyXkFqcGdeQXVyNjY5NDgzNjQ@._V1_.jpg",
+              "width": 5312,
+              "height": 7967
+            }
+          ]
+        },
+        "characters": [
+          "Young Richie Tozier"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6096118",
+          "display_name": "Sophia Lillis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzc2OWYyZjctMzNjZi00ZmM4LTliZGYtOGMzYWUzNWY3NzdjXkEyXkFqcGdeQXVyMTA1ODAyOTI1._V1_.jpg",
+              "width": 3943,
+              "height": 5912
+            }
+          ]
+        },
+        "characters": [
+          "Young Beverly Marsh"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7483475",
+          "display_name": "Chosen Jacobs",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc4ZTlkYzItZTRkZC00ZjllLTlmZjUtZTI0ZmI3OTNlODY0XkEyXkFqcGdeQXVyNjM1NTA0Mjg@._V1_.jpg",
+              "width": 3237,
+              "height": 4046
+            }
+          ]
+        },
+        "characters": [
+          "Young Mike Hanlon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5582294",
+          "display_name": "Jeremy Ray Taylor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDBmMTg1Y2EtMjFmNy00MGZhLTk2NzEtYjNjMDRlYjQ4YjE1XkEyXkFqcGdeQXVyMjMwMzc0NTI@._V1_.jpg",
+              "width": 2545,
+              "height": 3817
+            }
+          ]
+        },
+        "characters": [
+          "Young Ben Hanscom"
+        ]
+      }
+    ]
+  }
+}

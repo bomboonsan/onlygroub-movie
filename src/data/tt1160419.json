@@ -1,0 +1,370 @@
+{
+  "title": {
+    "id": "tt1160419",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Dune",
+    "original_title": "Dune: Part One",
+    "start_year": 2021,
+    "end_year": null,
+    "runtime_minutes": 155,
+    "plot": "A noble family becomes embroiled in a war for control over the galaxy's most valuable asset while its heir becomes troubled by visions of a dark future.",
+    "rating": {
+      "aggregate_rating": 8,
+      "votes_count": 756738
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDQ0NjgyN2YtNWViNS00YjA3LTkxNDktYzFkZTExZGMxZDkxXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+        "width": 1728,
+        "height": 2552
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 74,
+      "review_count": 68
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0898288",
+          "display_name": "Denis Villeneuve",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzU2MDk5MDI2MF5BMl5BanBnXkFtZTcwNDkwMjMzNA@@._V1_.jpg",
+              "width": 1389,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm3123612",
+          "display_name": "Jon Spaihts",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjk4MzJjYTMtYjhhNC00ZTAyLTg1MTMtZmIzMWE2MDUwNGFkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1000,
+              "height": 1232
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0898288",
+          "display_name": "Denis Villeneuve",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzU2MDk5MDI2MF5BMl5BanBnXkFtZTcwNDkwMjMzNA@@._V1_.jpg",
+              "width": 1389,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0744839",
+          "display_name": "Eric Roth",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTBmYmI1OTAtZWQyNS00NDY1LTg2MzUtYjAwZjNjZjM1ZWM5XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 864,
+              "height": 861
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0378541",
+          "display_name": "Frank Herbert",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2IwYTM0MWEtYzMxYi00YTI1LTlkYWQtZmE5ZGM0NGI2NmYyXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+              "width": 800,
+              "height": 1142
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm3154303",
+          "display_name": "Timothée Chalamet",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNThiOTM4NTAtMDczNy00YzlkLWJhNTEtZTZhNDVmYzlkZWI0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+              "width": 3000,
+              "height": 2265
+            }
+          ]
+        },
+        "characters": [
+          "Paul Atreides"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0272581",
+          "display_name": "Rebecca Ferguson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODYwMzk0MTk5MV5BMl5BanBnXkFtZTgwNzMwNjM0NTE@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Lady Jessica Atreides"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1209966",
+          "display_name": "Oscar Isaac",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ2ODE2NDQ5OF5BMl5BanBnXkFtZTcwOTU3OTM1OQ@@._V1_.jpg",
+              "width": 1456,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Duke Leto Atreides"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0597388",
+          "display_name": "Jason Momoa",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODJlNWQ4ZjUtYjRhNi00NGQ1LWE3YTItYjRmZGI3YzI4YTEyXkEyXkFqcGdeQXVyMTA2MDIzMDE5._V1_.jpg",
+              "width": 1800,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Duncan Idaho"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001745",
+          "display_name": "Stellan Skarsgård",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzljNGIzYjgtMTQ0MS00OWU1LTk1NWEtOWQ3ZDhmNzQ2ZDAxXkEyXkFqcGdeQXVyMDAzMDk4OQ@@._V1_.jpg",
+              "width": 3518,
+              "height": 2860
+            }
+          ]
+        },
+        "characters": [
+          "Baron Vladimir Harkonnen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0376610",
+          "display_name": "Stephen McKinley Henderson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY0NDY2MDQzMl5BMl5BanBnXkFtZTYwMzI1NTQ3._V1_.jpg",
+              "width": 435,
+              "height": 653
+            }
+          ]
+        },
+        "characters": [
+          "Thufir Hawat"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000982",
+          "display_name": "Josh Brolin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ1MzYyMjQ0Nl5BMl5BanBnXkFtZTcwMTA0ODkyMg@@._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Gurney Halleck"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000849",
+          "display_name": "Javier Bardem",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY1NTc4NTYzMF5BMl5BanBnXkFtZTcwNDIwOTY1NA@@._V1_.jpg",
+              "width": 1370,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Stilgar"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1004267",
+          "display_name": "Sharon Duncan-Brewster",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmIzNjMwZmQtZGY2NS00NjIwLWFhZTAtYjQ4NTk1Y2JjODU4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2465,
+              "height": 2823
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Liet Kynes"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0151654",
+          "display_name": "Chang Chen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjVjMGFkZGEtNGI1My00NWQ4LTk5NTYtNjI1OWUyNDkzNTljXkEyXkFqcGdeQXVyMTAwNDMxOTkz._V1_.jpg",
+              "width": 876,
+              "height": 1314
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Wellington Yueh"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1176985",
+          "display_name": "Dave Bautista",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTZkYzU0ZGUtZTk1MC00MzJjLWFmMzItY2M0ODY1ZmI2OGQ0XkEyXkFqcGdeQXVyMjI0MjgwNjc@._V1_.jpg",
+              "width": 1000,
+              "height": 562
+            }
+          ]
+        },
+        "characters": [
+          "Glossu Rabban Harkonnen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2810287",
+          "display_name": "David Dastmalchian",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM3Mjc0NzgyN15BMl5BanBnXkFtZTcwOTU3MTE3Nw@@._V1_.jpg",
+              "width": 2848,
+              "height": 4288
+            }
+          ]
+        },
+        "characters": [
+          "Piter de Vries"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3918035",
+          "display_name": "Zendaya",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAxZTk4NDAtYjI3Mi00OTk3LTg0NDEtNWFlNzE5NDM5MWM1XkEyXkFqcGdeQXVyOTI3MjYwOQ@@._V1_.jpg",
+              "width": 780,
+              "height": 1040
+            }
+          ]
+        },
+        "characters": [
+          "Chani"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001648",
+          "display_name": "Charlotte Rampling",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU0MTgyMjIzMF5BMl5BanBnXkFtZTcwOTc3NTA0Nw@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Reverend Mother Mohiam"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2129802",
+          "display_name": "Babs Olusanmokun",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDBhNDA4N2QtMWU2YS00ODFmLWFjOWYtYzc5OTkwZDc5YzA3XkEyXkFqcGdeQXVyMTU1MjM2MjM@._V1_.jpg",
+              "width": 389,
+              "height": 594
+            }
+          ]
+        },
+        "characters": [
+          "Jamis"
+        ]
+      }
+    ]
+  }
+}

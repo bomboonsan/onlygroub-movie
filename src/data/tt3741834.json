@@ -1,0 +1,335 @@
+{
+  "title": {
+    "id": "tt3741834",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Lion",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 118,
+    "plot": "A five-year-old Indian boy is adopted by an Australian couple after getting lost hundreds of kilometers from home. 25 years later, he sets out to find his lost family.",
+    "rating": {
+      "aggregate_rating": 8,
+      "votes_count": 251458
+    },
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjA3NjkzNjg2MF5BMl5BanBnXkFtZTgwMDkyMzgzMDI@._V1_.jpg",
+        "width": 4168,
+        "height": 6118
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "ben",
+        "name": "Bengali"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "hin",
+        "name": "Hindi"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "AU",
+        "name": "Australia"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "IN",
+        "name": "India"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 69,
+      "review_count": 45
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0204628",
+          "display_name": "Garth Davis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA1MzgzMTg2MF5BMl5BanBnXkFtZTgwOTgzNzk5OTE@._V1_.jpg",
+              "width": 1594,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm6506884",
+          "display_name": "Saroo Brierley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTQ3Njk2N2ItNzAwOS00NDU2LTljYmMtNTBhNzExMzE3Mjg3XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 614,
+              "height": 906
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1729294",
+          "display_name": "Luke Davies",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM1ODYyMTY2Nl5BMl5BanBnXkFtZTgwMTk2MTAxMDI@._V1_.jpg",
+              "width": 1643,
+              "height": 2079
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm8061218",
+          "display_name": "Sunny Pawar",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE2NDcyMDM2MF5BMl5BanBnXkFtZTgwNzQ1NjYzMTI@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Young Saroo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8066738",
+          "display_name": "Abhishek Bharate",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjA1NzExZjgtZWVmMS00Mzk3LTg2MzItMzgwZjBhMmM4NjVlXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 1000,
+              "height": 667
+            }
+          ]
+        },
+        "characters": [
+          "Guddu"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3140757",
+          "display_name": "Priyanka Bose",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYwNDUyODQ1OV5BMl5BanBnXkFtZTgwOTQ0NTg4MTI@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        },
+        "characters": [
+          "Kamla"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8610123",
+          "display_name": "Khushi Solanki",
+          "avatars": null
+        },
+        "characters": [
+          "Young Shekila"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8610124",
+          "display_name": "Shankar Nisode",
+          "avatars": null
+        },
+        "characters": [
+          "Shankar"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1318578",
+          "display_name": "Tannishtha Chatterjee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc4MTI0MjMyM15BMl5BanBnXkFtZTgwMzk3NjAzMTI@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Noor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1596350",
+          "display_name": "Nawazuddin Siddiqui",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU5NTQwMTI0NV5BMl5BanBnXkFtZTcwNzQyNTgxOA@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Rama"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4690844",
+          "display_name": "Riddhi Sen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDI2YjVjNjEtYzA5NS00ZDNhLWI4MTUtNjIxN2RlMWYyMTlkXkEyXkFqcGc@._V1_.jpg",
+              "width": 1200,
+              "height": 1500
+            }
+          ]
+        },
+        "characters": [
+          "Café Man"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1387306",
+          "display_name": "Kaushik Sen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzI0ODQyOGQtZjNlNy00MWQ5LWI0YjQtNzFlYWY5Nzk0NDc1XkEyXkFqcGc@._V1_.jpg",
+              "width": 800,
+              "height": 1195
+            }
+          ]
+        },
+        "characters": [
+          "Police Official"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8610125",
+          "display_name": "Rita Roy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTNjNjY4NmItYzYwYy00MTBkLWFiMDQtZjQyYzI2ZmM3NjQ4XkEyXkFqcGc@._V1_.jpg",
+              "width": 1920,
+              "height": 800
+            }
+          ]
+        },
+        "characters": [
+          "Amita"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4910579",
+          "display_name": "Udayshankar Pal",
+          "avatars": null
+        },
+        "characters": [
+          "Liluah Teacher"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8610126",
+          "display_name": "Surojit Das",
+          "avatars": null
+        },
+        "characters": [
+          "Shonedeep",
+          "Haunted Boy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0622732",
+          "display_name": "Deepti Naval",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2ZmMjhlODEtM2JhYy00YWQwLWI3NGUtMjJmMzUwYjNjNGVjXkEyXkFqcGc@._V1_.jpg",
+              "width": 1138,
+              "height": 1748
+            }
+          ]
+        },
+        "characters": [
+          "Mrs. Sood"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3090492",
+          "display_name": "Menik Gooneratne",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDdiNmY5YWYtOGNlOS00YjY0LTk2YzMtNjBiYjMwNWY0YjliXkEyXkFqcGc@._V1_CR322,0,1136,1704_.jpg",
+              "width": 1136,
+              "height": 1704
+            }
+          ]
+        },
+        "characters": [
+          "Swarmina"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0920992",
+          "display_name": "David Wenham",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI0MjkxOTg1Nl5BMl5BanBnXkFtZTYwNjgyODgz._V1_.jpg",
+              "width": 286,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "John Brierley"
+        ]
+      }
+    ]
+  }
+}

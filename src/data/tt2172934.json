@@ -1,0 +1,338 @@
+{
+  "title": {
+    "id": "tt2172934",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "3 Days to Kill",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 117,
+    "plot": "A dying CIA agent trying to reconnect with his estranged daughter is offered an experimental drug that could save his life in exchange for one last assignment.",
+    "rating": {
+      "aggregate_rating": 6.2,
+      "votes_count": 97211
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzM0MjE0Nzg1N15BMl5BanBnXkFtZTgwODA4ODE4MDE@._V1_.jpg",
+        "width": 850,
+        "height": 1259
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      },
+      {
+        "code": "srp",
+        "name": "Serbian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 40,
+      "review_count": 30
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0629334",
+          "display_name": "McG",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI1MTg2MTM1MF5BMl5BanBnXkFtZTcwMDIxNDY1Mg@@._V1_.jpg",
+              "width": 294,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0367867",
+          "display_name": "Adi Hasak",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODViNGE5MmEtMDU1Yi00ODIyLTgyYmYtNTRjNWJmNzRlNmQwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3744,
+              "height": 5616
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0000108",
+          "display_name": "Luc Besson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTAwNzE4Njg0NTFeQTJeQWpwZ15BbWU3MDk0MDEyMDc@._V1_.jpg",
+              "width": 1443,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000126",
+          "display_name": "Kevin Costner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY1ODkwMTQxOF5BMl5BanBnXkFtZTcwNzkwNDcyMw@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Ethan Renner"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1720028",
+          "display_name": "Amber Heard",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA4NDkyODA3M15BMl5BanBnXkFtZTgwMzUzMjYzNzM@._V1_.jpg",
+              "width": 272,
+              "height": 272
+            }
+          ]
+        },
+        "characters": [
+          "Vivi Delay"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2794962",
+          "display_name": "Hailee Steinfeld",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGFmZDVhZDUtZWIyNC00NzBjLTg0ZGEtY2FhMjJlZWJhZjBlXkEyXkFqcGdeQXVyMTcwNzE4OTI@._V1_.jpg",
+              "width": 1200,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Zooey Renner"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001567",
+          "display_name": "Connie Nielsen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzZiYTQ4YTAtMzRkMi00ZDZlLWFkZWItNGI2ZTIyODRiYTc4XkEyXkFqcGdeQXVyMjUzMjc2MjE@._V1_.jpg",
+              "width": 1350,
+              "height": 1800
+            }
+          ]
+        },
+        "characters": [
+          "Christine Renner"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1319365",
+          "display_name": "Tómas Lemarquis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTAwNTEzNzktMzhlMi00YjcwLWI0NDctNWU3NWRkNDZiM2E1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3002,
+              "height": 3742
+            }
+          ]
+        },
+        "characters": [
+          "The Albino"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0759898",
+          "display_name": "Richard Sammel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg2Nzg0NjMyMl5BMl5BanBnXkFtZTgwODk3MzQ1OTE@._V1_.jpg",
+              "width": 2048,
+              "height": 1366
+            }
+          ]
+        },
+        "characters": [
+          "The Wolf"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0029272",
+          "display_name": "Marc Andréoni",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzIyNmViMjMtOWU3MC00YmI4LWI5OWMtMzI2NDk3NjE5MjJmXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg",
+              "width": 1280,
+              "height": 536
+            }
+          ]
+        },
+        "characters": [
+          "Mitat Yilmaz"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0723198",
+          "display_name": "Bruno Ricci",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmFjMDQ5OGMtNDBkYy00YWJjLWEyYTYtZjcwMjMwZDA2MjkxXkEyXkFqcGdeQXVyNTEzNDY5MjM@._V1_.jpg",
+              "width": 1000,
+              "height": 1297
+            }
+          ]
+        },
+        "characters": [
+          "Guido"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2997552",
+          "display_name": "Jonas Bloquet",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY2MzY1MjIwN15BMl5BanBnXkFtZTgwNTczNDExNDE@._V1_.jpg",
+              "width": 1280,
+              "height": 853
+            }
+          ]
+        },
+        "characters": [
+          "Hugh"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0248254",
+          "display_name": "Eriq Ebouaney",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2RlMzUxOGQtNDE4Zi00ODVmLWFjMjMtNWJkZGMxYjUyYzY0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1000,
+              "height": 1500
+            }
+          ]
+        },
+        "characters": [
+          "Jules"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6283377",
+          "display_name": "Joakhim Sigue",
+          "avatars": null
+        },
+        "characters": [
+          "Abbate"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6070403",
+          "display_name": "Alison Valence",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2JmNTZlMDItODJiOC00MzhlLTk5NzYtZDEyMTY1YzEwYjg0XkEyXkFqcGdeQXVyMzQzNTI1NA@@._V1_.jpg",
+              "width": 2000,
+              "height": 2000
+            }
+          ]
+        },
+        "characters": [
+          "Sumia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0424137",
+          "display_name": "Big John",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmY4NjNkNmUtZjczNy00N2YwLWIzZjItYWQ5MjFlNjQ0NWZkXkEyXkFqcGdeQXVyMTA4ODUwMDM0._V1_.jpg",
+              "width": 5478,
+              "height": 3652
+            }
+          ]
+        },
+        "characters": [
+          "Louis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2457148",
+          "display_name": "Michaël Vander-Meiren",
+          "avatars": null
+        },
+        "characters": [
+          "Jacques"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6283378",
+          "display_name": "Paolo Calia",
+          "avatars": null
+        },
+        "characters": [
+          "JPG Salesman"
+        ]
+      }
+    ]
+  }
+}

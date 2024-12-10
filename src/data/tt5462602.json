@@ -1,0 +1,343 @@
+{
+  "title": {
+    "id": "tt5462602",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Big Sick",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 120,
+    "plot": "Pakistan-born comedian Kumail Nanjiani and grad student Emily Gardner fall in love but struggle as their cultures clash. When Emily contracts a mysterious illness, Kumail finds himself forced to face her feisty parents, his family's expectations, and his true feelings.",
+    "rating": {
+      "aggregate_rating": 7.5,
+      "votes_count": 142990
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjc1YzExMzYtNzVkZC00ODc3LTkxNzktMDI5YWZmMDQ2NTQ2XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+        "width": 729,
+        "height": 1080
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "urd",
+        "name": "Urdu"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 86,
+      "review_count": 47
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0795290",
+          "display_name": "Michael Showalter",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU4MTE1MDIwM15BMl5BanBnXkFtZTgwNTk0ODE5MDI@._V1_.jpg",
+              "width": 1054,
+              "height": 1361
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm5077137",
+          "display_name": "Emily V. Gordon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTczZTg1OGMtMjQwYS00YjFhLThmYzAtMmNiNmVjMWYxYzJkXkEyXkFqcGdeQXVyMTgxNzAxOTg@._V1_.jpg",
+              "width": 5663,
+              "height": 8495
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm3529685",
+          "display_name": "Kumail Nanjiani",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWUyODI4MmYtNjdlYS00NWRhLTgwNjQtNGRjYWE3ZTAyNzQ2XkEyXkFqcGdeQXVyMTI2Nzk2MjQ1._V1_.jpg",
+              "width": 1500,
+              "height": 2000
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm3529685",
+          "display_name": "Kumail Nanjiani",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWUyODI4MmYtNjdlYS00NWRhLTgwNjQtNGRjYWE3ZTAyNzQ2XkEyXkFqcGdeQXVyMTI2Nzk2MjQ1._V1_.jpg",
+              "width": 1500,
+              "height": 2000
+            }
+          ]
+        },
+        "characters": [
+          "Kumail"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1443740",
+          "display_name": "Zoe Kazan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcwMjM3NzE1Nl5BMl5BanBnXkFtZTgwMzkzMDM2NDM@._V1_.jpg",
+              "width": 1297,
+              "height": 1951
+            }
+          ]
+        },
+        "characters": [
+          "Emily"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000456",
+          "display_name": "Holly Hunter",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIzNzg1ODA1NF5BMl5BanBnXkFtZTcwNTI4NzQ4Mg@@._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Beth"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005380",
+          "display_name": "Ray Romano",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM4NzA4ODQxNV5BMl5BanBnXkFtZTYwMDA5Mjk1._V1_.jpg",
+              "width": 277,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Terry"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0451600",
+          "display_name": "Anupam Kher",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGRlY2UwZTQtMzRhMi00M2NmLThkODMtYTQ5NDI3YmMyMWUwXkEyXkFqcGdeQXVyMTU2NTc1MTY@._V1_.jpg",
+              "width": 2000,
+              "height": 2850
+            }
+          ]
+        },
+        "characters": [
+          "Azmat"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2801210",
+          "display_name": "Zenobia Shroff",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWFiNmU2YmEtMmQ4ZC00YWM3LTgwOTgtOGQwYTJkMzJiZWIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "width": 864,
+              "height": 1280
+            }
+          ]
+        },
+        "characters": [
+          "Sharmeen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2253821",
+          "display_name": "Adeel Akhtar",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk2NTMwMjE2Ml5BMl5BanBnXkFtZTgwNDI5MDA1MzI@._V1_.jpg",
+              "width": 1444,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Naveed"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3102998",
+          "display_name": "Bo Burnham",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzFjZDZjODItZmIyOC00ZWIzLTljMTktYzU5NzJkOGJjYWE3XkEyXkFqcGdeQXVyMTk3NzExNDQ@._V1_.jpg",
+              "width": 405,
+              "height": 515
+            }
+          ]
+        },
+        "characters": [
+          "CJ"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5262775",
+          "display_name": "Aidy Bryant",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGY5MDcxODktOTQ2Mi00MWRiLTg3YjYtNTI5MzViODMyNzhiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 2626,
+              "height": 3939
+            }
+          ]
+        },
+        "characters": [
+          "Mary"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2223253",
+          "display_name": "Kurt Braunohler",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODQ2YTRiMjktNWNkZi00NTExLTgxYmItZTMyNmIxMDgzM2E2XkEyXkFqcGdeQXVyMTA2NjA5NDM@._V1_.jpg",
+              "width": 1599,
+              "height": 1999
+            }
+          ]
+        },
+        "characters": [
+          "Chris"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7215504",
+          "display_name": "Vella Lovell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzE3MTNiNGYtNTA2Zi00OGJhLTk0ZTQtY2FkNTkwN2UxYzlhXkEyXkFqcGdeQXVyMjIyMDAyMzc@._V1_.jpg",
+              "width": 4160,
+              "height": 5536
+            }
+          ]
+        },
+        "characters": [
+          "Khadija"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0852939",
+          "display_name": "Myra Lucretia Taylor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2FmNDc0OGMtZWI1My00NjMyLThhZDEtM2RhMDIyNmI4NzQxXkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_.jpg",
+              "width": 680,
+              "height": 1025
+            }
+          ]
+        },
+        "characters": [
+          "Nurse Judy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0787892",
+          "display_name": "Jeremy Shamos",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWQ5ZGE4ZTktNjJhYy00ZGM1LTgyNGYtY2JhMjVkMTRlYzViXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 648,
+              "height": 906
+            }
+          ]
+        },
+        "characters": [
+          "Bob Dalavan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0004979",
+          "display_name": "David Alan Grier",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTIxMTg4OTU0OF5BMl5BanBnXkFtZTYwMjUyMDE0._V1_.jpg",
+              "width": 275,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Andy Dodd"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0378724",
+          "display_name": "Ed Herbstman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmY2MjIyNTUtOGNlYi00ZWMwLThiY2ItYWMwMWU3ZDVmOTI2XkEyXkFqcGc@._V1_.jpg",
+              "width": 1000,
+              "height": 1492
+            }
+          ]
+        },
+        "characters": [
+          "Sam Highsmith"
+        ]
+      }
+    ]
+  }
+}

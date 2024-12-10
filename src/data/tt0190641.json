@@ -1,0 +1,355 @@
+{
+  "title": {
+    "id": "tt0190641",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Pokémon: The First Movie - Mewtwo Strikes Back",
+    "original_title": "Gekijôban Poketto Monsutâ: Myûtsû no Gyakushû",
+    "start_year": 1998,
+    "end_year": null,
+    "runtime_minutes": 96,
+    "plot": "Scientists genetically create a new Pokémon, Mewtwo, but the results are horrific and disastrous.",
+    "rating": {
+      "aggregate_rating": 6.3,
+      "votes_count": 46105
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Family",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDg0ZDk2N2QtZDQzYi00ZTljLWExODgtZWQ2Y2YzZTA1NjVjXkEyXkFqcGc@._V1_.jpg",
+        "width": 1971,
+        "height": 2915
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "G"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "jpn",
+        "name": "Japanese"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "JP",
+        "name": "Japan"
+      }
+    ],
+    "critic_review": {
+      "score": 35,
+      "review_count": 25
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0951197",
+          "display_name": "Kunihiko Yuyama",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjVlZDg5NzAtNjE0ZC00ZGVmLTk0Y2YtZDgzOWNiZjY2YzJmXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 256,
+              "height": 384
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0846969",
+          "display_name": "Satoshi Tajiri",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzU5ZGZlMDEtNTA3Mi00MzVmLWFkMzgtZjgwOWM1MzEyYWFjXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 250,
+              "height": 309
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0795575",
+          "display_name": "Takeshi Shudô",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2095966",
+          "display_name": "Jun'ichi Masuda",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDQwNGZhYzEtMTI2ZS00MWI0LTgzZmYtYjkwODM0YTI2ZTRhXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 269,
+              "height": 395
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2242949",
+          "display_name": "Ken Sugimori",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGY0MWUxOWQtZmViMy00YmFhLTlhZTctNDc2ZmZlMTZhY2M0XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 394,
+              "height": 348
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0559551",
+          "display_name": "Rica Matsumoto",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTIxZDAyZGQtOGYyNS00OGZlLWEzOWUtMzRhMDA4ODA0YmMyXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 770,
+              "height": 1390
+            }
+          ]
+        },
+        "characters": [
+          "Satoshi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0649026",
+          "display_name": "Ikue Ôtani",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjJiNjBmZGMtNGUwNy00NmRhLWI4YjUtYmZhNGI0ZDc2ZmNhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTEzNjA2NzM@._V1_.jpg",
+              "width": 1059,
+              "height": 1455
+            }
+          ]
+        },
+        "characters": [
+          "Pikachu"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0407372",
+          "display_name": "Mayumi Izuka",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODgzNDJjMDYtYWFiMi00YjYzLThlMTQtNjA2N2FiMDRjYzRjXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 225,
+              "height": 350
+            }
+          ]
+        },
+        "characters": [
+          "Kasumi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0879936",
+          "display_name": "Yûji Ueda",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTQ5NThjZjUtZmZmNi00M2U5LWJhYzEtZDlhZGUxMjhiZTczXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 225,
+              "height": 350
+            }
+          ]
+        },
+        "characters": [
+          "Takeshi",
+          "Hitokagetwo (segment \"Myûtsû no tanjô\")"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0465631",
+          "display_name": "Satomi Kôrogi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjUwMzQ5YWItMjQyOC00ZWYxLWEwZGMtODhiZWJhNTUwNTE4XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 225,
+              "height": 350
+            }
+          ]
+        },
+        "characters": [
+          "Togepi",
+          "Zenigametwo (segment \"Myûtsû no tanjô\")"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0370677",
+          "display_name": "Megumi Hayashibara",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGFlZWIzMTQtZDkxMS00YTM0LTg4Y2QtMTgxN2MyMzUzMGUzXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 928,
+              "height": 1280
+            }
+          ]
+        },
+        "characters": [
+          "Musashi",
+          "Pikachutwo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0586528",
+          "display_name": "Shin'ichirô Miki",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzIzNDUyNjAtZDRhNC00OGMwLTlkODgtOTIyYjJkMDJlZTI2XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 1334,
+              "height": 1783
+            }
+          ]
+        },
+        "characters": [
+          "Kojirô",
+          "Charizard (Lizardon)",
+          "Staryu (Hitodeman)",
+          "Arcanine (Windie)",
+          "Charizardtwo (Copy Lizardon)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0409465",
+          "display_name": "Inuko Inuyama",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDA5OTVkOTgtNzk1My00Nzk5LTllNGMtZWQ5OTNjZDMyYTUyXkEyXkFqcGc@._V1_.jpg",
+              "width": 500,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Nyarth"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0840721",
+          "display_name": "Hirotaka Suzuoki",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTk4MDA1ZjktZGNjYS00MmM5LWFjNzItODI3ZmY3NDQwN2RmXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 166,
+              "height": 250
+            }
+          ]
+        },
+        "characters": [
+          "Sakaki"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0794185",
+          "display_name": "Ayako Shiraishi",
+          "avatars": null
+        },
+        "characters": [
+          "Joy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0632744",
+          "display_name": "Chinami Nishimura",
+          "avatars": null
+        },
+        "characters": [
+          "Junsar"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0945290",
+          "display_name": "Kôichi Yamadera",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzA5NWI0OWItNmE4Yi00MTNlLTk2MzUtOGY4NTNjNjFmNWVlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 796,
+              "height": 923
+            }
+          ]
+        },
+        "characters": [
+          "Mew"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0015342",
+          "display_name": "Yôsuke Akimoto",
+          "avatars": null
+        },
+        "characters": [
+          "Doctor Fuji"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0299228",
+          "display_name": "Tôru Furuya",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGJhZTFkYjAtNjAzNS00OTgwLWI3NTYtZjcxM2RjNzdlMTQ1XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 398,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Sorao"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0847085",
+          "display_name": "Wataru Takagi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjRlMzBiZWUtMDlkYS00ZDExLTg1N2EtYTFjMzc1MmVkY2IxXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 400,
+              "height": 508
+            }
+          ]
+        },
+        "characters": [
+          "Umio"
+        ]
+      }
+    ]
+  }
+}

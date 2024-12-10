@@ -1,0 +1,403 @@
+{
+  "title": {
+    "id": "tt3385516",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "X-Men: Apocalypse",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 144,
+    "plot": "In the 1980s the X-Men must defeat an ancient all-powerful mutant, En Sabah Nur, who intends to thrive through bringing destruction to the world.",
+    "rating": {
+      "aggregate_rating": 6.9,
+      "votes_count": 461618
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjU1ODM1MzYxN15BMl5BanBnXkFtZTgwOTA4NDE2ODE@._V1_.jpg",
+        "width": 1015,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      },
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "egy",
+        "name": "Egyptian (Ancient)"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "pol",
+        "name": "Polish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 52,
+      "review_count": 48
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0001741",
+          "display_name": "Bryan Singer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMwMzQ0OTgzNF5BMl5BanBnXkFtZTcwMjExNzAyMg@@._V1_.jpg",
+              "width": 263,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1334526",
+          "display_name": "Simon Kinberg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA4OTIzMzE4NzleQTJeQWpwZ15BbWU4MDYyMzkzNDUz._V1_.jpg",
+              "width": 395,
+              "height": 594
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0001741",
+          "display_name": "Bryan Singer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMwMzQ0OTgzNF5BMl5BanBnXkFtZTcwMjExNzAyMg@@._V1_.jpg",
+              "width": 263,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1002424",
+          "display_name": "Michael Dougherty",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTIzMDE5MDE1Ml5BMl5BanBnXkFtZTcwOTc5Nzg5MQ@@._V1_.jpg",
+              "width": 1242,
+              "height": 1069
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0003529",
+          "display_name": "Dan Harris",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ3MDQ1NTczMl5BMl5BanBnXkFtZTgwOTY1NjEwNjE@._V1_.jpg",
+              "width": 227,
+              "height": 346
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0456158",
+          "display_name": "Jack Kirby",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjY5MTkyNDctMTc1Zi00NTcwLWEzZWYtOWVjZjRkMzIxMmI3XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 921,
+              "height": 1128
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0564215",
+          "display_name": "James McAvoy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQzNzIxOTYzMl5BMl5BanBnXkFtZTcwNjYxNTk1Nw@@._V1_.jpg",
+              "width": 1569,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Professor Charles Xavier"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1055413",
+          "display_name": "Michael Fassbender",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk0NjM2MTE5M15BMl5BanBnXkFtZTcwODIxMzcyNw@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Erik Lehnsherr",
+          "Magneto"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2225369",
+          "display_name": "Jennifer Lawrence",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTU3NDE5MDQ4MV5BMl5BanBnXkFtZTgwMzE5ODQ3MDI@._V1_.jpg",
+              "width": 1284,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Raven",
+          "Mystique"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0396558",
+          "display_name": "Nicholas Hoult",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUxMTYxNzMzNF5BMl5BanBnXkFtZTcwMTU0NTcxOQ@@._V1_.jpg",
+              "width": 1427,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Hank McCoy",
+          "Beast"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1209966",
+          "display_name": "Oscar Isaac",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ2ODE2NDQ5OF5BMl5BanBnXkFtZTcwOTU3OTM1OQ@@._V1_.jpg",
+              "width": 1456,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "En Sabah Nur",
+          "Apocalypse"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0126284",
+          "display_name": "Rose Byrne",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc0MDA2Njc0OF5BMl5BanBnXkFtZTcwNzc3NDU3Mw@@._V1_.jpg",
+              "width": 289,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Moira Mactaggert"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1404239",
+          "display_name": "Evan Peters",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA2NDg2ODYwMV5BMl5BanBnXkFtZTgwNTE4MzQyNzE@._V1_.jpg",
+              "width": 1379,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Peter Maximoff",
+          "Quicksilver"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2890541",
+          "display_name": "Josh Helman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTllMmUwNGYtYzFkNy00YWFjLWFlNmYtZGFmY2EzYWRkMzVjXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+              "width": 1920,
+              "height": 800
+            }
+          ]
+        },
+        "characters": [
+          "Col. William Stryker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3849842",
+          "display_name": "Sophie Turner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM5Mjg4MDQ3MF5BMl5BanBnXkFtZTgwMDA2MjkxMjI@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Jean Grey"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4446467",
+          "display_name": "Tye Sheridan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjQzNmQ0NzQtNzdkMy00YzlmLThlNjMtNzVlYTkzMzg1MGUyXkEyXkFqcGdeQXVyMjYyNzQ0MzU@._V1_.jpg",
+              "width": 3000,
+              "height": 2000
+            }
+          ]
+        },
+        "characters": [
+          "Scott Summers",
+          "Cyclops"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1395771",
+          "display_name": "Lucas Till",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg1NzUzNmQtMWI2ZC00YzdlLWI5ZTgtMGM3MjJlZTgwYTVlXkEyXkFqcGdeQXVyMTIzMzY2NDQ2._V1_.jpg",
+              "width": 871,
+              "height": 1307
+            }
+          ]
+        },
+        "characters": [
+          "Alex Summers",
+          "Havok"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2240346",
+          "display_name": "Kodi Smit-McPhee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTE4ODU4NzY5NV5BMl5BanBnXkFtZTgwOTIwNTk5MDE@._V1_.jpg",
+              "width": 801,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Kurt Wagner",
+          "Nightcrawler"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5228887",
+          "display_name": "Ben Hardy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAzMDExNDYxMl5BMl5BanBnXkFtZTgwODY2MTE2NjM@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Angel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3381295",
+          "display_name": "Alexandra Shipp",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzUxOWUwYWItMzIzNS00YTQ3LWJhZGYtYTJkNGZlZjEzMmIwXkEyXkFqcGdeQXVyMTI4MDM5MzYw._V1_.jpg",
+              "width": 4838,
+              "height": 6048
+            }
+          ]
+        },
+        "characters": [
+          "Ororo Munroe",
+          "Storm"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7093076",
+          "display_name": "Lana Condor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIwMjU2MTk5MV5BMl5BanBnXkFtZTgwMDg1MTM5NjE@._V1_.jpg",
+              "width": 506,
+              "height": 754
+            }
+          ]
+        },
+        "characters": [
+          "Jubilee"
+        ]
+      }
+    ]
+  }
+}

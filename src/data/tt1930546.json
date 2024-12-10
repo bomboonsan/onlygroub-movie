@@ -1,0 +1,307 @@
+{
+  "title": {
+    "id": "tt1930546",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Arthur Newman",
+    "original_title": null,
+    "start_year": 2012,
+    "end_year": null,
+    "runtime_minutes": 101,
+    "plot": "A story of a man who fakes his own death and assumes a new identity in order to escape his life, who then moves in with a woman who is also trying to leave her past behind.",
+    "rating": {
+      "aggregate_rating": 5.6,
+      "votes_count": 7819
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTEyNzY1NzAzNjZeQTJeQWpwZ15BbWU3MDA5MjcxMzk@._V1_.jpg",
+        "width": 972,
+        "height": 1440
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 42,
+      "review_count": 23
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1986065",
+          "display_name": "Dante Ariola",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0426539",
+          "display_name": "Becky Johnston",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000147",
+          "display_name": "Colin Firth",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUxMDMwMTI4MF5BMl5BanBnXkFtZTcwMzE2MzQxMw@@._V1_.jpg",
+              "width": 287,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Arthur Newman (Wallace Avery)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1289434",
+          "display_name": "Emily Blunt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUxNDY4MTMzM15BMl5BanBnXkFtZTcwMjg5NzM2Ng@@._V1_.jpg",
+              "width": 1272,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mike (Charlotte Fitzgerald)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2348627",
+          "display_name": "Lucas Hedges",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDk0MWU3YWYtMWM1Mi00NTUwLWFjMzAtNGNjMjJjOGQ0ZDg4XkEyXkFqcGdeQXVyNjk1MjYyNTA@._V1_.jpg",
+              "width": 3712,
+              "height": 5568
+            }
+          ]
+        },
+        "characters": [
+          "Kevin Avery"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000162",
+          "display_name": "Anne Heche",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI1MzgwNzc2Ml5BMl5BanBnXkFtZTYwNTU3NjAz._V1_.jpg",
+              "width": 451,
+              "height": 683
+            }
+          ]
+        },
+        "characters": [
+          "Mina Crawley"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001826",
+          "display_name": "M. Emmet Walsh",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYxNjgyNzgwMl5BMl5BanBnXkFtZTcwODA2MTM0OA@@._V1_.jpg",
+              "width": 1571,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Zazek"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005138",
+          "display_name": "Kristin Lehman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjBmZDQyY2UtNjRmNS00ZWM3LWJlYTItOGNjYjlkMjU3NzMzXkEyXkFqcGdeQXVyODU0NjA2Mjc@._V1_.jpg",
+              "width": 2640,
+              "height": 3960
+            }
+          ]
+        },
+        "characters": [
+          "Mary Alice Wells"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0512790",
+          "display_name": "Phillip Troy Linger",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEzNTIwYWEtYzU0NS00NjRmLThiZjUtNWQwMmM2ZmEyMDc2XkEyXkFqcGc@._V1_.jpg",
+              "width": 858,
+              "height": 1296
+            }
+          ]
+        },
+        "characters": [
+          "Fuller Wells"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3158723",
+          "display_name": "Devon Woods",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGZiYjk4NGUtM2ZjZS00N2ZmLWIxNTMtYWFlZmQ1YmUyMzcwXkEyXkFqcGc@._V1_.jpg",
+              "width": 307,
+              "height": 462
+            }
+          ]
+        },
+        "characters": [
+          "Janie Wells"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1869029",
+          "display_name": "Sterling Beaumon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODFhNjlmMTEtM2VlNi00MThlLTk2MDEtMWE2YmFmMTE0MzQ5XkEyXkFqcGdeQXVyNzk5NTU1MDg@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Grant Wells"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3623632",
+          "display_name": "Natalia Volkodaeva",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWM1ZTk2MjMtZDkzMi00M2M5LTg4NmQtYzRhYmY5YTIyOTlkXkEyXkFqcGc@._V1_.jpg",
+              "width": 1170,
+              "height": 1372
+            }
+          ]
+        },
+        "characters": [
+          "Ludmila Hadley"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3860085",
+          "display_name": "Autumn Dial",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjcyMTg0NzYzNF5BMl5BanBnXkFtZTcwODk5Mjg1Nw@@._V1_.jpg",
+              "width": 400,
+              "height": 620
+            }
+          ]
+        },
+        "characters": [
+          "Charyl"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0721593",
+          "display_name": "Anthony Reynolds",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWFmM2NhNjUtOTVkYS00NGM5LTk2MDAtMDNlNDg5YWY0MWM0XkEyXkFqcGdeQXVyMjMwMDU0MA@@._V1_.jpg",
+              "width": 1770,
+              "height": 2266
+            }
+          ]
+        },
+        "characters": [
+          "Park Ranger"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0360854",
+          "display_name": "Holden Hansen",
+          "avatars": null
+        },
+        "characters": [
+          "Dying Man - Beauregard Tully"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0695373",
+          "display_name": "Ron Prather",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI1MDA0MjQxN15BMl5BanBnXkFtZTYwNzY5MDcy._V1_.jpg",
+              "width": 450,
+              "height": 574
+            }
+          ]
+        },
+        "characters": [
+          "Detective #1"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2398956",
+          "display_name": "Jason Benjamin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGFmMWM1YTEtYTAyNS00YjA3LThlNTgtMWY3MjA3MDQ1NGEyXkEyXkFqcGdeQXVyMTI2NjcwMjE@._V1_.jpg",
+              "width": 1291,
+              "height": 1997
+            }
+          ]
+        },
+        "characters": [
+          "Cop"
+        ]
+      }
+    ]
+  }
+}

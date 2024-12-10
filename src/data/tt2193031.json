@@ -1,0 +1,359 @@
+{
+  "title": {
+    "id": "tt2193031",
+    "type": "videoGame",
+    "is_adult": false,
+    "primary_title": "Resident Evil 6",
+    "original_title": null,
+    "start_year": 2012,
+    "end_year": null,
+    "runtime_minutes": null,
+    "plot": "The war on bio-terrorism continues as Chris Redfield, Leon Kennedy, and other famous Resident Evil stalwarts battle a seemingly familiar adversary.",
+    "rating": {
+      "aggregate_rating": 6.6,
+      "votes_count": 5838
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Horror",
+      "Sci-Fi",
+      "War"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzUyZTRlYjYtNGFhMy00YTk2LTkzMzMtMTQ2NWRmODk3MmU2XkEyXkFqcGc@._V1_.jpg",
+        "width": 600,
+        "height": 900
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "M"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "jpn",
+        "name": "Japanese"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "JP",
+        "name": "Japan"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm1618179",
+          "display_name": "Eiichiro Sasaki",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1925580",
+          "display_name": "Masanori Kobayashi",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1736014",
+          "display_name": "Ken Ohara",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1591046",
+          "display_name": "Shotaro Suga",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm5503962",
+          "display_name": "Haruka Wightman",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1763216",
+          "display_name": "Mari Ueda",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDkwODY1ZTEtZTAxZi00ZmU0LWJiN2MtN2ZjMGQwNjIwMGZlXkEyXkFqcGc@._V1_.jpg",
+              "width": 3744,
+              "height": 5616
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm3754995",
+          "display_name": "Mariko Yamada",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2686509",
+          "display_name": "Michael G. Cooney",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm2233310",
+          "display_name": "Matthew Mercer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmUzNDcwNmEtZGFhNC00Zjc3LWE0NjktYjkxODBhNzE1NDlkXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_.jpg",
+              "width": 840,
+              "height": 1260
+            }
+          ]
+        },
+        "characters": [
+          "Leon S. Kennedy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1886746",
+          "display_name": "Roger Craig Smith",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGM3MTE1YzEtMjk2ZS00NWE3LTk3MDAtODkyNGYwYmRjM2E4XkEyXkFqcGdeQXVyMTM2MzE3NjM@._V1_.jpg",
+              "width": 3840,
+              "height": 5760
+            }
+          ]
+        },
+        "characters": [
+          "Chris Redfield"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1684869",
+          "display_name": "Troy Baker",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGIwYTc4YzctOThhMS00MGQzLWEwYjItYjQ5N2E1NjZjYjUwXkEyXkFqcGdeQXVyNDI5MDY4MQ@@._V1_.jpg",
+              "width": 594,
+              "height": 396
+            }
+          ]
+        },
+        "characters": [
+          "Jake Muller"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1057696",
+          "display_name": "Courtenay Taylor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTI4MjQ5MzAtNWFkOS00OGM2LTgwODUtNGU1NTFmNjU5NjYzXkEyXkFqcGdeQXVyMDk2MzIzOQ@@._V1_.jpg",
+              "width": 558,
+              "height": 754
+            }
+          ]
+        },
+        "characters": [
+          "Ada Wong"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1154161",
+          "display_name": "Laura Bailey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDQyODM4MDUtYWViZS00Yjc5LThjMDYtMGJjNTM5M2RmNzJiXkEyXkFqcGdeQXVyNjcxOTQxOQ@@._V1_.jpg",
+              "width": 853,
+              "height": 1280
+            }
+          ]
+        },
+        "characters": [
+          "Helena Harper"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0256194",
+          "display_name": "Christopher Emerson",
+          "avatars": null
+        },
+        "characters": [
+          "Piers Nivans"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0726180",
+          "display_name": "Eden Riegel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ2OTMxODUyOF5BMl5BanBnXkFtZTgwNTU5MjI0NjE@._V1_.jpg",
+              "width": 1000,
+              "height": 1454
+            }
+          ]
+        },
+        "characters": [
+          "Sherry Birkin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0517087",
+          "display_name": "David Lodge",
+          "avatars": null
+        },
+        "characters": [
+          "Derek C. Simmons"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1086483",
+          "display_name": "Salli Saffioti",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzJhMWYwY2ItMTIyNS00ZWE5LTgyMDItY2M3ODdlOGVlZGMyXkEyXkFqcGdeQXVyMjAxNzQ1Mg@@._V1_CR236,0,1040,1560_.jpg",
+              "width": 1040,
+              "height": 1560
+            }
+          ]
+        },
+        "characters": [
+          "Ingrid Hunnigan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0233036",
+          "display_name": "Michael Donovan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2ViNjhkMDctYjU2NC00YzM2LThjZGUtOWYzNGI5Y2RmMjE3XkEyXkFqcGdeQXVyMTMwMTgyMzQz._V1_.jpg",
+              "width": 600,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "President Adam Benford"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0523180",
+          "display_name": "Yuri Lowenthal",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU2NjA4NDIzMl5BMl5BanBnXkFtZTcwNzQxNjQwOQ@@._V1_.jpg",
+              "width": 323,
+              "height": 431
+            }
+          ]
+        },
+        "characters": [
+          "Finn Macauley"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1512156",
+          "display_name": "Kate Higgins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODQ2OTg4OGYtZjRkZS00ZWQ2LWFjZGUtMzVhMjYxYTljYmExXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 500,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Deborah Harper"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2836674",
+          "display_name": "Kaiji Tang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTM4MDIzMWEtYTI3ZS00ZmQ2LWFiYTAtYzZjODJmMGIxZmUxXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 600,
+              "height": 903
+            }
+          ]
+        },
+        "characters": [
+          "Screamer Zombie",
+          "Enemies"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0569479",
+          "display_name": "Mary Elizabeth McGlynn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI0MjM5MzAwNl5BMl5BanBnXkFtZTgwOTc0OTMxMDI@._V1_.jpg",
+              "width": 3233,
+              "height": 3766
+            }
+          ]
+        },
+        "characters": [
+          "Enemies"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1072611",
+          "display_name": "JB Blanc",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGJmOTM5MjQtMWUzOC00NzUxLThmMTctZTc2ZWVlNzkxYjg4XkEyXkFqcGdeQXVyMTM2MzA2NA@@._V1_.jpg",
+              "width": 1510,
+              "height": 2268
+            }
+          ]
+        },
+        "characters": [
+          "Enemies"
+        ]
+      }
+    ]
+  }
+}

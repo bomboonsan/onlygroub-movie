@@ -1,0 +1,336 @@
+{
+  "title": {
+    "id": "tt5834262",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Hotel Artemis",
+    "original_title": null,
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 94,
+    "plot": "Set in riot-torn, near-future Los Angeles, 'Hotel Artemis' follows the Nurse, who runs a secret, members-only emergency room for criminals.",
+    "rating": {
+      "aggregate_rating": 6.1,
+      "votes_count": 58520
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTUzNTk0ZTYtY2MwYS00NDU2LTk3NDMtZTZlMTRiYzcyYmU3XkEyXkFqcGc@._V1_.jpg",
+        "width": 1766,
+        "height": 2762
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 58,
+      "review_count": 36
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1510800",
+          "display_name": "Drew Pearce",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjA3MTc1MDA1MF5BMl5BanBnXkFtZTgwNjM1NjE2NTM@._V1_.jpg",
+              "width": 1669,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1510800",
+          "display_name": "Drew Pearce",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjA3MTc1MDA1MF5BMl5BanBnXkFtZTgwNjM1NjE2NTM@._V1_.jpg",
+              "width": 1669,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000149",
+          "display_name": "Jodie Foster",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM3MjgyOTQwNF5BMl5BanBnXkFtZTcwMDczMzEwNA@@._V1_.jpg",
+              "width": 274,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "The Nurse"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1250791",
+          "display_name": "Sterling K. Brown",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmEzNmExM2ItNzg5Zi00NGRjLWI1NTEtMmQ5MGMwNjFlNWFhL2ltYWdlXkEyXkFqcGdeQXVyMTM0MzI5Nzc@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Waikiki"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1154749",
+          "display_name": "Sofia Boutella",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzU4ODM4MTQzMl5BMl5BanBnXkFtZTgwNTk5NzkxNTM@._V1_.jpg",
+              "width": 1432,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Nice"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000156",
+          "display_name": "Jeff Goldblum",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2ViNDIwNmUtZGQ5Ni00MDYxLWI5YTktNWU1NGRlYWQ1ZDg0XkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_.jpg",
+              "width": 560,
+              "height": 698
+            }
+          ]
+        },
+        "characters": [
+          "Niagara"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3109964",
+          "display_name": "Brian Tyree Henry",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjc5Njg2OTQtNmNkMS00YmZlLWIwYzgtNGQ5MjFkNTliMWIxXkEyXkFqcGdeQXVyMjE0NjY2NTA@._V1_.jpg",
+              "width": 8736,
+              "height": 11648
+            }
+          ]
+        },
+        "characters": [
+          "Honolulu"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2809577",
+          "display_name": "Jenny Slate",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM0YjI1MzMtNTliMy00YTMwLTllOTUtOWVhMjY1ZmQxOThkXkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_.jpg",
+              "width": 402,
+              "height": 386
+            }
+          ]
+        },
+        "characters": [
+          "Morgan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0704270",
+          "display_name": "Zachary Quinto",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQ4NDQ2MmYtODY3OS00MjE1LTk4ZjktNTE2OGQ1NmZhNzgyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 400,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Crosby Franklin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0206359",
+          "display_name": "Charlie Day",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjI2YWE1ODUtNTFjNy00MDgyLWJmNzgtNjBiZWE1NDY1YzFhXkEyXkFqcGdeQXVyODgwOTcwMDY@._V1_.jpg",
+              "width": 749,
+              "height": 1000
+            }
+          ]
+        },
+        "characters": [
+          "Acapulco"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1176985",
+          "display_name": "Dave Bautista",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTZkYzU0ZGUtZTk1MC00MzJjLWFmMzItY2M0ODY1ZmI2OGQ0XkEyXkFqcGdeQXVyMjI0MjgwNjc@._V1_.jpg",
+              "width": 1000,
+              "height": 562
+            }
+          ]
+        },
+        "characters": [
+          "Everest"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0158846",
+          "display_name": "Kenneth Choi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjQ4ZTFmMzktNmY1Mi00ZjgzLWFiOTctYmZhM2JlOWI4ZTc2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 383,
+              "height": 594
+            }
+          ]
+        },
+        "characters": [
+          "Buke"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5040202",
+          "display_name": "Father John Misty",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODdiYjY5N2YtNWY4NS00MDUyLTg3ODItNjFkMDg4MTkxYjQxXkEyXkFqcGc@._V1_.jpg",
+              "width": 749,
+              "height": 1000
+            }
+          ]
+        },
+        "characters": [
+          "P-22"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0428055",
+          "display_name": "Evan Jones",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM0NTMwMzE1Ml5BMl5BanBnXkFtZTgwODM0OTkxMDE@._V1_.jpg",
+              "width": 500,
+              "height": 700
+            }
+          ]
+        },
+        "characters": [
+          "Trojan Nash"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5461771",
+          "display_name": "Nathan Davis Jr.",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI0NDM5ODIwNV5BMl5BanBnXkFtZTgwNDU3MjQ1NzE@._V1_.jpg",
+              "width": 1536,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Rocco"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1631845",
+          "display_name": "Ramses Jimenez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmM3MjhjZGQtYmI2MS00MWVjLTgwOTgtNDZhNDFmNzYyYTU0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 600,
+              "height": 399
+            }
+          ]
+        },
+        "characters": [
+          "Tariq"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2968060",
+          "display_name": "Angela Sprinkle",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZThkNjEwN2MtOGIzNy00MjhjLTlkZDEtNmNjMzU3ZjFmNTRhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1095,
+              "height": 1459
+            }
+          ]
+        },
+        "characters": [
+          "Union Califia Hologram"
+        ]
+      }
+    ]
+  }
+}

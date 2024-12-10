@@ -1,0 +1,335 @@
+{
+  "title": {
+    "id": "tt2140373",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Saving Mr. Banks",
+    "original_title": null,
+    "start_year": 2013,
+    "end_year": null,
+    "runtime_minutes": 125,
+    "plot": "P. L. Travers, a London author who is financially broke, visits Los Angeles to meet Walt Disney, who is keen to adapt her 'Mary Poppins' for the cinema. However, his methods do not meet her approval.",
+    "rating": {
+      "aggregate_rating": 7.5,
+      "votes_count": 170556
+    },
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTc0MTQ3NzE4Nl5BMl5BanBnXkFtZTcwMzA4NDM5OQ@@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "AU",
+        "name": "Australia"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 65,
+      "review_count": 46
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0359387",
+          "display_name": "John Lee Hancock",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMwMTgxNTU4NV5BMl5BanBnXkFtZTgwOTY1Njg5MDE@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0545150",
+          "display_name": "Kelly Marcel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkxMDY2NzEyOF5BMl5BanBnXkFtZTgwOTc5Mzc0MDE@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0810055",
+          "display_name": "Sue Smith",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000668",
+          "display_name": "Emma Thompson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMwNTAyOTg0MF5BMl5BanBnXkFtZTcwNTg0MzY1Mw@@._V1_.jpg",
+              "width": 296,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "P.L. Travers"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000158",
+          "display_name": "Tom Hanks",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1_.jpg",
+              "width": 1417,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Walt Disney"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4003520",
+          "display_name": "Annie Rose Buckley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWNhODE4YzAtMGMxMy00MTMyLWE5ZTQtOGY1ODUzOTZkZWVhXkEyXkFqcGdeQXVyNzE0MDg0OTk@._V1_.jpg",
+              "width": 1026,
+              "height": 1414
+            }
+          ]
+        },
+        "characters": [
+          "Ginty"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0268199",
+          "display_name": "Colin Farrell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg4NzM5NDk0MV5BMl5BanBnXkFtZTcwNzAzMTUxNw@@._V1_.jpg",
+              "width": 1429,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Travers Goff"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2235721",
+          "display_name": "Ruth Wilson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDA1NTM4ODQ4Ml5BMl5BanBnXkFtZTgwODQ1Mjg5OTE@._V1_.jpg",
+              "width": 424,
+              "height": 563
+            }
+          ]
+        },
+        "characters": [
+          "Margaret Goff"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0316079",
+          "display_name": "Paul Giamatti",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTc0MDAzMTU4N15BMl5BanBnXkFtZTcwNzA0NzcwNA@@._V1_.jpg",
+              "width": 310,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Ralph"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0925966",
+          "display_name": "Bradley Whitford",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQwMzg3ODUxNF5BMl5BanBnXkFtZTgwMzc5MDcxNDM@._V1_.jpg",
+              "width": 1591,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Don DaGradi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1145983",
+          "display_name": "B.J. Novak",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU0MTg4MzEyMl5BMl5BanBnXkFtZTcwMzUxMzAyOA@@._V1_.jpg",
+              "width": 640,
+              "height": 960
+            }
+          ]
+        },
+        "characters": [
+          "Robert Sherman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005403",
+          "display_name": "Jason Schwartzman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODM4N2NhNmUtY2VhNS00NTU2LWE1NzgtZGFjZjlmOWQ3NTBkXkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_.jpg",
+              "width": 1240,
+              "height": 775
+            }
+          ]
+        },
+        "characters": [
+          "Richard Sherman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5339265",
+          "display_name": "Lily Bigham",
+          "avatars": null
+        },
+        "characters": [
+          "Biddy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000834",
+          "display_name": "Kathy Baker",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU4MTA4NTExNV5BMl5BanBnXkFtZTcwNjU0MDgzNA@@._V1_.jpg",
+              "width": 1582,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Tommie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0601609",
+          "display_name": "Melanie Paxson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUxMDMyOTM2N15BMl5BanBnXkFtZTgwMDcwMzkzMzE@._V1_.jpg",
+              "width": 480,
+              "height": 720
+            }
+          ]
+        },
+        "characters": [
+          "Dolly"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0574173",
+          "display_name": "Andy McPhee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWQ2MWViOGEtMTkzOC00YTNiLWI3ZmYtNGIzMWU3MjZkMmU5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1242,
+              "height": 1849
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Belhatchett"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0341737",
+          "display_name": "Rachel Griffiths",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI3OTQzNzA0M15BMl5BanBnXkFtZTcwNTQ0ODkyMg@@._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Aunt Ellie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0895812",
+          "display_name": "Ronan Vibert",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWYzZjAxZjgtZmFkYy00MDVmLWEwODMtYWZjNmMwMTQ0ZGQ0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 957,
+              "height": 1435
+            }
+          ]
+        },
+        "characters": [
+          "Diarmuid Russell"
+        ]
+      }
+    ]
+  }
+}

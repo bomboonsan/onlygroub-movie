@@ -1,0 +1,101 @@
+{
+  "title": {
+    "id": "tt0490035",
+    "type": "tvSeries",
+    "is_adult": false,
+    "primary_title": "The F Word",
+    "original_title": null,
+    "start_year": 2005,
+    "end_year": 2010,
+    "runtime_minutes": 48,
+    "plot": "A topical weekly show hosted by Gordon Ramsay, aided and abetted by restaurant critic Giles Coren.",
+    "rating": {
+      "aggregate_rating": 6.9,
+      "votes_count": 1720
+    },
+    "genres": [
+      "Documentary",
+      "Game-Show",
+      "Reality-TV"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQyMTU0MTg5N15BMl5BanBnXkFtZTcwNDMyNzkyMg@@._V1_.jpg",
+        "width": 350,
+        "height": 500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "TV-MA"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm0810026",
+          "display_name": "Steve Smith",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2301964",
+          "display_name": "Marc Heffernan",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1453535",
+          "display_name": "Richard Bond",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1582028",
+          "display_name": "Natalie Burke",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2733733",
+          "display_name": "Ben Duncan",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": null,
+    "casts": [
+      {
+        "name": {
+          "id": "nm12762296",
+          "display_name": "Michelle Butler",
+          "avatars": null
+        },
+        "characters": [
+          "Challenge Participant"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "title": {
+    "id": "tt0455944",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Equalizer",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 132,
+    "plot": "A man who believes he has put his mysterious past behind him cannot stand idly by when he meets a young girl under the control of ultra-violent Russian gangsters.",
+    "rating": {
+      "aggregate_rating": 7.2,
+      "votes_count": 421196
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MzE2NTk0NF5BMl5BanBnXkFtZTgwOTM3NTk1MjE@._V1_.jpg",
+        "width": 1013,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "rus",
+        "name": "Russian"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      },
+      {
+        "code": "ukr",
+        "name": "Ukrainian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 57,
+      "review_count": 41
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0298807",
+          "display_name": "Antoine Fuqua",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM2NDQ4OTkxNV5BMl5BanBnXkFtZTcwMzQ4NzIyMw@@._V1_.jpg",
+              "width": 280,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0921013",
+          "display_name": "Richard Wenk",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODQ1MWJmYzItMDQxYi00ZmJhLTlmYjctNDNmNTdmZDc1MjIyXkEyXkFqcGdeQXVyNzY1ODU1OTk@._V1_.jpg",
+              "width": 2494,
+              "height": 3000
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0805994",
+          "display_name": "Michael Sloan",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2030456",
+          "display_name": "Richard Lindheim",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000243",
+          "display_name": "Denzel Washington",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE5NDU2Mzc3MV5BMl5BanBnXkFtZTcwNjAwNTE5OQ@@._V1_.jpg",
+              "width": 1536,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Robert McCall"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0190744",
+          "display_name": "Marton Csokas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQxOTcyNDEyMV5BMl5BanBnXkFtZTgwMjMzMzYyNTE@._V1_.jpg",
+              "width": 2298,
+              "height": 3269
+            }
+          ]
+        },
+        "characters": [
+          "Teddy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1631269",
+          "display_name": "Chloë Grace Moretz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjBlZTljOTctZmJjZS00YzE0LWE5NTUtMzA2MTE1MGQwMDFhXkEyXkFqcGdeQXVyMTYxNjg0Njgy._V1_.jpg",
+              "width": 1010,
+              "height": 1262
+            }
+          ]
+        },
+        "characters": [
+          "Teri"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1092086",
+          "display_name": "David Harbour",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTc5ODUzMDAtZGFhZS00NmExLTlhYWYtZDY0NGI2MGMwYTIzXkEyXkFqcGdeQXVyODY0MzQyODc@._V1_.jpg",
+              "width": 2087,
+              "height": 2593
+            }
+          ]
+        },
+        "characters": [
+          "Masters"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2247245",
+          "display_name": "Haley Bennett",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWEyOTUzNzgtZmQ2My00NTg4LTgyNGYtNzQ5MGYwMjY3OGM1XkEyXkFqcGdeQXVyNjA0OTkxNjQ@._V1_.jpg",
+              "width": 800,
+              "height": 1203
+            }
+          ]
+        },
+        "characters": [
+          "Mandy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000597",
+          "display_name": "Bill Pullman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg0Mzk2MDEyM15BMl5BanBnXkFtZTgwMTczMDQzNjE@._V1_.jpg",
+              "width": 855,
+              "height": 1280
+            }
+          ]
+        },
+        "characters": [
+          "Brian Plummer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0502425",
+          "display_name": "Melissa Leo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc3MDAxOTkyOF5BMl5BanBnXkFtZTcwOTg1MDIzNA@@._V1_.jpg",
+              "width": 291,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Susan Plummer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1635108",
+          "display_name": "David Meunier",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmM2NGU1YzUtYmNiOS00M2IyLThjNTQtZGE5OTNiMDEyMjcxXkEyXkFqcGdeQXVyMzU3MjgwMw@@._V1_.jpg",
+              "width": 3493,
+              "height": 4552
+            }
+          ]
+        },
+        "characters": [
+          "Slavi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3495787",
+          "display_name": "Johnny Skourtis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmE4NjkxZGYtYmRmMS00MzE5LWJkOGEtZjVmZGMyMDJjMWVjXkEyXkFqcGdeQXVyODc2MjIxMA@@._V1_.jpg",
+              "width": 800,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Ralphie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0891514",
+          "display_name": "Alex Veadov",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTI3NDhhNDktZWI2My00NjM3LTliNTAtM2Y3YzA3ZDdhYjNkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1668,
+              "height": 2388
+            }
+          ]
+        },
+        "characters": [
+          "Tevi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0474520",
+          "display_name": "Vladimir Kulich",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTRmZmEzMWYtZGQzOC00OTc0LWJiYWEtMzg2ZTYyMjNjYzE0XkEyXkFqcGdeQXVyNzk1MjI0MA@@._V1_.jpg",
+              "width": 1931,
+              "height": 2641
+            }
+          ]
+        },
+        "characters": [
+          "Vladimir Pushkin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0593301",
+          "display_name": "E. Roger Mitchell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA2MDgzMzcyOF5BMl5BanBnXkFtZTcwMDkyNTAzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 664
+            }
+          ]
+        },
+        "characters": [
+          "Lead Investigator"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4437821",
+          "display_name": "James Wilcox",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzg1NGEyZTYtOWZmMS00M2YxLTlkNzEtYWJjNTVjOGY1ZTUyXkEyXkFqcGdeQXVyMjU5NjU3MTI@._V1_.jpg",
+              "width": 1060,
+              "height": 1022
+            }
+          ]
+        },
+        "characters": [
+          "Pederson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2488340",
+          "display_name": "Mike O'Dea",
+          "avatars": null
+        },
+        "characters": [
+          "Remar"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4291105",
+          "display_name": "Anastasia Mousis Sanidopoulos",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWY3NTViMmMtZDFlYS00Zjc2LWEwMjUtODEyMWU5Y2Q0N2FmXkEyXkFqcGc@._V1_.jpg",
+              "width": 1242,
+              "height": 1552
+            }
+          ]
+        },
+        "characters": [
+          "Jenny"
+        ]
+      }
+    ]
+  }
+}

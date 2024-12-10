@@ -1,0 +1,341 @@
+{
+  "title": {
+    "id": "tt3606888",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "A Street Cat Named Bob",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 103,
+    "plot": "The true feel-good story of how James Bowen, a busker and recovering drug addict, has his life transformed when he meets a stray ginger cat. Based on the international best selling book.",
+    "rating": {
+      "aggregate_rating": 7.3,
+      "votes_count": 33695
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "Family"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDk3ZGE2OTItY2JkYi00NWEzLWI1NjQtZGZlMzdkNjJlNmYxXkEyXkFqcGc@._V1_.jpg",
+        "width": 2700,
+        "height": 4000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "Not Rated"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "critic_review": {
+      "score": 54,
+      "review_count": 12
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0006854",
+          "display_name": "Roger Spottiswoode",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMwNDM0OTk5MF5BMl5BanBnXkFtZTcwNTg0MDAxMw@@._V1_.jpg",
+              "width": 2048,
+              "height": 1358
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm6492918",
+          "display_name": "James Bowen",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm7839608",
+          "display_name": "Garry Jenkins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjIyMGQzNTctNGRiOC00ZTJkLTg1MDEtZmNiNzYzNGE3YzU4XkEyXkFqcGc@._V1_.jpg",
+              "width": 1066,
+              "height": 1600
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0424243",
+          "display_name": "Tim John",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2NmZmY1OTQtMTQzMi00MGM1LTliZmYtZDE5OTE3NjE2YmU1XkEyXkFqcGc@._V1_.jpg",
+              "width": 4288,
+              "height": 2848
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0622329",
+          "display_name": "Maria Nation",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm2008435",
+          "display_name": "Luke Treadaway",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMxMTM3NzY0Ml5BMl5BanBnXkFtZTgwMTI5MjQ1MzE@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "James"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6872584",
+          "display_name": "Bob the Cat",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjNhZDM5NjctMTE0Yi00ZGI3LWJkNTAtMzQ5YTJmZWQ4ODUyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 688,
+              "height": 794
+            }
+          ]
+        },
+        "characters": [
+          "Bob"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2055792",
+          "display_name": "Ruta Gedmintas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ0OTU4NjgyMF5BMl5BanBnXkFtZTcwNDAyMzcxOA@@._V1_.jpg",
+              "width": 599,
+              "height": 491
+            }
+          ]
+        },
+        "characters": [
+          "Betty"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0296219",
+          "display_name": "Joanne Froggatt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODUxMTc2MDEtNjZlNC00ZTg2LWE4MTYtMjViNTg2NmM4OGJiXkEyXkFqcGdeQXVyMTU2MTI2ODAx._V1_.jpg",
+              "width": 588,
+              "height": 1023
+            }
+          ]
+        },
+        "characters": [
+          "Val"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0372117",
+          "display_name": "Anthony Head",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI3NDQ3NTMwNF5BMl5BanBnXkFtZTYwMzY4NjEz._V1_.jpg",
+              "width": 485,
+              "height": 714
+            }
+          ]
+        },
+        "characters": [
+          "Jack Bowen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2362716",
+          "display_name": "Darren Evans",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg0MjMzNTU0Ml5BMl5BanBnXkFtZTgwNjUwNDMzMTE@._V1_.jpg",
+              "width": 520,
+              "height": 390
+            }
+          ]
+        },
+        "characters": [
+          "Baz"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1478396",
+          "display_name": "Tony Jayawardena",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGIxZGExMGMtNzJhOS00NjA5LWI3OWItNGE4ZmZjYWQwYjg2XkEyXkFqcGc@._V1_.jpg",
+              "width": 3200,
+              "height": 4000
+            }
+          ]
+        },
+        "characters": [
+          "Tony"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2190564",
+          "display_name": "Adam Riches",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjQxZWZmMmYtYTA3MC00MGJjLWFkMmYtZGMwMDdmNmUwZDVkXkEyXkFqcGdeQXVyNjYxMTgzMzQ@._V1_.jpg",
+              "width": 651,
+              "height": 900
+            }
+          ]
+        },
+        "characters": [
+          "Man with Car"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0317275",
+          "display_name": "Llewella Gideon",
+          "avatars": null
+        },
+        "characters": [
+          "Meter Woman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0038690",
+          "display_name": "Lorraine Ashbourne",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQwMDA2MDU1OF5BMl5BanBnXkFtZTcwOTAxMjk5Nw@@._V1_.jpg",
+              "width": 1387,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Local Housing Officer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0475988",
+          "display_name": "Akbar Kurtha",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGQwNzNiYTctN2E2Ni00NmE5LWIyYzEtMjM2MWYxYzI3M2FkXkEyXkFqcGc@._V1_.jpg",
+              "width": 830,
+              "height": 1037
+            }
+          ]
+        },
+        "characters": [
+          "Pharmacist"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0378132",
+          "display_name": "John Henshaw",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODJiMGQzMDEtODI1Mi00NzJlLThmY2YtOGU0Y2RkYjYwNzRkXkEyXkFqcGdeQXVyNTkzOTQ0MDE@._V1_.jpg",
+              "width": 1290,
+              "height": 1221
+            }
+          ]
+        },
+        "characters": [
+          "Tube Station Guard"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0323764",
+          "display_name": "Beth Goddard",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGQxMDYwMWUtMGY3My00Mjg3LThjZmMtODNlODAzZmE2YWQwXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 1200,
+              "height": 1500
+            }
+          ]
+        },
+        "characters": [
+          "Hilary"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1128568",
+          "display_name": "Ivana Basic",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjI1MjJiNDYtNDg3Yi00OGI0LThlZDUtNDA2YTQ5NTcyOWQ1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1100,
+              "height": 1650
+            }
+          ]
+        },
+        "characters": [
+          "Vet Receptionist"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8624374",
+          "display_name": "Jessica Woodland",
+          "avatars": null
+        },
+        "characters": [
+          "Vet Assistant"
+        ]
+      }
+    ]
+  }
+}

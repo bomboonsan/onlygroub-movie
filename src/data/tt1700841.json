@@ -1,0 +1,393 @@
+{
+  "title": {
+    "id": "tt1700841",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Sausage Party",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 89,
+    "plot": "A sausage strives to discover the truth about his existence.",
+    "rating": {
+      "aggregate_rating": 6.1,
+      "votes_count": 208406
+    },
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Fantasy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjkxOTk1MzY4MF5BMl5BanBnXkFtZTgwODQzOTU5ODE@._V1_.jpg",
+        "width": 1012,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 66,
+      "review_count": 39
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0970447",
+          "display_name": "Conrad Vernon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY3NjM5NjMxNF5BMl5BanBnXkFtZTcwMTc1ODMxOA@@._V1_.jpg",
+              "width": 1249,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0862911",
+          "display_name": "Greg Tiernan",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm3773434",
+          "display_name": "Kyle Hunter",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm3782043",
+          "display_name": "Ariel Shaffir",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0736622",
+          "display_name": "Seth Rogen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWI2NzQ0MzQtYTYxNi00ZTQxLWE3ZjUtNTg1MTE0YzJlOWZjXkEyXkFqcGdeQXVyMTMyNzI3NzIy._V1_.jpg",
+              "width": 2600,
+              "height": 3900
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1698571",
+          "display_name": "Evan Goldberg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMxNTI2NTg4Nl5BMl5BanBnXkFtZTcwODYyODg2Mw@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1706767",
+          "display_name": "Jonah Hill",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyNDU0NzAwNl5BMl5BanBnXkFtZTcwMzQxMzIzNw@@._V1_.jpg",
+              "width": 460,
+              "height": 541
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0008533",
+          "display_name": "Alistair Abell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ3MDYxNDkwNV5BMl5BanBnXkFtZTgwMDk4NzgwMzE@._V1_.jpg",
+              "width": 247,
+              "height": 282
+            }
+          ]
+        },
+        "characters": [
+          "Mariachi Salsa",
+          "Gefilte Fish"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2957717",
+          "display_name": "Iris Apatow",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDAyYTMwZDEtMTM3NS00NGY5LTk2YjEtZTdmZGQxYWFhNjU2XkEyXkFqcGdeQXVyMTMzOTMyOTM4._V1_.jpg",
+              "width": 828,
+              "height": 787
+            }
+          ]
+        },
+        "characters": [
+          "Berry Good Candies",
+          "Grape #3",
+          "Coconut Milk"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0063944",
+          "display_name": "Sugar Lyn Beard",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmQ5NDUyNjAtYzRjOS00N2I3LTk2MzgtZGNhNDkwZDE3ZjA0XkEyXkFqcGdeQXVyMTM5NzkxODQ@._V1_.jpg",
+              "width": 734,
+              "height": 776
+            }
+          ]
+        },
+        "characters": [
+          "Baby Carrot",
+          "Cookies"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0148418",
+          "display_name": "Michael Cera",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTgyNDgxMjUyOV5BMl5BanBnXkFtZTcwMDYxNzY1OQ@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Barry"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0003944",
+          "display_name": "Ian James Corlett",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA2Njc4NzU2M15BMl5BanBnXkFtZTcwODU1NDQwOA@@._V1_.jpg",
+              "width": 854,
+              "height": 1280
+            }
+          ]
+        },
+        "characters": [
+          "Apple",
+          "Tickilish Licorice",
+          "Relish",
+          "Bag of Dog Food"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0197405",
+          "display_name": "Michael Daingerfield",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDJjN2E0NDMtMmJjZS00NTJlLTlkMTgtOGY1MWY4NTcyNzFlXkEyXkFqcGdeQXVyMTA2NDg5OA@@._V1_.jpg",
+              "width": 663,
+              "height": 869
+            }
+          ]
+        },
+        "characters": [
+          "Chunk Munchers Cereal",
+          "Light Bulb",
+          "Indian Chutney"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0229889",
+          "display_name": "Brian Dobson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjU2Nzg5NjQ3NV5BMl5BanBnXkFtZTgwNzEzNTYyNTE@._V1_.jpg",
+              "width": 565,
+              "height": 706
+            }
+          ]
+        },
+        "characters": [
+          "Italian Tomato",
+          "Lettuce"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0229923",
+          "display_name": "Michael Dobson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWY3NDUzMmEtYjRmYi00ZDJjLTliZWMtMDk2Y2RiMmRhMzY0XkEyXkFqcGdeQXVyNzY5NjUwMjE@._V1_.jpg",
+              "width": 1156,
+              "height": 1734
+            }
+          ]
+        },
+        "characters": [
+          "Queso"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0290556",
+          "display_name": "James Franco",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA4MzMzNDM5MF5BMl5BanBnXkFtZTgwMjQ0MDk0NDM@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Druggie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0352778",
+          "display_name": "Bill Hader",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTY3MzgwMjE3N15BMl5BanBnXkFtZTcwNjc2MjE3NA@@._V1_.jpg",
+              "width": 1342,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Firewater",
+          "Tequila",
+          "El Guaco"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6386918",
+          "display_name": "Ian Hanlin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjU2ZjY4OWItOWJiOC00NDBlLTgxMGEtMWJiOGQ3MjA4YmQxXkEyXkFqcGdeQXVyOTM5NzI0NTM@._V1_.jpg",
+              "width": 1200,
+              "height": 1800
+            }
+          ]
+        },
+        "characters": [
+          "Beet"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000161",
+          "display_name": "Salma Hayek",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzkyMTk2NzM2Ml5BMl5BanBnXkFtZTcwNDQ4MjYzMg@@._V1_.jpg",
+              "width": 283,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Teresa"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0376860",
+          "display_name": "Maryke Hendrikse",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk0NjgwMjE2Ml5BMl5BanBnXkFtZTcwMDY1NTgwOA@@._V1_.jpg",
+              "width": 636,
+              "height": 741
+            }
+          ]
+        },
+        "characters": [
+          "Popped Cherry Mixer",
+          "Plum #1",
+          "Loretta Bun",
+          "Frozen Fruitz"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1706767",
+          "display_name": "Jonah Hill",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyNDU0NzAwNl5BMl5BanBnXkFtZTcwMzQxMzIzNw@@._V1_.jpg",
+              "width": 460,
+              "height": 541
+            }
+          ]
+        },
+        "characters": [
+          "Carl"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2981082",
+          "display_name": "Anders Holm",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg0NDg2NTU5NV5BMl5BanBnXkFtZTgwOTA0NzY4NjE@._V1_.jpg",
+              "width": 640,
+              "height": 905
+            }
+          ]
+        },
+        "characters": [
+          "Troy"
+        ]
+      }
+    ]
+  }
+}

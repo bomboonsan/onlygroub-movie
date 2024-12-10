@@ -1,0 +1,349 @@
+{
+  "title": {
+    "id": "tt4630562",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Fate of the Furious",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 136,
+    "plot": "When a mysterious woman seduces Dominic Toretto into the world of terrorism and a betrayal of those closest to him, the crew face trials that will test them as never before.",
+    "rating": {
+      "aggregate_rating": 6.6,
+      "votes_count": 251635
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjMxODI2NDM5Nl5BMl5BanBnXkFtZTgwNjgzOTk1MTI@._V1_.jpg",
+        "width": 1293,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "rus",
+        "name": "Russian"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CN",
+        "name": "China"
+      },
+      {
+        "code": "JP",
+        "name": "Japan"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 56,
+      "review_count": 45
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0336620",
+          "display_name": "F. Gary Gray",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQzNTAwNzY4N15BMl5BanBnXkFtZTcwOTU5MzE0NQ@@._V1_.jpg",
+              "width": 1368,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0860155",
+          "display_name": "Gary Scott Thompson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmI0MjAwZjEtNmRiNy00OWM5LWIxMzYtNTY2OTNlMjk0ZWQyXkEyXkFqcGdeQXVyMDYwNDM3OA@@._V1_.jpg",
+              "width": 500,
+              "height": 665
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0604555",
+          "display_name": "Chris Morgan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGZkM2NjY2ItYmJjOC00NWNiLWI2MjctZmJmYjhjODhmZmY2XkEyXkFqcGdeQXVyNDM0NDAwOTQ@._V1_.jpg",
+              "width": 638,
+              "height": 825
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0004874",
+          "display_name": "Vin Diesel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjExNzA4MDYxN15BMl5BanBnXkFtZTcwOTI1MDAxOQ@@._V1_.jpg",
+              "width": 1477,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Dom"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005458",
+          "display_name": "Jason Statham",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzk2MDkwOV5BMl5BanBnXkFtZTcwMDAxODQwMg@@._V1_.jpg",
+              "width": 263,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Deckard"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0425005",
+          "display_name": "Dwayne Johnson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWU1ODBiNGUtMzVjNi00MzdhLTk0OTktOWRiOTIxMWNhOGI2XkEyXkFqcGdeQXVyMTU2OTM5NDQw._V1_.jpg",
+              "width": 5464,
+              "height": 8192
+            }
+          ]
+        },
+        "characters": [
+          "Hobbs"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0735442",
+          "display_name": "Michelle Rodriguez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkwODIzMzYyMl5BMl5BanBnXkFtZTYwNzAyNjAz._V1_.jpg",
+              "width": 450,
+              "height": 676
+            }
+          ]
+        },
+        "characters": [
+          "Letty"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0879085",
+          "display_name": "Tyrese Gibson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA3MjU1NzY4OF5BMl5BanBnXkFtZTgwMzU3MDQxNTE@._V1_.jpg",
+              "width": 1360,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Roman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0524839",
+          "display_name": "Ludacris",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEwMTU3MDkzOF5BMl5BanBnXkFtZTcwNzc2NjM5MQ@@._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Tej Parker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000234",
+          "display_name": "Charlize Theron",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk5Mzc4ODU0Ml5BMl5BanBnXkFtZTcwNjU1NTI0Mw@@._V1_.jpg",
+              "width": 300,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Cipher"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000621",
+          "display_name": "Kurt Russell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk3MjkxNzQwMV5BMl5BanBnXkFtZTYwNDk4ODM1._V1_.jpg",
+              "width": 268,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Nobody"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2812026",
+          "display_name": "Nathalie Emmanuel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTlmMTIwNDMtOWQyZS00OTc4LWFlOTYtYTZhNGQ3ZWYxYzcxXkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_.jpg",
+              "width": 1200,
+              "height": 1800
+            }
+          ]
+        },
+        "characters": [
+          "Ramsey"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1812656",
+          "display_name": "Luke Evans",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDU1MDI2OTUyNV5BMl5BanBnXkFtZTcwNTA1OTY1OQ@@._V1_.jpg",
+              "width": 768,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Owen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0665235",
+          "display_name": "Elsa Pataky",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTAyNjU4MzkyNzleQTJeQWpwZ15BbWU3MDk2NTQ0Mjk@._V1_.jpg",
+              "width": 333,
+              "height": 500
+            }
+          ]
+        },
+        "characters": [
+          "Elena"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1970465",
+          "display_name": "Kristofer Hivju",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjk2MjhlMTItMjAxMS00NmFkLTg1ZjItZDY5ZWUyMmY0MzE2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 3600,
+              "height": 2595
+            }
+          ]
+        },
+        "characters": [
+          "Rhodes"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2207222",
+          "display_name": "Scott Eastwood",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODQ4ODU5NjIxMF5BMl5BanBnXkFtZTgwNzIzNTIzNzM@._V1_.jpg",
+              "width": 1535,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Little Nobody"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0820520",
+          "display_name": "Patrick St. Esprit",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmFmZjc5NWMtMGUyMy00ZjQ0LWE4NzUtMDQzOWM5NTRiYTBhXkEyXkFqcGdeQXVyNTE2MjI3MzY@._V1_.jpg",
+              "width": 1428,
+              "height": 2000
+            }
+          ]
+        },
+        "characters": [
+          "DS Allan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5304562",
+          "display_name": "Janmarco Santiago",
+          "avatars": null
+        },
+        "characters": [
+          "Fernando"
+        ]
+      }
+    ]
+  }
+}

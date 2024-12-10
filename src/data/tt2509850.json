@@ -1,0 +1,299 @@
+{
+  "title": {
+    "id": "tt2509850",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Rewrite",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 107,
+    "plot": "An Oscar-winning writer in a slump leaves Hollywood to teach screenwriting at a college on the East Coast, where he falls for a single mom taking classes there.",
+    "rating": {
+      "aggregate_rating": 6.3,
+      "votes_count": 22279
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjQyMDAyODUxOV5BMl5BanBnXkFtZTgwODcxMDMxNDE@._V1_.jpg",
+        "width": 2764,
+        "height": 4096
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "Not Rated"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 51,
+      "review_count": 17
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0492909",
+          "display_name": "Marc Lawrence",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjc3NzMwNDUyNF5BMl5BanBnXkFtZTcwNDk5MTYwMw@@._V1_.jpg",
+              "width": 331,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0492909",
+          "display_name": "Marc Lawrence",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjc3NzMwNDUyNF5BMl5BanBnXkFtZTcwNDk5MTYwMw@@._V1_.jpg",
+              "width": 331,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000424",
+          "display_name": "Hugh Grant",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc4MTgxOTk2Ml5BMl5BanBnXkFtZTcwNzMwMjYwMw@@._V1_.jpg",
+              "width": 299,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Keith Michaels"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2036197",
+          "display_name": "Whit Baldwin",
+          "avatars": null
+        },
+        "characters": [
+          "Doug"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4690786",
+          "display_name": "Vanessa Wasche",
+          "avatars": null
+        },
+        "characters": [
+          "Rona"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0334027",
+          "display_name": "Enid Graham",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDNlNmU0YzUtNmNhMy00OTAxLTlkZmUtYjY1NzhmYTZkNjRkXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 2513,
+              "height": 1253
+            }
+          ]
+        },
+        "characters": [
+          "Trina"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2279336",
+          "display_name": "Shannon Marie Sullivan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDk2MGU1N2MtNjdkMi00NTAxLTk0NDgtZWY4M2FmMmVhZWFjXkEyXkFqcGc@._V1_CR543,191,3333,5000_.jpg",
+              "width": 3333,
+              "height": 5000
+            }
+          ]
+        },
+        "characters": [
+          "Sue"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0031529",
+          "display_name": "Jason Antoon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWJmNWQ2ZTUtZGU2Zi00MzRjLWI0ZTctZDZlOWJmMmVhNGY0XkEyXkFqcGdeQXVyMDk4NjI0Nw@@._V1_.jpg",
+              "width": 3489,
+              "height": 5233
+            }
+          ]
+        },
+        "characters": [
+          "Greg Nathan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4215614",
+          "display_name": "Jenny Neale",
+          "avatars": null
+        },
+        "characters": [
+          "Jenny Glick"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000715",
+          "display_name": "Caroline Aaron",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQyNzkyNTYxOF5BMl5BanBnXkFtZTcwNjE1OTI0Mw@@._V1_.jpg",
+              "width": 640,
+              "height": 438
+            }
+          ]
+        },
+        "characters": [
+          "Ellen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1064091",
+          "display_name": "Billy Griffith",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmMwNmM4NDktOGE5Zi00NzE4LTk3MTYtNzk2NDM0NjVjNWQxXkEyXkFqcGc@._V1_.jpg",
+              "width": 1069,
+              "height": 1612
+            }
+          ]
+        },
+        "characters": [
+          "TSA Agent"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5463748",
+          "display_name": "Kevin Michael Kennedy",
+          "avatars": null
+        },
+        "characters": [
+          "TSA Officer Kevin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1178875",
+          "display_name": "Ali Merhi",
+          "avatars": null
+        },
+        "characters": [
+          "TSA Agent Ali"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2757333",
+          "display_name": "Bella Heathcote",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTg1OWU1MGEtNDViMi00OTI2LWE4NjAtOTQ3M2E4MGE3ZGNiXkEyXkFqcGdeQXVyMjE2NzEyNDI@._V1_.jpg",
+              "width": 1600,
+              "height": 2400
+            }
+          ]
+        },
+        "characters": [
+          "Karen Gabney"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2091226",
+          "display_name": "Lily Wen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ5Mjk2NzYyOF5BMl5BanBnXkFtZTcwMTgwMTczMQ@@._V1_.jpg",
+              "width": 350,
+              "height": 519
+            }
+          ]
+        },
+        "characters": [
+          "Judy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3459140",
+          "display_name": "Olivia Luccardi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGY5MDkxM2MtODQzZS00MzRhLTgzMzctMWUwNjcyNzJkY2JmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3190,
+              "height": 3518
+            }
+          ]
+        },
+        "characters": [
+          "Chloe"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0254402",
+          "display_name": "Chris Elliott",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM2NDY3MDcwNl5BMl5BanBnXkFtZTYwMjgxNDA2._V1_.jpg",
+              "width": 260,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Jim Harper"
+        ]
+      }
+    ]
+  }
+}

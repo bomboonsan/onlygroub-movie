@@ -1,0 +1,352 @@
+{
+  "title": {
+    "id": "tt5220122",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Hotel Transylvania 3: Summer Vacation",
+    "original_title": null,
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 97,
+    "plot": "Count Dracula and company participate in a cruise for sea-loving monsters, unaware that their boat is being commandeered by the monster-hating Van Helsing family.",
+    "rating": {
+      "aggregate_rating": 6.3,
+      "votes_count": 85497
+    },
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjA1MzU5MTY3OF5BMl5BanBnXkFtZTgwNTU5MDA3NTM@._V1_.jpg",
+        "width": 1381,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "rus",
+        "name": "Russian"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "KR",
+        "name": "Republic of Korea"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 54,
+      "review_count": 23
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0850733",
+          "display_name": "Genndy Tartakovsky",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkxOTgwNjY5N15BMl5BanBnXkFtZTcwNjExMjAyOA@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0850733",
+          "display_name": "Genndy Tartakovsky",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkxOTgwNjY5N15BMl5BanBnXkFtZTcwNjExMjAyOA@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0567112",
+          "display_name": "Michael McCullers",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQyNDMyMzUzNV5BMl5BanBnXkFtZTcwNDM3NDgxNw@@._V1_.jpg",
+              "width": 1366,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0001191",
+          "display_name": "Adam Sandler",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQyNzM2MjM1Ml5BMl5BanBnXkFtZTcwMDE5NjI3Mg@@._V1_.jpg",
+              "width": 288,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Dracula"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1676221",
+          "display_name": "Andy Samberg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDg3NDk3ODI0Ml5BMl5BanBnXkFtZTgwOTE3MTE4NTM@._V1_.jpg",
+              "width": 1481,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Johnny"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1411125",
+          "display_name": "Selena Gomez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAwNTE2MDMyMl5BMl5BanBnXkFtZTgwMjAyODM3MTI@._V1_.jpg",
+              "width": 1535,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mavis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0416673",
+          "display_name": "Kevin James",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyMTU1ODU4Ml5BMl5BanBnXkFtZTcwNDQ0NTY5NQ@@._V1_.jpg",
+              "width": 1485,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Frankenstein"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000376",
+          "display_name": "Fran Drescher",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2I4YWExZjEtNTJjYi00Y2IzLThkMDMtYWIxZGNmZmZmMmU4XkEyXkFqcGdeQXVyNTU5ODYzOTY@._V1_.jpg",
+              "width": 4032,
+              "height": 6048
+            }
+          ]
+        },
+        "characters": [
+          "Eunice"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000114",
+          "display_name": "Steve Buscemi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODc0NTU3NDA4M15BMl5BanBnXkFtZTcwNDkxNzQxNA@@._V1_.jpg",
+              "width": 299,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Wayne"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0788340",
+          "display_name": "Molly Shannon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDk3MDMyMDQ5MV5BMl5BanBnXkFtZTcwNTc5Mzk0Mw@@._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Wanda"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005450",
+          "display_name": "David Spade",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTUxNzcwMDgtNzljYS00MmNkLWE1OWYtZGNkOTQxNTdjZDIwXkEyXkFqcGdeQXVyMjM0OTE3NjM@._V1_.jpg",
+              "width": 1050,
+              "height": 1170
+            }
+          ]
+        },
+        "characters": [
+          "Griffin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1221047",
+          "display_name": "Keegan-Michael Key",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmI1MDdjZTAtMzBiMy00M2Q2LTk5YjAtOWJkMGYwODE2OGViXkEyXkFqcGdeQXVyNzMxMTU2Mg@@._V1_.jpg",
+              "width": 243,
+              "height": 320
+            }
+          ]
+        },
+        "characters": [
+          "Murray"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0300712",
+          "display_name": "Jim Gaffigan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjMzNmYzODktNmEyZC00OWQ4LWI4MGUtOWNiYTg0NWNkZjRhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 5184,
+              "height": 3456
+            }
+          ]
+        },
+        "characters": [
+          "Van Helsing"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1063517",
+          "display_name": "Kathryn Hahn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE1OTcxNDczMl5BMl5BanBnXkFtZTcwMDA1NDcyMQ@@._V1_.jpg",
+              "width": 300,
+              "height": 391
+            }
+          ]
+        },
+        "characters": [
+          "Ericka"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6239143",
+          "display_name": "Asher Blinkoff",
+          "avatars": null
+        },
+        "characters": [
+          "Dennis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0663177",
+          "display_name": "Chris Parnell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTUyYzAwNTAtYmUwNS00NTg1LWIxMjktMzUwZjBmOGJkM2NmXkEyXkFqcGdeQXVyMDA1MTc5Mg@@._V1_.jpg",
+              "width": 1074,
+              "height": 1414
+            }
+          ]
+        },
+        "characters": [
+          "Stan",
+          "Fish Man"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2679438",
+          "display_name": "Joe Jonas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgzMTA0MDUzNF5BMl5BanBnXkFtZTcwOTM2ODcwNw@@._V1_.jpg",
+              "width": 1329,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "The Kraken"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4178979",
+          "display_name": "Chrissy Teigen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMxMzYzMjYwMF5BMl5BanBnXkFtZTcwNzAyOTMzNA@@._V1_.jpg",
+              "width": 1403,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Crystal"
+        ]
+      }
+    ]
+  }
+}

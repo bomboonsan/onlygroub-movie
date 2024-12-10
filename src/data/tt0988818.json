@@ -1,0 +1,59 @@
+{
+  "title": {
+    "id": "tt0988818",
+    "type": "tvSeries",
+    "is_adult": false,
+    "primary_title": "Gintama",
+    "original_title": null,
+    "start_year": 2005,
+    "end_year": 2021,
+    "runtime_minutes": 25,
+    "plot": "In an era where aliens have invaded and taken over feudal Tokyo, an unemployed samurai finds work however he can.",
+    "rating": {
+      "aggregate_rating": 8.7,
+      "votes_count": 16773
+    },
+    "genres": [
+      "Action",
+      "Animation",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTMzNjE0N2ItNjFiYi00NmIzLTk1MzMtZWFjNThjMzI5MTJlXkEyXkFqcGc@._V1_.jpg",
+        "width": 1000,
+        "height": 1426
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "TV-14"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "jpn",
+        "name": "Japanese"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "JP",
+        "name": "Japan"
+      }
+    ],
+    "critic_review": null,
+    "directors": null,
+    "writers": null,
+    "casts": null
+  }
+}

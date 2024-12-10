@@ -1,0 +1,289 @@
+{
+  "title": {
+    "id": "tt8335482",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Lost Prince",
+    "original_title": "Le prince oublié",
+    "start_year": 2020,
+    "end_year": null,
+    "runtime_minutes": 101,
+    "plot": "Every night as Sofia falls asleep, her father Djibi takes her into \"Storyland\", a fantasy film studio where their extraordinary fairy-tale adventures come to life starring Djibi in the lead role as the heroic Prince Charming.",
+    "rating": {
+      "aggregate_rating": 5.4,
+      "votes_count": 1614
+    },
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTJiZWEyNDMtNWNjOC00ZGJhLWExZjYtOTRhZmNlNjg0YzEyXkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_.jpg",
+        "width": 433,
+        "height": 640
+      }
+    ],
+    "certificates": null,
+    "spoken_languages": [
+      {
+        "code": "fra",
+        "name": "French"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "BE",
+        "name": "Belgium"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm0371890",
+          "display_name": "Michel Hazanavicius",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzY2NjgyNTIyMV5BMl5BanBnXkFtZTcwOTk2ODMxNw@@._V1_.jpg",
+              "width": 1452,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1315212",
+          "display_name": "Bruno Merle",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm4380548",
+          "display_name": "Noé Debré",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk3NDk3MzY3MV5BMl5BanBnXkFtZTgwOTY5MzY3NTE@._V1_.jpg",
+              "width": 1480,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0371890",
+          "display_name": "Michel Hazanavicius",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzY2NjgyNTIyMV5BMl5BanBnXkFtZTcwOTk2ODMxNw@@._V1_.jpg",
+              "width": 1452,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1082477",
+          "display_name": "Omar Sy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI2MjE3MDQ3NV5BMl5BanBnXkFtZTcwOTY0NzU0Nw@@._V1_.jpg",
+              "width": 1366,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Le père",
+          "Le prince"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0067367",
+          "display_name": "Bérénice Bejo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE4ODY3OTQ2MV5BMl5BanBnXkFtZTcwMTY2ODQyNw@@._V1_.jpg",
+              "width": 1529,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "La voisine",
+          "La femme à la porte"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1460782",
+          "display_name": "François Damiens",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA4MDk4MTA4M15BMl5BanBnXkFtZTcwNzk1MjM1OQ@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Pritprout"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11290900",
+          "display_name": "Sarah Gaye",
+          "avatars": null
+        },
+        "characters": [
+          "Sofia (12 ans)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11286906",
+          "display_name": "Keyla Fala",
+          "avatars": null
+        },
+        "characters": [
+          "Sofia (8 ans)",
+          "La princesse"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11290901",
+          "display_name": "Néotis Ronzon",
+          "avatars": null
+        },
+        "characters": [
+          "Max"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0896886",
+          "display_name": "Philippe Vieux",
+          "avatars": null
+        },
+        "characters": [
+          "Wallace le régisseur"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0399576",
+          "display_name": "Philippe Uchan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjRiMTVlYzEtNzgwYS00NzU2LWEyNDgtNWRkZGQ3NDcyMmZmXkEyXkFqcGdeQXVyMTExMTc3NzU5._V1_.jpg",
+              "width": 667,
+              "height": 1000
+            }
+          ]
+        },
+        "characters": [
+          "Bernard le régisseur"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4268373",
+          "display_name": "Lionel Laget",
+          "avatars": null
+        },
+        "characters": [
+          "Jacques, dit Benoît"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0378999",
+          "display_name": "Philippe Hérisson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWRmMjM5ODEtYWMyYi00NmE4LTg5YjQtZjFjNjUyZWUyN2Q0XkEyXkFqcGc@._V1_.jpg",
+              "width": 498,
+              "height": 755
+            }
+          ]
+        },
+        "characters": [
+          "Johnny le régisseur"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10209807",
+          "display_name": "Asia Amans",
+          "avatars": null
+        },
+        "characters": [
+          "Manon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3224532",
+          "display_name": "Mustapha Abourachid",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTY4ODc3OTktMTZjNC00MzBlLTlmNWItNDVkMTE3MTE0OTNjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 417,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Brice le régisseur"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0953787",
+          "display_name": "Warren Zavatta",
+          "avatars": null
+        },
+        "characters": [
+          "Nicolas le régisseur"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2553537",
+          "display_name": "William Gay",
+          "avatars": null
+        },
+        "characters": [
+          "Colin le régisseur"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2562378",
+          "display_name": "Olivier Merle",
+          "avatars": null
+        },
+        "characters": [
+          "Blue Molosse"
+        ]
+      }
+    ]
+  }
+}

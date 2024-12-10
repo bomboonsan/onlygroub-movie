@@ -1,0 +1,362 @@
+{
+  "title": {
+    "id": "tt3224458",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "A Beautiful Day in the Neighborhood",
+    "original_title": null,
+    "start_year": 2019,
+    "end_year": null,
+    "runtime_minutes": 109,
+    "plot": "Based on the true story of a real-life friendship between Fred Rogers and journalist Lloyd Vogel.",
+    "rating": {
+      "aggregate_rating": 7.2,
+      "votes_count": 88898
+    },
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWE3ZDYwNmItOWM5ZS00Y2Q4LTlhNmYtODlhY2QxYzA1MDlhXkEyXkFqcGdeQXVyNjA5MDIyMzU@._V1_.jpg",
+        "width": 2000,
+        "height": 3000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CN",
+        "name": "China"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 80,
+      "review_count": 50
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1716636",
+          "display_name": "Marielle Heller",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGI4N2RkYTUtMWU2NS00NjM5LThlOTMtMzRkNDg3ZjY0MTMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "width": 3024,
+              "height": 4032
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2873116",
+          "display_name": "Micah Fitzerman-Blue",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODU5ODYzN2QtNDdhMy00ZTQ4LTllYmQtYzA3OWY4YTFkYTg1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2832,
+              "height": 4256
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1406764",
+          "display_name": "Noah Harpster",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYwNzM5MzU3MV5BMl5BanBnXkFtZTgwMzcxMzY2OTE@._V1_.jpg",
+              "width": 441,
+              "height": 600
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1754526",
+          "display_name": "Tom Junod",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI0MzkzNjAwNl5BMl5BanBnXkFtZTgwNjQ1MTcwNjM@._V1_.jpg",
+              "width": 596,
+              "height": 759
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0736872",
+          "display_name": "Fred Rogers",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAxOTk4MjUyOV5BMl5BanBnXkFtZTcwOTI5MDQyOA@@._V1_.jpg",
+              "width": 1049,
+              "height": 1442
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000158",
+          "display_name": "Tom Hanks",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1_.jpg",
+              "width": 1417,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Fred Rogers"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0722629",
+          "display_name": "Matthew Rhys",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMwOTc5MTI2OV5BMl5BanBnXkFtZTcwMjU0MDk4NA@@._V1_.jpg",
+              "width": 1577,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Lloyd Vogel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0177933",
+          "display_name": "Chris Cooper",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg5NTgxMzgxNl5BMl5BanBnXkFtZTcwMTAyMjcxNA@@._V1_.jpg",
+              "width": 297,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Jerry Vogel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1635244",
+          "display_name": "Susan Kelechi Watson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWZkYWRmZmUtOTYwYy00MTQ3LWJlNGMtZGEzNjA5N2I0MWJmXkEyXkFqcGdeQXVyMTk4MDA5Nzg@._V1_.jpg",
+              "width": 1068,
+              "height": 1546
+            }
+          ]
+        },
+        "characters": [
+          "Andrea Vogel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0687694",
+          "display_name": "Maryann Plunkett",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA1ODgwMTg2OF5BMl5BanBnXkFtZTgwNTY2NDgwNzE@._V1_.jpg",
+              "width": 600,
+              "height": 888
+            }
+          ]
+        },
+        "characters": [
+          "Joanne Rogers"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0170186",
+          "display_name": "Enrico Colantoni",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmVmMWE1MDAtZDA5Ni00MTQxLWIwZTItMTY5Y2EzN2ZlNWNjXkEyXkFqcGdeQXVyMTEyMDU4NDk@._V1_.jpg",
+              "width": 852,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Bill Isler"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0538655",
+          "display_name": "Wendy Makkena",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGY2ZGM5MzAtYWEwZi00YTY1LTliZDQtNWUwYjRjMWI4NTc1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 335,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Dorothy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0087109",
+          "display_name": "Tammy Blanchard",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc0OTgzODY3OF5BMl5BanBnXkFtZTcwNDA3MDYxNA@@._V1_.jpg",
+              "width": 292,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Lorraine"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1406764",
+          "display_name": "Noah Harpster",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYwNzM5MzU3MV5BMl5BanBnXkFtZTgwMzcxMzY2OTE@._V1_.jpg",
+              "width": 441,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Todd"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7912529",
+          "display_name": "Carmen Cusack",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjYyMTE1NGQtNmUyNS00NTE5LWExMmItZTA4ZTE0ZDlhMzgyXkEyXkFqcGdeQXVyNjkzNjQ5NjU@._V1_.jpg",
+              "width": 3456,
+              "height": 5184
+            }
+          ]
+        },
+        "characters": [
+          "Margy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2095178",
+          "display_name": "Kelley Davis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzA2MGE3ZDMtYjY1YS00YjU3LTlmYmItNDE5OWZkZmM3ZDZjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2308,
+              "height": 3465
+            }
+          ]
+        },
+        "characters": [
+          "First AD"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001441",
+          "display_name": "Christine Lahti",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzM0NTUyNTk1NV5BMl5BanBnXkFtZTcwODkyMDUzOA@@._V1_.jpg",
+              "width": 768,
+              "height": 977
+            }
+          ]
+        },
+        "characters": [
+          "Ellen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0180025",
+          "display_name": "Maddie Corman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjNjZTQyZGUtMGRkOC00MDQxLTgyODAtZDRiNDBlOGM0NjYxXkEyXkFqcGdeQXVyMzYwMDU3ODI@._V1_.jpg",
+              "width": 2967,
+              "height": 4154
+            }
+          ]
+        },
+        "characters": [
+          "Lady Aberlin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0470752",
+          "display_name": "Daniel Krell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODM2OGRjYWYtNzNiMC00NDQyLThjNmEtMjQ5MDhjNTljYWE0XkEyXkFqcGc@._V1_.jpg",
+              "width": 3861,
+              "height": 3989
+            }
+          ]
+        },
+        "characters": [
+          "Mr. McFeely"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6377412",
+          "display_name": "Jon L Peacock",
+          "avatars": null
+        },
+        "characters": [
+          "Sound Technician"
+        ]
+      }
+    ]
+  }
+}

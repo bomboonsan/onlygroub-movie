@@ -1,0 +1,347 @@
+{
+  "title": {
+    "id": "tt5516328",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Ghost Stories",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 98,
+    "plot": "After receiving a file with details of three unexplained cases of apparitions, skeptical professor Phillip Goodman embarks on a terrifying trip.",
+    "rating": {
+      "aggregate_rating": 6.4,
+      "votes_count": 37038
+    },
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2VmMzFmZjgtOTUzZC00NDUxLTkwOGYtZjA1OTZlYjE5ZDdjXkEyXkFqcGc@._V1_.jpg",
+        "width": 4050,
+        "height": 6000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "Not Rated"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "critic_review": {
+      "score": 68,
+      "review_count": 27
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0246037",
+          "display_name": "Jeremy Dyson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjc4OTc3NjQ2NF5BMl5BanBnXkFtZTgwODEzNjUxNTM@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0638762",
+          "display_name": "Andy Nyman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTQ4MjlkOGItNjZiOS00MGYyLTk0M2EtYjQyZjM4ZjcyYjc3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 5760,
+              "height": 3840
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0246037",
+          "display_name": "Jeremy Dyson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjc4OTc3NjQ2NF5BMl5BanBnXkFtZTgwODEzNjUxNTM@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0638762",
+          "display_name": "Andy Nyman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTQ4MjlkOGItNjZiOS00MGYyLTk0M2EtYjQyZjM4ZjcyYjc3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 5760,
+              "height": 3840
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm3890987",
+          "display_name": "Samuel Bottomley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjllNmJkMTQtODc0Yi00YWE0LWJmZDEtMjk3ODM2MDRjYWI0XkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_.jpg",
+              "width": 736,
+              "height": 1104
+            }
+          ]
+        },
+        "characters": [
+          "Young Goodman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8609670",
+          "display_name": "Deborah Wastell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGEwNDUxMWYtYzM0NC00MWY0LTk3MTktOTI4YjQxYzNiOGM5XkEyXkFqcGc@._V1_.jpg",
+              "width": 2182,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Mrs Goodman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7963775",
+          "display_name": "Amy Doyle",
+          "avatars": null
+        },
+        "characters": [
+          "Esther Goodman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0384164",
+          "display_name": "Daniel Hill",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg0NjA4NzI2MV5BMl5BanBnXkFtZTcwMDM0NjgyMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 355
+            }
+          ]
+        },
+        "characters": [
+          "Mr Goodman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4492222",
+          "display_name": "Ramzan Miah",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGRhYWI5ODQtYzFmMC00NzY3LTkwNjktZmVhYWEyMWZmMDIxXkEyXkFqcGdeQXVyNjkzMzc2OTc@._V1_.jpg",
+              "width": 959,
+              "height": 1280
+            }
+          ]
+        },
+        "characters": [
+          "Esther's Boyfriend"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0638762",
+          "display_name": "Andy Nyman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTQ4MjlkOGItNjZiOS00MGYyLTk0M2EtYjQyZjM4ZjcyYjc3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 5760,
+              "height": 3840
+            }
+          ]
+        },
+        "characters": [
+          "Philip Goodman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1372621",
+          "display_name": "Nicholas Burns",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWM4MGUzMzEtODJjNS00OTRmLWIyMjktNTk2Nzk5OWUwOTdkXkEyXkFqcGdeQXVyMzEzNjExMA@@._V1_.jpg",
+              "width": 1672,
+              "height": 2507
+            }
+          ]
+        },
+        "characters": [
+          "Mark Van Rhys"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0040624",
+          "display_name": "Louise Atkins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM5NDc4NzAtMTlhYi00ZDcxLTg0ODYtZDUzNGU5NTAyNTRmXkEyXkFqcGc@._V1_.jpg",
+              "width": 750,
+              "height": 934
+            }
+          ]
+        },
+        "characters": [
+          "Steph"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0278308",
+          "display_name": "Neil Finnighan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE3MTcxNzIwNl5BMl5BanBnXkFtZTgwMzg2NDE1MTE@._V1_.jpg",
+              "width": 3072,
+              "height": 2304
+            }
+          ]
+        },
+        "characters": [
+          "Security Guard"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0293509",
+          "display_name": "Martin Freeman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE0MjAwOTMzMF5BMl5BanBnXkFtZTcwMDg1MjEyNw@@._V1_.jpg",
+              "width": 1404,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Charles Cameron",
+          "Mike Priddle"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4820932",
+          "display_name": "Christine Dalby",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGZlODdjODItMTRmNC00YzNiLThhMzAtOWE5NDQ0NGVhYTNjXkEyXkFqcGc@._V1_.jpg",
+              "width": 2000,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Beth Hooper"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0565236",
+          "display_name": "Maggie McCarthy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEzNjEyMDYxNl5BMl5BanBnXkFtZTgwMDg0OTczMjE@._V1_.jpg",
+              "width": 500,
+              "height": 374
+            }
+          ]
+        },
+        "characters": [
+          "Jean Hooper"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0362003",
+          "display_name": "Lesley Harcourt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjMyMDk0ZmUtMmU2ZS00MDZhLWE0ZDctNzkxZTdjODU2NTA1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2832,
+              "height": 4256
+            }
+          ]
+        },
+        "characters": [
+          "BBC Local Newsreader"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4881203",
+          "display_name": "Jake Davies",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmNmMTE1MDMtNThhZi00NzU5LTk4YjMtOTdiOWIzMmZjZmEzXkEyXkFqcGdeQXVyNDY2NzcxNjM@._V1_CR297,659,3333,5000_.jpg",
+              "width": 3333,
+              "height": 5000
+            }
+          ]
+        },
+        "characters": [
+          "Kojak",
+          "Desi Callahan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4359366",
+          "display_name": "Oliver Woollford",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmEwZGRkOWUtZmEyNy00MWVkLWIxNjMtNDRjMmI1NzhkYjc4XkEyXkFqcGc@._V1_.jpg",
+              "width": 2538,
+              "height": 3172
+            }
+          ]
+        },
+        "characters": [
+          "Nico Freer"
+        ]
+      }
+    ]
+  }
+}

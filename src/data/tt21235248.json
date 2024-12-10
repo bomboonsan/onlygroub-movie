@@ -1,0 +1,387 @@
+{
+  "title": {
+    "id": "tt21235248",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Ghostbusters: Frozen Empire",
+    "original_title": null,
+    "start_year": 2024,
+    "end_year": null,
+    "runtime_minutes": 115,
+    "plot": "When the discovery of an ancient artifact unleashes an evil force, Ghostbusters new and old must join forces to protect their home and save the world from a second ice age.",
+    "rating": {
+      "aggregate_rating": 6.3,
+      "votes_count": 34936
+    },
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGE5MWJmZWYtN2ZlMi00ZjY1LTlhYTUtMzQ2Y2IxZWQyYTA2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+        "width": 2024,
+        "height": 3000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 46,
+      "review_count": 50
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1481493",
+          "display_name": "Gil Kenan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU1ODA0NDczMF5BMl5BanBnXkFtZTcwNzQzOTc5MQ@@._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1481493",
+          "display_name": "Gil Kenan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU1ODA0NDczMF5BMl5BanBnXkFtZTcwNzQzOTc5MQ@@._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0718646",
+          "display_name": "Jason Reitman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ4NTU0NzM1OF5BMl5BanBnXkFtZTgwNjMzMjcxMDE@._V1_.jpg",
+              "width": 1446,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0718645",
+          "display_name": "Ivan Reitman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc1MDA2NDgwM15BMl5BanBnXkFtZTcwOTA3NjQxMw@@._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0000101",
+          "display_name": "Dan Aykroyd",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI2MDA3NTg0NF5BMl5BanBnXkFtZTYwMzM5ODgz._V1_.jpg",
+              "width": 261,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0000601",
+          "display_name": "Harold Ramis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc5MTAwMzE3NF5BMl5BanBnXkFtZTYwNTg2ODMz._V1_.jpg",
+              "width": 265,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0748620",
+          "display_name": "Paul Rudd",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY4NTEwNDg1MV5BMl5BanBnXkFtZTgwODMwMDA0ODE@._V1_.jpg",
+              "width": 1638,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Gary Grooberson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4689420",
+          "display_name": "Carrie Coon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2JlNjA2MzgtNjMwNy00Mjg1LTk1NGYtZTQ3NTZjYTgxMjM1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 772,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Callie Spengler"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6016511",
+          "display_name": "Finn Wolfhard",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjlkNTdhNjYtYTFhNy00MTUxLWIwNTgtMTE5NTY5Y2I3MDc0XkEyXkFqcGdeQXVyNjY5NDgzNjQ@._V1_.jpg",
+              "width": 5312,
+              "height": 7967
+            }
+          ]
+        },
+        "characters": [
+          "Trevor Spengler"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5085683",
+          "display_name": "Mckenna Grace",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzI4Y2EzNTEtZWZiZS00NzZmLTlmZWYtNGUwYmE3YjliOWQ5XkEyXkFqcGdeQXVyMzQxNjUxMDE@._V1_.jpg",
+              "width": 1600,
+              "height": 2400
+            }
+          ]
+        },
+        "characters": [
+          "Phoebe Spengler"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3529685",
+          "display_name": "Kumail Nanjiani",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWUyODI4MmYtNjdlYS00NWRhLTgwNjQtNGRjYWE3ZTAyNzQ2XkEyXkFqcGdeQXVyMTI2Nzk2MjQ1._V1_.jpg",
+              "width": 1500,
+              "height": 2000
+            }
+          ]
+        },
+        "characters": [
+          "Nadeem"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0652663",
+          "display_name": "Patton Oswalt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU1OTEyNjEyNl5BMl5BanBnXkFtZTgwODkxMjI4NzM@._V1_.jpg",
+              "width": 1535,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Hubert Wartzki"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9305936",
+          "display_name": "Celeste O'Connor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTBiZGMyZWQtYTAzMC00N2U0LWFiNjktYzc2ZDJhM2FmOWU5XkEyXkFqcGdeQXVyOTA5NzkzODc@._V1_.jpg",
+              "width": 4000,
+              "height": 6000
+            }
+          ]
+        },
+        "characters": [
+          "Lucky"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10594234",
+          "display_name": "Logan Kim",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmQyZWExMzAtYWQxNC00Mzc3LTk4YjctMDQxZjlkNTBkYzQ2XkEyXkFqcGdeQXVyMTAxMjMzNjIw._V1_.jpg",
+              "width": 4024,
+              "height": 4024
+            }
+          ]
+        },
+        "characters": [
+          "Podcast"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3014840",
+          "display_name": "Emily Alyn Lind",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmJjNDMyZGQtNjAzYS00OWM4LWIwZGMtN2MyOTE4MGIxM2ZiXkEyXkFqcGdeQXVyMTY0MDIyOQ@@._V1_.jpg",
+              "width": 1222,
+              "height": 1258
+            }
+          ]
+        },
+        "characters": [
+          "Melody"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4735423",
+          "display_name": "James Acaster",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTNjYmI4ODItZGU5NC00OGNiLWIwYjAtNWZmNTY2YjcwNzc1XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+              "width": 4000,
+              "height": 6000
+            }
+          ]
+        },
+        "characters": [
+          "Lars"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000195",
+          "display_name": "Bill Murray",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ1OTM0MjEwOF5BMl5BanBnXkFtZTYwNTQwNzI1._V1_.jpg",
+              "width": 274,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Peter Venkman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000101",
+          "display_name": "Dan Aykroyd",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI2MDA3NTg0NF5BMl5BanBnXkFtZTYwMzM5ODgz._V1_.jpg",
+              "width": 261,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Ray Stantz"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001368",
+          "display_name": "Ernie Hudson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjc1NDZjNTktOTRlOC00YmFmLWJkNTMtNzMzZWI1NGMyMWNlXkEyXkFqcGdeQXVyNDc5OTcwMw@@._V1_.jpg",
+              "width": 4945,
+              "height": 6101
+            }
+          ]
+        },
+        "characters": [
+          "Winston Zeddemore"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001633",
+          "display_name": "Annie Potts",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA0NjkyMDIzMF5BMl5BanBnXkFtZTcwNjc2NTUyMQ@@._V1_.jpg",
+              "width": 350,
+              "height": 468
+            }
+          ]
+        },
+        "characters": [
+          "Janine Melnitz"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0040472",
+          "display_name": "William Atherton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk4MjE2NDUzOV5BMl5BanBnXkFtZTgwNjE5OTM5NzE@._V1_.jpg",
+              "width": 1880,
+              "height": 2572
+            }
+          ]
+        },
+        "characters": [
+          "Mayor Walter Peck"
+        ]
+      }
+    ]
+  }
+}

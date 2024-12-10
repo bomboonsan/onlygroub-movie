@@ -1,0 +1,312 @@
+{
+  "title": {
+    "id": "tt8323120",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Truth",
+    "original_title": "La vérité",
+    "start_year": 2019,
+    "end_year": null,
+    "runtime_minutes": 106,
+    "plot": "A stormy reunion between scriptwriter Lumir with her famous mother and actress, Fabienne, against the backdrop of Fabienne's autobiographic book and her latest role in a Sci-Fi picture as a daughter of a mother who never grows old.",
+    "rating": {
+      "aggregate_rating": 6.5,
+      "votes_count": 8124
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDdiZmZlYzItMTAzMS00OTM1LTk0ZDktMWIxNGUzM2JmMmVhXkEyXkFqcGc@._V1_.jpg",
+        "width": 972,
+        "height": 1440
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CH",
+        "name": "Switzerland"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "JP",
+        "name": "Japan"
+      }
+    ],
+    "critic_review": {
+      "score": 76,
+      "review_count": 34
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0466153",
+          "display_name": "Kore-eda Hirokazu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjc3NDY4MzgzMV5BMl5BanBnXkFtZTcwNDI5NTc1OQ@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0466153",
+          "display_name": "Kore-eda Hirokazu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjc3NDY4MzgzMV5BMl5BanBnXkFtZTcwNDI5NTc1OQ@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm7408787",
+          "display_name": "Ken Liu",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000366",
+          "display_name": "Catherine Deneuve",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ0NDQ2MjYwMl5BMl5BanBnXkFtZTcwMjQ0MDM2Nw@@._V1_.jpg",
+              "width": 1590,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Fabienne Dangeville"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000300",
+          "display_name": "Juliette Binoche",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUzMzI4MDQ5Nl5BMl5BanBnXkFtZTYwOTQ5NTc0._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Lumir"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000160",
+          "display_name": "Ethan Hawke",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk4NDMxMTI0MF5BMl5BanBnXkFtZTYwMjE3ODE0._V1_.jpg",
+              "width": 283,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Hank"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10911292",
+          "display_name": "Clémentine Grenier",
+          "avatars": null
+        },
+        "characters": [
+          "Charlotte"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7074600",
+          "display_name": "Manon Clavel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWQwYzZkMzMtYmU4ZC00YjhkLTgxZjAtZGE2YTA5NzFkYjQzXkEyXkFqcGc@._V1_.jpg",
+              "width": 5000,
+              "height": 3333
+            }
+          ]
+        },
+        "characters": [
+          "Manon Lenoir"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0508888",
+          "display_name": "Alain Libolt",
+          "avatars": null
+        },
+        "characters": [
+          "Luc Garbois"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0185750",
+          "display_name": "Christian Crahay",
+          "avatars": null
+        },
+        "characters": [
+          "Jacques"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0887161",
+          "display_name": "Roger Van Hool",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI0NzI0NTQ3NV5BMl5BanBnXkFtZTgwODU5OTc2NzM@._V1_.jpg",
+              "width": 1446,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Pierre"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0756203",
+          "display_name": "Ludivine Sagnier",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmI0NGZkNDQtNjczNC00MzljLWJhNDQtYjFmNWMwNTU5NDgwXkEyXkFqcGdeQXVyMjMxMDI3ODk@._V1_.jpg",
+              "width": 1200,
+              "height": 1600
+            }
+          ]
+        },
+        "characters": [
+          "L'actrice qui joue Amy à 38 ans"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0135084",
+          "display_name": "Laurent Capelluto",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU4MzE2NzQ1Ml5BMl5BanBnXkFtZTcwNzc0OTM4Nw@@._V1_.jpg",
+              "width": 2048,
+              "height": 1362
+            }
+          ]
+        },
+        "characters": [
+          "Le journaliste"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0763022",
+          "display_name": "Maya Sansa",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg3MzY5ODk3Nl5BMl5BanBnXkFtZTcwMDQ4MzAzOA@@._V1_.jpg",
+              "width": 1333,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": null
+      },
+      {
+        "name": {
+          "id": "nm0077449",
+          "display_name": "Jackie Berroyer",
+          "avatars": null
+        },
+        "characters": [
+          "Le chef du restaurant"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6745676",
+          "display_name": "Sébastien Chassagne",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGU3NDdhMzItNmE1YS00YWMxLTk4MmQtOTU3NmMwYWQ5M2Q5XkEyXkFqcGdeQXVyMzQzNTI1NA@@._V1_.jpg",
+              "width": 2724,
+              "height": 1977
+            }
+          ]
+        },
+        "characters": [
+          "Le réalisateur du film"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2623983",
+          "display_name": "Helmi Dridi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGU1ZjdmODctNTVmZi00NmU2LTg0NTEtNzQ3NWI5MmM2MjgyXkEyXkFqcGc@._V1_.jpg",
+              "width": 600,
+              "height": 900
+            }
+          ]
+        },
+        "characters": [
+          "Le chauffeur de Fabienne"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10446121",
+          "display_name": "Zoé Van Herck",
+          "avatars": null
+        },
+        "characters": [
+          "L'assistante de plateau"
+        ]
+      }
+    ]
+  }
+}

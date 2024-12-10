@@ -1,0 +1,338 @@
+{
+  "title": {
+    "id": "tt2172584",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Maps to the Stars",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 111,
+    "plot": "A tour into the heart of a Hollywood family chasing celebrity, one another and the relentless ghosts of their pasts.",
+    "rating": {
+      "aggregate_rating": 6.2,
+      "votes_count": 42898
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Mystery"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY3MjQwNzYyNV5BMl5BanBnXkFtZTgwNTY3NDQ5MzE@._V1_.jpg",
+        "width": 2025,
+        "height": 3000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "DE",
+        "name": "Germany"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 68,
+      "review_count": 39
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0000343",
+          "display_name": "David Cronenberg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM5NjM3OTYyMV5BMl5BanBnXkFtZTYwMzcyMzY1._V1_.jpg",
+              "width": 268,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0905818",
+          "display_name": "Bruce Wagner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjY1OTAwNjQ3Ml5BMl5BanBnXkFtZTgwMTE1MjM4MTE@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000194",
+          "display_name": "Julianne Moore",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM5NDI1MjE2Ml5BMl5BanBnXkFtZTgwNDE0Nzk0MDE@._V1_.jpg",
+              "width": 596,
+              "height": 827
+            }
+          ]
+        },
+        "characters": [
+          "Havana Segrand"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1985859",
+          "display_name": "Mia Wasikowska",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUzNzI0MDczN15BMl5BanBnXkFtZTgwNTQ0MjMxOTE@._V1_.jpg",
+              "width": 259,
+              "height": 259
+            }
+          ]
+        },
+        "characters": [
+          "Agatha Weiss"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000131",
+          "display_name": "John Cusack",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODQ4ZjU4NWItM2RlMS00OWY3LWJhZjAtYmQ3NjRiMzA5YjdjXkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_.jpg",
+              "width": 1200,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Stafford Weiss"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3909032",
+          "display_name": "Evan Bird",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA1NDI0MzAzOTReQTJeQWpwZ15BbWU3MDE2MDY5NTc@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Benjie Weiss"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0931404",
+          "display_name": "Olivia Williams",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzIyOTEwMjYyNl5BMl5BanBnXkFtZTgwNTc3NDU0MjE@._V1_.jpg",
+              "width": 2000,
+              "height": 1464
+            }
+          ]
+        },
+        "characters": [
+          "Christina Weiss"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1500155",
+          "display_name": "Robert Pattinson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzk0MDQ5OTUxMV5BMl5BanBnXkFtZTcwMDM5ODk5Mg@@._V1_.jpg",
+              "width": 301,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Jerome Fontana"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4825013",
+          "display_name": "Kiara Glasco",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzg2NTEwYzAtNTg2MS00N2U1LTkxNDctZTdkN2RjMzYyMDNhXkEyXkFqcGdeQXVyODI4Nzg3MzI@._V1_.jpg",
+              "width": 988,
+              "height": 1378
+            }
+          ]
+        },
+        "characters": [
+          "Cammy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0300589",
+          "display_name": "Sarah Gadon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2I3YTA3M2EtYWJhYS00NjJlLTg1NzYtMTdmNjI5M2ViY2ZiXkEyXkFqcGdeQXVyMzE1MjkwODU@._V1_.jpg",
+              "width": 683,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Clarice Taggart"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0339034",
+          "display_name": "Dawn Greenhalgh",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjc0MmVkZmYtMzljMC00YTQ2LTk3ZTItZmE2MDg4ZGRjZWZjXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg",
+              "width": 1920,
+              "height": 1040
+            }
+          ]
+        },
+        "characters": [
+          "Genie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0915093",
+          "display_name": "Jonathan Watton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWE1NzViMmItYWQ1Yy00ZmJmLTlmNzEtMjU5M2FmYWExZDhlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1215,
+              "height": 1212
+            }
+          ]
+        },
+        "characters": [
+          "Sterl Carruth"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0317023",
+          "display_name": "Jennifer Gibson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzQ2MTA0MDItY2ZmOC00MjI5LWI1MTEtZjA5ZmVkZjUyY2Y5XkEyXkFqcGdeQXVyMjQxODI3Ng@@._V1_.jpg",
+              "width": 2325,
+              "height": 3488
+            }
+          ]
+        },
+        "characters": [
+          "Starla Gent"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1658533",
+          "display_name": "Gord Rand",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWRiNTgwZTMtYmRkYi00NzIwLTllZTctZjgyMDM0OTM5MWZmXkEyXkFqcGdeQXVyMTEyOTQyMTk2._V1_.jpg",
+              "width": 3607,
+              "height": 2400
+            }
+          ]
+        },
+        "characters": [
+          "Damien Javitz"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2683203",
+          "display_name": "Justin Kelly",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2MxN2NjY2UtZjI5My00NDZkLTlmNDItY2EwZDVlOTQzMzYxXkEyXkFqcGdeQXVyNTA5MDg5Ng@@._V1_.jpg",
+              "width": 1921,
+              "height": 2018
+            }
+          ]
+        },
+        "characters": [
+          "Rhett"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1509081",
+          "display_name": "Niamh Wilson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDIyZDMxMWItYmNmYi00OGI2LWIyN2UtNzFjMGYwYzkxZjY1XkEyXkFqcGdeQXVyNzA0ODY0Nw@@._V1_.jpg",
+              "width": 4672,
+              "height": 7008
+            }
+          ]
+        },
+        "characters": [
+          "Sam"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3653708",
+          "display_name": "Clara Pasieka",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk2ODg2Nzk4OF5BMl5BanBnXkFtZTgwMDU1MTYwNjE@._V1_.jpg",
+              "width": 1822,
+              "height": 920
+            }
+          ]
+        },
+        "characters": [
+          "Gretchen Voss"
+        ]
+      }
+    ]
+  }
+}

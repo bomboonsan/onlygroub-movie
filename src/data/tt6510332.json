@@ -1,0 +1,101 @@
+{
+  "title": {
+    "id": "tt6510332",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "McQueen",
+    "original_title": null,
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 111,
+    "plot": "The life and career of fashion designer Lee Alexander McQueen: from his start as a tailor, to launching and overseeing his eponymous line and his untimely death.",
+    "rating": {
+      "aggregate_rating": 7.7,
+      "votes_count": 8433
+    },
+    "genres": [
+      "Biography",
+      "Documentary"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTg0MTg3MTM0OF5BMl5BanBnXkFtZTgwOTU0OTU2NTM@._V1_.jpg",
+        "width": 510,
+        "height": 755
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "critic_review": {
+      "score": 84,
+      "review_count": 28
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0094524",
+          "display_name": "Ian Bonhôte",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2NiN2U3MzAtOWZkZi00MTIyLWE4NzItNGFiZDI1Njc1OTFlXkEyXkFqcGc@._V1_.jpg",
+              "width": 2451,
+              "height": 3600
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0262167",
+          "display_name": "Peter Ettedgui",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDJjYzMxZGYtY2E1MC00ZTZjLTlhMDMtN2I2ZjM0NjUyNzI2XkEyXkFqcGc@._V1_.jpg",
+              "width": 3590,
+              "height": 3590
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0262167",
+          "display_name": "Peter Ettedgui",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDJjYzMxZGYtY2E1MC00ZTZjLTlhMDMtN2I2ZjM0NjUyNzI2XkEyXkFqcGc@._V1_.jpg",
+              "width": 3590,
+              "height": 3590
+            }
+          ]
+        }
+      }
+    ],
+    "casts": null
+  }
+}

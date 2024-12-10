@@ -1,0 +1,333 @@
+{
+  "title": {
+    "id": "tt3881784",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Stronger",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 119,
+    "plot": "Stronger is the inspiring real life story of Jeff Bauman, an ordinary man who captured the hearts of his city and the world to become a symbol of hope after surviving the 2013 Boston Marathon bombing.",
+    "rating": {
+      "aggregate_rating": 6.9,
+      "votes_count": 49729
+    },
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjE0NjIwMjQ2MF5BMl5BanBnXkFtZTgwNTAxMzQ5MjI@._V1_.jpg",
+        "width": 1012,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 76,
+      "review_count": 41
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0337773",
+          "display_name": "David Gordon Green",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYyNjI3NTUwOF5BMl5BanBnXkFtZTYwMTg1NjY1._V1_.jpg",
+              "width": 277,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0689708",
+          "display_name": "John Pollono",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWQ0OGRkZjktZDBmZC00OWQ2LWI0YWYtNTU1Nzg4ZTEyNTA1XkEyXkFqcGc@._V1_.jpg",
+              "width": 1106,
+              "height": 1119
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm6646080",
+          "display_name": "Jeff Bauman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkwNTI5MjE0NF5BMl5BanBnXkFtZTgwMzIzMDg0MzI@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm4007817",
+          "display_name": "Bret Witter",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0350453",
+          "display_name": "Jake Gyllenhaal",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjA0MTU2NDY3MF5BMl5BanBnXkFtZTgwNDU4ODkzMzE@._V1_.jpg",
+              "width": 1368,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Jeff Bauman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1137209",
+          "display_name": "Tatiana Maslany",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzg5NjE4NDgzMl5BMl5BanBnXkFtZTgwNzk5OTQwMjE@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        },
+        "characters": [
+          "Erin Hurley"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001669",
+          "display_name": "Miranda Richardson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA4NzM2ODE5N15BMl5BanBnXkFtZTcwNzAyMDc0NA@@._V1_.jpg",
+              "width": 1395,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Patty"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2887642",
+          "display_name": "Richard Lane Jr.",
+          "avatars": null
+        },
+        "characters": [
+          "Sully"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7865920",
+          "display_name": "Nate Richman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2MxZWRmMTgtNmU3Zi00ZGI0LWJiZjctNDY0ZjY2MzdmYTE2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1873,
+              "height": 2226
+            }
+          ]
+        },
+        "characters": [
+          "Big D"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0164873",
+          "display_name": "Lenny Clarke",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ3ODM3NTc5Nl5BMl5BanBnXkFtZTgwNjExNDA0MDI@._V1_.jpg",
+              "width": 184,
+              "height": 221
+            }
+          ]
+        },
+        "characters": [
+          "Uncle Bob"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8128890",
+          "display_name": "Patty O'Neil",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjJkYzYxNjYtNzk1Zi00NzVjLWJjOWYtMWNiNDZjNzY4MjZmXkEyXkFqcGc@._V1_.jpg",
+              "width": 350,
+              "height": 524
+            }
+          ]
+        },
+        "characters": [
+          "Aunt Jenn"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000317",
+          "display_name": "Clancy Brown",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUxODY3NjAzMF5BMl5BanBnXkFtZTcwMTQ5MjYwNg@@._V1_.jpg",
+              "width": 1418,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Big Jeff"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7301667",
+          "display_name": "Kate Fitzgerald",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTg3ZTg1ZTUtOTZlMC00NmZjLTgzMDUtN2EwODgyMGFmZWI5XkEyXkFqcGc@._V1_.jpg",
+              "width": 624,
+              "height": 711
+            }
+          ]
+        },
+        "characters": [
+          "Aunt Karen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1180243",
+          "display_name": "Danny McCarthy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDYwZjNlMTQtYzYzYy00ZWYwLTk0ZmYtZGRlZjcyYmY0OTk2XkEyXkFqcGdeQXVyMTUyNzI0MDE@._V1_.jpg",
+              "width": 1190,
+              "height": 1804
+            }
+          ]
+        },
+        "characters": [
+          "Kevin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1951390",
+          "display_name": "Frankie Shaw",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjcxMzk3Mjg4OV5BMl5BanBnXkFtZTgwMTkzNDExNzM@._V1_.jpg",
+              "width": 1072,
+              "height": 1608
+            }
+          ]
+        },
+        "characters": [
+          "Gail Hurley"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0764430",
+          "display_name": "Carlos Sanz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2Y3N2U3NzMtMDY4Ni00NTI5LThjNGMtNTI4NDdiZjgzZjlkXkEyXkFqcGdeQXVyMTA1ODEyMg@@._V1_.jpg",
+              "width": 1280,
+              "height": 1600
+            }
+          ]
+        },
+        "characters": [
+          "Carlos"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9084476",
+          "display_name": "Michelle Forziati",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODNjOWViOWUtMjczMC00ZDBhLTk3MjEtYzZjMjM3ODM1NzE0XkEyXkFqcGc@._V1_.jpg",
+              "width": 2400,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Jill Hurley"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0570316",
+          "display_name": "Sean McGuirk",
+          "avatars": null
+        },
+        "characters": [
+          "Bill Hurley"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2373485",
+          "display_name": "Karen Scalia",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2I1NjVhNTktZDY3Zi00NjY4LWIyMmYtZTc0MjE1NzliZWE1XkEyXkFqcGc@._V1_.jpg",
+              "width": 1200,
+              "height": 1500
+            }
+          ]
+        },
+        "characters": [
+          "Lori Hurley"
+        ]
+      }
+    ]
+  }
+}

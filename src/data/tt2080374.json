@@ -1,0 +1,350 @@
+{
+  "title": {
+    "id": "tt2080374",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Steve Jobs",
+    "original_title": null,
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 122,
+    "plot": "Steve Jobs takes us behind the scenes of the digital revolution, to paint a portrait of the man at its epicenter. The story unfolds backstage at three iconic product launches, ending in 1998 with the unveiling of the iMac.",
+    "rating": {
+      "aggregate_rating": 7.2,
+      "votes_count": 178731
+    },
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjE0NTA2MTEwOV5BMl5BanBnXkFtZTgwNzg4NzU2NjE@._V1_.jpg",
+        "width": 947,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "ukr",
+        "name": "Ukrainian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "JP",
+        "name": "Japan"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 82,
+      "review_count": 45
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0000965",
+          "display_name": "Danny Boyle",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc2NTU0ODQ0M15BMl5BanBnXkFtZTcwNjYzMzc5Mg@@._V1_.jpg",
+              "width": 296,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0815070",
+          "display_name": "Aaron Sorkin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE4MjkwNTU4M15BMl5BanBnXkFtZTgwNzk1MzU0MzE@._V1_.jpg",
+              "width": 1361,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0410596",
+          "display_name": "Walter Isaacson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODhhNTQxNjAtZDljNC00ZWFlLThkYjYtYzU3YzA2YTJhNWZkXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 672,
+              "height": 818
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1055413",
+          "display_name": "Michael Fassbender",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk0NjM2MTE5M15BMl5BanBnXkFtZTcwODIxMzcyNw@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Steve Jobs"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000701",
+          "display_name": "Kate Winslet",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODgzMzM2NTE0Ml5BMl5BanBnXkFtZTcwMTcyMTkyOQ@@._V1_.jpg",
+              "width": 1334,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Joanna Hoffman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0736622",
+          "display_name": "Seth Rogen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWI2NzQ0MzQtYTYxNi00ZTQxLWE3ZjUtNTg1MTE0YzJlOWZjXkEyXkFqcGdeQXVyMTMyNzI3NzIy._V1_.jpg",
+              "width": 2600,
+              "height": 3900
+            }
+          ]
+        },
+        "characters": [
+          "Steve Wozniak"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001099",
+          "display_name": "Jeff Daniels",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODA3MDI4NDcxNV5BMl5BanBnXkFtZTYwOTgyMzY1._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "John Sculley"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0836121",
+          "display_name": "Michael Stuhlbarg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjdjNTlhZjUtODA0MC00Mjc3LWExNmMtZDc5ZmI0ZmNlZWZmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 682,
+              "height": 1023
+            }
+          ]
+        },
+        "characters": [
+          "Andy Hertzfeld"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2239702",
+          "display_name": "Katherine Waterston",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU0OTIzNTY1OV5BMl5BanBnXkFtZTgwNjk4MzE2MDI@._V1_.jpg",
+              "width": 1316,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Chrisann Brennan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1549503",
+          "display_name": "Perla Haney-Jardine",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgyMDI0NzMtNzAzNC00NzQ3LTgyYmMtN2MwYmZhMDdjYmMxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3690,
+              "height": 2118
+            }
+          ]
+        },
+        "characters": [
+          "Lisa Brennan (19)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4680144",
+          "display_name": "Ripley Sobo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMyNzY0MDAwOF5BMl5BanBnXkFtZTgwMjU5Njc5NjE@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Lisa Brennan (9)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4825590",
+          "display_name": "Makenzie Moss",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzQ2NjE1NDgtNzdhMi00NGFkLWE5OTgtOGMyMmU5MmZjOTk3XkEyXkFqcGdeQXVyNTM0NDEyOTE@._V1_.jpg",
+              "width": 995,
+              "height": 1508
+            }
+          ]
+        },
+        "characters": [
+          "Lisa Brennan (5)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3512758",
+          "display_name": "Sarah Snook",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDk4ODhkMDUtNmExNy00MjI2LTk1ZmQtYzE1MDc2ZjRkM2NhXkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_.jpg",
+              "width": 600,
+              "height": 800
+            }
+          ]
+        },
+        "characters": [
+          "Andrea Cunningham"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0651159",
+          "display_name": "John Ortiz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU2OTY2NDQzOF5BMl5BanBnXkFtZTcwNDcyMzIzNw@@._V1_.jpg",
+              "width": 1654,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Joel Pforzheimer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1995781",
+          "display_name": "Adam Shapiro",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODgzMTc0MjMtMmZhYi00MmE3LThkNTMtZTlkYTZhYmExNjg3XkEyXkFqcGdeQXVyNzk3NjkzNQ@@._V1_.jpg",
+              "width": 1200,
+              "height": 797
+            }
+          ]
+        },
+        "characters": [
+          "Avie Tevanian"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1732233",
+          "display_name": "John Steen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzc0NGZhY2YtOWY2ZS00YjViLTkzNmItMjliNjgxY2E1NGRjXkEyXkFqcGc@._V1_.jpg",
+              "width": 2832,
+              "height": 4256
+            }
+          ]
+        },
+        "characters": [
+          "Mike Markkula"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0745027",
+          "display_name": "Stan Roth",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjZhOWE5N2ItNDg3Yi00ZDZjLWFlZTgtNjRiZDlhNjU3OTAwL2ltYWdlXkEyXkFqcGdeQXVyMjEyOTk3OTI@._V1_.jpg",
+              "width": 817,
+              "height": 1229
+            }
+          ]
+        },
+        "characters": [
+          "George Coates"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2581029",
+          "display_name": "Mihran Slougian",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzMxNTUwMTg4OV5BMl5BanBnXkFtZTgwMjk0ODM0MTE@._V1_.jpg",
+              "width": 432,
+              "height": 648
+            }
+          ]
+        },
+        "characters": [
+          "Jandali"
+        ]
+      }
+    ]
+  }
+}

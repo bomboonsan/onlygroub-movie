@@ -1,0 +1,342 @@
+{
+  "title": {
+    "id": "tt1620680",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "A Wrinkle in Time",
+    "original_title": null,
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 109,
+    "plot": "After the disappearance of her scientist father, three peculiar beings send Meg, her brother, and her friend to space in order to find him.",
+    "rating": {
+      "aggregate_rating": 4.3,
+      "votes_count": 47821
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Family",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjMxNjQ5MTI3MV5BMl5BanBnXkFtZTgwMjQ2MTAyNDM@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 53,
+      "review_count": 52
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1148550",
+          "display_name": "Ava DuVernay",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzk2MjIwOTk2Nl5BMl5BanBnXkFtZTgwMzY1NTc1NDE@._V1_.jpg",
+              "width": 1594,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1601644",
+          "display_name": "Jennifer Lee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODIzNzYxMDg0MF5BMl5BanBnXkFtZTgwMDIwMDA5NzM@._V1_.jpg",
+              "width": 1500,
+              "height": 2000
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0830969",
+          "display_name": "Jeff Stockwell",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0478291",
+          "display_name": "Madeleine L'Engle",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm4977564",
+          "display_name": "Storm Reid",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzRmOWRkZjUtOGI4YS00MTVhLTliNTUtMDFmZWU4YTNkNDBlXkEyXkFqcGdeQXVyMjk5NzM4OTc@._V1_.jpg",
+              "width": 683,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Meg"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001856",
+          "display_name": "Oprah Winfrey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgzODE3MzYxNF5BMl5BanBnXkFtZTYwMzEyNjc4._V1_.jpg",
+              "width": 272,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Mrs. Which"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000702",
+          "display_name": "Reese Witherspoon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTdlMzNkODUtZTA2My00NzJhLTkwMjAtMzk4MWQ0MDQzMGNiXkEyXkFqcGdeQXVyNDY1Njg3OA@@._V1_.jpg",
+              "width": 1200,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Mrs. Whatsit"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1411676",
+          "display_name": "Mindy Kaling",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzQ2OTUzNDU1MF5BMl5BanBnXkFtZTcwODQ2MTYyNw@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mrs. Who"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5920962",
+          "display_name": "Levi Miller",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2E1NTI0OWItMTNkNC00NDcyLWJjMTQtMTEyMmNiNjMxMmJiXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3878,
+              "height": 4849
+            }
+          ]
+        },
+        "characters": [
+          "Calvin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8097993",
+          "display_name": "Deric McCabe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGQzMzQ5N2MtYzMzZS00ZGMxLThjZjEtNDc3YWM4YmM0MmUwXkEyXkFqcGdeQXVyNjY2MTYyNDM@._V1_.jpg",
+              "width": 2400,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Charles Wallace"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1517976",
+          "display_name": "Chris Pine",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM4OTQ4NTU3NV5BMl5BanBnXkFtZTcwNjEwNDU0OQ@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Murry"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1813221",
+          "display_name": "Gugu Mbatha-Raw",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2FlZWVlYWMtMDM5OC00M2IxLWI5ZmYtNzdiNGQ1OTA0MjgzXkEyXkFqcGdeQXVyOTIzNjQ2NjY@._V1_.jpg",
+              "width": 1371,
+              "height": 1500
+            }
+          ]
+        },
+        "characters": [
+          "Mrs. Murry"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0302108",
+          "display_name": "Zach Galifianakis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQwNzI3NjIwMV5BMl5BanBnXkFtZTcwMzA1OTIwMw@@._V1_.jpg",
+              "width": 273,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Happy Medium"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0671567",
+          "display_name": "Michael Peña",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTczNzcxNTE5NV5BMl5BanBnXkFtZTcwOTE4MTMzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 582
+            }
+          ]
+        },
+        "characters": [
+          "Red"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2428245",
+          "display_name": "André Holland",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc2NDUxMzM3Nl5BMl5BanBnXkFtZTgwNTEzMjEwNzE@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        },
+        "characters": [
+          "Principal Jenkins"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3688576",
+          "display_name": "Rowan Blanchard",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTg2ZjlkY2UtM2MzNS00MTZhLWI4ODYtM2M5NWU5ZDBmMGY0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+              "width": 4000,
+              "height": 6000
+            }
+          ]
+        },
+        "characters": [
+          "Veronica Kiley"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0949292",
+          "display_name": "Bellamy Young",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ5NTU5NjU1NF5BMl5BanBnXkFtZTcwNzIxMjM5OA@@._V1_.jpg",
+              "width": 427,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Camazotz Woman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0654648",
+          "display_name": "David Oyelowo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTMyODkxMzktNWMwMy00MjRlLTlmNjUtM2I0NTczZDU3YjE0XkEyXkFqcGdeQXVyOTkyMDQ2Mw@@._V1_.jpg",
+              "width": 788,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "The It"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0730959",
+          "display_name": "Conrad Roberts",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY2OTczMTQ0M15BMl5BanBnXkFtZTcwNzYwOTAzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 374
+            }
+          ]
+        },
+        "characters": [
+          "Elegant Man"
+        ]
+      }
+    ]
+  }
+}

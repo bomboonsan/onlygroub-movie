@@ -1,0 +1,336 @@
+{
+  "title": {
+    "id": "tt2084970",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Imitation Game",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 114,
+    "plot": "During World War II, the English mathematical genius Alan Turing tries to crack the German Enigma code with help from fellow mathematicians while attempting to come to terms with his troubled private life.",
+    "rating": {
+      "aggregate_rating": 8,
+      "votes_count": 819576
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "Thriller",
+      "War"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjI3NjY1Mjg3MV5BMl5BanBnXkFtZTgwMzk5MDQ3MjE@._V1_.jpg",
+        "width": 1393,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 71,
+      "review_count": 49
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0878763",
+          "display_name": "Morten Tyldum",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgyNDM1ODkzMV5BMl5BanBnXkFtZTcwNTMxMjg0Nw@@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2441699",
+          "display_name": "Graham Moore",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTQ2Njg1OTM2OF5BMl5BanBnXkFtZTgwMDk2MzU0MzE@._V1_.jpg",
+              "width": 1361,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0388132",
+          "display_name": "Andrew Hodges",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1212722",
+          "display_name": "Benedict Cumberbatch",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE0MDkzMDQwOF5BMl5BanBnXkFtZTgwOTE1Mjg1MzE@._V1_.jpg",
+              "width": 1414,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Alan Turing"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0461136",
+          "display_name": "Keira Knightley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYwNDM0NDA3M15BMl5BanBnXkFtZTcwNTkzMjQ3OA@@._V1_.jpg",
+              "width": 1458,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Joan Clarke"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0328828",
+          "display_name": "Matthew Goode",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY5MDI4NzkxOV5BMl5BanBnXkFtZTgwNzc2MzU0MzE@._V1_.jpg",
+              "width": 1360,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Hugh Alexander"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1239499",
+          "display_name": "Rory Kinnear",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQwOTMwMDM5OV5BMl5BanBnXkFtZTcwODQ1MDExOA@@._V1_.jpg",
+              "width": 1465,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Detective Robert Nock"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1395602",
+          "display_name": "Allen Leech",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjg1MWM5MWQtZmRlZi00ZTYwLWJiOGUtZDgxMjA1N2FlZTA1XkEyXkFqcGdeQXVyMzY2MjAzMDM@._V1_.jpg",
+              "width": 832,
+              "height": 1180
+            }
+          ]
+        },
+        "characters": [
+          "John Cairncross"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0063914",
+          "display_name": "Matthew Beard",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg4MjI1MTU1MF5BMl5BanBnXkFtZTcwOTg2ODAzOQ@@._V1_.jpg",
+              "width": 1510,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Peter Hilton"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001097",
+          "display_name": "Charles Dance",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzY0Mjg4MzM0Ml5BMl5BanBnXkFtZTcwODc4NTIxNw@@._V1_.jpg",
+              "width": 1529,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Commander Denniston"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0835016",
+          "display_name": "Mark Strong",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDMyZTk5YWQtODNmMy00NDBkLThjMmYtOWEzZWJkOTQxZDc1XkEyXkFqcGdeQXVyMDQxMDEwMw@@._V1_.jpg",
+              "width": 744,
+              "height": 951
+            }
+          ]
+        },
+        "characters": [
+          "Stewart Menzies"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3485153",
+          "display_name": "James Northcote",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjM1MWQ3ZjctNjRiOC00ZjFmLTk0NTgtMmQwYWZmMGEzYTQ0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2400,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Jack Good"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0329259",
+          "display_name": "Tom Goodman-Hill",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDE5OWQ4NmYtNzQ3Mi00YmQzLWI3NDctZTQ0YzkzZDIxZjc2XkEyXkFqcGdeQXVyOTI1NjA2OQ@@._V1_.jpg",
+              "width": 1002,
+              "height": 1570
+            }
+          ]
+        },
+        "characters": [
+          "Sergeant Staehl"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0905357",
+          "display_name": "Steven Waddington",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTJkZGU2NmMtZjQ3YS00YmM3LThhMmEtYmEzYjNjOGFkMTQ4XkEyXkFqcGdeQXVyMTM2NTQ0NTY@._V1_.jpg",
+              "width": 750,
+              "height": 1334
+            }
+          ]
+        },
+        "characters": [
+          "Superintendent Smith"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2802899",
+          "display_name": "Ilan Goodman",
+          "avatars": null
+        },
+        "characters": [
+          "Keith Furman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0850526",
+          "display_name": "Jack Tarlton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDQ2MWJjYjYtMGQwYS00ZjRhLWIxNWQtY2U0NzhhNGQxODlkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2400,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Charles Richards"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3867299",
+          "display_name": "Alex Lawther",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI2OTk0NDM4OV5BMl5BanBnXkFtZTgwMTc2MTUyMDI@._V1_.jpg",
+              "width": 1495,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Young Alan Turing"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1827142",
+          "display_name": "Jack Bannon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzE0OWE5ODAtNDExOS00OGYwLTlhOTEtNTRiMjhlODhmMWU2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+              "width": 2464,
+              "height": 3695
+            }
+          ]
+        },
+        "characters": [
+          "Christopher Morcom"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "title": {
+    "id": "tt1979388",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Good Dinosaur",
+    "original_title": null,
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 93,
+    "plot": "In a world where dinosaurs and humans live side-by-side, an Apatosaurus named Arlo makes an unlikely human friend.",
+    "rating": {
+      "aggregate_rating": 6.7,
+      "votes_count": 126524
+    },
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Drama",
+      "Family",
+      "Fantasy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTc5MTg2NjQ4MV5BMl5BanBnXkFtZTgwNzcxOTY5NjE@._V1_.jpg",
+        "width": 1080,
+        "height": 1600
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "JP",
+        "name": "Japan"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 66,
+      "review_count": 37
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0812307",
+          "display_name": "Peter Sohn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk0NzcwMzc1MF5BMl5BanBnXkFtZTcwMTY2NjkxOA@@._V1_.jpg",
+              "width": 1542,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0677037",
+          "display_name": "Bob Peterson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU4NTQ4ODI5N15BMl5BanBnXkFtZTYwNzIwODA3._V1_.jpg",
+              "width": 500,
+              "height": 607
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0812307",
+          "display_name": "Peter Sohn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk0NzcwMzc1MF5BMl5BanBnXkFtZTcwMTY2NjkxOA@@._V1_.jpg",
+              "width": 1542,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm4402755",
+          "display_name": "Erik Benson",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0498834",
+          "display_name": "Meg LeFauve",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTk4MjE3ODg1MV5BMl5BanBnXkFtZTgwMDk2MjYwNzE@._V1_.jpg",
+              "width": 183,
+              "height": 275
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1626375",
+          "display_name": "Kelsey Mann",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0942482",
+          "display_name": "Jeffrey Wright",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI1NDYyNzk4OV5BMl5BanBnXkFtZTgwNDAyMzI1MDI@._V1_.jpg",
+              "width": 3375,
+              "height": 2250
+            }
+          ]
+        },
+        "characters": [
+          "Poppa"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000531",
+          "display_name": "Frances McDormand",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI3NzgxNjYzOF5BMl5BanBnXkFtZTgwNTIxMjExNzE@._V1_.jpg",
+              "width": 1976,
+              "height": 2380
+            }
+          ]
+        },
+        "characters": [
+          "Momma"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5558187",
+          "display_name": "Maleah Nipay-Padilla",
+          "avatars": null
+        },
+        "characters": [
+          "Young Libby"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4455823",
+          "display_name": "Ryan Teeple",
+          "avatars": null
+        },
+        "characters": [
+          "Young Buck"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7050523",
+          "display_name": "Jack McGraw",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjE3MGY4ODYtMjA4Yy00YjNmLWJlMTQtMDExZDUwODMxODI1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1884,
+              "height": 2826
+            }
+          ]
+        },
+        "characters": [
+          "Young Arlo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3851090",
+          "display_name": "Marcus Scribner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzE2YmJjNWItMDg1Ni00ZmZlLWJhNDItMWNmZjhjMjYxNTJjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 2397,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Buck"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2358105",
+          "display_name": "Raymond Ochoa",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmJlZDVkNmQtZTg1Yi00OTJiLWFjMDItMmIzNjViZWYxOWEyXkEyXkFqcGdeQXVyOTIxNjcwNw@@._V1_.jpg",
+              "width": 3344,
+              "height": 5016
+            }
+          ]
+        },
+        "characters": [
+          "Arlo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3603996",
+          "display_name": "Jack Bright",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE1OTYwNTE1M15BMl5BanBnXkFtZTgwMDc4NzkyNzE@._V1_.jpg",
+              "width": 2048,
+              "height": 1615
+            }
+          ]
+        },
+        "characters": [
+          "Spot"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0812307",
+          "display_name": "Peter Sohn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk0NzcwMzc1MF5BMl5BanBnXkFtZTcwMTY2NjkxOA@@._V1_.jpg",
+              "width": 1542,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Pet Collector"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001872",
+          "display_name": "Steve Zahn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzc0MzcxMDgtMTIzNy00MmZkLTk5Y2EtYWQ1NWYzNDcyOGEzXkEyXkFqcGdeQXVyNjk1MjYyNTA@._V1_.jpg",
+              "width": 684,
+              "height": 908
+            }
+          ]
+        },
+        "characters": [
+          "Thunderclap"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0294490",
+          "display_name": "Mandy Freund",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWQ5NTJmMjMtY2UwNS00OTdmLThhNmMtNzQzOTVlYTFiYTg3XkEyXkFqcGdeQXVyMTI3MDY1MTE1._V1_.jpg",
+              "width": 2208,
+              "height": 2208
+            }
+          ]
+        },
+        "characters": [
+          "Downpour"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0403051",
+          "display_name": "Steven Clay Hunter",
+          "avatars": null
+        },
+        "characters": [
+          "Coldfront"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0118568",
+          "display_name": "A.J. Buckley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjVjZjdiNmYtZjU0Ny00MDg1LWIxODUtZmI5ZWMyYjZmMWYwXkEyXkFqcGdeQXVyMzU3MDgzOA@@._V1_.jpg",
+              "width": 441,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Nash"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001593",
+          "display_name": "Anna Paquin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcxNzM2NjMzNl5BMl5BanBnXkFtZTgwOTE2Njk0MjE@._V1_.jpg",
+              "width": 634,
+              "height": 482
+            }
+          ]
+        },
+        "characters": [
+          "Ramsey"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000385",
+          "display_name": "Sam Elliott",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU0NTk4NDgzMl5BMl5BanBnXkFtZTYwNjU5Nzc1._V1_.jpg",
+              "width": 261,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Butch"
+        ]
+      }
+    ]
+  }
+}

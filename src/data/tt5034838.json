@@ -1,0 +1,382 @@
+{
+  "title": {
+    "id": "tt5034838",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Godzilla vs. Kong",
+    "original_title": null,
+    "start_year": 2021,
+    "end_year": null,
+    "runtime_minutes": 113,
+    "plot": "The epic next chapter in the cinematic Monsterverse pits two of the greatest icons in motion picture history against each other--the fearsome Godzilla and the mighty Kong--with humanity caught in the balance.",
+    "rating": {
+      "aggregate_rating": 6.3,
+      "votes_count": 242177
+    },
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTI3NzNhNDItYWY0My00ZmE3LTgxMmYtYzQzZWU2NDcxYzVjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+        "width": 2043,
+        "height": 3000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "ase",
+        "name": "American Sign Language"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 59,
+      "review_count": 57
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1417392",
+          "display_name": "Adam Wingard",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQxNDc2OTM1OF5BMl5BanBnXkFtZTcwNTUzODg1OA@@._V1_.jpg",
+              "width": 1430,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0744429",
+          "display_name": "Terry Rossio",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTBjYzQ0YmMtNDk2OC00YzJkLTg0NzctY2NiMDNhNzA4NGY1XkEyXkFqcGc@._V1_.jpg",
+              "width": 2823,
+              "height": 1897
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1002424",
+          "display_name": "Michael Dougherty",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTIzMDE5MDE1Ml5BMl5BanBnXkFtZTcwOTc5Nzg5MQ@@._V1_.jpg",
+              "width": 1242,
+              "height": 1069
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1296461",
+          "display_name": "Zach Shields",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGE0ODU3ZWQtMTE0OS00MzFmLWI3NDQtYmM3ZjhmMTFkZTg2XkEyXkFqcGdeQXVyNzA0MTAxNDE@._V1_.jpg",
+              "width": 2100,
+              "height": 1950
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm3069408",
+          "display_name": "Eric Pearson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDAwYTkxMTAtNjRkYS00ZTI5LWIyMDEtNjU1MjQ2MmE3MWZiXkEyXkFqcGdeQXVyNDM0NDAwOTQ@._V1_.jpg",
+              "width": 3605,
+              "height": 2393
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1440919",
+          "display_name": "Max Borenstein",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzRkY2M1YTEtNGMzYi00ZWIxLWIwN2YtOGFlMzU2MmE0Y2ViXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
+              "width": 349,
+              "height": 524
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0002907",
+          "display_name": "Alexander Skarsgård",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY1MjQxNjEzOF5BMl5BanBnXkFtZTgwMTU5ODM2ODE@._V1_.jpg",
+              "width": 1360,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Nathan Lind"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5611121",
+          "display_name": "Millie Bobby Brown",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA5NzA0NzQzMF5BMl5BanBnXkFtZTgwMTQxNjUzNjM@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Madison Russell"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0356017",
+          "display_name": "Rebecca Hall",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjkzODU4MTQ4OV5BMl5BanBnXkFtZTcwNDU0MTA4NA@@._V1_.jpg",
+              "width": 1538,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Ilene Andrews"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3109964",
+          "display_name": "Brian Tyree Henry",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjc5Njg2OTQtNmNkMS00YmZlLWIwYzgtNGQ5MjFkNTliMWIxXkEyXkFqcGdeQXVyMjE0NjY2NTA@._V1_.jpg",
+              "width": 8736,
+              "height": 11648
+            }
+          ]
+        },
+        "characters": [
+          "Bernie Hayes"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1040419",
+          "display_name": "Shun Oguri",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWNlNjM5ZTMtMDBmMS00MmQ0LWFiODItODFmZTJlNzllMTM5XkEyXkFqcGdeQXVyMTAwMDkxODM5._V1_.jpg",
+              "width": 1920,
+              "height": 2880
+            }
+          ]
+        },
+        "characters": [
+          "Ren Serizawa"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2555462",
+          "display_name": "Eiza González",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODZjZTI5OTQtYzVkYS00ZTNkLTgwNTQtNmM5NTQxMzkxYjgxXkEyXkFqcGdeQXVyNjA1OTA1Njk@._V1_.jpg",
+              "width": 1440,
+              "height": 1800
+            }
+          ]
+        },
+        "characters": [
+          "Maia Simmons"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5421877",
+          "display_name": "Julian Dennison",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjVlMTYyNTItMjY0ZS00ZWYwLWFiYjktNGI5ZGE4M2I0ODE3XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 390,
+              "height": 500
+            }
+          ]
+        },
+        "characters": [
+          "Josh Valentine"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0714698",
+          "display_name": "Lance Reddick",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk1OTc3OTEyMl5BMl5BanBnXkFtZTgwODI0NTI0MjE@._V1_.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ]
+        },
+        "characters": [
+          "Guillermin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0151419",
+          "display_name": "Kyle Chandler",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTM5NDM4ODg3MV5BMl5BanBnXkFtZTcwNTA3MTk3Mw@@._V1_.jpg",
+              "width": 1391,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mark Russell"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0065007",
+          "display_name": "Demián Bichir",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIzNDMwMzI3OV5BMl5BanBnXkFtZTgwNTk2NzMyMTE@._V1_.jpg",
+              "width": 451,
+              "height": 594
+            }
+          ]
+        },
+        "characters": [
+          "Walter Simmons"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10544447",
+          "display_name": "Kaylee Hottle",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg4YjU4NjItNjNmNi00NTg4LTgwZjktNmE0YzhjYWY1ZjAzXkEyXkFqcGdeQXVyMTAwNDIwNDgx._V1_.jpg",
+              "width": 870,
+              "height": 1080
+            }
+          ]
+        },
+        "characters": [
+          "Jia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0434444",
+          "display_name": "Hakeem Kae-Kazim",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGUwYzFkZWQtMjM3My00OTdhLThmZTgtZjk0NmI4NTUzYzQwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3768,
+              "height": 5651
+            }
+          ]
+        },
+        "characters": [
+          "Admiral Wilcox"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5307044",
+          "display_name": "Ronny Chieng",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDFmMGZjMGQtYTMzMy00YWU4LTg2YjUtNzM1NjhiZWEyOTgwXkEyXkFqcGdeQXVyMzg4NzIxMA@@._V1_.jpg",
+              "width": 640,
+              "height": 790
+            }
+          ]
+        },
+        "characters": [
+          "Jay Wayne"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0685328",
+          "display_name": "John Pirruccello",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjFiYjUzZDYtMTY3Ny00NzI3LWI3YmUtMmU4M2E5MTk0ZjdlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1168,
+              "height": 620
+            }
+          ]
+        },
+        "characters": [
+          "Horace"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1663252",
+          "display_name": "Chris Chalk",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTc1ZmNlZmMtZmYxZC00NDQ5LTgwNTEtNjgzNjUyNmVjM2M4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2048,
+              "height": 2560
+            }
+          ]
+        },
+        "characters": [
+          "Ben"
+        ]
+      }
+    ]
+  }
+}

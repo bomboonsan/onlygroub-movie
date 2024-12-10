@@ -1,0 +1,309 @@
+{
+  "title": {
+    "id": "tt11252248",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Dog",
+    "original_title": null,
+    "start_year": 2022,
+    "end_year": null,
+    "runtime_minutes": 101,
+    "plot": "Two former Army Rangers are paired against their will on the road trip of a lifetime. Briggs (Channing Tatum) and Lulu (a Belgian Malinois) race down the Pacific Coast to get to a fellow soldier's funeral on time.",
+    "rating": {
+      "aggregate_rating": 6.5,
+      "votes_count": 46592
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjA2MDM2YjctYzNhNC00NGEzLWFmYWEtODExODFkNmUyOGE2XkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_.jpg",
+        "width": 2765,
+        "height": 4096
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 61,
+      "review_count": 33
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1730221",
+          "display_name": "Reid Carolin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyNzI2ODQ3Nl5BMl5BanBnXkFtZTcwNDA4OTMwOA@@._V1_.jpg",
+              "width": 1398,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1475594",
+          "display_name": "Channing Tatum",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTc2NTEwNV5BMl5BanBnXkFtZTgwNDgxMjMxNjE@._V1_.jpg",
+              "width": 1093,
+              "height": 1044
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1730221",
+          "display_name": "Reid Carolin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyNzI2ODQ3Nl5BMl5BanBnXkFtZTcwNDA4OTMwOA@@._V1_.jpg",
+              "width": 1398,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2415524",
+          "display_name": "Brett Rodriguez",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1475594",
+          "display_name": "Channing Tatum",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTc2NTEwNV5BMl5BanBnXkFtZTgwNDgxMjMxNjE@._V1_.jpg",
+              "width": 1093,
+              "height": 1044
+            }
+          ]
+        },
+        "characters": [
+          "Jackson Briggs"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9208180",
+          "display_name": "Ryder McLaughlin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM0NDE5MzAwOV5BMl5BanBnXkFtZTgwNzYwNjAzNjM@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Deli Teenager"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3590810",
+          "display_name": "Aavi Haas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmVkZGQzYTgtNDQwYi00N2IxLTg2ODMtYzFiZmZlNjk0YTYwXkEyXkFqcGdeQXVyNjA3NDA3OTg@._V1_.jpg",
+              "width": 809,
+              "height": 772
+            }
+          ]
+        },
+        "characters": [
+          "Deli Manager"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4380467",
+          "display_name": "Luke Forbes",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTZhYzUzODAtOTk4NC00MmRmLTgzYjYtODNiYTlkM2E4NmEyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 414,
+              "height": 479
+            }
+          ]
+        },
+        "characters": [
+          "Ranger Jones"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12450894",
+          "display_name": "Donovan Hunter",
+          "avatars": null
+        },
+        "characters": [
+          "Army Ranger"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm13409893",
+          "display_name": "Peter Ostrander",
+          "avatars": null
+        },
+        "characters": [
+          "Army Ranger"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm13409894",
+          "display_name": "Trey Panella",
+          "avatars": null
+        },
+        "characters": [
+          "Army Ranger"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9251120",
+          "display_name": "Patrick Perlaky",
+          "avatars": null
+        },
+        "characters": [
+          "Sgt. Kiernan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11577563",
+          "display_name": "Devin White",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTIzNGFlMTQtMDczYS00NWFjLWI0ZDItY2M4N2JkOGU5MDMyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 5760,
+              "height": 3840
+            }
+          ]
+        },
+        "characters": [
+          "Fort Lewis MP"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12450892",
+          "display_name": "John Dixon",
+          "avatars": null
+        },
+        "characters": [
+          "Squad Leader"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12450891",
+          "display_name": "Trent McDonald",
+          "avatars": null
+        },
+        "characters": [
+          "Kennel Master"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2750563",
+          "display_name": "Luke Jones",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWVjNmIzZDAtNGI5NC00YmQ1LTk1Y2ItNDRkODI2OTE0OGU3XkEyXkFqcGdeQXVyMTI3MjUyMzAw._V1_.jpg",
+              "width": 500,
+              "height": 750
+            }
+          ]
+        },
+        "characters": [
+          "Bartender"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6530137",
+          "display_name": "Skyler Joy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmM0MDYxZGItMjQ4ZC00NGFhLWI2ODEtMDRmNTdmOGU0YTMxXkEyXkFqcGc@._V1_.jpg",
+              "width": 853,
+              "height": 1280
+            }
+          ]
+        },
+        "characters": [
+          "Natalie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1658627",
+          "display_name": "Cole Walliser",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzExODhiNDgtNzAwYi00Y2Q5LWI0MTItZjkzY2E2NjhjYjdlXkEyXkFqcGc@._V1_.jpg",
+              "width": 2793,
+              "height": 4196
+            }
+          ]
+        },
+        "characters": [
+          "Tech Bro"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3121198",
+          "display_name": "Tory Freeth",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTA2N2IwYzAtNWI1MC00YTVkLThlMTYtZGQ5YzdlNTAwZTRlXkEyXkFqcGc@._V1_.jpg",
+              "width": 5464,
+              "height": 8192
+            }
+          ]
+        },
+        "characters": [
+          "Sonia"
+        ]
+      }
+    ]
+  }
+}

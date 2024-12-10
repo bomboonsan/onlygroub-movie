@@ -1,0 +1,54 @@
+{
+  "title": {
+    "id": "tt0462335",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "High-Rise",
+    "original_title": null,
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 119,
+    "plot": "Life for the residents of a tower block begins to run out of control.",
+    "rating": {
+      "aggregate_rating": 5.5,
+      "votes_count": 45204
+    },
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "posters": null,
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "BE",
+        "name": "Belgium"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "critic_review": {
+      "score": 65,
+      "review_count": 36
+    },
+    "directors": null,
+    "writers": null,
+    "casts": null
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "title": {
+    "id": "tt4500922",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Maze Runner: The Death Cure",
+    "original_title": null,
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 143,
+    "plot": "Young hero Thomas embarks on a mission to find a cure for a deadly disease known as \"The Flare\".",
+    "rating": {
+      "aggregate_rating": 6.2,
+      "votes_count": 159935
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTYyNzk3MDc2NF5BMl5BanBnXkFtZTgwMDk3OTM1NDM@._V1_.jpg",
+        "width": 1012,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 50,
+      "review_count": 38
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1226871",
+          "display_name": "Wes Ball",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjU3Mjk2MzA0NV5BMl5BanBnXkFtZTgwNTI5OTgxNzE@._V1_.jpg",
+              "width": 1971,
+              "height": 3150
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2385905",
+          "display_name": "T.S. Nowlin",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm4212895",
+          "display_name": "James Dashner",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm3729721",
+          "display_name": "Dylan O'Brien",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjA5YWIwZjktOWE4NS00ZTc3LWJiM2YtNTNlM2M2YThjYWZmXkEyXkFqcGdeQXVyMDI3NTg0NQ@@._V1_.jpg",
+              "width": 863,
+              "height": 1230
+            }
+          ]
+        },
+        "characters": [
+          "Thomas"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3859624",
+          "display_name": "Ki Hong Lee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjRiMzE3MjgtNGM4Yi00MDk3LWE4MmQtM2MzODQzMmJiM2Q4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 613,
+              "height": 800
+            }
+          ]
+        },
+        "characters": [
+          "Minho"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2546012",
+          "display_name": "Kaya Scodelario",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODA5N2IzZGEtOTc5MS00YjFiLTlmNmMtZTRiZDI0NWRlYWJlXkEyXkFqcGdeQXVyMTU2MDcyMjMw._V1_.jpg",
+              "width": 749,
+              "height": 1000
+            }
+          ]
+        },
+        "characters": [
+          "Teresa"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1032473",
+          "display_name": "Thomas Brodie-Sangster",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM4OTUyMzY0OV5BMl5BanBnXkFtZTcwMTEyMTUwOA@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Newt"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2766708",
+          "display_name": "Dexter Darden",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjhhZjY1NzEtOTZmNS00MWQ1LTg0YWUtOGJmYTlhOTE0ZWViXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 200,
+              "height": 252
+            }
+          ]
+        },
+        "characters": [
+          "Frypan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2401020",
+          "display_name": "Will Poulter",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGM5Y2IxNmYtODg5Zi00YjZhLThkZDUtMGE1ODc4N2MyZjAzXkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_.jpg",
+              "width": 527,
+              "height": 430
+            }
+          ]
+        },
+        "characters": [
+          "Gally"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5015107",
+          "display_name": "Jacob Lofland",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgyMDYwODcxOV5BMl5BanBnXkFtZTgwMzIxNjY4MDI@._V1_.jpg",
+              "width": 1000,
+              "height": 1500
+            }
+          ]
+        },
+        "characters": [
+          "Aris"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4023073",
+          "display_name": "Rosa Salazar",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2FkNDAwMDItMWQwNy00YzE5LWJiM2EtZmNhZTZjZDk1YmJlXkEyXkFqcGdeQXVyMjQwMTcxMzA@._V1_.jpg",
+              "width": 1080,
+              "height": 1440
+            }
+          ]
+        },
+        "characters": [
+          "Brenda"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0002064",
+          "display_name": "Giancarlo Esposito",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEyODM1NjI0OF5BMl5BanBnXkFtZTcwMTE0OTA1Mg@@._V1_.jpg",
+              "width": 281,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Jorge"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0165101",
+          "display_name": "Patricia Clarkson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgyMjI2MjY1NV5BMl5BanBnXkFtZTcwODUyNjkxMw@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Ava Paige"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0318821",
+          "display_name": "Aidan Gillen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMwNzE4MzMxNl5BMl5BanBnXkFtZTgwOTYwMTEyMDE@._V1_.jpg",
+              "width": 1536,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Janson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001608",
+          "display_name": "Barry Pepper",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGIzYmY0ZmMtMjI1Yy00Zjg3LWE5NGQtN2E4NmU5NWNiZTk4XkEyXkFqcGdeQXVyMTU1MjM5NTk0._V1_.jpg",
+              "width": 1278,
+              "height": 1452
+            }
+          ]
+        },
+        "characters": [
+          "Vince"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2812026",
+          "display_name": "Nathalie Emmanuel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTlmMTIwNDMtOWQyZS00OTc4LWFlOTYtYTZhNGQ3ZWYxYzcxXkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_.jpg",
+              "width": 1200,
+              "height": 1800
+            }
+          ]
+        },
+        "characters": [
+          "Harriet"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3031063",
+          "display_name": "Katherine McNamara",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjk4M2VkZTgtNjc3Zi00OTEzLWE1MDgtZDI4OWIzM2ZhMDdiXkEyXkFqcGdeQXVyMjU0ODI4MzY@._V1_.jpg",
+              "width": 942,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Sonya"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0324658",
+          "display_name": "Walton Goggins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzcxNjJiMWUtMDgwYS00MDg0LWJmZGQtMWNlMTIwNDhhODQ0XkEyXkFqcGdeQXVyNDg4OTQzNjg@._V1_.jpg",
+              "width": 1170,
+              "height": 1653
+            }
+          ]
+        },
+        "characters": [
+          "Lawrence"
+        ]
+      }
+    ]
+  }
+}

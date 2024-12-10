@@ -1,0 +1,319 @@
+{
+  "title": {
+    "id": "tt5108870",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Morbius",
+    "original_title": null,
+    "start_year": 2022,
+    "end_year": null,
+    "runtime_minutes": 104,
+    "plot": "Biochemist Michael Morbius tries to cure himself of a rare blood disease, but he inadvertently infects himself with a form of vampirism instead.",
+    "rating": {
+      "aggregate_rating": 5.1,
+      "votes_count": 153717
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGM1NDU0ZGYtOWRmOC00NjYxLTk2ZTMtZTQ1MTUwNjhhYmNhXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
+        "width": 1350,
+        "height": 2000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "rus",
+        "name": "Russian"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 35,
+      "review_count": 55
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1174251",
+          "display_name": "Daniel Espinosa",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzdmYzE4MzAtYzFlMC00ZTgxLWJkNmUtNzBhOGIzZTVhZjAxXkEyXkFqcGdeQXVyODI0NTA2MDQ@._V1_.jpg",
+              "width": 194,
+              "height": 255
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1948885",
+          "display_name": "Matt Sazama",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2332952",
+          "display_name": "Burk Sharpless",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0001467",
+          "display_name": "Jared Leto",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTczMjUwNDUzMF5BMl5BanBnXkFtZTgwNDA4OTAzMTE@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Michael Morbius"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1741002",
+          "display_name": "Matt Smith",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE0NzExMTg0MV5BMl5BanBnXkFtZTgwOTIyNTI5NzE@._V1_.jpg",
+              "width": 1719,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Milo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5245722",
+          "display_name": "Adria Arjona",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWIzMDVkYWUtYTA3My00MzIwLWJhY2MtNWNlODA3NWQyYmI4XkEyXkFqcGdeQXVyMTI2Nzk2ODk3._V1_.jpg",
+              "width": 1452,
+              "height": 1582
+            }
+          ]
+        },
+        "characters": [
+          "Martine Bancroft"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0364813",
+          "display_name": "Jared Harris",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODgyOTdjZjAtYmI2MS00ZjdhLTk0NzMtNGRhYjI4NTE3MjBhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "width": 3000,
+              "height": 2999
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Emil Nicholas"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0879085",
+          "display_name": "Tyrese Gibson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA3MjU1NzY4OF5BMl5BanBnXkFtZTgwMzU3MDQxNTE@._V1_.jpg",
+              "width": 1360,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Agent Simon Stroud"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1371339",
+          "display_name": "Al Madrigal",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODE3OWMwNzItYzkyMC00NGY4LWEyY2QtNTg4ZjM4ZmY1MTM2XkEyXkFqcGdeQXVyODkxODYyMzI@._V1_.jpg",
+              "width": 3376,
+              "height": 4600
+            }
+          ]
+        },
+        "characters": [
+          "Agent Rodriguez"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000474",
+          "display_name": "Michael Keaton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmNiZmMzN2MtOTNkMy00YjA1LTg4NzktMWI4Njg1NzI3ODAyXkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_.jpg",
+              "width": 1860,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Adrian Toomes"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9485683",
+          "display_name": "Zaris-Angel Hator",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWU0ZWVkODQtOTFmZC00NDg5LTkwYzUtMDBkNDA0MDc5NDMwXkEyXkFqcGdeQXVyMTM2MjgyMDYz._V1_.jpg",
+              "width": 860,
+              "height": 1075
+            }
+          ]
+        },
+        "characters": [
+          "Anna"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1035368",
+          "display_name": "Joe Ferrara",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTA4ODM4ODY1OV5BMl5BanBnXkFtZTcwNjUwNTM5OQ@@._V1_.jpg",
+              "width": 800,
+              "height": 1000
+            }
+          ]
+        },
+        "characters": [
+          "Bush Pilot"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6339026",
+          "display_name": "Charlie Shotwell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmFhNjQ5NzItOTk3OS00ZjIyLWE1OTktMGQwYTY5NmI1M2M3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 4001,
+              "height": 6000
+            }
+          ]
+        },
+        "characters": [
+          "Young Michael"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10795427",
+          "display_name": "Joseph Esson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDEyM2NmYmEtNTFhNS00MWM0LTkxYzQtYzEwNjZmNTE3NWUzXkEyXkFqcGc@._V1_.jpg",
+              "width": 1338,
+              "height": 2008
+            }
+          ]
+        },
+        "characters": [
+          "Young Milo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11078354",
+          "display_name": "Jason Rennie",
+          "avatars": null
+        },
+        "characters": [
+          "Ringleader Bully"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm13539276",
+          "display_name": "Aryan Moaven",
+          "avatars": null
+        },
+        "characters": [
+          "Gang Member"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm13539277",
+          "display_name": "Christopher Louridas",
+          "avatars": null
+        },
+        "characters": [
+          "Gang Member"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6220510",
+          "display_name": "Oliver Bodur",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDFkZDNlY2MtZTM1OC00NGY4LTk5ODItMjUwMjRjMzlkNTI3XkEyXkFqcGc@._V1_.jpg",
+              "width": 3390,
+              "height": 4237
+            }
+          ]
+        },
+        "characters": [
+          "Gang Member"
+        ]
+      }
+    ]
+  }
+}

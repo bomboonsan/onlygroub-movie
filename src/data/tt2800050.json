@@ -1,0 +1,100 @@
+{
+  "title": {
+    "id": "tt2800050",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "A Beautiful Planet",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 46,
+    "plot": "An exploration of Earth and beyond as seen from the International Space Station. Narrated by Jennifer Lawrence.",
+    "rating": {
+      "aggregate_rating": 7.3,
+      "votes_count": 1475
+    },
+    "genres": [
+      "Documentary"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTUzMjAxMzg5M15BMl5BanBnXkFtZTgwNjIxNjk5NzE@._V1_.jpg",
+        "width": 517,
+        "height": 755
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "G"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 75,
+      "review_count": 5
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0616880",
+          "display_name": "Toni Myers",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ4MDM0NjEyOV5BMl5BanBnXkFtZTgwMzIxOTc2ODE@._V1_.jpg",
+              "width": 2100,
+              "height": 3150
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0616880",
+          "display_name": "Toni Myers",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ4MDM0NjEyOV5BMl5BanBnXkFtZTgwMzIxOTc2ODE@._V1_.jpg",
+              "width": 2100,
+              "height": 3150
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm2225369",
+          "display_name": "Jennifer Lawrence",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTU3NDE5MDQ4MV5BMl5BanBnXkFtZTgwMzE5ODQ3MDI@._V1_.jpg",
+              "width": 1284,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Narrator"
+        ]
+      }
+    ]
+  }
+}

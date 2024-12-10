@@ -1,0 +1,391 @@
+{
+  "title": {
+    "id": "tt0870154",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Jungle Cruise",
+    "original_title": null,
+    "start_year": 2021,
+    "end_year": null,
+    "runtime_minutes": 127,
+    "plot": "Based on Disneyland's theme park ride where a small riverboat takes a group of travelers through a jungle filled with dangerous animals and reptiles but with a supernatural element.",
+    "rating": {
+      "aggregate_rating": 6.6,
+      "votes_count": 212794
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDE1MGRlNTQtZjc4ZC00MTI0LWEwY2MtODk1YTM2NmFmYTNmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+        "width": 1688,
+        "height": 2500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      },
+      {
+        "code": "ita",
+        "name": "Italian"
+      },
+      {
+        "code": "lat",
+        "name": "Latin"
+      },
+      {
+        "code": "por",
+        "name": "Portuguese"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 50,
+      "review_count": 52
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1429471",
+          "display_name": "Jaume Collet-Serra",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc3OTk0MTk2M15BMl5BanBnXkFtZTcwMjE1MjA1NA@@._V1_.jpg",
+              "width": 1406,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0338169",
+          "display_name": "Michael Green",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzJhMDY3YjUtZmFkMS00ZWJkLWE5ZDAtNjE3MTllZWZkZjFmXkEyXkFqcGdeQXVyNzU5MjUxNDA@._V1_.jpg",
+              "width": 5087,
+              "height": 5181
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0275629",
+          "display_name": "Glenn Ficarra",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ0NDYzNTIyM15BMl5BanBnXkFtZTgwNzgyOTA2NDE@._V1_.jpg",
+              "width": 1377,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0720135",
+          "display_name": "John Requa",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk1OTI3NDMxNl5BMl5BanBnXkFtZTcwNDUwODIxNA@@._V1_.jpg",
+              "width": 305,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0636358",
+          "display_name": "John Norville",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0326247",
+          "display_name": "Josh Goldstein",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0425005",
+          "display_name": "Dwayne Johnson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWU1ODBiNGUtMzVjNi00MzdhLTk0OTktOWRiOTIxMWNhOGI2XkEyXkFqcGdeQXVyMTU2OTM5NDQw._V1_.jpg",
+              "width": 5464,
+              "height": 8192
+            }
+          ]
+        },
+        "characters": [
+          "Frank Wolff"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1289434",
+          "display_name": "Emily Blunt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUxNDY4MTMzM15BMl5BanBnXkFtZTcwMjg5NzM2Ng@@._V1_.jpg",
+              "width": 1272,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Lily Houghton"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1183149",
+          "display_name": "Edgar Ramírez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI4MDgyODI2MV5BMl5BanBnXkFtZTgwMDA1NjUzNjM@._V1_.jpg",
+              "width": 1360,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Aguirre"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3099754",
+          "display_name": "Jack Whitehall",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTA3MzMzOTMzNF5BMl5BanBnXkFtZTgwMDExMjIwODE@._V1_.jpg",
+              "width": 1393,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "MacGregor Houghton"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0687146",
+          "display_name": "Jesse Plemons",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMThmNjY0YjUtZjNiZi00YWE0LWI0NTEtM2RkZjllN2JiMDA4XkEyXkFqcGdeQXVyMTY5MDYxNDg5._V1_.jpg",
+              "width": 720,
+              "height": 900
+            }
+          ]
+        },
+        "characters": [
+          "Prince Joachim"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0316079",
+          "display_name": "Paul Giamatti",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTc0MDAzMTU4N15BMl5BanBnXkFtZTcwNzA0NzcwNA@@._V1_.jpg",
+              "width": 310,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Nilo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1227481",
+          "display_name": "Veronica Falcón",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkzYWVhMTgtYWM5NC00YzIyLTg0MTgtNjZjNjgxZTNhNzk1XkEyXkFqcGdeQXVyMTQ5NTc0OTk@._V1_CR248,0,3108,4663_.jpg",
+              "width": 3108,
+              "height": 4663
+            }
+          ]
+        },
+        "characters": [
+          "Trader Sam"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3657043",
+          "display_name": "Dani Rovira",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjNmNmQzZGEtOWI1Mi00Zjg0LTk4NmEtYmNjN2NhOTFlNGY4XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",
+              "width": 583,
+              "height": 393
+            }
+          ]
+        },
+        "characters": [
+          "Sancho"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1273697",
+          "display_name": "Quim Gutiérrez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA1NDEwMTM5M15BMl5BanBnXkFtZTgwNjQzODM5NDE@._V1_.jpg",
+              "width": 400,
+              "height": 573
+            }
+          ]
+        },
+        "characters": [
+          "Melchor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6786824",
+          "display_name": "Dan Dargan Carter",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTlhZTI5OTktMWY2MC00OWQzLWJmN2MtZjEzYmEzZmMzNDkxXkEyXkFqcGdeQXVyNTc2ODgwNzk@._V1_.jpg",
+              "width": 580,
+              "height": 804
+            }
+          ]
+        },
+        "characters": [
+          "Gonzalo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0638762",
+          "display_name": "Andy Nyman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTQ4MjlkOGItNjZiOS00MGYyLTk0M2EtYjQyZjM4ZjcyYjc3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 5760,
+              "height": 3840
+            }
+          ]
+        },
+        "characters": [
+          "Sir James Hobbs-Coddington"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6004682",
+          "display_name": "Raphael Alejandro",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzg0Y2QyZmItZjA4Ny00ZmVjLWFhYWEtNzExZjU5NTk2Y2M3XkEyXkFqcGdeQXVyNjM5NDMyODk@._V1_.jpg",
+              "width": 733,
+              "height": 1100
+            }
+          ]
+        },
+        "characters": [
+          "Zaqueu"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8224376",
+          "display_name": "Simone Lockhart",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGQ4MGVjMTYtNmM4Mi00NDc1LWI2ZTEtNzUxNWUwNjgyMDVkXkEyXkFqcGc@._V1_.jpg",
+              "width": 500,
+              "height": 700
+            }
+          ]
+        },
+        "characters": [
+          "Anna"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2641841",
+          "display_name": "Pedro Lopez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGJkMDEwZDEtNzEwYi00NTE3LThkM2YtZGIzY2EwOTQ3NWJkXkEyXkFqcGdeQXVyMjM4ODI3MjQ@._V1_.jpg",
+              "width": 1171,
+              "height": 1485
+            }
+          ]
+        },
+        "characters": [
+          "Chief"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7004279",
+          "display_name": "Sulem Calderon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODA4YzQ5M2ItODMyMy00ZDM0LWI4MWMtMmVlODdlMzY2OGMwXkEyXkFqcGc@._V1_CR31,74,1313,1970_.jpg",
+              "width": 1313,
+              "height": 1970
+            }
+          ]
+        },
+        "characters": [
+          "Chief's Daughter"
+        ]
+      }
+    ]
+  }
+}

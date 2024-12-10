@@ -1,0 +1,331 @@
+{
+  "title": {
+    "id": "tt0493405",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "CHIPS",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 100,
+    "plot": "An inexperienced rookie is teamed up with a hardened pro at the California Highway Patrol in Los Angeles; the newbie officer soon learns his partner is really an undercover Fed investigating a heist which may involve some crooked cops.",
+    "rating": {
+      "aggregate_rating": 6,
+      "votes_count": 50752
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTliN2IyMTctYTliOS00ZTJiLTkxN2YtNDg1YTJiZTA4MTVlL2ltYWdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "width": 648,
+        "height": 960
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 28,
+      "review_count": 26
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1009277",
+          "display_name": "Dax Shepard",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg2MzczMzgzNl5BMl5BanBnXkFtZTgwODg0MjMxNDM@._V1_.jpg",
+              "width": 462,
+              "height": 700
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0743121",
+          "display_name": "Rick Rosner",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1009277",
+          "display_name": "Dax Shepard",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg2MzczMzgzNl5BMl5BanBnXkFtZTgwODg0MjMxNDM@._V1_.jpg",
+              "width": 462,
+              "height": 700
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0671567",
+          "display_name": "Michael Peña",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTczNzcxNTE5NV5BMl5BanBnXkFtZTcwOTE4MTMzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 582
+            }
+          ]
+        },
+        "characters": [
+          "Ponch"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1009277",
+          "display_name": "Dax Shepard",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg2MzczMzgzNl5BMl5BanBnXkFtZTgwODg0MjMxNDM@._V1_.jpg",
+              "width": 462,
+              "height": 700
+            }
+          ]
+        },
+        "characters": [
+          "Jon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000352",
+          "display_name": "Vincent D'Onofrio",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk0NTE2MDkzNF5BMl5BanBnXkFtZTYwODUzMjcz._V1_.jpg",
+              "width": 285,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Ray Kurtz"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4023073",
+          "display_name": "Rosa Salazar",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2FkNDAwMDItMWQwNy00YzE5LWJiM2EtZmNhZTZjZDk1YmJlXkEyXkFqcGdeQXVyMjQwMTcxMzA@._V1_.jpg",
+              "width": 1080,
+              "height": 1440
+            }
+          ]
+        },
+        "characters": [
+          "Ava Perez"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2537621",
+          "display_name": "Jessica McNamee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWQ4MzRmYTgtYzZiOC00YzZmLWE4MjItODZlNTVkNDg5YTc5XkEyXkFqcGdeQXVyNjkxNzc0Mzg@._V1_.jpg",
+              "width": 1163,
+              "height": 1454
+            }
+          ]
+        },
+        "characters": [
+          "Lindsey Taylor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0111013",
+          "display_name": "Adam Brody",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTY3NzMzMjgyMl5BMl5BanBnXkFtZTcwNjc2OTM4Mg@@._V1_.jpg",
+              "width": 279,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Clay Allen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0926086",
+          "display_name": "Isiah Whitlock Jr.",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzc5Mzk4OTQ1Nl5BMl5BanBnXkFtZTcwNzgxNTk0Mg@@._V1_.jpg",
+              "width": 403,
+              "height": 545
+            }
+          ]
+        },
+        "characters": [
+          "Peterson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0429114",
+          "display_name": "Richard T. Jones",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc5NjcwNDk0Nl5BMl5BanBnXkFtZTcwODgxMjMwMg@@._V1_.jpg",
+              "width": 653,
+              "height": 452
+            }
+          ]
+        },
+        "characters": [
+          "Parish"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1218621",
+          "display_name": "Ryan Hansen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjU4NDE2NjgxOF5BMl5BanBnXkFtZTgwMjQ1MTA1MDE@._V1_.jpg",
+              "width": 399,
+              "height": 599
+            }
+          ]
+        },
+        "characters": [
+          "Brian Grieves"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0434223",
+          "display_name": "Jane Kaczmarek",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM1NTkwMzkxM15BMl5BanBnXkFtZTYwODEwNjUz._V1_.jpg",
+              "width": 317,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Captain Jane Lindel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2021195",
+          "display_name": "Phil Tyler",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGIyMTBiMjEtNjhiYy00OWNmLThlNzMtZTlkZTBhNDFmMjgwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 844,
+              "height": 1054
+            }
+          ]
+        },
+        "characters": [
+          "Cooper"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1684634",
+          "display_name": "Jess Rowland",
+          "avatars": null
+        },
+        "characters": [
+          "Rathbun"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4755773",
+          "display_name": "Carly Hatter",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDU0Mzc2ZGYtOTY2NS00MDViLWJlN2YtNDRmNGViMjhhZGU3XkEyXkFqcGc@._V1_.jpg",
+              "width": 974,
+              "height": 1116
+            }
+          ]
+        },
+        "characters": [
+          "Agent Angela Roth"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0154226",
+          "display_name": "Justin Chatwin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTZjZDI2ZWEtZTFmMS00MmU1LTk1YTUtMzNmNzdiMzc4YjhiXkEyXkFqcGdeQXVyMTA3NzcwMjc3._V1_.jpg",
+              "width": 1050,
+              "height": 700
+            }
+          ]
+        },
+        "characters": [
+          "Raymond Reed Kurtz Jr."
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1446962",
+          "display_name": "Vida Guerra",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzQ2ODU5MDI0NV5BMl5BanBnXkFtZTcwNzk3Njg5MQ@@._V1_.jpg",
+              "width": 270,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Ann"
+        ]
+      }
+    ]
+  }
+}

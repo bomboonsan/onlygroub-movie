@@ -1,0 +1,334 @@
+{
+  "title": {
+    "id": "tt3460252",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Hateful Eight",
+    "original_title": null,
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 168,
+    "plot": "In the dead of a Wyoming winter, a bounty hunter and his prisoner find shelter in a cabin currently inhabited by a collection of nefarious characters.",
+    "rating": {
+      "aggregate_rating": 7.8,
+      "votes_count": 654080
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller",
+      "Western"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjA1MTc1NTg5NV5BMl5BanBnXkFtZTgwOTM2MDEzNzE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fas",
+        "name": "Persian"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 68,
+      "review_count": 51
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0000233",
+          "display_name": "Quentin Tarantino",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgyMjI3ODA3Nl5BMl5BanBnXkFtZTcwNzY2MDYxOQ@@._V1_.jpg",
+              "width": 1335,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0000233",
+          "display_name": "Quentin Tarantino",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgyMjI3ODA3Nl5BMl5BanBnXkFtZTcwNzY2MDYxOQ@@._V1_.jpg",
+              "width": 1335,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000168",
+          "display_name": "Samuel L. Jackson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ1NTQwMTYxNl5BMl5BanBnXkFtZTYwMjA1MzY1._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Major Marquis Warren"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000621",
+          "display_name": "Kurt Russell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk3MjkxNzQwMV5BMl5BanBnXkFtZTYwNDk4ODM1._V1_.jpg",
+              "width": 268,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "John Ruth"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000492",
+          "display_name": "Jennifer Jason Leigh",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU1MzU2NTg0Nl5BMl5BanBnXkFtZTcwMjcyNjY0MQ@@._V1_.jpg",
+              "width": 463,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Daisy Domergue"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0324658",
+          "display_name": "Walton Goggins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzcxNjJiMWUtMDgwYS00MDg0LWJmZGQtMWNlMTIwNDhhODQ0XkEyXkFqcGdeQXVyNDg4OTQzNjg@._V1_.jpg",
+              "width": 1170,
+              "height": 1653
+            }
+          ]
+        },
+        "characters": [
+          "Sheriff Chris Mannix"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0065007",
+          "display_name": "Demián Bichir",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIzNDMwMzI3OV5BMl5BanBnXkFtZTgwNTk2NzMyMTE@._V1_.jpg",
+              "width": 451,
+              "height": 594
+            }
+          ]
+        },
+        "characters": [
+          "Bob"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000619",
+          "display_name": "Tim Roth",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA5NTA3MDQyOV5BMl5BanBnXkFtZTcwODM4NDE3Mw@@._V1_.jpg",
+              "width": 312,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Oswaldo Mobray"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000514",
+          "display_name": "Michael Madsen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTBkZWM0Y2EtYjE1My00MGYyLWJhNzUtYzZmZmYxZmNhMGZkXkEyXkFqcGdeQXVyMTczNzM1OTQy._V1_.jpg",
+              "width": 1333,
+              "height": 2000
+            }
+          ]
+        },
+        "characters": [
+          "Joe Gage"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001136",
+          "display_name": "Bruce Dern",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTIzMDE0MzAzOV5BMl5BanBnXkFtZTYwODQxMDQ1._V1_.jpg",
+              "width": 279,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "General Sandy Smithers"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0662960",
+          "display_name": "James Parks",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWIwZDc2N2ItN2I3Ny00NGRiLTg3OGQtM2NmOTQzNWM1ODk0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1312,
+              "height": 1878
+            }
+          ]
+        },
+        "characters": [
+          "O.B."
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4158239",
+          "display_name": "Dana Gourrier",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDQwOTk4NjI5MV5BMl5BanBnXkFtZTgwODY2NzIyNzE@._V1_.jpg",
+              "width": 3723,
+              "height": 5234
+            }
+          ]
+        },
+        "characters": [
+          "Minnie Mink"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1057928",
+          "display_name": "Zoë Bell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQzNDgwNzc1M15BMl5BanBnXkFtZTcwMTMyODk1OQ@@._V1_.jpg",
+              "width": 1360,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Six-Horse Judy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0395448",
+          "display_name": "Lee Horsley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDIwMzNjZDctODQ0YS00N2JhLWFkYjMtZDU4YWUwZGVmYzMwXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
+              "width": 1000,
+              "height": 760
+            }
+          ]
+        },
+        "characters": [
+          "Ed"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0428122",
+          "display_name": "Gene Jones",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODcyMmI3NDktYTVmOC00YTk4LTgwOTktYmVmZDVjOTNjYTQwXkEyXkFqcGdeQXVyMTU3NTE1MjA@._V1_.jpg",
+              "width": 1100,
+              "height": 1375
+            }
+          ]
+        },
+        "characters": [
+          "Sweet Dave"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0420201",
+          "display_name": "Keith Jefferson",
+          "avatars": null
+        },
+        "characters": [
+          "Charly"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0823149",
+          "display_name": "Craig Stark",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmI4ZTRmMmMtNzQ5MC00Y2M5LTgxMzItODEzOTMzMjEwZmYxXkEyXkFqcGdeQXVyNDg0OTY1Mg@@._V1_.jpg",
+              "width": 1284,
+              "height": 838
+            }
+          ]
+        },
+        "characters": [
+          "Chester Charles Smithers"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "title": {
+    "id": "tt6828390",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Mr. Jones",
+    "original_title": null,
+    "start_year": 2019,
+    "end_year": null,
+    "runtime_minutes": 119,
+    "plot": "A Welsh journalist breaks the news in the western media of the famine in Ukraine in the early 1930s.",
+    "rating": {
+      "aggregate_rating": 6.9,
+      "votes_count": 16290
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjM3NjU5YmEtNDg4OS00MGEwLTkxYzktYjg1OTY2NmEwNWM3XkEyXkFqcGc@._V1_.jpg",
+        "width": 1012,
+        "height": 1500
+      }
+    ],
+    "certificates": null,
+    "spoken_languages": [
+      {
+        "code": "cym",
+        "name": "Welsh"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "rus",
+        "name": "Russian"
+      },
+      {
+        "code": "ukr",
+        "name": "Ukrainian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "PL",
+        "name": "Poland"
+      },
+      {
+        "code": "UA",
+        "name": "Ukraine"
+      }
+    ],
+    "critic_review": {
+      "score": 68,
+      "review_count": 19
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0002140",
+          "display_name": "Agnieszka Holland",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUzNTQ1MzU2N15BMl5BanBnXkFtZTYwMTE1MTE0._V1_.jpg",
+              "width": 271,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm10388460",
+          "display_name": "Andrea Chalupa",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjM4ZDdkOTgtNGI4Yy00MDQwLWI2ZmItNmFlZTBhZTk1NTc5XkEyXkFqcGc@._V1_.jpg",
+              "width": 600,
+              "height": 399
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm3584268",
+          "display_name": "James Norton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjc2Mzg5MjgxNF5BMl5BanBnXkFtZTgwODY4MDA1MDE@._V1_.jpg",
+              "width": 413,
+              "height": 594
+            }
+          ]
+        },
+        "characters": [
+          "Gareth Jones"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3948952",
+          "display_name": "Vanessa Kirby",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzUzNjkwMjMtODRiNi00ZTliLWE3Y2ItMDJmZmFmNjg1YTMyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1825,
+              "height": 2669
+            }
+          ]
+        },
+        "characters": [
+          "Ada Brooks"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0765597",
+          "display_name": "Peter Sarsgaard",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE0Mjg0NzE2Nl5BMl5BanBnXkFtZTcwMDE1MTkxMw@@._V1_.jpg",
+              "width": 309,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Walter Duranty"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1152798",
+          "display_name": "Joseph Mawle",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWI4NTBmNTMtYzllYy00OGM2LWJkZTctNmNhNWI1NjhkNjgzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 639,
+              "height": 780
+            }
+          ]
+        },
+        "characters": [
+          "George Orwell"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0186469",
+          "display_name": "Kenneth Cranham",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODYxNzIzOGItODY2Yi00MjA0LTlhNWQtMDYyZDRlODFmZWFhXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        "characters": [
+          "Lloyd George"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0427714",
+          "display_name": "Celyn Jones",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTZhNjBhNjItYmM3My00Zjc2LThhZmMtYzcxNDEyMWIzZmJhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 854,
+              "height": 1280
+            }
+          ]
+        },
+        "characters": [
+          "Matthew"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0682117",
+          "display_name": "Christoph Pieczynski",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTBhMjNlNjQtMjU2OC00Zjg2LWFlNzYtMmJiNjU4NzY5YzhjXkEyXkFqcGdeQXVyMTEyNTI4MDIw._V1_.jpg",
+              "width": 2048,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Maxim Litvinov"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0694796",
+          "display_name": "Beata Pozniak",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTg0YzE4YTItYjBjNi00NjZjLTkxZmEtODljNmVkMTE5M2M1XkEyXkFqcGdeQXVyMTkwODYwMQ@@._V1_.jpg",
+              "width": 530,
+              "height": 792
+            }
+          ]
+        },
+        "characters": [
+          "Rhea Clyman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0941211",
+          "display_name": "Fenella Woolgar",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTgxMzc5ODItYmIwMy00NmE0LTlmNTYtYzYzOWEzNGI1YzI4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 280,
+              "height": 322
+            }
+          ]
+        },
+        "characters": [
+          "Miss Stevenson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1665050",
+          "display_name": "Martin Bishop",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGZiOWUyNjAtYzVkYi00OTFiLTllZjAtMmNjMTg3MzU3NWQ5XkEyXkFqcGdeQXVyNjU1ODgxNTE@._V1_.jpg",
+              "width": 1240,
+              "height": 1754
+            }
+          ]
+        },
+        "characters": [
+          "Sir Ernest Bennet"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0249541",
+          "display_name": "John Edmondson",
+          "avatars": null
+        },
+        "characters": [
+          "J.E. B Seely"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5584702",
+          "display_name": "Michalina Olszanska",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWI3NzFiNDAtODM4OS00MDk1LWJhMjItNzMzMTZlZWRhZmI2XkEyXkFqcGdeQXVyMjIxMzMyMQ@@._V1_.jpg",
+              "width": 1000,
+              "height": 666
+            }
+          ]
+        },
+        "characters": [
+          "Yulia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4504936",
+          "display_name": "Martin Hugh Henley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGJlYjczZGYtYzJmYi00MjY0LWIwYWEtYThkZDYxMWJkZmIyXkEyXkFqcGc@._V1_.jpg",
+              "width": 640,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "L. C. Thornton"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3621095",
+          "display_name": "Olena Leonenko",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2I4OTE3YjEtNmNhZS00NzQ0LTk0YTItZjFhMzA5MWQwNDc4XkEyXkFqcGc@._V1_.jpg",
+              "width": 899,
+              "height": 1089
+            }
+          ]
+        },
+        "characters": [
+          "Hotel receptionist"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7778252",
+          "display_name": "Edward Wolstenholme",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGE5ZGQ2ZGYtMWVmZS00NTRjLWJkNTktMWFkZDI0ZDMwNTFkXkEyXkFqcGc@._V1_.jpg",
+              "width": 2400,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Eugene Lyons"
+        ]
+      }
+    ]
+  }
+}

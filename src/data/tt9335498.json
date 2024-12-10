@@ -1,0 +1,323 @@
+{
+  "title": {
+    "id": "tt9335498",
+    "type": "tvSeries",
+    "is_adult": false,
+    "primary_title": "Demon Slayer: Kimetsu no Yaiba",
+    "original_title": "Kimetsu no Yaiba",
+    "start_year": 2019,
+    "end_year": null,
+    "runtime_minutes": 24,
+    "plot": "A family is attacked by demons and only two members survive - Tanjiro and his sister Nezuko, who is turning into a demon slowly. Tanjiro sets out to become a demon slayer to avenge his family and cure his sister.",
+    "rating": {
+      "aggregate_rating": 8.6,
+      "votes_count": 148672
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Fantasy",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTIxNjk3YjItYmYzMC00ZTdmLTk0NGUtZmNlZTA0NWFkZDMwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+        "width": 1200,
+        "height": 1800
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "TV-MA"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "jpn",
+        "name": "Japanese"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "JP",
+        "name": "Japan"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm1417038",
+          "display_name": "Haruo Sotozaki",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm6957309",
+          "display_name": "Shin'ya Shimomura",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm4582641",
+          "display_name": "Takashi Suhara",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2003396",
+          "display_name": "Akihiko Uda",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1132853",
+          "display_name": "Shûji Miyahara",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm10281577",
+          "display_name": "Koyoharu Gotouge",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2335252",
+          "display_name": "Lucien Dodge",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjdkZDlhZWQtM2RjZi00ZWRlLTgwZWYtMWJmN2QwNDE5OTk4XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 1003,
+              "height": 1361
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2550198",
+          "display_name": "Kyle McCarley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGE4N2YzMTEtYjczOC00MWQ3LTlkYjAtNGM5ODFkZTI4YTExXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1367,
+              "height": 1367
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm5137121",
+          "display_name": "Natsuki Hanae",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDYxNGM5MDktMGRjOC00ZTRlLTllNDgtMDkyMTUzZWQ4Y2U3XkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+              "width": 800,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Tanjiro Kamado"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6450743",
+          "display_name": "Zach Aguilar",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmVkMWJkOTQtODgxZS00OGU0LTg5ZWUtNWVhNmNjMGYzYWExXkEyXkFqcGdeQXVyODY2NTU3OTg@._V1_.jpg",
+              "width": 4000,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Tanjiro Kamado"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7583837",
+          "display_name": "Abby Trott",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTk3NDhkOTMtNGVjOS00YTIzLWExMjMtOTk2ZGNlM2U2YzdiXkEyXkFqcGdeQXVyNjczOTE5NTU@._V1_.jpg",
+              "width": 853,
+              "height": 1278
+            }
+          ]
+        },
+        "characters": [
+          "Nezuko Kamado",
+          "Chuntaro",
+          "Hand Demon's Brother"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6981978",
+          "display_name": "Akari Kitô",
+          "avatars": null
+        },
+        "characters": [
+          "Nezuko Kamado"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4303311",
+          "display_name": "Yoshitsugu Matsuoka",
+          "avatars": null
+        },
+        "characters": [
+          "Inosuke Hashibira"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1683003",
+          "display_name": "Hiro Shimono",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmU4YzZjNzMtMmM5Yy00YTQxLWI2ODQtMjlhODFlMzE5ODEzXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+              "width": 667,
+              "height": 1000
+            }
+          ]
+        },
+        "characters": [
+          "Zenitsu Agatsuma"
+        ]
+      },
+      {
+        "name": null,
+        "characters": [
+          "Zenitsu Agatsuma",
+          "Additional Voices"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0745310",
+          "display_name": "Bryce Papenbrook",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGE2MWNmYzAtNzllMy00NTk0LTk2ZjItYjcxNTE1OTNlNWJkXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 712,
+              "height": 958
+            }
+          ]
+        },
+        "characters": [
+          "Inosuke Hashibira"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm14161066",
+          "display_name": "Gui Niang",
+          "avatars": null
+        },
+        "characters": [
+          "Shinobu Kochou"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm14659674",
+          "display_name": "Lin Hu",
+          "avatars": null
+        },
+        "characters": [
+          "Teoni",
+          "Yushirou"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9135768",
+          "display_name": "You-Wu-Yue-Shan",
+          "avatars": null
+        },
+        "characters": [
+          "Naho Takada",
+          "Tanjirou Kamado",
+          "Teruko"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3340306",
+          "display_name": "Shin'ya Takahashi",
+          "avatars": null
+        },
+        "characters": null
+      },
+      {
+        "name": {
+          "id": "nm0605451",
+          "display_name": "Toshiyuki Morikawa",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDdkOTM3ODMtM2UxMS00Yjc1LTg3MTgtZDIwNDEwYTMyOTU1XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 452,
+              "height": 650
+            }
+          ]
+        },
+        "characters": [
+          "Kagaya Ubuyashiki"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0465160",
+          "display_name": "Katsuyuki Konishi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2MwNGIwNTMtMjcwMy00NDVkLTkxZWYtNGM4ODliMDVjYmQwXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 500,
+              "height": 597
+            }
+          ]
+        },
+        "characters": [
+          "Tengen Uzui"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3263858",
+          "display_name": "Kengo Kawanishi",
+          "avatars": null
+        },
+        "characters": [
+          "Muichiro Tokito"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,382 @@
+{
+  "title": {
+    "id": "tt3774114",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Snowden",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 134,
+    "plot": "The NSA's illegal surveillance techniques are leaked to the public by one of the agency's employees, Edward Snowden, in the form of thousands of classified documents distributed to the press.",
+    "rating": {
+      "aggregate_rating": 7.3,
+      "votes_count": 163133
+    },
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTg2MzYzNzgzOF5BMl5BanBnXkFtZTgwOTg4NzQ4OTE@._V1_.jpg",
+        "width": 1899,
+        "height": 2962
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "ase",
+        "name": "American Sign Language"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "DE",
+        "name": "Germany"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 58,
+      "review_count": 43
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0000231",
+          "display_name": "Oliver Stone",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMwMjExMTY3OV5BMl5BanBnXkFtZTcwNjY3MDA2MQ@@._V1_.jpg",
+              "width": 275,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1634307",
+          "display_name": "Kieran Fitzgerald",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDJlM2I1OGItZGVlYy00ZjhlLTk1MDYtODdmMTU0MGZiZTExXkEyXkFqcGdeQXVyMTQ1ODc0NjY@._V1_.jpg",
+              "width": 1047,
+              "height": 1403
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0000231",
+          "display_name": "Oliver Stone",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMwMjExMTY3OV5BMl5BanBnXkFtZTcwNjY3MDA2MQ@@._V1_.jpg",
+              "width": 275,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm4816469",
+          "display_name": "Luke Harding",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDM2YzIwYWMtZDk1OC00MjA3LTlkZmQtOWVmNDI1MmE2YmI1XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 997,
+              "height": 1381
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm3427812",
+          "display_name": "Anatoly Kucherena",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODNkM2M2ZGQtN2E1ZC00NWYyLTgyZGQtNWRjMDRlYjVkYmFkXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_.jpg",
+              "width": 1000,
+              "height": 541
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0502425",
+          "display_name": "Melissa Leo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc3MDAxOTkyOF5BMl5BanBnXkFtZTcwOTg1MDIzNA@@._V1_.jpg",
+              "width": 291,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Laura Poitras"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0704270",
+          "display_name": "Zachary Quinto",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQ4NDQ2MmYtODY3OS00MjE1LTk4ZjktNTE2OGQ1NmZhNzgyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 400,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Glenn Greenwald"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0330687",
+          "display_name": "Joseph Gordon-Levitt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY3NTk0NDI3Ml5BMl5BanBnXkFtZTgwNDA3NjY0MjE@._V1_.jpg",
+              "width": 1421,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Edward Snowden"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0124964",
+          "display_name": "Jaymes Butler",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDQ4YmY4OTUtOWI3MS00YjMzLTg3ZmItY2QwZDcwYzdjMmVmXkEyXkFqcGdeQXVyNTEyNDc2Mg@@._V1_.jpg",
+              "width": 388,
+              "height": 597
+            }
+          ]
+        },
+        "characters": [
+          "Drill Sergeant"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0278755",
+          "display_name": "Robert Firth",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTE0MzQxNjctYjFkYi00N2RlLTg3MGYtYmUxNTZjMGRkNzg0XkEyXkFqcGdeQXVyMTk0ODQxNzY@._V1_.jpg",
+              "width": 480,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Stillwell"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5564735",
+          "display_name": "Rachel Handshaw",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTk1ZmQ4NzgtOWVlNi00ZjlhLWExMTktMDYzYjViZmUyYTg0XkEyXkFqcGdeQXVyMTIxOTUyOTI@._V1_.jpg",
+              "width": 3019,
+              "height": 3774
+            }
+          ]
+        },
+        "characters": [
+          "CIA Polygraph Adminstrator"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2757852",
+          "display_name": "Christian Contreras",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE2NzA1MjcyMV5BMl5BanBnXkFtZTgwNDgzNTE3NDE@._V1_.jpg",
+              "width": 600,
+              "height": 900
+            }
+          ]
+        },
+        "characters": [
+          "CIA Psychologist"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4554036",
+          "display_name": "Parker Sawyers",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWRkMzUyZTItZmQ0Ny00NmYzLTlkZjItNzZhMmMzMWM1NTU4XkEyXkFqcGdeQXVyMTM4ODA3MzA5._V1_.jpg",
+              "width": 3315,
+              "height": 4800
+            }
+          ]
+        },
+        "characters": [
+          "CIA Interviewer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0406975",
+          "display_name": "Rhys Ifans",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkyMzU0NDM4Ml5BMl5BanBnXkFtZTcwMDkzMDg5Nw@@._V1_.jpg",
+              "width": 1450,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Corbin O'Brian"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0859104",
+          "display_name": "Ken Thomas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDg4ZDAwYWItNGMzZi00NmY1LWFjOGItM2RjYTZmZmI3ZjdlXkEyXkFqcGc@._V1_.jpg",
+              "width": 600,
+              "height": 750
+            }
+          ]
+        },
+        "characters": [
+          "Warrenton Gate Guard"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000115",
+          "display_name": "Nicolas Cage",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjUxMjE4MTQxMF5BMl5BanBnXkFtZTcwNzc2MDM1NA@@._V1_.jpg",
+              "width": 1503,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Hank Forrester"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0073121",
+          "display_name": "Michael Benz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTZhMWU2MzgtNjc4Yi00ZWY2LWJkMTQtODQ0YzNhZTU1MTViXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1200,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "CIA Student"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0940362",
+          "display_name": "Shailene Woodley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmUzYTMyY2ItMjY1MS00ZmFmLWI4N2YtZGZmYTY2MGQ5NmI5XkEyXkFqcGdeQXVyMTMzOTMyOTM4._V1_.jpg",
+              "width": 4096,
+              "height": 1716
+            }
+          ]
+        },
+        "characters": [
+          "Lindsay Mills"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0929489",
+          "display_name": "Tom Wilkinson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcxNzc0NzQyN15BMl5BanBnXkFtZTcwNjI1NDA2MQ@@._V1_.jpg",
+              "width": 293,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Ewen MacAskill"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000613",
+          "display_name": "Joely Richardson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODgwMjMwMzE2OV5BMl5BanBnXkFtZTcwOTAzMTgxMw@@._V1_.jpg",
+              "width": 291,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Janine Gibson"
+        ]
+      }
+    ]
+  }
+}

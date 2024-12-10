@@ -1,0 +1,220 @@
+{
+  "title": {
+    "id": "tt0123755",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Cube",
+    "original_title": null,
+    "start_year": 1997,
+    "end_year": null,
+    "runtime_minutes": 90,
+    "plot": "A group of strangers awaken to find themselves placed in a giant cube. Each one of them is gifted with a special skill and they must work together to escape an endless maze of deadly traps.",
+    "rating": {
+      "aggregate_rating": 7.1,
+      "votes_count": 247882
+    },
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmYwYzA5NjgtMTg2MC00NDk0LTk5OTYtNjgyMWM4YWM4NDdiXkEyXkFqcGc@._V1_.jpg",
+        "width": 500,
+        "height": 739
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      }
+    ],
+    "critic_review": {
+      "score": 61,
+      "review_count": 12
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0622112",
+          "display_name": "Vincenzo Natali",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYyMTExMjQwN15BMl5BanBnXkFtZTcwMzk0ODM1Mw@@._V1_.jpg",
+              "width": 322,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0082008",
+          "display_name": "André Bijelic",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0622112",
+          "display_name": "Vincenzo Natali",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYyMTExMjQwN15BMl5BanBnXkFtZTcwMzk0ODM1Mw@@._V1_.jpg",
+              "width": 322,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0543919",
+          "display_name": "Graeme Manson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU0OTQ0ODI0OF5BMl5BanBnXkFtZTgwNDc4MDM4MTI@._V1_.jpg",
+              "width": 2048,
+              "height": 1624
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0207498",
+          "display_name": "Nicole de Boer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUxY2M1OTMtZDJhZi00OTBjLTg4MDEtMzJhMTFmMjU5NmM4XkEyXkFqcGdeQXVyNjAwNjEzMg@@._V1_.jpg",
+              "width": 546,
+              "height": 674
+            }
+          ]
+        },
+        "characters": [
+          "Leaven"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0309914",
+          "display_name": "Nicky Guadagni",
+          "avatars": null
+        },
+        "characters": [
+          "Holloway"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0382110",
+          "display_name": "David Hewlett",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGQ5NjhhZTMtMTNkZS00OTcyLWE4NDctMTQ2ZDYxYjU1MDQwXkEyXkFqcGdeQXVyMDE2ODExOA@@._V1_.jpg",
+              "width": 1575,
+              "height": 1125
+            }
+          ]
+        },
+        "characters": [
+          "Worth"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0587884",
+          "display_name": "Andrew Miller",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjc4NzA1YTctMzA3Ny00NDRkLTkzN2ItMWFmNzIwODEwNmI2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 533,
+              "height": 800
+            }
+          ]
+        },
+        "characters": [
+          "Kazan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0724995",
+          "display_name": "Julian Richings",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk5ODQ5MzY0M15BMl5BanBnXkFtZTcwMzE0MDkyMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 647
+            }
+          ]
+        },
+        "characters": [
+          "Alderson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0733500",
+          "display_name": "Wayne Robson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk5NjgyNTAzMV5BMl5BanBnXkFtZTcwNzIwOTgxOA@@._V1_.jpg",
+              "width": 1004,
+              "height": 1494
+            }
+          ]
+        },
+        "characters": [
+          "Rennes"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0935659",
+          "display_name": "Maurice Dean Wint",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmU0ZTU4YzctZjI5Yi00OTNjLWIyY2UtMjU4ZWM5YTRmN2NlXkEyXkFqcGdeQXVyMjc3MTEwMzU@._V1_.jpg",
+              "width": 1793,
+              "height": 2155
+            }
+          ]
+        },
+        "characters": [
+          "Quentin"
+        ]
+      }
+    ]
+  }
+}

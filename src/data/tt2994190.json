@@ -1,0 +1,313 @@
+{
+  "title": {
+    "id": "tt2994190",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Camp X-Ray",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 117,
+    "plot": "A soldier assigned to Guantanamo Bay befriends a man who has been imprisoned there.",
+    "rating": {
+      "aggregate_rating": 6.9,
+      "votes_count": 42962
+    },
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTU5NjI1MjEwMV5BMl5BanBnXkFtZTgwNjc2Mzc3MjE@._V1_.jpg",
+        "width": 2025,
+        "height": 3000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 54,
+      "review_count": 25
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0972104",
+          "display_name": "Peter Sattler",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcyZDdlOTctZGE0MC00ZDI2LWFlYTItZjI1ZWNmMjJjOTBjXkEyXkFqcGdeQXVyMjMxMTI3Mg@@._V1_.jpg",
+              "width": 681,
+              "height": 1024
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0972104",
+          "display_name": "Peter Sattler",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcyZDdlOTctZGE0MC00ZDI2LWFlYTItZjI1ZWNmMjJjOTBjXkEyXkFqcGdeQXVyMjMxMTI3Mg@@._V1_.jpg",
+              "width": 681,
+              "height": 1024
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm4553019",
+          "display_name": "Nawal Bengholam",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTgyZTlmZWItMDllOS00MTczLThjMGEtMTg3ZGNiY2ZhZTI5XkEyXkFqcGdeQXVyMTU1MTcyMDU@._V1_.jpg",
+              "width": 2053,
+              "height": 3878
+            }
+          ]
+        },
+        "characters": [
+          "Newscaster"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1818216",
+          "display_name": "Payman Maadi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzQyNzk1MzMtNThlZC00YmMxLThkNDAtNmQzMTVjYWJlMmI5XkEyXkFqcGdeQXVyMTI5NDA3NTI1._V1_.jpg",
+              "width": 640,
+              "height": 960
+            }
+          ]
+        },
+        "characters": [
+          "Ali"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1460812",
+          "display_name": "Lane Garrison",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYzNzA1MjYxNV5BMl5BanBnXkFtZTgwNDQ2MTk5MDE@._V1_.jpg",
+              "width": 1423,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Ransdell"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1928515",
+          "display_name": "J.J. Soria",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWRhNGM1NTAtOWRlOS00Yzc2LTkwNDQtMzBlMTljM2ZjNDAyXkEyXkFqcGdeQXVyMTI2NjExMDgy._V1_.jpg",
+              "width": 3467,
+              "height": 5200
+            }
+          ]
+        },
+        "characters": [
+          "Rico"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3542722",
+          "display_name": "Marwan Naji",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODdiYjAxZjYtMmYyZC00Yzk4LThhODctNjZkZGIxNjU4ZmFiXkEyXkFqcGdeQXVyMjE4MTk2OTQ@._V1_.jpg",
+              "width": 1170,
+              "height": 686
+            }
+          ]
+        },
+        "characters": [
+          "Detainee #1"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5424765",
+          "display_name": "Anoop Simon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTAzMzUyZDQtMTQ3NS00NjFkLTk2NjEtYTk5YTlhY2VjNDMyXkEyXkFqcGc@._V1_.jpg",
+              "width": 700,
+              "height": 960
+            }
+          ]
+        },
+        "characters": [
+          "Detainee #2"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0829576",
+          "display_name": "Kristen Stewart",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTJlOGE3ZjEtZDg4OS00MGJlLTgzY2QtYzg3OWE2NmZmYmE1XkEyXkFqcGdeQXVyMTI2Nzk2ODk3._V1_.jpg",
+              "width": 3981,
+              "height": 4281
+            }
+          ]
+        },
+        "characters": [
+          "Cole"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5754425",
+          "display_name": "Cory Michael Smith",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM2NzY4NzgzOF5BMl5BanBnXkFtZTgwNDU2NzAzMDI@._V1_.jpg",
+              "width": 1300,
+              "height": 1812
+            }
+          ]
+        },
+        "characters": [
+          "Bergen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3843144",
+          "display_name": "Ser'Darius Blain",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDliNGY1ZDYtMTYzMy00NmZkLWE2NTctZjE2MWE2ZTUwYTliXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1427,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Jackson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2849965",
+          "display_name": "Tara Holt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDAxZjllY2UtZjdjOS00ODhhLTljOGUtMGU3ZGJiMWEzMGU1XkEyXkFqcGdeQXVyMTc1NjQ3Nzk@._V1_.jpg",
+              "width": 2400,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Mary"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2803536",
+          "display_name": "LaDell Preston",
+          "avatars": null
+        },
+        "characters": [
+          "IRF #1"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2513187",
+          "display_name": "Daniel Leavitt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWM2YzdmNzQtOWY3OS00ODU3LWIyNGEtZjk4NmFlYzljY2QxXkEyXkFqcGc@._V1_.jpg",
+              "width": 3648,
+              "height": 5472
+            }
+          ]
+        },
+        "characters": [
+          "IRF #2"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0434879",
+          "display_name": "Marco Khan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDA5M2JhMGItY2JmMC00YWIxLThjY2UtMTlhZDZhZGMwYjk1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1051,
+              "height": 1500
+            }
+          ]
+        },
+        "characters": [
+          "Mahmoud"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0240564",
+          "display_name": "Julia Duffy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzBiZDI0NGEtYTYzMy00M2I4LWJmMTgtOTI4Y2Y0NTczNjhhXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_.jpg",
+              "width": 8256,
+              "height": 5504
+            }
+          ]
+        },
+        "characters": [
+          "Cole's Mother"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4730243",
+          "display_name": "Robert Tarpinian",
+          "avatars": null
+        },
+        "characters": [
+          "Detainee #3"
+        ]
+      }
+    ]
+  }
+}

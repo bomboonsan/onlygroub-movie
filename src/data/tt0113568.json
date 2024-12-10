@@ -1,0 +1,282 @@
+{
+  "title": {
+    "id": "tt0113568",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Ghost in the Shell",
+    "original_title": "Kôkaku kidôtai",
+    "start_year": 1995,
+    "end_year": null,
+    "runtime_minutes": 83,
+    "plot": "A cyborg policewoman and her partner hunt a mysterious and powerful hacker called the Puppet Master.",
+    "rating": {
+      "aggregate_rating": 7.9,
+      "votes_count": 157141
+    },
+    "genres": [
+      "Action",
+      "Animation",
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWRiYjQyOGItNzQ1Mi00MGI1LWE3NjItNTg1ZDQwNjUwNDM2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+        "width": 600,
+        "height": 889
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "TV-MA"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "jpn",
+        "name": "Japanese"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "JP",
+        "name": "Japan"
+      }
+    ],
+    "critic_review": {
+      "score": 76,
+      "review_count": 14
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0632716",
+          "display_name": "Mizuho Nishikubo",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0651900",
+          "display_name": "Mamoru Oshii",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzZmMjFhZTgtYTc1Yi00OGIxLWJkMWYtZjRjMzViODAyYTQ2XkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg",
+              "width": 512,
+              "height": 600
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0794385",
+          "display_name": "Shirow Masamune",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0411872",
+          "display_name": "Kazunori Itô",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0848968",
+          "display_name": "Atsuko Tanaka",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmFiMzk2YjYtYTNjNC00NTRiLWExMDUtY2Q0MDM1MzEwZjU0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+              "width": 718,
+              "height": 900
+            }
+          ]
+        },
+        "characters": [
+          "Kusanagi Motoko"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0960033",
+          "display_name": "Akio Ôtsuka",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzZlY2NiYjktM2Y2My00YjcyLTg5Y2UtM2M5YjMwNDRiMjY1XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+              "width": 684,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Batô"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0945290",
+          "display_name": "Kôichi Yamadera",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzA5NWI0OWItNmE4Yi00MTNlLTk2MzUtOGY4NTNjNjFmNWVlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 796,
+              "height": 923
+            }
+          ]
+        },
+        "characters": [
+          "Togusa"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1563697",
+          "display_name": "Yutaka Nakano",
+          "avatars": null
+        },
+        "characters": [
+          "Ishikawa"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0645634",
+          "display_name": "Tamio Ôki",
+          "avatars": null
+        },
+        "characters": [
+          "Aramaki"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0312656",
+          "display_name": "Tesshô Genda",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDFlOTIwMTktNjIxMC00OGVkLWI5NjQtMzJjNjJiNWIwMDFjXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 640,
+              "height": 851
+            }
+          ]
+        },
+        "characters": [
+          "Nakamura buchô"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1616932",
+          "display_name": "Namaki Masakazu",
+          "avatars": null
+        },
+        "characters": [
+          "Urisu hakase"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0945671",
+          "display_name": "Masato Yamanouchi",
+          "avatars": null
+        },
+        "characters": [
+          "Gaimu daijin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0644564",
+          "display_name": "Shinji Ogawa",
+          "avatars": null
+        },
+        "characters": [
+          "Gaikôkan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0594420",
+          "display_name": "Mitsuru Miyamoto",
+          "avatars": null
+        },
+        "characters": [
+          "Daida Mizuho"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0945377",
+          "display_name": "Kazuhiro Yamaji",
+          "avatars": null
+        },
+        "characters": [
+          "Seisô kyokuin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0157133",
+          "display_name": "Shigeru Chiba",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTdmNDg3NmEtOGRhYy00YjA3LTljMWQtYjhmNTgwZmJmYWFhXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 929,
+              "height": 886
+            }
+          ]
+        },
+        "characters": [
+          "Seisô kyokuin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0407527",
+          "display_name": "Hiroshi Yanaka",
+          "avatars": null
+        },
+        "characters": [
+          "Kenshi-kan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0559604",
+          "display_name": "Ginzô Matsuo",
+          "avatars": null
+        },
+        "characters": [
+          "Ossan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0559690",
+          "display_name": "Takashi Matsuyama",
+          "avatars": null
+        },
+        "characters": [
+          "Jikkô-han"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "title": {
+    "id": "tt2401878",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Anomalisa",
+    "original_title": null,
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 90,
+    "plot": "A man crippled by the mundanity of his life experiences something out of the ordinary.",
+    "rating": {
+      "aggregate_rating": 7.2,
+      "votes_count": 75359
+    },
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTkyMzI2MzQ1N15BMl5BanBnXkFtZTgwNDg0MzQxNzE@._V1_.jpg",
+        "width": 517,
+        "height": 755
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "ita",
+        "name": "Italian"
+      },
+      {
+        "code": "jpn",
+        "name": "Japanese"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 88,
+      "review_count": 46
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm2122478",
+          "display_name": "Duke Johnson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjk0OTgyMDE0OF5BMl5BanBnXkFtZTgwMzQ1NDkyODE@._V1_.jpg",
+              "width": 750,
+              "height": 749
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0442109",
+          "display_name": "Charlie Kaufman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY5NzUyNjYxM15BMl5BanBnXkFtZTYwMDM1NDg0._V1_.jpg",
+              "width": 302,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0442109",
+          "display_name": "Charlie Kaufman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY5NzUyNjYxM15BMl5BanBnXkFtZTYwMDM1NDg0._V1_.jpg",
+              "width": 302,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000667",
+          "display_name": "David Thewlis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTA3MjM4NTE0NV5BMl5BanBnXkFtZTcwOTU1OTY4NQ@@._V1_.jpg",
+              "width": 1366,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Michael Stone"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000492",
+          "display_name": "Jennifer Jason Leigh",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU1MzU2NTg0Nl5BMl5BanBnXkFtZTcwMjcyNjY0MQ@@._V1_.jpg",
+              "width": 463,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Lisa Hesselman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0006888",
+          "display_name": "Tom Noonan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMzMjk5NTM2NV5BMl5BanBnXkFtZTcwNzY4MzQzMg@@._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Everyone else"
+        ]
+      }
+    ]
+  }
+}

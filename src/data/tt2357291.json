@@ -1,0 +1,375 @@
+{
+  "title": {
+    "id": "tt2357291",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Rio 2",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 101,
+    "plot": "It's a jungle out there for Blu, Jewel, and their three kids after they're hurtled from Rio de Janeiro to the wilds of the Amazon. As Blu tries to fit in, he goes beak-to-beak with the vengeful Nigel and meets his father-in-law.",
+    "rating": {
+      "aggregate_rating": 6.3,
+      "votes_count": 99330
+    },
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Music",
+      "Musical"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTgzMDczMDYzNl5BMl5BanBnXkFtZTgwMzk2MDIwMTE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "G"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "por",
+        "name": "Portuguese"
+      },
+      {
+        "code": "rus",
+        "name": "Russian"
+      },
+      {
+        "code": "ukr",
+        "name": "Ukrainian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 49,
+      "review_count": 34
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0757858",
+          "display_name": "Carlos Saldanha",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk5NDA3MjQ5NF5BMl5BanBnXkFtZTYwMjQ0MTIz._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0722610",
+          "display_name": "Don Rhymer",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm6423183",
+          "display_name": "Carlos Kotkin",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0081081",
+          "display_name": "Jenny Bicks",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTFjZTY4MGMtMDRhOS00ZTUzLTlkNGEtNDZkNWY0M2U1NzBjXkEyXkFqcGdeQXVyMTMxMTIwMTE0._V1_.jpg",
+              "width": 500,
+              "height": 500
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm3229505",
+          "display_name": "Yoni Brenner",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0757858",
+          "display_name": "Carlos Saldanha",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk5NDA3MjQ5NF5BMl5BanBnXkFtZTYwMjQ0MTIz._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1545471",
+          "display_name": "Jake T. Austin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI1MzlkZjYtYjdkYi00ZmMxLWI3MjYtYzMwYmFmYTBkNmEzXkEyXkFqcGdeQXVyOTU0MjQ3Mzc@._V1_.jpg",
+              "width": 2832,
+              "height": 3848
+            }
+          ]
+        },
+        "characters": [
+          "Fernando"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0113198",
+          "display_name": "Carlinhos Brown",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzgzMDFmNzctNTE1Mi00ZWQ1LWFlMWUtYmNjMTMzOGZmYjhhXkEyXkFqcGdeQXVyMjU5OTg5NDc@._V1_.jpg",
+              "width": 1360,
+              "height": 1119
+            }
+          ]
+        },
+        "characters": [
+          "Audition Bird"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0155693",
+          "display_name": "Kristin Chenoweth",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI4NzEyMTQ5MV5BMl5BanBnXkFtZTcwMzg3NTUyMg@@._V1_.jpg",
+              "width": 331,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Gabi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1318596",
+          "display_name": "Jemaine Clement",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE4ODY4Njc5N15BMl5BanBnXkFtZTcwMjk1ODIyMw@@._V1_.jpg",
+              "width": 411,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Nigel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0175828",
+          "display_name": "Jim Conroy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjY0NWRjMzItZTYyMi00MDVhLTk0ZDgtYWIzYThjNDVjNTYwXkEyXkFqcGdeQXVyNDA3MDMyNjk@._V1_.jpg",
+              "width": 1158,
+              "height": 1452
+            }
+          ]
+        },
+        "characters": [
+          "Capoeira Turtle"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3907105",
+          "display_name": "Rachel Crow",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmRjYTJkZjMtY2QxNC00ZDFiLWJmYjctMzUzMWJkNTdhZGUyXkEyXkFqcGdeQXVyNTIxMzUxMQ@@._V1_.jpg",
+              "width": 1284,
+              "height": 1895
+            }
+          ]
+        },
+        "characters": [
+          "Carla"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1960207",
+          "display_name": "Bernardo De Paula",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWJkNjRhZGEtMTYwYS00MDdkLTkwNjQtYzYxMDM4YTNiNjE4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 4480,
+              "height": 6720
+            }
+          ]
+        },
+        "characters": [
+          "Carnival Barker",
+          "Blue Sentry"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5118175",
+          "display_name": "Nola Donkin",
+          "avatars": null
+        },
+        "characters": [
+          "Opera Bird"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0251986",
+          "display_name": "Jesse Eisenberg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTE3MzQzODE3OV5BMl5BanBnXkFtZTcwMDE0ODY1NA@@._V1_.jpg",
+              "width": 1445,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Blu"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001208",
+          "display_name": "Miguel Ferrer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ3MTYxNDE2MV5BMl5BanBnXkFtZTYwMTY0MTU3._V1_.jpg",
+              "width": 2008,
+              "height": 2856
+            }
+          ]
+        },
+        "characters": [
+          "Big Boss"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0004937",
+          "display_name": "Jamie Foxx",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkyNjY1NDg3NF5BMl5BanBnXkFtZTgwNjA2MTg0MzE@._V1_.jpg",
+              "width": 1545,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Nico"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3163952",
+          "display_name": "Pierce Gagnon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWE5NDhhMDUtZTcyZC00ZThlLThhN2MtNmY1ZjAyOTQyMmNjXkEyXkFqcGdeQXVyMjEyNTMwMjk@._V1_.jpg",
+              "width": 3744,
+              "height": 4626
+            }
+          ]
+        },
+        "characters": [
+          "Tiago"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000412",
+          "display_name": "Andy Garcia",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM3NDA5NTgxNl5BMl5BanBnXkFtZTgwMzU3NDc4NDE@._V1_.jpg",
+              "width": 1642,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Eduardo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0305261",
+          "display_name": "Jeffrey Garcia",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIyNDg2MTk3OF5BMl5BanBnXkFtZTcwODY2MzkwOA@@._V1_.jpg",
+              "width": 1334,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Spoonbill",
+          "Perl"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0064831",
+          "display_name": "Bebel Gilberto",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc5OTU5ODIzNF5BMl5BanBnXkFtZTcwNDIwNTY3NA@@._V1_.jpg",
+              "width": 1512,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Eva"
+        ]
+      }
+    ]
+  }
+}

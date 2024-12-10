@@ -1,0 +1,348 @@
+{
+  "title": {
+    "id": "tt1536537",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "What Happened to Monday",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 123,
+    "plot": "In a world where families are limited to one child due to overpopulation, a set of identical septuplets must avoid being put to a long sleep by the government and dangerous infighting while investigating the disappearance of one of their own.",
+    "rating": {
+      "aggregate_rating": 6.8,
+      "votes_count": 134689
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Fantasy",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjE4MDQxMDg3MF5BMl5BanBnXkFtZTgwNjQ0MTcwMzI@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "TV-MA"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "BE",
+        "name": "Belgium"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 47,
+      "review_count": 12
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm2482088",
+          "display_name": "Tommy Wirkola",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTViNDhhMTktNTk0Ni00MDUzLTk2ODgtYjkwZTQ3ZDQ0N2M1XkEyXkFqcGdeQXVyMTM4MzMxMzk@._V1_.jpg",
+              "width": 2362,
+              "height": 1577
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1363111",
+          "display_name": "Max Botkin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGU5ZjE1NjEtNzgzNS00NWI5LTlmMjQtZjU4MjM4YWNhOTVjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 702,
+              "height": 900
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1201058",
+          "display_name": "Kerry Williamson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM3OTAwOTA5Ml5BMl5BanBnXkFtZTcwNTUzMjAwNw@@._V1_.jpg",
+              "width": 597,
+              "height": 800
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0636426",
+          "display_name": "Noomi Rapace",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyNzg3NDkyN15BMl5BanBnXkFtZTgwOTg2NjA2ODE@._V1_.jpg",
+              "width": 645,
+              "height": 863
+            }
+          ]
+        },
+        "characters": [
+          "The Settman Siblings"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000335",
+          "display_name": "Glenn Close",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTEwNDk5MTU2NTNeQTJeQWpwZ15BbWU3MDczNjEzMTM@._V1_.jpg",
+              "width": 303,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Nicolette Cayman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000353",
+          "display_name": "Willem Dafoe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWU4MTI2OTctODQ1ZS00MGM1LWJkM2EtODE3MGNkNmIyZDEwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 921,
+              "height": 1152
+            }
+          ]
+        },
+        "characters": [
+          "Terrence Settman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3092471",
+          "display_name": "Marwan Kenzari",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWY1ZWJjNWEtN2ZjNS00ZTk2LWJmZTctNjNkNDY3Y2QxMGY2XkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_.jpg",
+              "width": 818,
+              "height": 1222
+            }
+          ]
+        },
+        "characters": [
+          "Adrian Knowles"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1554995",
+          "display_name": "Christian Rubeck",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWU5YWEwZDYtYTczOC00N2U4LTgwOTctNTIyYWRiYjYyNjBmXkEyXkFqcGdeQXVyMjQ4ODI3Mw@@._V1_.jpg",
+              "width": 3782,
+              "height": 5535
+            }
+          ]
+        },
+        "characters": [
+          "Joe"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1914298",
+          "display_name": "Pål Sverre Hagen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWQyNzRhZjctNTczMS00ZWZlLWIwOTktOTlmNGNmZTFiNjQ5XkEyXkFqcGdeQXVyNDYyNTE1MDg@._V1_.jpg",
+              "width": 1704,
+              "height": 2469
+            }
+          ]
+        },
+        "characters": [
+          "Jerry"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3643989",
+          "display_name": "Tomiwa Edun",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjVlMzk1YWUtOTEyMS00ZjFhLTljZmEtMzZmMmIxYjNmODQ2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3149,
+              "height": 3390
+            }
+          ]
+        },
+        "characters": [
+          "Eddie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7581510",
+          "display_name": "Cassie Clare",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGUzOGVjZDMtNjc0OS00NTk3LWI3MTgtZjQ1YWZiMmMzNjI0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 800,
+              "height": 1000
+            }
+          ]
+        },
+        "characters": [
+          "Zaquia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0413089",
+          "display_name": "Cameron Jack",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmY2YTkzMWQtOGVlMy00ODFlLWI2Y2MtZmFkMDJlOWNkN2NjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3840,
+              "height": 5760
+            }
+          ]
+        },
+        "characters": [
+          "Dutch"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7731246",
+          "display_name": "Clara Read",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGJkN2NjNTQtODY3Ny00OTM5LWI3ZDQtNGI0ZWU0YmU3MTlmXkEyXkFqcGdeQXVyODEwNjc2NjU@._V1_.jpg",
+              "width": 2400,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "The Young Settman Siblings"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5344575",
+          "display_name": "Kirsty Averton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWNiYTQxNjYtNGQ5MS00ODI2LTlhN2ItYWFkN2I4Y2ZhYzY3XkEyXkFqcGc@._V1_.jpg",
+              "width": 2400,
+              "height": 3300
+            }
+          ]
+        },
+        "characters": [
+          "Mia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7801943",
+          "display_name": "Lucy Pearson",
+          "avatars": null
+        },
+        "characters": [
+          "Vicky"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1086150",
+          "display_name": "Nadiv Molcho",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTU4MmZlZmItNmVlZS00YTZmLWI3YzItYmI2MDA2MDllZDU5XkEyXkFqcGdeQXVyMTY2ODM4MzY@._V1_.jpg",
+              "width": 2160,
+              "height": 3252
+            }
+          ]
+        },
+        "characters": [
+          "Young Doctor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3577929",
+          "display_name": "Elijah Ungvary",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2JjM2RiMmUtZmQwYi00YzhmLTlkNjEtMzBiMjE5YjY1MTRmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2848,
+              "height": 3613
+            }
+          ]
+        },
+        "characters": [
+          "Erickson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0388473",
+          "display_name": "Geir Vegar Hoel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ2ODQ3MTMyNl5BMl5BanBnXkFtZTgwMjY3Mjk3MjE@._V1_.jpg",
+              "width": 1280,
+              "height": 675
+            }
+          ]
+        },
+        "characters": [
+          "Enforcer Team Leader"
+        ]
+      }
+    ]
+  }
+}

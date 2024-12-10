@@ -1,0 +1,359 @@
+{
+  "title": {
+    "id": "tt2638144",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Ben-Hur",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 123,
+    "plot": "Judah Ben-Hur, a Jewish prince falsely accused of treason by his adopted brother, an officer in the Roman army, returns to his homeland after years at sea to seek revenge, but finds redemption.",
+    "rating": {
+      "aggregate_rating": 5.7,
+      "votes_count": 47279
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjQ2NzYxMDQ2OV5BMl5BanBnXkFtZTgwMDk2MzczOTE@._V1_.jpg",
+        "width": 1312,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fas",
+        "name": "Persian"
+      },
+      {
+        "code": "lat",
+        "name": "Latin"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 38,
+      "review_count": 34
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0067457",
+          "display_name": "Timur Bekmambetov",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg4Njc2OTg0N15BMl5BanBnXkFtZTcwNDYzMzc5Nw@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0164851",
+          "display_name": "Keith R. Clarke",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0725983",
+          "display_name": "John Ridley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYxMjk5NTQ4M15BMl5BanBnXkFtZTgwNDI1ODI5MDE@._V1_.jpg",
+              "width": 1367,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0908753",
+          "display_name": "Lew Wallace",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmJmNTQ5MDctZWVmZi00NDE1LTgxMzMtYjFmNWQ2YTZkMjk4XkEyXkFqcGdeQXVyNzY1ODU1OTk@._V1_.jpg",
+              "width": 250,
+              "height": 378
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1658935",
+          "display_name": "Jack Huston",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmJhNzYzNzgtMzUwYS00ZDUzLWJmODItYzRhMTlmMzVjNjkwXkEyXkFqcGdeQXVyMjEwOTk0MTk@._V1_.jpg",
+              "width": 815,
+              "height": 859
+            }
+          ]
+        },
+        "characters": [
+          "Judah Ben-Hur"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1527905",
+          "display_name": "Toby Kebbell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2EyODM5NDctMWU3Zi00NDc2LWFhYzQtNmQ2ZDJiZTczMDgwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 750,
+              "height": 943
+            }
+          ]
+        },
+        "characters": [
+          "Messala Severus"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0763928",
+          "display_name": "Rodrigo Santoro",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY4NTQzMDcxMl5BMl5BanBnXkFtZTcwNTEwNTYyMg@@._V1_.jpg",
+              "width": 277,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Jesus"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2258164",
+          "display_name": "Nazanin Boniadi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYyMDQ3NjI3MV5BMl5BanBnXkFtZTgwOTA5MTA5NjE@._V1_.jpg",
+              "width": 451,
+              "height": 590
+            }
+          ]
+        },
+        "characters": [
+          "Esther"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0957909",
+          "display_name": "Ayelet Zurer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzczMTgwMGEtZmI1NC00NmFiLWFjOGEtZjIyZWY1NjIyYTE5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 600,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Naomi Ben-Hur"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1561982",
+          "display_name": "Pilou Asbæk",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmU3NzE5OGItNWRmOS00YTBiLWI4YmMtZGU3NjE0ODdmN2NkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 3241,
+              "height": 4861
+            }
+          ]
+        },
+        "characters": [
+          "Pontius Pilate"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3733763",
+          "display_name": "Sofia Black-D'Elia",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmY2MjhkM2YtMjUxMC00MWIzLWE2ODYtZjNkZWY1MTMzNGI5XkEyXkFqcGdeQXVyNDczOTg2OTI@._V1_.jpg",
+              "width": 2000,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Tirzah Ben-Hur"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000151",
+          "display_name": "Morgan Freeman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc0MDMyMzI2OF5BMl5BanBnXkFtZTcwMzM2OTk1MQ@@._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Ilderim"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3092471",
+          "display_name": "Marwan Kenzari",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWY1ZWJjNWEtN2ZjNS00ZTk2LWJmZTctNjNkNDY3Y2QxMGY2XkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_.jpg",
+              "width": 818,
+              "height": 1222
+            }
+          ]
+        },
+        "characters": [
+          "Drusus"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2030779",
+          "display_name": "Moises Arias",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA0MjU1MzA5MzZeQTJeQWpwZ15BbWU4MDMyMTU2MTQz._V1_.jpg",
+              "width": 2048,
+              "height": 1437
+            }
+          ]
+        },
+        "characters": [
+          "Dismas"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0181920",
+          "display_name": "James Cosmo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzE4MDUzMzgyNl5BMl5BanBnXkFtZTcwNjgwNDcyMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 454
+            }
+          ]
+        },
+        "characters": [
+          "Quintus"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0082211",
+          "display_name": "Haluk Bilginer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2U3NDIwMzUtMDFkNC00ZDM1LWE5ODctMTNhMjMzZjRhNDI4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2048,
+              "height": 1536
+            }
+          ]
+        },
+        "characters": [
+          "Simonides"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1720738",
+          "display_name": "David Walmsley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ1NzI2NTQ3OF5BMl5BanBnXkFtZTcwMTM2NDU1OQ@@._V1_.jpg",
+              "width": 2048,
+              "height": 1237
+            }
+          ]
+        },
+        "characters": [
+          "Marcus Decimus"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5947217",
+          "display_name": "Yasen Zates Atour",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI1M2VkMDYtZDVjMi00NzRhLThjMDMtNTc2NWIxYzAxMmJjXkEyXkFqcGdeQXVyNTgzODg0MTc@._V1_.jpg",
+              "width": 1609,
+              "height": 1509
+            }
+          ]
+        },
+        "characters": [
+          "Jacob"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1150908",
+          "display_name": "Francesco Scianna",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc2MzI1MjM5M15BMl5BanBnXkFtZTgwNzc1MjU3NjE@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Kadeem"
+        ]
+      }
+    ]
+  }
+}

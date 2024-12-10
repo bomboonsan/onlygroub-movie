@@ -1,0 +1,416 @@
+{
+  "title": {
+    "id": "tt10369484",
+    "type": "tvSeries",
+    "is_adult": false,
+    "primary_title": "The Power",
+    "original_title": null,
+    "start_year": 2023,
+    "end_year": 2023,
+    "runtime_minutes": null,
+    "plot": "Based on the New York Times bestseller, The Power is our world, but for one twist of nature. Suddenly, women develop a mysterious new ability to electrocute at will, leading to an extraordinary global reversal of the power balance",
+    "rating": {
+      "aggregate_rating": 6.6,
+      "votes_count": 9330
+    },
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGQzODIyNWItZTVmZS00OWJjLThkOTItNjMzNmI4MDU1ZTkzXkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_.jpg",
+        "width": 1944,
+        "height": 2880
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "TV-14"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm4671636",
+          "display_name": "Ugla Hauksdóttir",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDExYjI5NWItYzE1OC00MzJhLTg5MGEtMWQwZWExYTk5ODNiXkEyXkFqcGdeQXVyMjAyNDE5MTk@._V1_.jpg",
+              "width": 2063,
+              "height": 2072
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1265913",
+          "display_name": "Lisa Gunning",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDc5MDRlYzctMDk3OC00MDRkLTgyMmMtNzQxMWZlY2Y4OGM0XkEyXkFqcGdeQXVyODE5NjY3Mzk@._V1_.jpg",
+              "width": 1442,
+              "height": 1460
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm3998161",
+          "display_name": "Logan Kibens",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTQwYjE3MTQtOWY1Ny00OTYxLTg1YTAtNWJlNmI4NTQ3NDE5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2400,
+              "height": 2400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1450065",
+          "display_name": "Neasa Hardiman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2I5YmNjNzUtMDNlMy00NjcxLTgzMGItNWE5ZDM5ZDBhN2I2XkEyXkFqcGdeQXVyMTU1OTEzNw@@._V1_.jpg",
+              "width": 2101,
+              "height": 2050
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2221724",
+          "display_name": "Shannon Murphy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDhmZmI5NjMtMTRmYy00ZmNlLTkxNWEtZGQxNzdiMjY1N2FkXkEyXkFqcGdeQXVyMTI5Mzk3NTQ@._V1_.jpg",
+              "width": 1000,
+              "height": 563
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm4373281",
+          "display_name": "Naomi Alderman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU2NzI1NDQ0OV5BMl5BanBnXkFtZTgwNjg1MjgzNTM@._V1_.jpg",
+              "width": 2048,
+              "height": 1342
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm6570565",
+          "display_name": "Michelle Hsu",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1703458",
+          "display_name": "Sarah Quintrell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWFiOGY3MjktNDE2Ni00NWQzLTgyMTktMTM1NGZiYmJiNzUwXkEyXkFqcGdeQXVyNjg3MDM4NzQ@._V1_.jpg",
+              "width": 1108,
+              "height": 1455
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0875979",
+          "display_name": "Raelle Tucker",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzg5MmEwN2YtYjI0ZS00YjI1LTkxMDYtNjZlNjk5ZDAxNjc4XkEyXkFqcGdeQXVyMjM2OTU5MA@@._V1_.jpg",
+              "width": 911,
+              "height": 1280
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm6357692",
+          "display_name": "Claire Wilson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTg5ODY3MzYtODYxNS00YmFkLWI5MmQtYzNlYjQ3NTlhMzlkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3168,
+              "height": 4752
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm8504865",
+          "display_name": "Toheeb Jimoh",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDZlZDBlNTctMzk5My00YzM5LTg3Y2ItNGE2YjFhZDU0OGZhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+              "width": 2832,
+              "height": 4621
+            }
+          ]
+        },
+        "characters": [
+          "Tunde Ojo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7635388",
+          "display_name": "Auli'i Cravalho",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTUyYjllNWEtYzNmOS00ODJlLThhZGYtNDIyYzA5ZGY0YmI1XkEyXkFqcGdeQXVyMzYwMzgyNTk@._V1_.jpg",
+              "width": 3091,
+              "height": 4000
+            }
+          ]
+        },
+        "characters": [
+          "Jos Cleary-Lopez"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001057",
+          "display_name": "Toni Collette",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODYzOTE3ODc1Ml5BMl5BanBnXkFtZTgwODYwMjE4NTM@._V1_.jpg",
+              "width": 503,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Margot Cleary-Lopez"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11286382",
+          "display_name": "Halle Bush",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWZjYTk1YWQtOTNkOS00NWFjLTlkNmItN2U5YjlkYmIxYmIzXkEyXkFqcGdeQXVyMTU4NTc2NTkx._V1_.jpg",
+              "width": 617,
+              "height": 792
+            }
+          ]
+        },
+        "characters": [
+          "Allie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4123351",
+          "display_name": "Ria Zmitrowicz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmE3ZmUwZDQtZDA0Yy00NmRhLTljZGMtZDkyYjU4ZWQyYjgzXkEyXkFqcGdeQXVyMjQxNjQzMTI@._V1_.jpg",
+              "width": 1120,
+              "height": 1400
+            }
+          ]
+        },
+        "characters": [
+          "Roxy Monke"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000491",
+          "display_name": "John Leguizamo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTEyMjMxNDg5NF5BMl5BanBnXkFtZTcwNzczOTY4MQ@@._V1_.jpg",
+              "width": 325,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Rob Lopez"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0692013",
+          "display_name": "Adina Porter",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEyOTc1OTUyNF5BMl5BanBnXkFtZTgwOTgzOTgxNjM@._V1_.jpg",
+              "width": 1248,
+              "height": 702
+            }
+          ]
+        },
+        "characters": [
+          "The Voice"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0550371",
+          "display_name": "Eddie Marsan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYyMTA0MTYwOF5BMl5BanBnXkFtZTgwMjY5MzkzNzM@._V1_.jpg",
+              "width": 1330,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Bernie Monke"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10221090",
+          "display_name": "Gerrison Machado",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzdjODE2M2QtZTY5MC00ZWJiLWE2OWMtMGU4OGRkMWFlYTA4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3278,
+              "height": 4672
+            }
+          ]
+        },
+        "characters": [
+          "Matty Clearly-Lopez",
+          "Matty Cleary-Lopez"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9569934",
+          "display_name": "Nico Hiraga",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWU0NDVjODgtNWJiYi00MmY0LTgwZDAtOWEyZWQ4Yzc4MWZlXkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_.jpg",
+              "width": 401,
+              "height": 498
+            }
+          ]
+        },
+        "characters": [
+          "Ryan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7720702",
+          "display_name": "Archie Rush",
+          "avatars": null
+        },
+        "characters": [
+          "Darrell Monke"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0184588",
+          "display_name": "Juliet Cowan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE3NzM4NDU2Ml5BMl5BanBnXkFtZTgwOTUwMjYxNjM@._V1_.jpg",
+              "width": 1469,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Barbara Monke"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1731401",
+          "display_name": "Edwina Findley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGRiNmY3Y2ItMTcxZi00ZDRhLTg1MTYtYmVhMjA2MTY5YzBiXkEyXkFqcGdeQXVyMTQ3NzkyNDk@._V1_.jpg",
+              "width": 399,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Helen Wright"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0194152",
+          "display_name": "Zrinka Cvitesic",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ4MjkzNDEwMV5BMl5BanBnXkFtZTcwNTMyMDMxNw@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Tatiana Moskalev"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0018681",
+          "display_name": "Reese Alexander",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGQ4MDI0NmEtYTZlYS00YmMyLTk5OTQtMGE0Y2VlMzJkZDc4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 893,
+              "height": 1296
+            }
+          ]
+        },
+        "characters": [
+          "Frank"
+        ]
+      }
+    ]
+  }
+}

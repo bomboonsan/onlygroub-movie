@@ -1,0 +1,313 @@
+{
+  "title": {
+    "id": "tt3416532",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "A Monster Calls",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 108,
+    "plot": "Conor, a twelve-year-old boy, encounters an ancient tree monster who proceeds to help him cope with his mother's terminal illness and being bullied in school.",
+    "rating": {
+      "aggregate_rating": 7.4,
+      "votes_count": 93929
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Family",
+      "Fantasy",
+      "Horror"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTg1OTA5OTkyNV5BMl5BanBnXkFtZTgwODMwNDU5OTE@._V1_.jpg",
+        "width": 4050,
+        "height": 6000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "ES",
+        "name": "Spain"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 76,
+      "review_count": 40
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1291105",
+          "display_name": "J.A. Bayona",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg2MTU2ODUzOF5BMl5BanBnXkFtZTcwOTI5NjU3OA@@._V1_.jpg",
+              "width": 1240,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm4710432",
+          "display_name": "Patrick Ness",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU5MTQ5MDQ2MV5BMl5BanBnXkFtZTgwMjQzNzk5OTE@._V1_.jpg",
+              "width": 1385,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm8435299",
+          "display_name": "Siobhan Dowd",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm6484968",
+          "display_name": "Lewis MacDougall",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTExOTI4NDY5NzZeQTJeQWpwZ15BbWU4MDc2MzU3MDAy._V1_.jpg",
+              "width": 1433,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Conor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000244",
+          "display_name": "Sigourney Weaver",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk1MTcyNTE3OV5BMl5BanBnXkFtZTcwMTA0MTMyMw@@._V1_.jpg",
+              "width": 450,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Grandma"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0428065",
+          "display_name": "Felicity Jones",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA0MTIwMzIyN15BMl5BanBnXkFtZTgwNDEyMzg1NDE@._V1_.jpg",
+              "width": 1360,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mum"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1527905",
+          "display_name": "Toby Kebbell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2EyODM5NDctMWU3Zi00NDc2LWFhYzQtNmQ2ZDJiZTczMDgwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 750,
+              "height": 943
+            }
+          ]
+        },
+        "characters": [
+          "Dad"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0600809",
+          "display_name": "Ben Moor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk4OTUxMTUzNl5BMl5BanBnXkFtZTcwMDQzODUzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 644
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Clark"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6866984",
+          "display_name": "James Melville",
+          "avatars": null
+        },
+        "characters": [
+          "Harry"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6449564",
+          "display_name": "Oliver Steer",
+          "avatars": null
+        },
+        "characters": [
+          "Sully"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7052979",
+          "display_name": "Dominic Boyle",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2Y3NjY3MmUtY2U1Mi00N2ViLThmY2YtMDE1NDhkYTZiNDdhXkEyXkFqcGc@._V1_.jpg",
+              "width": 4356,
+              "height": 5445
+            }
+          ]
+        },
+        "characters": [
+          "Anton"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0510545",
+          "display_name": "Jennifer Lim",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDczODQyODE3NV5BMl5BanBnXkFtZTgwMDg0OTI3MjE@._V1_.jpg",
+              "width": 3328,
+              "height": 4836
+            }
+          ]
+        },
+        "characters": [
+          "Miss Kwan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6247580",
+          "display_name": "Max Gabbay",
+          "avatars": null
+        },
+        "characters": [
+          "Steven"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2826202",
+          "display_name": "Morgan Symes",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWMyMGM1ZDItNTZmNi00OGNkLWI0ZWUtZjkyYjE2ZjcyOTU1XkEyXkFqcGc@._V1_.jpg",
+              "width": 2048,
+              "height": 3072
+            }
+          ]
+        },
+        "characters": [
+          "Lawyer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8419493",
+          "display_name": "Max Golds",
+          "avatars": null
+        },
+        "characters": [
+          "5-Year-Old Connor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6008502",
+          "display_name": "Frida Palsson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTE1NGJlZDgtYWM1YS00N2FjLWIxMjQtYWUwZjMzYzgwZmI3XkEyXkFqcGc@._V1_.jpg",
+              "width": 800,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Lily's Mum"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2571603",
+          "display_name": "Wanda Opalinska",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQwNzk2NjczNF5BMl5BanBnXkFtZTgwMTI3NjI0MjE@._V1_.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ]
+        },
+        "characters": [
+          "Female Nurse"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8419494",
+          "display_name": "Patrick Taggart",
+          "avatars": null
+        },
+        "characters": [
+          "Teacher"
+        ]
+      }
+    ]
+  }
+}

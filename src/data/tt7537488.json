@@ -1,0 +1,167 @@
+{
+  "title": {
+    "id": "tt7537488",
+    "type": "tvSeries",
+    "is_adult": false,
+    "primary_title": "Sagrada Reset",
+    "original_title": "Sakurada Reset",
+    "start_year": 2017,
+    "end_year": 2017,
+    "runtime_minutes": null,
+    "plot": "Misora has the power to reset time backwards by up to three days, and Kei has as photographic memory that allows him to remember everything, despite the reset. Together, they try to correct the mistakes of the past.",
+    "rating": {
+      "aggregate_rating": 7.4,
+      "votes_count": 179
+    },
+    "genres": [
+      "Animation",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzRhNmE0MmUtMTA4Zi00ZGRhLWIyY2EtY2M3M2IyZWQyNmFlXkEyXkFqcGc@._V1_.jpg",
+        "width": 2048,
+        "height": 2913
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "TV-14"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "jpn",
+        "name": "Japanese"
+      }
+    ],
+    "origin_countries": null,
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm1450274",
+          "display_name": "Shin'ya Kawatsura",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1451447",
+          "display_name": "Katsuhiko Takayama",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm2976492",
+          "display_name": "Aoi Yûki",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjNiMzdkMjAtMjQ3ZC00OWY0LWEwYjktMDhmNDE1N2Y4ZmFiXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+              "width": 658,
+              "height": 960
+            }
+          ]
+        },
+        "characters": [
+          "Sumire Souma"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2573928",
+          "display_name": "Kana Hanazawa",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGNlY2VlMTUtN2VhNS00MTMzLTk2YjctODc5MjYzNjhhYmRhXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+              "width": 717,
+              "height": 1072
+            }
+          ]
+        },
+        "characters": [
+          "Misora Haruki"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5481013",
+          "display_name": "Kaito Ishikawa",
+          "avatars": null
+        },
+        "characters": [
+          "Kei Asai"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3414040",
+          "display_name": "Takuya Eguchi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzgzZjlkODctYTVhNS00ZDYxLWIzYzktNzdmMmE3NWMzNzZiXkEyXkFqcGdeQXVyNzQzNDM3NTI@._V1_.jpg",
+              "width": 2048,
+              "height": 1536
+            }
+          ]
+        },
+        "characters": [
+          "Tomoki Nakano"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6728095",
+          "display_name": "Yuuka Aisaka",
+          "avatars": null
+        },
+        "characters": [
+          "Eri Oka"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4987620",
+          "display_name": "Sachika Misawa",
+          "avatars": null
+        },
+        "characters": [
+          "Seika Nonoo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1360441",
+          "display_name": "Sayaka Ôhara",
+          "avatars": null
+        },
+        "characters": [
+          "Majo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3340306",
+          "display_name": "Shin'ya Takahashi",
+          "avatars": null
+        },
+        "characters": [
+          "Doctor"
+        ]
+      }
+    ]
+  }
+}

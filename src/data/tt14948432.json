@@ -1,0 +1,341 @@
+{
+  "title": {
+    "id": "tt14948432",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Red One",
+    "original_title": null,
+    "start_year": 2024,
+    "end_year": null,
+    "runtime_minutes": 102,
+    "plot": "After Santa Claus (code name: Red One) is kidnapped, the North Pole's Head of Security (Dwayne Johnson) must team up with the world's most infamous bounty hunter (Chris Evans) in a globe-trotting, action-packed mission to save Christmas.",
+    "rating": {
+      "aggregate_rating": 6.9,
+      "votes_count": 2679
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Mystery"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmFkMjE4NjQtZTVmZS00MDZjLWE2ZmEtZTkzODljNjhlNWUxXkEyXkFqcGc@._V1_.jpg",
+        "width": 2765,
+        "height": 4096
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 36,
+      "review_count": 11
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0440458",
+          "display_name": "Jake Kasdan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDk1NjAwOTg1MV5BMl5BanBnXkFtZTcwODIwMjA3NA@@._V1_.jpg",
+              "width": 1476,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0604555",
+          "display_name": "Chris Morgan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGZkM2NjY2ItYmJjOC00NWNiLWI2MjctZmJmYjhjODhmZmY2XkEyXkFqcGdeQXVyNDM0NDAwOTQ@._V1_.jpg",
+              "width": 638,
+              "height": 825
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1205652",
+          "display_name": "Hiram Garcia",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTc1MDhmNTktYzMzMS00ZmUxLTg1YmEtMzMxZDQ5ZjhiMjAwXkEyXkFqcGc@._V1_.jpg",
+              "width": 3264,
+              "height": 2448
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0425005",
+          "display_name": "Dwayne Johnson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWU1ODBiNGUtMzVjNi00MzdhLTk0OTktOWRiOTIxMWNhOGI2XkEyXkFqcGdeQXVyMTU2OTM5NDQw._V1_.jpg",
+              "width": 5464,
+              "height": 8192
+            }
+          ]
+        },
+        "characters": [
+          "Callum Drift"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0262635",
+          "display_name": "Chris Evans",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU2NTg1OTQzMF5BMl5BanBnXkFtZTcwNjIyMjkyMg@@._V1_.jpg",
+              "width": 285,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Jack O'Malley"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005154",
+          "display_name": "Lucy Liu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTgxODE0MjI5Ml5BMl5BanBnXkFtZTcwMjkxMzMzMg@@._V1_.jpg",
+              "width": 282,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Zoe"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0799777",
+          "display_name": "J.K. Simmons",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzg2NTI5NzQ1MV5BMl5BanBnXkFtZTgwNjI1NDEwMDI@._V1_.jpg",
+              "width": 1679,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Nick"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001372",
+          "display_name": "Bonnie Hunt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDk3M2Y3ZWUtOTYwOC00MGMyLWJmNzgtZWE5YTFiNjM0YWQwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 3219,
+              "height": 4829
+            }
+          ]
+        },
+        "characters": [
+          "Mrs. Claus"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1970465",
+          "display_name": "Kristofer Hivju",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjk2MjhlMTItMjAxMS00NmFkLTg1ZjItZDY5ZWUyMmY0MzE2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 3600,
+              "height": 2595
+            }
+          ]
+        },
+        "characters": [
+          "Krampus"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2215143",
+          "display_name": "Kiernan Shipka",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTYyYjc0ZTItNDcxYy00NWZkLWE3NGMtNGVkYTY5NmI2OTI3XkEyXkFqcGdeQXVyMTI2Nzk3NzI4._V1_.jpg",
+              "width": 512,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Gryla"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1634944",
+          "display_name": "Mary Elizabeth Ellis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE3NTU4OTU2OV5BMl5BanBnXkFtZTgwMTQxNjE3NTE@._V1_.jpg",
+              "width": 768,
+              "height": 768
+            }
+          ]
+        },
+        "characters": [
+          "Olivia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9481314",
+          "display_name": "Wesley Kimmel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWU1Y2Y5ZDUtNTQyMy00YWFkLThiMzItYWRlYjQ1Yjk5MDA0XkEyXkFqcGdeQXVyODM3Nzc4NjA@._V1_.jpg",
+              "width": 1024,
+              "height": 1536
+            }
+          ]
+        },
+        "characters": [
+          "Dylan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1802209",
+          "display_name": "Nick Kroll",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg3NTE5Mjg2NF5BMl5BanBnXkFtZTgwODAxMzE4NDM@._V1_.jpg",
+              "width": 572,
+              "height": 859
+            }
+          ]
+        },
+        "characters": [
+          "Ted"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10604740",
+          "display_name": "Wyatt Hunt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODU1MDcyYTQtNGFmMi00ODU0LTg3NjAtOWMwNzc0MGE5Nzk4XkEyXkFqcGdeQXVyMTAxNDQ3ODQ5._V1_.jpg",
+              "width": 1024,
+              "height": 1536
+            }
+          ]
+        },
+        "characters": [
+          "Young Jack"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8958309",
+          "display_name": "Clayton Cooper",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGMxNzVlYTgtM2I0Zi00ZjQ2LWEzNzEtNGYwYWU4MTJlMDRhXkEyXkFqcGc@._V1_.jpg",
+              "width": 1024,
+              "height": 1536
+            }
+          ]
+        },
+        "characters": [
+          "Young Jack's Cousin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm13472554",
+          "display_name": "Lanz Duffy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmJmYzcyMjAtYzExMy00YmZhLWIxNWYtYzViNzE1MGVjYmUxXkEyXkFqcGdeQXVyMTQ4NDgxNjM0._V1_.jpg",
+              "width": 3744,
+              "height": 5616
+            }
+          ]
+        },
+        "characters": [
+          "Gene"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1476601",
+          "display_name": "Marc Evan Jackson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzg1YWJhMmQtNzc4ZC00OWJlLWE4ZDAtNmY3N2Y4NDY3M2I1XkEyXkFqcGdeQXVyMjAyNDI2OQ@@._V1_.jpg",
+              "width": 800,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Uncle Rick"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9256079",
+          "display_name": "Makana David",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGIxNTkxYzMtODA1ZS00NDc0LWJjZjktMDFlMGY5ZmM4MjVlXkEyXkFqcGdeQXVyODAxODE0NTA@._V1_.jpg",
+              "width": 1518,
+              "height": 1901
+            }
+          ]
+        },
+        "characters": [
+          "Barista"
+        ]
+      }
+    ]
+  }
+}

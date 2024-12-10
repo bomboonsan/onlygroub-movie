@@ -1,0 +1,330 @@
+{
+  "title": {
+    "id": "tt5273624",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Journey to the West: The Demons Strike Back",
+    "original_title": "Xi you fu yao pian",
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 109,
+    "plot": "A monk and his three disciples continue on their journey to battle demons.",
+    "rating": {
+      "aggregate_rating": 5.4,
+      "votes_count": 3571
+    },
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjA3MDM4OTk5OV5BMl5BanBnXkFtZTgwODg0MjMzMTI@._V1_.jpg",
+        "width": 1357,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": null,
+    "origin_countries": [
+      {
+        "code": "CN",
+        "name": "China"
+      }
+    ],
+    "critic_review": {
+      "score": 59,
+      "review_count": 4
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0007139",
+          "display_name": "Hark Tsui",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzAzMzg0OTc3NV5BMl5BanBnXkFtZTcwNzI4OTI4OQ@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0159507",
+          "display_name": "Stephen Chow",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk0MzgyNTMyN15BMl5BanBnXkFtZTcwNTgwMzgyMQ@@._V1_.jpg",
+              "width": 187,
+              "height": 254
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm3221887",
+          "display_name": "Si-Cheun Lee",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0007139",
+          "display_name": "Hark Tsui",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzAzMzg0OTc3NV5BMl5BanBnXkFtZTcwNzI4OTI4OQ@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm7301914",
+          "display_name": "Jia Jia Wei",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGFhZWI1YTItYjVkYy00MGZjLWEzOTgtMDBmZDQxMTM0NGRiXkEyXkFqcGc@._V1_.jpg",
+              "width": 3808,
+              "height": 5712
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1063158",
+          "display_name": "Cheng'en Wu",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm6806246",
+          "display_name": "Kris Wu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU4NzEwNzUzN15BMl5BanBnXkFtZTgwNDAzMTE0NDE@._V1_.jpg",
+              "width": 5184,
+              "height": 3456
+            }
+          ]
+        },
+        "characters": [
+          "Monk Tang Sanzang"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5341380",
+          "display_name": "Kenny Lin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkzNDYyNjA4OF5BMl5BanBnXkFtZTgwNjAwNjY4MzE@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        },
+        "characters": [
+          "The Monkey King, Sun Wukong"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3209720",
+          "display_name": "Chen Yao",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjA2NjRkZDAtNjQ2NS00MWNmLTg2MTEtNjAyOWEyZWU4MjllL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 1500,
+              "height": 2250
+            }
+          ]
+        },
+        "characters": [
+          "Minister"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7467125",
+          "display_name": "Yun Lin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGRhN2EzNjYtZGFjNi00NGM2LWIyZWUtYWUxNjNhMjY4NWNjXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 620,
+              "height": 856
+            }
+          ]
+        },
+        "characters": [
+          "Felicity"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7390319",
+          "display_name": "Yiwei Yang",
+          "avatars": null
+        },
+        "characters": [
+          "Pigsy (Zhu Ba Jie)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3746336",
+          "display_name": "Mengke Bateer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGZhMzIxNzUtYjdkMi00NTFkLWI5MDgtYjYxODQ2MTNjZDg3L2ltYWdlXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 2048,
+              "height": 879
+            }
+          ]
+        },
+        "characters": [
+          "Sandy (Sha Wujing)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5387033",
+          "display_name": "Likun Wang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDk3YWY5ZGItNzJkOC00OWM5LThiY2ItYzU0MzUyMDlhYzYyL2ltYWdlXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 900,
+              "height": 1135
+            }
+          ]
+        },
+        "characters": [
+          "Spider (Qi Qin)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4454642",
+          "display_name": "Bei'er Bao",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWNmNmU5N2ItZTZhZC00MWUyLWFkODktNDQxMTYzNWIzNTYwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 391,
+              "height": 596
+            }
+          ]
+        },
+        "characters": [
+          "King"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7582935",
+          "display_name": "Duo Wang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTcxZmViNDUtZTMxOC00ZTMzLThiMDctZThlZmMwMzhiYjIwXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 530,
+              "height": 794
+            }
+          ]
+        },
+        "characters": [
+          "handsome",
+          "young Pigsy (Zhu Ba Jie)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3934959",
+          "display_name": "Da Peng",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGFkOWRlMGEtYjQ1YS00N2E3LWJiODYtMzg3N2MzNjMyNDI0XkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 1200,
+              "height": 1600
+            }
+          ]
+        },
+        "characters": [
+          "Taoist exorcist"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2474015",
+          "display_name": "Sihan Cheng",
+          "avatars": null
+        },
+        "characters": [
+          "Monk Tang's master (in Liliput dream)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3518451",
+          "display_name": "Yonghui Huang",
+          "avatars": null
+        },
+        "characters": [
+          "Exorcist's junior disciple"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1125531",
+          "display_name": "Tze-Chung Lam",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGIxYTk5OTQtNzFlZC00OTBhLThkMzEtYjdlMDk5NWY3Y2E4XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 425,
+              "height": 607
+            }
+          ]
+        },
+        "characters": null
+      },
+      {
+        "name": {
+          "id": "nm5651709",
+          "display_name": "Jiqiang Li",
+          "avatars": null
+        },
+        "characters": [
+          "Exorcist's senior disciple"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9441447",
+          "display_name": "Shuang Li",
+          "avatars": null
+        },
+        "characters": [
+          "Midget (circus boss)"
+        ]
+      }
+    ]
+  }
+}

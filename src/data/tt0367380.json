@@ -1,0 +1,111 @@
+{
+  "title": {
+    "id": "tt0367380",
+    "type": "tvSeries",
+    "is_adult": false,
+    "primary_title": "Oshin",
+    "original_title": null,
+    "start_year": 1983,
+    "end_year": 1984,
+    "runtime_minutes": null,
+    "plot": "Tells the story of Oshin, a poor little girl who would someday become the owner of a big supermarket chain in Japan.",
+    "rating": {
+      "aggregate_rating": 8.3,
+      "votes_count": 1127
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "Family"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTkzNzRiMTMtMWI4Zi00MjczLTlmMTItNzI2ZjAxNmI5Njc5XkEyXkFqcGc@._V1_.jpg",
+        "width": 944,
+        "height": 1345
+      }
+    ],
+    "certificates": null,
+    "spoken_languages": [
+      {
+        "code": "jpn",
+        "name": "Japanese"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "JP",
+        "name": "Japan"
+      }
+    ],
+    "critic_review": null,
+    "directors": null,
+    "writers": null,
+    "casts": [
+      {
+        "name": {
+          "id": "nm0794053",
+          "display_name": "Toshi Shioya",
+          "avatars": null
+        },
+        "characters": [
+          "Nozomi Yashiro"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0652961",
+          "display_name": "Nobuko Otowa",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTY3NTc2NTcwMF5BMl5BanBnXkFtZTcwNDIyMTMwNw@@._V1_.jpg",
+              "width": 1828,
+              "height": 1293
+            }
+          ]
+        },
+        "characters": [
+          "Oshin as grown-up"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0849100",
+          "display_name": "Yûko Tanaka",
+          "avatars": null
+        },
+        "characters": [
+          "Oshin as young woman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1229947",
+          "display_name": "Ayako Kobayashi",
+          "avatars": null
+        },
+        "characters": [
+          "Oshin as child"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0559444",
+          "display_name": "Yôji Matsuda",
+          "avatars": null
+        },
+        "characters": [
+          "(1983)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0044463",
+          "display_name": "Terumi Azuma",
+          "avatars": null
+        },
+        "characters": null
+      }
+    ]
+  }
+}

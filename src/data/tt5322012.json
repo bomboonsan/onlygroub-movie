@@ -1,0 +1,326 @@
+{
+  "title": {
+    "id": "tt5322012",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Wish Upon",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 90,
+    "plot": "A teenage girl discovers a box that carries magic powers and a deadly price for using them.",
+    "rating": {
+      "aggregate_rating": 5.1,
+      "votes_count": 22916
+    },
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGY5YTgwOWQtMzBkNy00MzViLTgzMmQtOGQwMmZhNWYxOGJiXkEyXkFqcGc@._V1_.jpg",
+        "width": 2764,
+        "height": 4096
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 32,
+      "review_count": 24
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0502954",
+          "display_name": "John R. Leonetti",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTExODI5NzkxODFeQTJeQWpwZ15BbWU4MDUyMTkxODIx._V1_.jpg",
+              "width": 1409,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm3011547",
+          "display_name": "Barbara Marshall",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmMyNGFiODUtMGQ4Mi00MDFkLWFkYWItODM3MGE1YjI3ODE1XkEyXkFqcGc@._V1_.jpg",
+              "width": 525,
+              "height": 525
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1428821",
+          "display_name": "Joey King",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2QwZjMwM2UtNDJiNS00M2Q0LWJiYTMtYjE3YmQwMjdlNDhkXkEyXkFqcGdeQXVyMjMzMjAyOA@@._V1_.jpg",
+              "width": 2747,
+              "height": 2737
+            }
+          ]
+        },
+        "characters": [
+          "Clare Shannon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000202",
+          "display_name": "Ryan Phillippe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk0MzEwMzEzNV5BMl5BanBnXkFtZTgwNDMzMTc0NDE@._V1_.jpg",
+              "width": 1445,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Jonathan Shannon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3859624",
+          "display_name": "Ki Hong Lee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjRiMzE3MjgtNGM4Yi00MDk3LWE4MmQtM2MzODQzMmJiM2Q4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 613,
+              "height": 800
+            }
+          ]
+        },
+        "characters": [
+          "Ryan Hui"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8190400",
+          "display_name": "Mitchell Slaggert",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgxNDU1NjYyOV5BMl5BanBnXkFtZTgwMjgzMjMxOTE@._V1_.jpg",
+              "width": 364,
+              "height": 551
+            }
+          ]
+        },
+        "characters": [
+          "Paul Middlebrook"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7684864",
+          "display_name": "Shannon Purser",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzc2MjYyNzQ4Ml5BMl5BanBnXkFtZTgwNzc3MzUzNjM@._V1_.jpg",
+              "width": 1490,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "June Acosta"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2193008",
+          "display_name": "Sydney Park",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGM5MjkzYzQtYjk4Yy00NTFkLWIyODItZmNkYTRlNjg0ZGE4XkEyXkFqcGdeQXVyOTY5MDYxMQ@@._V1_.jpg",
+              "width": 5252,
+              "height": 3501
+            }
+          ]
+        },
+        "characters": [
+          "Meredith McNeil"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0737533",
+          "display_name": "Elisabeth Röhm",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDIyM2NlNGQtYTYwMi00NzYwLTg4NjItYWU3NGI4Y2UzZjcyXkEyXkFqcGdeQXVyMjUyNTQzNzk@._V1_.jpg",
+              "width": 1242,
+              "height": 1016
+            }
+          ]
+        },
+        "characters": [
+          "Johanna Shannon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6466214",
+          "display_name": "Josephine Langford",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2MxMGRmYTItYjliNi00YTYxLTkyMGEtMzNmMmMyNjgzZTJhXkEyXkFqcGdeQXVyNTI0NDA1NTE@._V1_.jpg",
+              "width": 1242,
+              "height": 1544
+            }
+          ]
+        },
+        "characters": [
+          "Darcie Chapman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6729659",
+          "display_name": "Alexander Nunez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzYwODdkMzktNzhhMy00ZWRjLWJlNzEtZmVlYmJlZGJhNThlXkEyXkFqcGdeQXVyNjk5MDk5MTc@._V1_.jpg",
+              "width": 4008,
+              "height": 6011
+            }
+          ]
+        },
+        "characters": [
+          "Tyler Manguso"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5635085",
+          "display_name": "Daniela Barbosa",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGU0ZjU2YmQtZGY1NS00MmY3LThiMjEtODhhNGQyZDdlYTBkXkEyXkFqcGc@._V1_.jpg",
+              "width": 4160,
+              "height": 6240
+            }
+          ]
+        },
+        "characters": [
+          "Lola Sanchez"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0359322",
+          "display_name": "Kevin Hanchard",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg3NjU5ODk4NV5BMl5BanBnXkFtZTgwNTM3OTYwMDI@._V1_.jpg",
+              "width": 1364,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Carl Morris"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000145",
+          "display_name": "Sherilyn Fenn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA2MDYwNTEyMV5BMl5BanBnXkFtZTYwMzM3NDk1._V1_.jpg",
+              "width": 297,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Mrs. Deluca"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6862942",
+          "display_name": "Raegan Revord",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTFiODM4ZDQtODFmYi00NjI0LTllNzMtOTg5ZThhMDhmY2NjXkEyXkFqcGdeQXVyNDYyMzU4MDU@._V1_.jpg",
+              "width": 794,
+              "height": 1191
+            }
+          ]
+        },
+        "characters": [
+          "Young Clare"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5333857",
+          "display_name": "Alice Lee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWJkYTZlZmQtMmVjMi00ZTkwLTllYjItYmQ3ZTlmOWRiOGFjXkEyXkFqcGdeQXVyNTY0NDUxNjk@._V1_.jpg",
+              "width": 1545,
+              "height": 2036
+            }
+          ]
+        },
+        "characters": [
+          "Gina"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0840422",
+          "display_name": "Victor Sutton",
+          "avatars": null
+        },
+        "characters": [
+          "Uncle August"
+        ]
+      }
+    ]
+  }
+}

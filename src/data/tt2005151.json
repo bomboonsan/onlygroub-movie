@@ -1,0 +1,341 @@
+{
+  "title": {
+    "id": "tt2005151",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "War Dogs",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 114,
+    "plot": "Loosely based on the true story of two young men, David Packouz and Efraim Diveroli, who won a three hundred million dollar contract from the Pentagon to arm America's allies in Afghanistan.",
+    "rating": {
+      "aggregate_rating": 7.1,
+      "votes_count": 249659
+    },
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Crime",
+      "Drama",
+      "War"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjEyNzQ0NzM4MV5BMl5BanBnXkFtZTgwMDI0ODM2OTE@._V1_.jpg",
+        "width": 346,
+        "height": 512
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "ron",
+        "name": "Romanian"
+      },
+      {
+        "code": "sqi",
+        "name": "Albanian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "RO",
+        "name": "Romania"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 57,
+      "review_count": 41
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0680846",
+          "display_name": "Todd Phillips",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGY5MWRjM2MtNDkzNC00MDcwLWE2ZjYtOWNlZmM3MWIyNGZmXkEyXkFqcGdeQXVyMTAxMjM5NTA4._V1_.jpg",
+              "width": 3000,
+              "height": 2000
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0157787",
+          "display_name": "Stephen Chin",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0680846",
+          "display_name": "Todd Phillips",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGY5MWRjM2MtNDkzNC00MDcwLWE2ZjYtOWNlZmM3MWIyNGZmXkEyXkFqcGdeQXVyMTAxMjM5NTA4._V1_.jpg",
+              "width": 3000,
+              "height": 2000
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1429512",
+          "display_name": "Jason Smilovic",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0493225",
+          "display_name": "Guy Lawson",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1886602",
+          "display_name": "Miles Teller",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2ZiYThiZTUtYmM0ZS00ZWQzLTgzMTEtZWY1ZDkwNWM4ZGNmXkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_.jpg",
+              "width": 2433,
+              "height": 3611
+            }
+          ]
+        },
+        "characters": [
+          "David Packouz"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3111373",
+          "display_name": "Steve Lantz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGQxODdmYzEtYWE3Zi00OWUyLWJlZjMtNThlYzM1MzAxMzA5XkEyXkFqcGdeQXVyMjQ1NDc3MjA@._V1_.jpg",
+              "width": 900,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Security Guard"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1816775",
+          "display_name": "Gregg Weiner",
+          "avatars": null
+        },
+        "characters": [
+          "Massage Client"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8349038",
+          "display_name": "David Packouz",
+          "avatars": null
+        },
+        "characters": [
+          "Singer at Hilldale Home"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0420646",
+          "display_name": "Eddie Jemison",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzE2MjQzNDgxNV5BMl5BanBnXkFtZTcwMDI0OTk1Mw@@._V1_.jpg",
+              "width": 292,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Hilldale Home Manager"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4558006",
+          "display_name": "Julian Sergi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDkwOTA4NDUtOTZjNS00NjQ3LTlhOTktOTVjYjQ3N2EyMjllXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 4022,
+              "height": 6026
+            }
+          ]
+        },
+        "characters": [
+          "Rosen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4327542",
+          "display_name": "Daniel Berson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzYzNWY3N2ItMTlkZi00NGE1LWI3MzQtYTg4NTFmMmIxOTExXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 453,
+              "height": 518
+            }
+          ]
+        },
+        "characters": [
+          "Rabbi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1706767",
+          "display_name": "Jonah Hill",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyNDU0NzAwNl5BMl5BanBnXkFtZTcwMzQxMzIzNw@@._V1_.jpg",
+              "width": 460,
+              "height": 541
+            }
+          ]
+        },
+        "characters": [
+          "Efraim Diveroli"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6211068",
+          "display_name": "Edson Jean",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGIxZDUzYjUtY2E5Ny00MDRmLTkyNGEtZjQ3YjMzZjkwNjNlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1676,
+              "height": 2076
+            }
+          ]
+        },
+        "characters": [
+          "Drug Dealer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4117905",
+          "display_name": "Daimion Johnson",
+          "avatars": null
+        },
+        "characters": [
+          "Drug Dealer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8349040",
+          "display_name": "Bethuel Fletcher",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmE0NWZiOTYtMTQ1OS00NDIxLWEzOTMtNDM3Y2M1MWI1MjQ0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 828,
+              "height": 1107
+            }
+          ]
+        },
+        "characters": [
+          "Drug Dealer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1869101",
+          "display_name": "Ana de Armas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWM3MDMzNjMtODM5Ny00YmY0LWJhNzQtNTE1ZDNlNjllNDQ0XkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg",
+              "width": 4000,
+              "height": 2667
+            }
+          ]
+        },
+        "characters": [
+          "Iz"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001629",
+          "display_name": "Kevin Pollak",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzQyYWYyZjQtY2E0My00ZmU5LTkxNmMtNjcwN2Q3MDRmNWQwXkEyXkFqcGdeQXVyNDU3MDIzMTM@._V1_.jpg",
+              "width": 424,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Ralph Slutsky"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7071561",
+          "display_name": "Gabriela Alvarez",
+          "avatars": null
+        },
+        "characters": [
+          "Club Girl"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3626447",
+          "display_name": "Dan Bilzerian",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgwOTA3OTAwNl5BMl5BanBnXkFtZTgwMTQ2NzI4NjE@._V1_.jpg",
+              "width": 960,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Dan Bilzerian"
+        ]
+      }
+    ]
+  }
+}

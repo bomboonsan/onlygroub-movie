@@ -1,0 +1,334 @@
+{
+  "title": {
+    "id": "tt4154916",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Replicas",
+    "original_title": null,
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 107,
+    "plot": "A scientist becomes obsessed with bringing back his family members who died in a traffic accident.",
+    "rating": {
+      "aggregate_rating": 5.5,
+      "votes_count": 42097
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGQxYTZlYzQtNjk3NS00MjVhLTkxZTYtMDk2ODlkMGJkYzBhXkEyXkFqcGdeQXVyMTk5MzE1MTY@._V1_.jpg",
+        "width": 1944,
+        "height": 2880
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CN",
+        "name": "China"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "PR",
+        "name": "Puerto Rico"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 19,
+      "review_count": 15
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0618680",
+          "display_name": "Jeffrey Nachmanoff",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc4NjIzMjI3Nl5BMl5BanBnXkFtZTcwNDA0OTY4MQ@@._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm3203841",
+          "display_name": "Chad St. John",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1336500",
+          "display_name": "Stephen Hamel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDY5Y2M0ZjYtNWIxMS00YmY3LWJkMmItNTJjYWFjYzZhMmFiXkEyXkFqcGdeQXVyMjE3ODIyMA@@._V1_.jpg",
+              "width": 2530,
+              "height": 3177
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000206",
+          "display_name": "Keanu Reeves",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGJmMWEzOGQtMWZkNS00MGNiLTk5NGEtYzg1YzAyZTgzZTZmXkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_.jpg",
+              "width": 1800,
+              "height": 2700
+            }
+          ]
+        },
+        "characters": [
+          "William Foster"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1404408",
+          "display_name": "Alice Eve",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTM5NzI1NTMwN15BMl5BanBnXkFtZTcwOTQ0NjExNw@@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mona Foster"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3042755",
+          "display_name": "Thomas Middleditch",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkwNjMwMDAzN15BMl5BanBnXkFtZTgwOTU3NjMwMTE@._V1_.jpg",
+              "width": 432,
+              "height": 594
+            }
+          ]
+        },
+        "characters": [
+          "Ed Whittle"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0651159",
+          "display_name": "John Ortiz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU2OTY2NDQzOF5BMl5BanBnXkFtZTcwNDcyMzIzNw@@._V1_.jpg",
+              "width": 1654,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Jones"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3492402",
+          "display_name": "Emjay Anthony",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2M2NWY1M2QtZWM0Zi00ZDQwLWFkYjAtNWIwMDZkZjMwMWNkXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 829,
+              "height": 1173
+            }
+          ]
+        },
+        "characters": [
+          "Matt Foster"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3014840",
+          "display_name": "Emily Alyn Lind",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmJjNDMyZGQtNjAzYS00OWM4LWIwZGMtN2MyOTE4MGIxM2ZiXkEyXkFqcGdeQXVyMTY0MDIyOQ@@._V1_.jpg",
+              "width": 1222,
+              "height": 1258
+            }
+          ]
+        },
+        "characters": [
+          "Sophie Foster"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6507096",
+          "display_name": "Aria Lyric Leabu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjljOTk4MGUtNDZmZi00ZWZjLWIyNWUtMmM2ZTRlZTAyYjExXkEyXkFqcGdeQXVyMTAwMzUyMzUy._V1_.jpg",
+              "width": 400,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Zoe Foster"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1812840",
+          "display_name": "Nyasha Hatendi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjMzN2UwMzMtZGVkZi00M2MwLThjMjItMGM4NmZiYzc2ZjEzXkEyXkFqcGdeQXVyNDY5MDUxMQ@@._V1_CR254,15,292,438_.jpg",
+              "width": 292,
+              "height": 438
+            }
+          ]
+        },
+        "characters": [
+          "Scott"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2429882",
+          "display_name": "Amber Rivera",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk3MzY2ODg4NV5BMl5BanBnXkFtZTcwNjYyNjYyNg@@._V1_.jpg",
+              "width": 2700,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Margaret"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0245398",
+          "display_name": "Jonathan Dwayne",
+          "avatars": null
+        },
+        "characters": [
+          "Security Guard #2"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1579008",
+          "display_name": "Luis Gonzaga",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjI3ODU4MTAtMjRmNy00MjI1LTlkY2EtMGYxNmU3OGJhM2I1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2478,
+              "height": 1652
+            }
+          ]
+        },
+        "characters": [
+          "Officer Pérez"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4100551",
+          "display_name": "Andres Ramos",
+          "avatars": null
+        },
+        "characters": [
+          "Officer Rodríguez"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6580246",
+          "display_name": "Jeffrey Holsman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTgxMGRjNzUtZGI3ZC00YWMwLTliOWItNTY0OTRiNGNmNWRmXkEyXkFqcGc@._V1_.jpg",
+              "width": 2832,
+              "height": 4256
+            }
+          ]
+        },
+        "characters": [
+          "Blue Eyes"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0517778",
+          "display_name": "Sunshine Logroño",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTAxMDE4MTg3OTReQTJeQWpwZ15BbWU4MDI3MTAxNjIx._V1_.jpg",
+              "width": 3744,
+              "height": 5616
+            }
+          ]
+        },
+        "characters": [
+          "Héctor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0023130",
+          "display_name": "Angela Alvarado",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA2NjAyODc4NF5BMl5BanBnXkFtZTcwMjc1NjgyMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 558
+            }
+          ]
+        },
+        "characters": [
+          "Ms. Barnes"
+        ]
+      }
+    ]
+  }
+}

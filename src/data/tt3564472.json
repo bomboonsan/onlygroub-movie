@@ -1,0 +1,348 @@
+{
+  "title": {
+    "id": "tt3564472",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Girls Trip",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 122,
+    "plot": "When four lifelong friends travel to New Orleans for the annual Essence Festival, sisterhoods are rekindled, wild sides are rediscovered, and there's enough dancing, drinking, brawling and romancing to make the Big Easy blush.",
+    "rating": {
+      "aggregate_rating": 6.2,
+      "votes_count": 40566
+    },
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjMwNTEzODUwMV5BMl5BanBnXkFtZTgwNjE5NjA5MjI@._V1_.jpg",
+        "width": 1293,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "CN",
+        "name": "China"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 71,
+      "review_count": 35
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0002700",
+          "display_name": "Malcolm D. Lee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWZkNzI5Y2YtZjU3ZS00ZTkyLWI2MGQtZjJhNzg0MTMzNzEyXkEyXkFqcGdeQXVyMjExNzI0Njc@._V1_.jpg",
+              "width": 2100,
+              "height": 1400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1106214",
+          "display_name": "Erica Rivinoja",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjY1OGU0OWMtYjhhOC00NzY1LWFiMDUtODdlMTljMTc0NzZiXkEyXkFqcGdeQXVyMTcwODYyOA@@._V1_.jpg",
+              "width": 400,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1244069",
+          "display_name": "Kenya Barris",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzAzMThmZjctY2U2My00ZTk3LWFjM2YtNGEzMDlmZGZjYWU4XkEyXkFqcGdeQXVyNzExOTQxNjM@._V1_.jpg",
+              "width": 4667,
+              "height": 7000
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2002824",
+          "display_name": "Tracy Oliver",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzg5MTM1OTA2M15BMl5BanBnXkFtZTgwMzIxNTMwNDI@._V1_.jpg",
+              "width": 1466,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0356021",
+          "display_name": "Regina Hall",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ5NjUyNjk2OF5BMl5BanBnXkFtZTcwNzEwMTYwMg@@._V1_.jpg",
+              "width": 275,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Ryan Pierce"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001451",
+          "display_name": "Queen Latifah",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAwNjkxNzkyMF5BMl5BanBnXkFtZTcwNTQ1MTMyMw@@._V1_.jpg",
+              "width": 433,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Sasha Franklin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000586",
+          "display_name": "Jada Pinkett Smith",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYzOTE1MjQ0OF5BMl5BanBnXkFtZTgwMzczNTkwNjE@._V1_.jpg",
+              "width": 1348,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Lisa Cooper"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1840504",
+          "display_name": "Tiffany Haddish",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE1NjcxMjIwMl5BMl5BanBnXkFtZTgwOTE3NjIwMzI@._V1_.jpg",
+              "width": 859,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Dina"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005478",
+          "display_name": "Larenz Tate",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcxODc0NjE0OV5BMl5BanBnXkFtZTcwMDA0MzQ3Mg@@._V1_.jpg",
+              "width": 239,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Julian Stevens"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1591496",
+          "display_name": "Mike Colter",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODJkZjM1YTAtYTAzZi00NDc1LTk0ODItNTQ2MTEwNDY0MmI1XkEyXkFqcGdeQXVyMzg0MjI1OQ@@._V1_.jpg",
+              "width": 853,
+              "height": 1280
+            }
+          ]
+        },
+        "characters": [
+          "Stewart Pierce"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005532",
+          "display_name": "Kate Walsh",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk2NDEzNzg3MV5BMl5BanBnXkFtZTcwNjI1Mzg2Mw@@._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Elizabeth Davelli"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2492243",
+          "display_name": "Kofi Siriboe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQyNzIzNDIwMF5BMl5BanBnXkFtZTgwODIzOTQ4NjE@._V1_.jpg",
+              "width": 1312,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Malik"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1305056",
+          "display_name": "Lara Grice",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjRlZjVjN2YtYWZkYy00OTg3LWE1YjYtYjg1MDczODY0MDNlXkEyXkFqcGdeQXVyMjE0MjY0OQ@@._V1_.jpg",
+              "width": 1470,
+              "height": 2205
+            }
+          ]
+        },
+        "characters": [
+          "Bethany"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3831822",
+          "display_name": "Deborah Ayorinde",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2JlMGMxYzEtOWI5ZS00ZDkxLWE4MGQtOGVjYzU4NTdmNTVlXkEyXkFqcGdeQXVyMTU5MDY4OTI@._V1_.jpg",
+              "width": 1170,
+              "height": 1752
+            }
+          ]
+        },
+        "characters": [
+          "Simone"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1699378",
+          "display_name": "Janeline Hayes",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjI2YmRlMmYtNWI1Zi00NDE1LTk5ZGEtYjAxYTE2MDZhYTRjXkEyXkFqcGc@._V1_CR1,0,426,639_.jpg",
+              "width": 426,
+              "height": 639
+            }
+          ]
+        },
+        "characters": [
+          "Print Reporter"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4614637",
+          "display_name": "Wild Wayne",
+          "avatars": null
+        },
+        "characters": [
+          "DJ"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2641639",
+          "display_name": "Sunny Hostin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc5ODQ1NzcwOV5BMl5BanBnXkFtZTgwMDI0MTEzNDE@._V1_.jpg",
+              "width": 750,
+              "height": 750
+            }
+          ]
+        },
+        "characters": [
+          "Sunny Hostin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0612780",
+          "display_name": "Nick Mundy",
+          "avatars": null
+        },
+        "characters": [
+          "Tow Truck Driver"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2052217",
+          "display_name": "Ricky Wayne",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDU2YTA5ZWYtN2U4NS00ZTNlLWI0ZDgtMjg0NWFkOTAyYTI4XkEyXkFqcGc@._V1_.jpg",
+              "width": 720,
+              "height": 506
+            }
+          ]
+        },
+        "characters": [
+          "Ted"
+        ]
+      }
+    ]
+  }
+}

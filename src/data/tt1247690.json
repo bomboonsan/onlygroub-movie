@@ -1,0 +1,345 @@
+{
+  "title": {
+    "id": "tt1247690",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Serena",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 109,
+    "plot": "In Depression-era North Carolina, the future of George Pemberton's timber empire becomes complicated when he marries Serena.",
+    "rating": {
+      "aggregate_rating": 5.4,
+      "votes_count": 30552
+    },
+    "genres": [
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTExMDY2OTYxMTNeQTJeQWpwZ15BbWU4MDc2NDE5MTQx._V1_.jpg",
+        "width": 1800,
+        "height": 2775
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "CZ",
+        "name": "Czechia"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 36,
+      "review_count": 29
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0081540",
+          "display_name": "Susanne Bier",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQ2NTQyODg1NV5BMl5BanBnXkFtZTcwOTYzMjkzNA@@._V1_.jpg",
+              "width": 1575,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0477370",
+          "display_name": "Christopher Kyle",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODEyNDg2MDI5MF5BMl5BanBnXkFtZTgwMzk5MTQ1MDI@._V1_.jpg",
+              "width": 683,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm3047390",
+          "display_name": "Ron Rash",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0177896",
+          "display_name": "Bradley Cooper",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM0OTIyMzY1M15BMl5BanBnXkFtZTgwMTg0OTE0NzE@._V1_.jpg",
+              "width": 2341,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "George Pemberton"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2225369",
+          "display_name": "Jennifer Lawrence",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTU3NDE5MDQ4MV5BMl5BanBnXkFtZTgwMzE5ODQ3MDI@._V1_.jpg",
+              "width": 1284,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Serena Pemberton"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0406975",
+          "display_name": "Rhys Ifans",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkyMzU0NDM4Ml5BMl5BanBnXkFtZTcwMDkzMDg5Nw@@._V1_.jpg",
+              "width": 1450,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Galloway"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0429363",
+          "display_name": "Toby Jones",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgwMzc5NzM1MV5BMl5BanBnXkFtZTYwMzA0ODk0._V1_.jpg",
+              "width": 284,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Sheriff McDowell"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1399770",
+          "display_name": "David Dencik",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI4OTExNTg3NF5BMl5BanBnXkFtZTgwNzE2NzQ4ODE@._V1_.jpg",
+              "width": 1498,
+              "height": 1999
+            }
+          ]
+        },
+        "characters": [
+          "Buchanan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0365317",
+          "display_name": "Sean Harris",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM3NTI1NzI4MF5BMl5BanBnXkFtZTcwODU1MTg4Nw@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Campbell"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0880367",
+          "display_name": "Ana Ularu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzk4OWYyYmYtMGUxOC00ZmQzLWI2NDItMmUyNDgwNTU2MmQ2XkEyXkFqcGdeQXVyMjg3MzE0OTk@._V1_.jpg",
+              "width": 1290,
+              "height": 1621
+            }
+          ]
+        },
+        "characters": [
+          "Rachel Hermann"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2730580",
+          "display_name": "Sam Reid",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWQwNmYyZDQtYzdhNi00MTcwLTlkMGQtMmI5NDEyNTA2ZmE1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+              "width": 3397,
+              "height": 4881
+            }
+          ]
+        },
+        "characters": [
+          "Vaughn"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0384152",
+          "display_name": "Conleth Hill",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDM3NDYyNDE5NV5BMl5BanBnXkFtZTcwNDIxNzQyOA@@._V1_.jpg",
+              "width": 562,
+              "height": 848
+            }
+          ]
+        },
+        "characters": [
+          "Doctor Chaney"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1564421",
+          "display_name": "Charity Wakefield",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGZmNzYyYmYtMDYzZi00NWI1LTg0NTQtZTU1ZDMzMjI0Y2ExXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "width": 3333,
+              "height": 5000
+            }
+          ]
+        },
+        "characters": [
+          "Agatha"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0388061",
+          "display_name": "Douglas Hodge",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjc5NDhjZDAtNTFhNC00N2I1LWJjZWUtOGQzZTBkNDE1NzFiXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 402,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Horace Kephart"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0091035",
+          "display_name": "Kim Bodnia",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzA5ZTk2OTAtMGZiYS00Njk4LWI4MzAtOGMyMzkzZGQ5YTBiXkEyXkFqcGdeQXVyNTA4NjkwMA@@._V1_.jpg",
+              "width": 592,
+              "height": 841
+            }
+          ]
+        },
+        "characters": [
+          "Abe Hermann"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1605114",
+          "display_name": "Christian McKay",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAyNzExODk5NV5BMl5BanBnXkFtZTcwNDE2MzMxMw@@._V1_.jpg",
+              "width": 303,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Boston bank manager"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0952911",
+          "display_name": "Philip Zandén",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWU2YTZjOTctMzEwNy00NmU4LWE1YWUtMDU4MGU4N2Q0ZDE3XkEyXkFqcGc@._V1_.jpg",
+              "width": 2500,
+              "height": 1669
+            }
+          ]
+        },
+        "characters": [
+          "Calhoun"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0219329",
+          "display_name": "Ned Dennehy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjRhZjBmMTktOWUyZi00ZDM0LTk1OGItYTg0ZGNjMDdhNDNjXkEyXkFqcGdeQXVyMjUxMTM1MjE@._V1_.jpg",
+              "width": 1146,
+              "height": 1404
+            }
+          ]
+        },
+        "characters": [
+          "Ledbetter"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "title": {
+    "id": "tt8002382",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Marsh King's Daughter",
+    "original_title": null,
+    "start_year": 2023,
+    "end_year": null,
+    "runtime_minutes": 109,
+    "plot": "A woman seeks revenge against the man who kidnapped her mother.",
+    "rating": {
+      "aggregate_rating": 5.8,
+      "votes_count": 7819
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzdjNzY1OTctMWIxMS00NzA3LWExNWQtOWEyM2Q2MWRlOGFmXkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_.jpg",
+        "width": 4050,
+        "height": 6000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 47,
+      "review_count": 14
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1139726",
+          "display_name": "Neil Burger",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE3NDc5NjAwN15BMl5BanBnXkFtZTYwNDIzODg2._V1_.jpg",
+              "width": 485,
+              "height": 314
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm4212383",
+          "display_name": "Elle Smith",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1872664",
+          "display_name": "Mark L. Smith",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMwMzcyMzA5MV5BMl5BanBnXkFtZTgwNTEzMzk2NzE@._V1_.jpg",
+              "width": 1600,
+              "height": 899
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm9626614",
+          "display_name": "Karen Dionne",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2UxNWQ2MzItYmI2OC00ODI2LTk5NzAtYWY5NmMxNjY2NTZhXkEyXkFqcGdeQXVyNTM5Mjg3ODU@._V1_.jpg",
+              "width": 1205,
+              "height": 1529
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm5397459",
+          "display_name": "Daisy Ridley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgzMDk3MjI4OF5BMl5BanBnXkFtZTgwMzQxMDY5NjE@._V1_.jpg",
+              "width": 1638,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Helena"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0578853",
+          "display_name": "Ben Mendelsohn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA3NzcyMDcyMF5BMl5BanBnXkFtZTcwNjQwMTczMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Jacob"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7737419",
+          "display_name": "Brooklynn Prince",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzExODhhNzQtNDEwZi00MTc3LWFhOTctNGU4ZTM5Y2JjOWM2XkEyXkFqcGdeQXVyMTI2Nzk2MjQ1._V1_.jpg",
+              "width": 1024,
+              "height": 1535
+            }
+          ]
+        },
+        "characters": [
+          "Young Helena"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0083655",
+          "display_name": "Gil Birmingham",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjUzODM2Nzk1NF5BMl5BanBnXkFtZTcwODc5OTQwOA@@._V1_.jpg",
+              "width": 1310,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Clark Bekkum"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3308569",
+          "display_name": "Caren Pistorius",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmI4NzJhMzYtMzYyZS00MTY4LWJlN2ItZjAzODA5MzY3NDQ0XkEyXkFqcGdeQXVyMjY0NDg3NjY@._V1_.jpg",
+              "width": 2513,
+              "height": 3296
+            }
+          ]
+        },
+        "characters": [
+          "Beth"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1330560",
+          "display_name": "Garrett Hedlund",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM0NDM1NTMwNF5BMl5BanBnXkFtZTYwMTE0NTgz._V1_.jpg",
+              "width": 273,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Stephen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12844260",
+          "display_name": "Joey Carson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzhhNmJhYTUtOWI0MS00NGMzLWFhMzEtZTc5NjczNTQxNzg1XkEyXkFqcGdeQXVyMTM0MzY5NjM3._V1_.jpg",
+              "width": 2854,
+              "height": 3995
+            }
+          ]
+        },
+        "characters": [
+          "Marigold"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0668702",
+          "display_name": "Joshua Peace",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDZlOWVkZTgtZDhjNS00YjU4LWI1MWMtNmNhNmNlZDlkNTBiXkEyXkFqcGdeQXVyMTQ5NTg1Nzk@._V1_.jpg",
+              "width": 1500,
+              "height": 2000
+            }
+          ]
+        },
+        "characters": [
+          "ATV Driver"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0531869",
+          "display_name": "Pamela MacDonald",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTU0NzcwNmYtMGJkMC00ZDY2LTkwMWItNjQ4NDg1MzYyYjc0XkEyXkFqcGdeQXVyMTM3NTMwNjQ@._V1_.jpg",
+              "width": 3648,
+              "height": 5472
+            }
+          ]
+        },
+        "characters": [
+          "Mrs. Haver"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3369918",
+          "display_name": "Dan Abramovici",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDI4YjE3ZGMtNzA2NC00YjlhLWJhZjQtMTI1ODVjYzUyYmQ4XkEyXkFqcGdeQXVyMjI4OTI0NTg@._V1_.jpg",
+              "width": 3753,
+              "height": 5295
+            }
+          ]
+        },
+        "characters": [
+          "Max"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4733025",
+          "display_name": "Sophia Walker",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTQ0OGFiM2QtYjllYS00NjhiLTg1NjUtNDJhMGI1NWViYmJkXkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_.jpg",
+              "width": 1362,
+              "height": 762
+            }
+          ]
+        },
+        "characters": [
+          "Monica"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0570700",
+          "display_name": "Yanna McIntosh",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWUyOWY3ODYtZGRiNy00OGM5LTllODctNDAxZGUwZThlN2QwXkEyXkFqcGdeQXVyOTkxMDU1NjU@._V1_.jpg",
+              "width": 3000,
+              "height": 2400
+            }
+          ]
+        },
+        "characters": [
+          "Agent Lorna Illing"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2327742",
+          "display_name": "Ash Catherwood",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWE0NGVmMzQtM2Q3MS00ZDk5LTg0ODktYjNiM2I0MTRmMWEyXkEyXkFqcGdeQXVyOTM5OTQxMQ@@._V1_.jpg",
+              "width": 1009,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "State Police Officer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0698422",
+          "display_name": "Toby Proctor",
+          "avatars": null
+        },
+        "characters": [
+          "Sheriff's Deputy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0998942",
+          "display_name": "Blair Johannes",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTFjMDhhMTYtNzFhYi00YzM1LWE5MWYtNTU0ZWVmMDUzMDQzXkEyXkFqcGdeQXVyMzkxODU0Ng@@._V1_.jpg",
+              "width": 1280,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Marshal in Prison Van"
+        ]
+      }
+    ]
+  }
+}

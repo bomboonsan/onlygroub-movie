@@ -1,0 +1,318 @@
+{
+  "title": {
+    "id": "tt4481414",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Gifted",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 101,
+    "plot": "Frank, a single man raising his child prodigy niece Mary, is drawn into a custody battle with his mother.",
+    "rating": {
+      "aggregate_rating": 7.6,
+      "votes_count": 130570
+    },
+    "genres": [
+      "Drama"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjQ2NDU3NDE0M15BMl5BanBnXkFtZTgwMjA3OTg0MDI@._V1_.jpg",
+        "width": 1000,
+        "height": 1481
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 60,
+      "review_count": 33
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1989536",
+          "display_name": "Marc Webb",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUxMzA2NDU4MF5BMl5BanBnXkFtZTcwNzQ3NDc1Nw@@._V1_.jpg",
+              "width": 550,
+              "height": 367
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0002368",
+          "display_name": "Tom Flynn",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0262635",
+          "display_name": "Chris Evans",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU2NTg1OTQzMF5BMl5BanBnXkFtZTcwNjIyMjkyMg@@._V1_.jpg",
+              "width": 285,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Frank"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5085683",
+          "display_name": "Mckenna Grace",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzI4Y2EzNTEtZWZiZS00NzZmLTlmZWYtNGUwYmE3YjliOWQ5XkEyXkFqcGdeQXVyMzQxNjUxMDE@._V1_.jpg",
+              "width": 1600,
+              "height": 2400
+            }
+          ]
+        },
+        "characters": [
+          "Mary"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0242026",
+          "display_name": "Lindsay Duncan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYwNTkxOTQzMV5BMl5BanBnXkFtZTcwODQ3ODIyOA@@._V1_.jpg",
+              "width": 1360,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Evelyn"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0818055",
+          "display_name": "Octavia Spencer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg0MjcwMjcxNl5BMl5BanBnXkFtZTcwMjkwODg0Ng@@._V1_.jpg",
+              "width": 645,
+              "height": 865
+            }
+          ]
+        },
+        "characters": [
+          "Roberta"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2809577",
+          "display_name": "Jenny Slate",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM0YjI1MzMtNTliMy00YTMwLTllOTUtOWVhMjY1ZmQxOThkXkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_.jpg",
+              "width": 402,
+              "height": 386
+            }
+          ]
+        },
+        "characters": [
+          "Bonnie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7385695",
+          "display_name": "Michael Kendall Kaplan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTE5Y2Y5MzMtYzVkNC00MGYxLTgyMTMtZWU4Y2U1YjI0NjQwXkEyXkFqcGdeQXVyNjMwMjc3NzE@._V1_.jpg",
+              "width": 5464,
+              "height": 8192
+            }
+          ]
+        },
+        "characters": [
+          "Justin Gilmore"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0413698",
+          "display_name": "John M. Jackson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMyMDg0MjM2OF5BMl5BanBnXkFtZTcwNDc3MTgyMQ@@._V1_.jpg",
+              "width": 300,
+              "height": 338
+            }
+          ]
+        },
+        "characters": [
+          "Judge Edward Nichols"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0687625",
+          "display_name": "Glenn Plummer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY3NDgwNzM5NF5BMl5BanBnXkFtZTcwMjY3ODgyMQ@@._V1_.jpg",
+              "width": 442,
+              "height": 700
+            }
+          ]
+        },
+        "characters": [
+          "Greg Cullen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0278125",
+          "display_name": "John Finn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTFiYjc3NGEtNTkxOC00MTVkLWE0N2MtYTlmMDFiZTNhYjQ2XkEyXkFqcGdeQXVyMDg5NDc5MA@@._V1_.jpg",
+              "width": 1545,
+              "height": 2006
+            }
+          ]
+        },
+        "characters": [
+          "Aubry Highsmith"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0555500",
+          "display_name": "Elizabeth Marvel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU4MTMxNjA0MF5BMl5BanBnXkFtZTcwMTAwNTUwOA@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Gloria Davis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6870119",
+          "display_name": "Candace B. Harris",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGRiZjZmMWMtZTAxYi00N2U1LTllMTQtYmQ1ZjU3NDI4ZDZjXkEyXkFqcGc@._V1_.jpg",
+              "width": 1824,
+              "height": 2738
+            }
+          ]
+        },
+        "characters": [
+          "Carla Rosen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0804471",
+          "display_name": "Jon Sklaroff",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzQwZWIyMWYtOWI5MS00OGVhLThlNTUtMjcwMWIzNDg1ODBkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 369,
+              "height": 477
+            }
+          ]
+        },
+        "characters": [
+          "Seymore Shankland"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2033115",
+          "display_name": "Jona Xiao",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDc5NmRmNzktMzE2Mi00YjA3LTllYzgtMjA0MDA0MWRkMGQwXkEyXkFqcGdeQXVyMjc3MTQ3MTE@._V1_.jpg",
+              "width": 4593,
+              "height": 5417
+            }
+          ]
+        },
+        "characters": [
+          "Lijuan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1024264",
+          "display_name": "Julie Ann Emery",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTk0ODQ1OTQxM15BMl5BanBnXkFtZTgwMjMzMTE0NDE@._V1_.jpg",
+              "width": 428,
+              "height": 594
+            }
+          ]
+        },
+        "characters": [
+          "Pat Golding"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1218757",
+          "display_name": "Keir O'Donnell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDhjZmY2ZDQtMmYxZi00NjFjLWJiMDktMTRkYjllYTgwODA4XkEyXkFqcGdeQXVyMTIxMjU5OTA@._V1_.jpg",
+              "width": 524,
+              "height": 666
+            }
+          ]
+        },
+        "characters": [
+          "Bradley Pollard"
+        ]
+      }
+    ]
+  }
+}

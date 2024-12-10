@@ -1,0 +1,362 @@
+{
+  "title": {
+    "id": "tt1679335",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Trolls",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 92,
+    "plot": "After the Bergens invade Troll Village, Poppy, the happiest Troll ever born, and the curmudgeonly Branch set off on a journey to rescue her friends.",
+    "rating": {
+      "aggregate_rating": 6.4,
+      "votes_count": 90900
+    },
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Music",
+      "Musical"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTkxNDc3OTcxMV5BMl5BanBnXkFtZTgwODk2NjAzOTE@._V1_.jpg",
+        "width": 1379,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "IN",
+        "name": "India"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 55,
+      "review_count": 32
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0593610",
+          "display_name": "Mike Mitchell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMwNDkwNTcyN15BMl5BanBnXkFtZTgwODA1NjU4MDI@._V1_.jpg",
+              "width": 1430,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0230666",
+          "display_name": "Walt Dohrn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDRjMWE0NTctNGM3MC00ZGM2LTg5MTYtZjRhNjQ5NDIwNGUxXkEyXkFqcGdeQXVyMTMyNzI3NzIy._V1_.jpg",
+              "width": 3024,
+              "height": 4032
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0008743",
+          "display_name": "Jonathan Aibel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAzNDI0MTAzOV5BMl5BanBnXkFtZTcwOTMwNzkyMg@@._V1_.jpg",
+              "width": 1184,
+              "height": 1083
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0074184",
+          "display_name": "Glenn Berger",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1106214",
+          "display_name": "Erica Rivinoja",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjY1OGU0OWMtYjhhOC00NzY1LWFiMDUtODdlMTljMTc0NzZiXkEyXkFqcGdeQXVyMTcwODYyOA@@._V1_.jpg",
+              "width": 400,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm8540931",
+          "display_name": "Thomas Dam",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0447695",
+          "display_name": "Anna Kendrick",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIzOTA0OTQyN15BMl5BanBnXkFtZTcwMjE1OTIwMw@@._V1_.jpg",
+              "width": 283,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Poppy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005493",
+          "display_name": "Justin Timberlake",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUwMjE1MjU2N15BMl5BanBnXkFtZTcwNjk0ODY1NA@@._V1_.jpg",
+              "width": 1516,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Branch"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0221046",
+          "display_name": "Zooey Deschanel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgzMjM2NDE1OF5BMl5BanBnXkFtZTcwMjA2NDU5OA@@._V1_.jpg",
+              "width": 1538,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Bridget"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2395586",
+          "display_name": "Christopher Mintz-Plasse",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQyNjUzMDk5N15BMl5BanBnXkFtZTcwNzk0Nzk5Mw@@._V1_.jpg",
+              "width": 295,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "King Gristle"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0004724",
+          "display_name": "Christine Baranski",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUwMTYwMDUyM15BMl5BanBnXkFtZTcwNTk1MzQxMw@@._V1_.jpg",
+              "width": 299,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Chef"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1258970",
+          "display_name": "Russell Brand",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUxMzA2Nzk0N15BMl5BanBnXkFtZTcwMDgwMTEwNQ@@._V1_.jpg",
+              "width": 1439,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Creek"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005461",
+          "display_name": "Gwen Stefani",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjY2NDJiYzctZTQ5Ny00NzdlLThkMzEtMDBhMGMxNzY1YWRiXkEyXkFqcGdeQXVyOTE0NjgwMjY@._V1_.jpg",
+              "width": 419,
+              "height": 586
+            }
+          ]
+        },
+        "characters": [
+          "DJ Suki"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000092",
+          "display_name": "John Cleese",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ1MTIzMzM1MF5BMl5BanBnXkFtZTYwNjQ3ODI1._V1_.jpg",
+              "width": 300,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "King Gristle Sr."
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0179479",
+          "display_name": "James Corden",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQxMzYwYTctMGRlMC00MjRmLTk3YTUtZTFmNjZlMDVjYTYyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+              "width": 2000,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Biggie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001787",
+          "display_name": "Jeffrey Tambor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzQxMzA3NzQzM15BMl5BanBnXkFtZTcwMTQxMDc3MQ@@._V1_.jpg",
+              "width": 282,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "King Peppy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3236733",
+          "display_name": "Ron Funches",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzhiYzBiOTEtM2FiMC00NDA1LTlkYmMtYzM0ODk4ZDUwZGQ0XkEyXkFqcGdeQXVyMjAzODc2NTI@._V1_.jpg",
+              "width": 3356,
+              "height": 4475
+            }
+          ]
+        },
+        "characters": [
+          "Cooper"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5592916",
+          "display_name": "Aino Jawo",
+          "avatars": null
+        },
+        "characters": [
+          "Satin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5593235",
+          "display_name": "Caroline Hjelt",
+          "avatars": null
+        },
+        "characters": [
+          "Chenille"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2471798",
+          "display_name": "Kunal Nayyar",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQzMzQyMTYyM15BMl5BanBnXkFtZTcwNjYyMDI5Mg@@._V1_.jpg",
+              "width": 281,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Guy Diamond"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4832920",
+          "display_name": "Quvenzhané Wallis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU1ZDQwNDctMDA5OC00ODdmLWJjNWYtNTcxNTFlOWFlYzQ2XkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_.jpg",
+              "width": 1624,
+              "height": 2436
+            }
+          ]
+        },
+        "characters": [
+          "Harper"
+        ]
+      }
+    ]
+  }
+}

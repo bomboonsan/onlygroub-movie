@@ -1,0 +1,185 @@
+{
+  "title": {
+    "id": "tt9822706",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Wet Season",
+    "original_title": "Re dai yu",
+    "start_year": 2019,
+    "end_year": null,
+    "runtime_minutes": 103,
+    "plot": "A teacher and student at a Singapore high school form a special, self-affirming bond.",
+    "rating": {
+      "aggregate_rating": 6.8,
+      "votes_count": 1546
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BODY5NTM3MDYtYTQ4OC00YjQ1LTlhNDUtNDcwYjAzMzIwNTI5XkEyXkFqcGc@._V1_.jpg",
+        "width": 742,
+        "height": 1100
+      }
+    ],
+    "certificates": null,
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CN",
+        "name": "China"
+      },
+      {
+        "code": "SG",
+        "name": "Singapore"
+      },
+      {
+        "code": "TW",
+        "name": "Taiwan (Province of China)"
+      }
+    ],
+    "critic_review": {
+      "score": 73,
+      "review_count": 9
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm2021547",
+          "display_name": "Anthony Chen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjAxMTEzMDUwM15BMl5BanBnXkFtZTgwMTA2MDU5MDE@._V1_.jpg",
+              "width": 953,
+              "height": 1079
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2021547",
+          "display_name": "Anthony Chen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjAxMTEzMDUwM15BMl5BanBnXkFtZTgwMTA2MDU5MDE@._V1_.jpg",
+              "width": 953,
+              "height": 1079
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm2021003",
+          "display_name": "Yann Yann Yeo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjJlN2RjZDgtOTNlMS00M2VkLWFjZmMtMDFiZWI4NmRiNThlXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 287,
+              "height": 450
+            }
+          ]
+        },
+        "characters": [
+          "Ling"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5663613",
+          "display_name": "Jia Ler Koh",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDY4M2IxNDktZmQ2Zi00YmI4LTljOTMtZWY1YTJjNzM5ZWIwXkEyXkFqcGc@._V1_.jpg",
+              "width": 359,
+              "height": 540
+            }
+          ]
+        },
+        "characters": [
+          "Wei Lun Kok"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1177124",
+          "display_name": "Christopher Ming-Shun Lee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTYwZjMyZDAtNTVlNy00ZjZhLTk0MmMtMDNmZGQ1YThkYjdkXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 734,
+              "height": 849
+            }
+          ]
+        },
+        "characters": [
+          "Andrew"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10994783",
+          "display_name": "Shi Bin Yang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTRmMGU2MWQtYjk5OS00YzcyLTlmNzMtOTE3ZDRlYWM3MTZmXkEyXkFqcGc@._V1_.jpg",
+              "width": 384,
+              "height": 576
+            }
+          ]
+        },
+        "characters": [
+          "Father-in-law"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0955830",
+          "display_name": "Siew Feng Choo",
+          "avatars": null
+        },
+        "characters": [
+          "Auntie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12695966",
+          "display_name": "Howie Loh",
+          "avatars": null
+        },
+        "characters": [
+          "Ling's brother"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1169960",
+          "display_name": "Lina Ng",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjI3YjA3ZGUtM2Y4NC00OGM4LWEyMzktNTVmZThhNWI4NDY2XkEyXkFqcGc@._V1_.jpg",
+              "width": 497,
+              "height": 744
+            }
+          ]
+        },
+        "characters": [
+          "Gynaecologist"
+        ]
+      }
+    ]
+  }
+}

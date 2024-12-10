@@ -1,0 +1,299 @@
+{
+  "title": {
+    "id": "tt3078296",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Invisible Boy",
+    "original_title": "Il ragazzo invisibile",
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 100,
+    "plot": "Michele is thirteen year old, shy, unpopular at school, and in love with Stella. After wearing a costume for a Halloween party, he finds out that he's invisible.",
+    "rating": {
+      "aggregate_rating": 6.2,
+      "votes_count": 4364
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWE5ZjM5NDktZGViZC00ZGYyLWIxNjAtODkwMTE1YjQ5NzQzXkEyXkFqcGc@._V1_.jpg",
+        "width": 299,
+        "height": 427
+      }
+    ],
+    "certificates": null,
+    "spoken_languages": [
+      {
+        "code": "ita",
+        "name": "Italian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "IT",
+        "name": "Italy"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm0759368",
+          "display_name": "Gabriele Salvatores",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAyODA3MjMxM15BMl5BanBnXkFtZTYwNjQ0NjQ1._V1_.jpg",
+              "width": 261,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1453153",
+          "display_name": "Alessandro Fabbri",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmJmNDc2MGEtMTllNi00NjgwLTkyMjYtMTYzM2ZlMDQ2YjJhXkEyXkFqcGc@._V1_.jpg",
+              "width": 1304,
+              "height": 1526
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2002638",
+          "display_name": "Ludovica Rampoldi",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2827922",
+          "display_name": "Stefano Sardo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDMxODM0YTctMWE3MS00ZWFiLWFhMjctNDdiOTU4YzlkMzc1XkEyXkFqcGdeQXVyNDk3NTcyNTA@._V1_.jpg",
+              "width": 1600,
+              "height": 1068
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm5951743",
+          "display_name": "Ludovico Girardello",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2U1NGRkMDAtODNkMS00MDc4LTg0YzktZjFkOTAxOTdjNjQxXkEyXkFqcGc@._V1_.jpg",
+              "width": 720,
+              "height": 304
+            }
+          ]
+        },
+        "characters": [
+          "Michele"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000420",
+          "display_name": "Valeria Golino",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE3MDAwMDk1N15BMl5BanBnXkFtZTYwNTAyNDk0._V1_.jpg",
+              "width": 261,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Giovanna"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0072768",
+          "display_name": "Fabrizio Bentivoglio",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU4NDg3ODc2Ml5BMl5BanBnXkFtZTcwMTgwNTIzOA@@._V1_.jpg",
+              "width": 1384,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Basili"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0998941",
+          "display_name": "Christo Jivkov",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWU5YjNmMTUtMDRjYi00MzZmLTk4OGQtZjY3Mzg4NDNkMmU2XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 933,
+              "height": 1400
+            }
+          ]
+        },
+        "characters": [
+          "Andreij"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5951744",
+          "display_name": "Noa Zatta",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzVlN2YxNWQtYTQ0MC00Zjk5LWEzMTgtNjRkNGNmNzEzZTBkXkEyXkFqcGc@._V1_.jpg",
+              "width": 2630,
+              "height": 1107
+            }
+          ]
+        },
+        "characters": [
+          "Stella"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6996768",
+          "display_name": "Assil Kandil",
+          "avatars": null
+        },
+        "characters": [
+          "Candela"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6996769",
+          "display_name": "Filippo Valese",
+          "avatars": null
+        },
+        "characters": [
+          "Martino"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4554183",
+          "display_name": "Enea Barozzi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTNjN2E2MzctNDllZi00NDNjLThiMzctYzgxOTdjZTUxZWY5XkEyXkFqcGc@._V1_.jpg",
+              "width": 683,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Brando"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11404437",
+          "display_name": "Riccardo Gasparini",
+          "avatars": null
+        },
+        "characters": [
+          "Ivan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0229943",
+          "display_name": "Vernon Dobtcheff",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA3ODU2MzI0MjReQTJeQWpwZ15BbWU3MDYxODU2MjE@._V1_.jpg",
+              "width": 300,
+              "height": 420
+            }
+          ]
+        },
+        "characters": [
+          "Artiglio"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4687827",
+          "display_name": "Vilius Tumalavicius",
+          "avatars": null
+        },
+        "characters": [
+          "Biondo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4670759",
+          "display_name": "Diana Hobel",
+          "avatars": null
+        },
+        "characters": [
+          "Professoressa Siani"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2826237",
+          "display_name": "Vincenzo Zampa",
+          "avatars": null
+        },
+        "characters": [
+          "Minnella"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0710938",
+          "display_name": "Kseniya Rappoport",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE3NTEyNzgwOV5BMl5BanBnXkFtZTcwODIwOTgwNA@@._V1_.jpg",
+              "width": 270,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Yelena"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8302895",
+          "display_name": "Alexandru Arabagi",
+          "avatars": null
+        },
+        "characters": [
+          "Scienziato russo"
+        ]
+      }
+    ]
+  }
+}

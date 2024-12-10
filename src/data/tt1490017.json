@@ -1,0 +1,376 @@
+{
+  "title": {
+    "id": "tt1490017",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Lego Movie",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 100,
+    "plot": "An ordinary LEGO construction worker, thought to be the prophesied as \"special\", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.",
+    "rating": {
+      "aggregate_rating": 7.7,
+      "votes_count": 388742
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "tur",
+        "name": "Turkish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "AU",
+        "name": "Australia"
+      },
+      {
+        "code": "DK",
+        "name": "Denmark"
+      },
+      {
+        "code": "NO",
+        "name": "Norway"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 83,
+      "review_count": 43
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0520488",
+          "display_name": "Phil Lord",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTI5NTUwMTAwOV5BMl5BanBnXkFtZTcwMDIxMDgzOQ@@._V1_.jpg",
+              "width": 1662,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0588087",
+          "display_name": "Christopher Miller",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTAzNDAzODgzOTheQTJeQWpwZ15BbWU3MDc5MDg4MTg@._V1_.jpg",
+              "width": 1370,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0520488",
+          "display_name": "Phil Lord",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTI5NTUwMTAwOV5BMl5BanBnXkFtZTcwMDIxMDgzOQ@@._V1_.jpg",
+              "width": 1662,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0588087",
+          "display_name": "Christopher Miller",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTAzNDAzODgzOTheQTJeQWpwZ15BbWU3MDc5MDg4MTg@._V1_.jpg",
+              "width": 1370,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1087952",
+          "display_name": "Dan Hageman",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1156984",
+          "display_name": "Kevin Hageman",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm9204083",
+          "display_name": "Ole Kirk Christiansen",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0004715",
+          "display_name": "Will Arnett",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTgxNDdlYjAtNGQzZC00ODJlLTliYjYtYTk0ZDE4YTBmYmM0XkEyXkFqcGdeQXVyNDc1NDA0NA@@._V1_.jpg",
+              "width": 612,
+              "height": 792
+            }
+          ]
+        },
+        "characters": [
+          "Batman",
+          "Bruce Wayne"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0006969",
+          "display_name": "Elizabeth Banks",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2UxNzE4YWMtNDRiMi00MzY1LTkwZjgtNzA0MjA2NTNjZjRmXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+              "width": 2000,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Wyldstyle",
+          "Lucy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1911947",
+          "display_name": "Craig Berry",
+          "avatars": null
+        },
+        "characters": [
+          "Blake",
+          "Additional Voices"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1555340",
+          "display_name": "Alison Brie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjJkNDg5ZDctM2RlZS00NjFmLTkxZjktMWE5NGQzMDg4NDFhXkEyXkFqcGdeQXVyMTMwMDM1OTQ@._V1_.jpg",
+              "width": 1454,
+              "height": 2000
+            }
+          ]
+        },
+        "characters": [
+          "Unikitty"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0123262",
+          "display_name": "David Burrows",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjRhNDQ2NjctZDE1Ny00M2EwLThiOGQtMzYxOGExNmMwOWE5XkEyXkFqcGc@._V1_.jpg",
+              "width": 4897,
+              "height": 4912
+            }
+          ]
+        },
+        "characters": [
+          "Octan Robot",
+          "Additional Voices"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000355",
+          "display_name": "Anthony Daniels",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzg3MzU2NTUxMF5BMl5BanBnXkFtZTcwMTE1NjI4NA@@._V1_.jpg",
+              "width": 1137,
+              "height": 1536
+            }
+          ]
+        },
+        "characters": [
+          "C-3PO"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0206359",
+          "display_name": "Charlie Day",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjI2YWE1ODUtNTFjNy00MDgyLWJmNzgtNjBiZWE1NDY1YzFhXkEyXkFqcGdeQXVyODgwOTcwMDY@._V1_.jpg",
+              "width": 749,
+              "height": 1000
+            }
+          ]
+        },
+        "characters": [
+          "Benny"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5322950",
+          "display_name": "Amanda Farinos",
+          "avatars": null
+        },
+        "characters": [
+          "Mom"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1584992",
+          "display_name": "Keith Ferguson",
+          "avatars": null
+        },
+        "characters": [
+          "Han Solo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0002071",
+          "display_name": "Will Ferrell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMxMDIzMDEzNF5BMl5BanBnXkFtZTcwODcxMjE2Mg@@._V1_.jpg",
+              "width": 276,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Lord Business",
+          "President Business",
+          "The Man Upstairs"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0287182",
+          "display_name": "Will Forte",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODE5ODkwNTg4Nl5BMl5BanBnXkFtZTcwODcwMTY1OQ@@._V1_.jpg",
+              "width": 1560,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Abraham Lincoln"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2002649",
+          "display_name": "Dave Franco",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzEzMzYzMzYxMV5BMl5BanBnXkFtZTcwNTk2MDg4NQ@@._V1_.jpg",
+              "width": 1357,
+              "height": 1788
+            }
+          ]
+        },
+        "characters": [
+          "Wally"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000151",
+          "display_name": "Morgan Freeman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc0MDMyMzI2OF5BMl5BanBnXkFtZTcwMzM2OTk1MQ@@._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Vitruvius"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3025399",
+          "display_name": "Todd Hansen",
+          "avatars": null
+        },
+        "characters": [
+          "Gandalf",
+          "Additional Voices"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1706767",
+          "display_name": "Jonah Hill",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyNDU0NzAwNl5BMl5BanBnXkFtZTcwMzQxMzIzNw@@._V1_.jpg",
+              "width": 460,
+              "height": 541
+            }
+          ]
+        },
+        "characters": [
+          "Green Lantern"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "title": {
+    "id": "tt3278330",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Tale of Tales",
+    "original_title": "Il racconto dei racconti - Tale of Tales",
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 134,
+    "plot": "From the bitter quest of the Queen of Longtrellis, to two mysterious sisters who provoke the passion of a king, to the King of Highhills obsessed with a giant Flea, these tales are inspired by the fairytales by Giambattista Basile.",
+    "rating": {
+      "aggregate_rating": 6.4,
+      "votes_count": 31241
+    },
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTg0ODQ2NDE1N15BMl5BanBnXkFtZTgwNzAyNzA1ODE@._V1_.jpg",
+        "width": 800,
+        "height": 1185
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "IT",
+        "name": "Italy"
+      }
+    ],
+    "critic_review": {
+      "score": 72,
+      "review_count": 24
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0308520",
+          "display_name": "Matteo Garrone",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk3MDkwODkxMl5BMl5BanBnXkFtZTcwNTk0NTI4Nw@@._V1_.jpg",
+              "width": 2048,
+              "height": 1363
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0016837",
+          "display_name": "Edoardo Albinati",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0158323",
+          "display_name": "Ugo Chiti",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0308520",
+          "display_name": "Matteo Garrone",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk3MDkwODkxMl5BMl5BanBnXkFtZTcwNTk0NTI4Nw@@._V1_.jpg",
+              "width": 2048,
+              "height": 1363
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0309979",
+          "display_name": "Massimo Gaudioso",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2228277",
+          "display_name": "Giambattista Basile",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTNkNTE2Y2UtMmMyMS00NmFhLWIxYTItNDBiZmJmNTEyNWI1XkEyXkFqcGc@._V1_.jpg",
+              "width": 670,
+              "height": 758
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000161",
+          "display_name": "Salma Hayek",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzkyMTk2NzM2Ml5BMl5BanBnXkFtZTcwNDQ4MjYzMg@@._V1_.jpg",
+              "width": 283,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Queen of Longtrellis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001993",
+          "display_name": "Vincent Cassel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc1NDUzMzM5MV5BMl5BanBnXkFtZTcwNzY1OTYyOQ@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "King of Strongcliff"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0429363",
+          "display_name": "Toby Jones",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgwMzc5NzM1MV5BMl5BanBnXkFtZTYwMzA0ODk0._V1_.jpg",
+              "width": 284,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "King of Highhills"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000604",
+          "display_name": "John C. Reilly",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc4MDEzMDkzOF5BMl5BanBnXkFtZTYwNzQzNzcy._V1_.jpg",
+              "width": 450,
+              "height": 504
+            }
+          ]
+        },
+        "characters": [
+          "King of Longtrellis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0376602",
+          "display_name": "Shirley Henderson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQxNjAyNTY0M15BMl5BanBnXkFtZTYwNzMzNTMz._V1_.jpg",
+              "width": 261,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Imma"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0138427",
+          "display_name": "Hayley Carmichael",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDNmNzA1MzEtZDAxYi00ZmRkLThlYTgtODRmM2JkODc0Mzg0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI2MDEwNA@@._V1_.jpg",
+              "width": 763,
+              "height": 572
+            }
+          ]
+        },
+        "characters": [
+          "Dora"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3019183",
+          "display_name": "Bebe Cave",
+          "avatars": null
+        },
+        "characters": [
+          "Violet"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5237479",
+          "display_name": "Stacy Martin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmRlMmM3OTEtNjdhMy00ZmMwLTgzMTYtNjVlODM3OTI5YzUyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "width": 3712,
+              "height": 5568
+            }
+          ]
+        },
+        "characters": [
+          "Young Dora"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3136318",
+          "display_name": "Christian Lees",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjIxNWJhNWItZGFhMC00NjY3LWEwMmQtMjg1MTIzZDU2ODA1XkEyXkFqcGc@._V1_CR90,75,864,1296_.jpg",
+              "width": 864,
+              "height": 1296
+            }
+          ]
+        },
+        "characters": [
+          "Elias"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2176983",
+          "display_name": "Jonah Lees",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTM0ZjM1MWUtZmQwMC00NGZmLWExYTQtMjRjYzhlMzA4NDRkXkEyXkFqcGc@._V1_.jpg",
+              "width": 732,
+              "height": 1191
+            }
+          ]
+        },
+        "characters": [
+          "Jonah"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3663964",
+          "display_name": "Laura Pizzirani",
+          "avatars": null
+        },
+        "characters": [
+          "Jonah's Mother"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0685593",
+          "display_name": "Franco Pistoni",
+          "avatars": null
+        },
+        "characters": [
+          "Necromancer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2728165",
+          "display_name": "Jessie Cave",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA3MTIyMTQ5Nl5BMl5BanBnXkFtZTgwMjU2MjA2MjE@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Fenizia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8083135",
+          "display_name": "Michael Martini",
+          "avatars": null
+        },
+        "characters": [
+          "1st Circus Boy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7340535",
+          "display_name": "Alessandro Campagna",
+          "avatars": null
+        },
+        "characters": [
+          "2nd Circus Boy"
+        ]
+      }
+    ]
+  }
+}

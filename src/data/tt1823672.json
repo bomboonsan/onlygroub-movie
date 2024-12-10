@@ -1,0 +1,335 @@
+{
+  "title": {
+    "id": "tt1823672",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Chappie",
+    "original_title": null,
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 120,
+    "plot": "In the near future, crime is patrolled by a mechanized police force. When one police droid, Chappie, is stolen and given new programming, he becomes the first robot with the ability to think and feel for himself.",
+    "rating": {
+      "aggregate_rating": 6.8,
+      "votes_count": 267609
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTUyNTI4NTIwNl5BMl5BanBnXkFtZTgwMjQ4MTI0NDE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 41,
+      "review_count": 39
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0088955",
+          "display_name": "Neill Blomkamp",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUxOTE1MjgzMV5BMl5BanBnXkFtZTgwNjQzMzI0NDE@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0088955",
+          "display_name": "Neill Blomkamp",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUxOTE1MjgzMV5BMl5BanBnXkFtZTgwNjQzMzI0NDE@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2833612",
+          "display_name": "Terri Tatchell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWM1YTk0NTUtNWEwMC00ZjZhLWFlNzYtMmQ3YWQ4ZjE3NDBhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 360,
+              "height": 240
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1663205",
+          "display_name": "Sharlto Copley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU1MjU2MzkzNF5BMl5BanBnXkFtZTgwNDIzMjIwMjI@._V1_.jpg",
+              "width": 1510,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Chappie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2353862",
+          "display_name": "Dev Patel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjgxMjQwNDc5Nl5BMl5BanBnXkFtZTgwODI5Njk2NDE@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Deon Wilson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4375135",
+          "display_name": "Ninja",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzVmZTU4ZTUtYmQ1NC00ZDU1LTliNzEtMjc5OTA4MTU5ZGEwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+              "width": 3508,
+              "height": 2341
+            }
+          ]
+        },
+        "characters": [
+          "Ninja"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4375497",
+          "display_name": "Yo-Landi Visser",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWJjMmE3M2MtZWQ2Yy00YWY3LTgzY2ItOTNmNTExNTYyMTg2XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+              "width": 4256,
+              "height": 2832
+            }
+          ]
+        },
+        "characters": [
+          "Yo-Landi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1504678",
+          "display_name": "Jose Pablo Cantillo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjBlNDBmZTctYWJjZi00ZTY1LWExMDMtNGQzZmJhOWQyZTZjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3024,
+              "height": 2016
+            }
+          ]
+        },
+        "characters": [
+          "Yankie (Amerika)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0413168",
+          "display_name": "Hugh Jackman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDExMzIzNjk3Nl5BMl5BanBnXkFtZTcwOTE4NDU5OA@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Vincent Moore"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000244",
+          "display_name": "Sigourney Weaver",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk1MTcyNTE3OV5BMl5BanBnXkFtZTcwMTA0MTMyMw@@._V1_.jpg",
+              "width": 450,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Michelle Bradley"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1409827",
+          "display_name": "Brandon Auret",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGZkZTUwZTUtZGE2MC00MzQxLThiMmQtYzljYmQ5NjFiYzczXkEyXkFqcGdeQXVyNDUzMzc3NTQ@._V1_.jpg",
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        "characters": [
+          "Hippo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3520514",
+          "display_name": "Johnny Selema",
+          "avatars": null
+        },
+        "characters": [
+          "Pitbull"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0177846",
+          "display_name": "Anderson Cooper",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAwNjY0NTg3NV5BMl5BanBnXkFtZTcwODQ2ODMzMg@@._V1_.jpg",
+              "width": 329,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Anderson Cooper"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2820701",
+          "display_name": "Maurice Carpede",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGRhN2M4ZjQtN2M3Yi00NTZhLWIyMzAtNGVhNmU0OWZlMTkyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1766,
+              "height": 2357
+            }
+          ]
+        },
+        "characters": [
+          "Police Chief"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2271261",
+          "display_name": "Jason Cope",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDNmNDEzZTYtNDI2YS00NmQwLWFhODQtODQ4NDVjOGFkODQ4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 700,
+              "height": 525
+            }
+          ]
+        },
+        "characters": [
+          "Tetravaal Lead Mechanic"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0653268",
+          "display_name": "Kevin Otto",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODM3NjlkMDctZmE1My00NzE2LWEzY2EtODE3OGYyZDEzOGY3XkEyXkFqcGdeQXVyMTI0NzExNA@@._V1_.jpg",
+              "width": 894,
+              "height": 1280
+            }
+          ]
+        },
+        "characters": [
+          "Interviewer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1528483",
+          "display_name": "Chris Shields",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkzNzM0NjEyOV5BMl5BanBnXkFtZTgwMjczNjU2NDE@._V1_.jpg",
+              "width": 800,
+              "height": 534
+            }
+          ]
+        },
+        "characters": [
+          "Journalist"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1042930",
+          "display_name": "Bill Marchant",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWU5NjQxZDItNDhhYS00OTM3LWFhNjctZDhiNDcwOGM3YThkXkEyXkFqcGdeQXVyMTE5NDU3MA@@._V1_.jpg",
+              "width": 768,
+              "height": 1152
+            }
+          ]
+        },
+        "characters": [
+          "Professor"
+        ]
+      }
+    ]
+  }
+}

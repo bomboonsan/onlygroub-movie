@@ -1,0 +1,324 @@
+{
+  "title": {
+    "id": "tt0019130",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Man Who Laughs",
+    "original_title": null,
+    "start_year": 1928,
+    "end_year": null,
+    "runtime_minutes": 110,
+    "plot": "When a proud noble refuses to kiss the hand of the despotic King James in 1690, he is cruelly executed and his son surgically disfigured.",
+    "rating": {
+      "aggregate_rating": 7.6,
+      "votes_count": 8304
+    },
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Romance",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmVhYTQxYTQtMmQzOS00ZTVjLWFjMjUtMWQwM2Q2ZjQ4MzA3XkEyXkFqcGc@._V1_.jpg",
+        "width": 1871,
+        "height": 2772
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "Not Rated"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm0501902",
+          "display_name": "Paul Leni",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2MyZTMwMGItZDEzZS00N2M1LWI2NjAtMDhkOTlhMmI0MzY5XkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg",
+              "width": 334,
+              "height": 447
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0401076",
+          "display_name": "Victor Hugo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjMzYWYwZjMtMmNjYi00OTMyLTg2NmUtNWJmZjQzZGQwMjdhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg",
+              "width": 2094,
+              "height": 3000
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0018470",
+          "display_name": "J. Grubb Alexander",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTkwMzNhNzktYTQwZi00NjNkLTlkMmQtYmRlMWE0YmYyYjE3XkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_.jpg",
+              "width": 363,
+              "height": 703
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0031033",
+          "display_name": "Walter Anthony",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0572610",
+          "display_name": "May McLean",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0911709",
+          "display_name": "Marion Ward",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0679907",
+          "display_name": "Mary Philbin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTIxMTIxMTg0M15BMl5BanBnXkFtZTYwNTAzNDI2._V1_.jpg",
+              "width": 325,
+              "height": 420
+            }
+          ]
+        },
+        "characters": [
+          "Dea"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0891998",
+          "display_name": "Conrad Veidt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDQyMTk3OTM1OV5BMl5BanBnXkFtZTcwNDc5MzQ3OA@@._V1_.jpg",
+              "width": 1543,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Gwynplaine",
+          "Lord Clancharlie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0597146",
+          "display_name": "Julius Molnar",
+          "avatars": null
+        },
+        "characters": [
+          "Gwynplaine as a Child"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0045754",
+          "display_name": "Olga Baclanova",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUzODM3Nzg0M15BMl5BanBnXkFtZTYwMzM4NjQ2._V1_.jpg",
+              "width": 360,
+              "height": 450
+            }
+          ]
+        },
+        "characters": [
+          "Duchess Josiana"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0403582",
+          "display_name": "Brandon Hurst",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2IzMDhkYjAtZWNmNC00NTVkLWI0MTgtZmVlOGJiOTVkYTQ5XkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_.jpg",
+              "width": 720,
+              "height": 480
+            }
+          ]
+        },
+        "characters": [
+          "Barkilphedro"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0336391",
+          "display_name": "Cesare Gravina",
+          "avatars": null
+        },
+        "characters": [
+          "Ursus"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0392059",
+          "display_name": "Stuart Holmes",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzVmNmY0MTUtZDU1Ny00YTIzLTkyMWMtZmE3ZWFjMWQ1NzA0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+              "width": 406,
+              "height": 512
+            }
+          ]
+        },
+        "characters": [
+          "Lord Dirry-Moir"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0208659",
+          "display_name": "Sam De Grasse",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWFhMjg2M2YtNDE2OS00YWRiLTg2MmEtMmRlYjY4M2ExMDNjXkEyXkFqcGc@._V1_.jpg",
+              "width": 323,
+              "height": 432
+            }
+          ]
+        },
+        "characters": [
+          "King James II"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0797094",
+          "display_name": "George Siegmann",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI3ODAzNjE4MV5BMl5BanBnXkFtZTgwNDg0MzE1MzE@._V1_.jpg",
+              "width": 1000,
+              "height": 1498
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Hardquanonne"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0189684",
+          "display_name": "Josephine Crowell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDEyNjJkMTItMjk1OS00ZjJmLWIyZWEtOTMwMmZmNTYyMmFjXkEyXkFqcGc@._V1_.jpg",
+              "width": 679,
+              "height": 829
+            }
+          ]
+        },
+        "characters": [
+          "Queen Anne"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0403917",
+          "display_name": "Károly Huszár",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWNlY2ZiODYtNzY2NC00NjAwLThiZWMtYTk2NGFkYTZjMTNjXkEyXkFqcGc@._V1_.jpg",
+              "width": 900,
+              "height": 1265
+            }
+          ]
+        },
+        "characters": [
+          "Innkeeper"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1241191",
+          "display_name": "Zimbo the Dog",
+          "avatars": null
+        },
+        "characters": [
+          "Homo the Wolf"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0024035",
+          "display_name": "Tom Amandares",
+          "avatars": null
+        },
+        "characters": [
+          "Shouting Man at wheel on ship"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0057889",
+          "display_name": "Henry A. Barrows",
+          "avatars": null
+        },
+        "characters": [
+          "Undetermined Secondary Role"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0058887",
+          "display_name": "Richard Bartlett",
+          "avatars": null
+        },
+        "characters": [
+          "Undetermined Secondary Role"
+        ]
+      }
+    ]
+  }
+}

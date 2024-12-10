@@ -1,0 +1,330 @@
+{
+  "title": {
+    "id": "tt3183660",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Fantastic Beasts and Where to Find Them",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 132,
+    "plot": "The adventures of writer Newt Scamander in New York's secret community of witches and wizards seventy years before Harry Potter reads his book in school.",
+    "rating": {
+      "aggregate_rating": 7.2,
+      "votes_count": 503883
+    },
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjMxOTM1OTI4MV5BMl5BanBnXkFtZTgwODE5OTYxMDI@._V1_.jpg",
+        "width": 1012,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 66,
+      "review_count": 50
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0946734",
+          "display_name": "David Yates",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY2NTU4NjY4M15BMl5BanBnXkFtZTYwNjIxOTI1._V1_.jpg",
+              "width": 297,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0746830",
+          "display_name": "J.K. Rowling",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg2NzY5NTUxNV5BMl5BanBnXkFtZTcwNTQ2ODgwNA@@._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1519666",
+          "display_name": "Eddie Redmayne",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU0MjEyNzQyM15BMl5BanBnXkFtZTcwMTc4ODUxOQ@@._V1_.jpg",
+              "width": 1366,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Newt"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0714866",
+          "display_name": "Sam Redford",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDY0Y2E3NWYtNzJkYS00YzZjLWIxYzUtMzYyZDAzOGY1ZmViXkEyXkFqcGdeQXVyMjg4MTYwNw@@._V1_.jpg",
+              "width": 5342,
+              "height": 8009
+            }
+          ]
+        },
+        "characters": [
+          "Customs Official"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2580832",
+          "display_name": "Scott Goldman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzkwZmYzYTctZGU5NS00ZjdlLWJhOGItNjQ3ZWY3NTllODE5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 350,
+              "height": 524
+            }
+          ]
+        },
+        "characters": [
+          "Customs Official"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0072758",
+          "display_name": "Tim Bentinck",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODIzOGE5ZDEtNWM1Ni00NmNlLWJhNjctYjM1NDYxYWYxMGQyXkEyXkFqcGdeQXVyMzA1MTA1MA@@._V1_.jpg",
+              "width": 2400,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Witness"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0846925",
+          "display_name": "Tristan Tait",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjE5M2NiYTMtNTlmNi00NWE3LTgyMmMtNGNhMTA4OGUzNDZjXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+              "width": 500,
+              "height": 374
+            }
+          ]
+        },
+        "characters": [
+          "Reporter"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0268199",
+          "display_name": "Colin Farrell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg4NzM5NDk0MV5BMl5BanBnXkFtZTcwNzAzMTUxNw@@._V1_.jpg",
+              "width": 1429,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Graves"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0384732",
+          "display_name": "Tom Clarke Hill",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTI4MGRhYjctZmQzNi00NmIyLWEzYmItM2FhMzA0Y2JhZjk5XkEyXkFqcGdeQXVyMzY4NDY4Nzg@._V1_.jpg",
+              "width": 2784,
+              "height": 4176
+            }
+          ]
+        },
+        "characters": [
+          "Photographer 2"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0799252",
+          "display_name": "Matthew Sim",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGRkNTAzODItM2M3Ny00MDNhLWEzZTctODk2NTBlMTBhMGIxXkEyXkFqcGdeQXVyNDQwMjIwOA@@._V1_.jpg",
+              "width": 4160,
+              "height": 6240
+            }
+          ]
+        },
+        "characters": [
+          "Photographer 1"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2239702",
+          "display_name": "Katherine Waterston",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU0OTIzNTY1OV5BMl5BanBnXkFtZTgwNjk4MzE2MDI@._V1_.jpg",
+              "width": 1316,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Tina"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0608090",
+          "display_name": "Samantha Morton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUwNjc2MTg3N15BMl5BanBnXkFtZTcwOTQzODI3MQ@@._V1_.jpg",
+              "width": 293,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Mary Lou"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0283945",
+          "display_name": "Dan Fogler",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODcyOWZlNzEtZmRkMy00NTljLTg0NDctNmI4ZTJlMmVkOTZlXkEyXkFqcGdeQXVyMTE4NTMxNjI@._V1_.jpg",
+              "width": 1382,
+              "height": 1274
+            }
+          ]
+        },
+        "characters": [
+          "Jacob Kowalski"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3009232",
+          "display_name": "Ezra Miller",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTQ2YmNlZDEtM2EwNi00N2JhLTk3ZDktMjBmNzYwYWI1OWZmXkEyXkFqcGdeQXVyNjk1MjYyNTA@._V1_.jpg",
+              "width": 1667,
+              "height": 2500
+            }
+          ]
+        },
+        "characters": [
+          "Credence Barebone"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7500671",
+          "display_name": "Faith Wood-Blagrove",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzAxNjU4NjI1MV5BMl5BanBnXkFtZTgwOTg2Mzc1MDI@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Modesty Barebone"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2893183",
+          "display_name": "Jenn Murray",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTJjZDYzY2EtZDJmNS00M2ZmLTg1ODktNmUxZWFkZWJiMjU5XkEyXkFqcGdeQXVyMTk1NjUxMzg@._V1_.jpg",
+              "width": 750,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Chastity Barebone"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3270798",
+          "display_name": "Cory Peterson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTE1YTYyYjUtMDY0YS00MDQ1LTg1ZjEtMWM2MjM2OWZmMmRiXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 706,
+              "height": 705
+            }
+          ]
+        },
+        "characters": [
+          "Bank Employee"
+        ]
+      }
+    ]
+  }
+}

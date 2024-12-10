@@ -1,0 +1,329 @@
+{
+  "title": {
+    "id": "tt3606756",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Incredibles 2",
+    "original_title": null,
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 118,
+    "plot": "The Incredibles family takes on a new mission which involves a change in family roles: Bob Parr (Mr. Incredible) must manage the house while his wife Helen (Elastigirl) goes out to save the world.",
+    "rating": {
+      "aggregate_rating": 7.6,
+      "votes_count": 326682
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_.jpg",
+        "width": 1086,
+        "height": 1609
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "JP",
+        "name": "Japan"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 80,
+      "review_count": 51
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0083348",
+          "display_name": "Brad Bird",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk5Mzg1ODcyNV5BMl5BanBnXkFtZTcwMjU1ODkyMw@@._V1_.jpg",
+              "width": 1560,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0083348",
+          "display_name": "Brad Bird",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk5Mzg1ODcyNV5BMl5BanBnXkFtZTcwMjU1ODkyMw@@._V1_.jpg",
+              "width": 1560,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0005266",
+          "display_name": "Craig T. Nelson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI0ODQwMDU1OV5BMl5BanBnXkFtZTcwMDkxNTE2Mg@@._V1_.jpg",
+              "width": 310,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Bob Parr",
+          "Mr. Incredible"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000456",
+          "display_name": "Holly Hunter",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIzNzg1ODA1NF5BMl5BanBnXkFtZTcwNTI4NzQ4Mg@@._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Helen Parr",
+          "Elastigirl"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1102970",
+          "display_name": "Sarah Vowell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWMwZjBmN2QtNzJjOC00YTM1LWE5YWItMTQ0MDJkM2Q2ZTU3XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+              "width": 1000,
+              "height": 562
+            }
+          ]
+        },
+        "characters": [
+          "Violet Parr"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9133740",
+          "display_name": "Huck Milner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjg5ODdkYzctNTExNi00OTY3LTkwOWItM2E2ZjI5YTQ3NTRhXkEyXkFqcGdeQXVyNzg1ODIwNDk@._V1_.jpg",
+              "width": 3840,
+              "height": 5760
+            }
+          ]
+        },
+        "characters": [
+          "Dashiell Parr (Dash)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001416",
+          "display_name": "Catherine Keener",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIwMzQ1Mzg1MF5BMl5BanBnXkFtZTcwNTE4MTU5MQ@@._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Evelyn Deavor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1747568",
+          "display_name": "Eli Fucile",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjRlZDk0YTctY2U3Zi00OGQ1LTg1NDUtYWU4NDJkZmJkNGRmXkEyXkFqcGdeQXVyODg5NzE3ODE@._V1_.jpg",
+              "width": 720,
+              "height": 1112
+            }
+          ]
+        },
+        "characters": [
+          "Jack-Jack Parr"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0644022",
+          "display_name": "Bob Odenkirk",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWM5MDJjYTItMTRkNC00NTQ4LThkNjUtNDY3Mzk0YWMwMTBhXkEyXkFqcGdeQXVyNzQzNDYwMA@@._V1_.jpg",
+              "width": 1359,
+              "height": 1723
+            }
+          ]
+        },
+        "characters": [
+          "Winston Deavor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000168",
+          "display_name": "Samuel L. Jackson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ1NTQwMTYxNl5BMl5BanBnXkFtZTYwMjA1MzY1._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Lucius Best",
+          "Frozone"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1520974",
+          "display_name": "Michael Bird",
+          "avatars": null
+        },
+        "characters": [
+          "Tony Rydinger"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0124208",
+          "display_name": "Sophia Bush",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODI2MzM0MTkzM15BMl5BanBnXkFtZTgwMjQxMzgwNTM@._V1_.jpg",
+              "width": 1582,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Voyd"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0083348",
+          "display_name": "Brad Bird",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk5Mzg1ODcyNV5BMl5BanBnXkFtZTcwMjU1ODkyMw@@._V1_.jpg",
+              "width": 1560,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Edna Mode (E)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0482851",
+          "display_name": "Phil LaMarr",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjU5ZWU2YzItZDU5Ny00NmFiLTljY2UtMmQyMDBjM2FkMjJjXkEyXkFqcGdeQXVyMjM2NTI3MA@@._V1_.jpg",
+              "width": 1433,
+              "height": 1641
+            }
+          ]
+        },
+        "characters": [
+          "Krushauer",
+          "Helectrix"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000618",
+          "display_name": "Isabella Rossellini",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjg0MjczMzg2NV5BMl5BanBnXkFtZTcwOTM1MjA1NA@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Ambassador"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5108425",
+          "display_name": "Adam Gates",
+          "avatars": null
+        },
+        "characters": [
+          "Chad Brentley"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0052186",
+          "display_name": "Jonathan Banks",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODI2OTYyOTQ4Nl5BMl5BanBnXkFtZTgwNTM3MTUxNDM@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Rick Dicker"
+        ]
+      }
+    ]
+  }
+}

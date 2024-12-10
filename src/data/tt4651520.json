@@ -1,0 +1,354 @@
+{
+  "title": {
+    "id": "tt4651520",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Bad Moms",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 100,
+    "plot": "When three overworked and under-appreciated moms are pushed beyond their limits, they ditch their conventional responsibilities for a jolt of long overdue freedom, fun and comedic self-indulgence.",
+    "rating": {
+      "aggregate_rating": 6.2,
+      "votes_count": 134614
+    },
+    "genres": [
+      "Comedy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjIwNzE5MTgwNl5BMl5BanBnXkFtZTgwNjM4OTA0OTE@._V1_.jpg",
+        "width": 1892,
+        "height": 2800
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CN",
+        "name": "China"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 60,
+      "review_count": 33
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0524190",
+          "display_name": "Jon Lucas",
+          "avatars": [
+            {
+              "url": "",
+              "width": 0,
+              "height": 0
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0601859",
+          "display_name": "Scott Moore",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUxODQ1MzU3N15BMl5BanBnXkFtZTgwNzEzMDYyMDI@._V1_.jpg",
+              "width": 1492,
+              "height": 2089
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0524190",
+          "display_name": "Jon Lucas",
+          "avatars": [
+            {
+              "url": "",
+              "width": 0,
+              "height": 0
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0601859",
+          "display_name": "Scott Moore",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUxODQ1MzU3N15BMl5BanBnXkFtZTgwNzEzMDYyMDI@._V1_.jpg",
+              "width": 1492,
+              "height": 2089
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0005109",
+          "display_name": "Mila Kunis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODQyNTQyNzY4MV5BMl5BanBnXkFtZTcwODg5MDA3MQ@@._V1_.jpg",
+              "width": 334,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Amy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1063517",
+          "display_name": "Kathryn Hahn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE1OTcxNDczMl5BMl5BanBnXkFtZTcwMDA1NDcyMQ@@._V1_.jpg",
+              "width": 300,
+              "height": 391
+            }
+          ]
+        },
+        "characters": [
+          "Carla"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0068338",
+          "display_name": "Kristen Bell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA1Njc0MTUzN15BMl5BanBnXkFtZTgwNTg1MjEwNDI@._V1_.jpg",
+              "width": 1354,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Kiki"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000775",
+          "display_name": "Christina Applegate",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk2NDc2OTE2Nl5BMl5BanBnXkFtZTcwMTc4NDcxNg@@._V1_.jpg",
+              "width": 1631,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Gwendolyn"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000586",
+          "display_name": "Jada Pinkett Smith",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYzOTE1MjQ0OF5BMl5BanBnXkFtZTgwMzczNTkwNjE@._V1_.jpg",
+              "width": 1348,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Stacy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1754239",
+          "display_name": "Annie Mumolo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkyNDE0NjAyNV5BMl5BanBnXkFtZTcwNjQ1NzQ4OA@@._V1_.jpg",
+              "width": 1413,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Vicky"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4802218",
+          "display_name": "Oona Laurence",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzUyNTkxZjQtY2NjNS00ZmFiLThjYjgtNzMyN2IyM2ZjMzA1XkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_.jpg",
+              "width": 360,
+              "height": 450
+            }
+          ]
+        },
+        "characters": [
+          "Jane"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3492402",
+          "display_name": "Emjay Anthony",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2M2NWY1M2QtZWM0Zi00ZDQwLWFkYjAtNWIwMDZkZjMwMWNkXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 829,
+              "height": 1173
+            }
+          ]
+        },
+        "characters": [
+          "Dylan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1378589",
+          "display_name": "David Walton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk2MzA2MTI2MF5BMl5BanBnXkFtZTcwMjMwMjM2Nw@@._V1_.jpg",
+              "width": 320,
+              "height": 448
+            }
+          ]
+        },
+        "characters": [
+          "Mike"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0241173",
+          "display_name": "Clark Duke",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2U4ZTY4MTktNTE1Zi00ZDhkLTlhZjMtMDk3NDBkNTllNWU4XkEyXkFqcGdeQXVyNTQzMTY4ODA@._V1_.jpg",
+              "width": 400,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Dale Kipler"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0379596",
+          "display_name": "Jay Hernandez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDcyMjY4NDc5N15BMl5BanBnXkFtZTgwOTc1MTU5NTM@._V1_.jpg",
+              "width": 1310,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Jessie Harkness"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0682495",
+          "display_name": "Wendell Pierce",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg4NjI5NzM2N15BMl5BanBnXkFtZTcwODI3NDUxOQ@@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Principal Burr"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3159868",
+          "display_name": "Leah McKendrick",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGFmOTU3ZDktZjhhMS00YTNhLTgwNjEtNjI3MmU5NGJjNjczXkEyXkFqcGdeQXVyMTY5NjYxOTY@._V1_.jpg",
+              "width": 1665,
+              "height": 1920
+            }
+          ]
+        },
+        "characters": [
+          "Sharon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2303079",
+          "display_name": "Megan Ferguson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDg2NzU0NGItZGU3ZC00ZDk2LWJlODUtOGQ2ZWEyNWUxNGI4XkEyXkFqcGdeQXVyMTg0NDc2OTM@._V1_.jpg",
+              "width": 1440,
+              "height": 1920
+            }
+          ]
+        },
+        "characters": [
+          "Tessa"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1736154",
+          "display_name": "Lyle Brocato",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTliYmRiNmUtZDBhZC00ZjI5LTgzMzYtYmNmOTViNjY1ZDQyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 450,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Kent"
+        ]
+      }
+    ]
+  }
+}

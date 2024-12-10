@@ -1,0 +1,324 @@
+{
+  "title": {
+    "id": "tt1901024",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Dark Crimes",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 92,
+    "plot": "A murder investigation of a slain businessman turns to clues found in an author's book about an eerily similar crime. Based on the 2008 article \"True Crimes - A Postmodern Murder Mystery\" by David Grann.",
+    "rating": {
+      "aggregate_rating": 4.6,
+      "votes_count": 19980
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTgyODU5NTYzMF5BMl5BanBnXkFtZTgwMjA2OTcyNTM@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "PL",
+        "name": "Poland"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 24,
+      "review_count": 14
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm3189793",
+          "display_name": "Alexandros Avranas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU2OTMzNzI3Nl5BMl5BanBnXkFtZTgwNTg1MjMyMjE@._V1_.jpg",
+              "width": 1736,
+              "height": 2084
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2970418",
+          "display_name": "David Grann",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWM5ZmIwNjktOTg5ZS00ZTcwLThmZGItN2Y4NTFjNzVhMDc1XkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_.jpg",
+              "width": 2592,
+              "height": 3872
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0110591",
+          "display_name": "Jeremy Brock",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000120",
+          "display_name": "Jim Carrey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQwMjAwNzI0M15BMl5BanBnXkFtZTcwOTY1MTMyOQ@@._V1_.jpg",
+              "width": 1665,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Tadek"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0190744",
+          "display_name": "Marton Csokas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQxOTcyNDEyMV5BMl5BanBnXkFtZTgwMjMzMzYyNTE@._V1_.jpg",
+              "width": 2298,
+              "height": 3269
+            }
+          ]
+        },
+        "characters": [
+          "Kozlov"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001250",
+          "display_name": "Charlotte Gainsbourg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDQyMzQ5NTEzNl5BMl5BanBnXkFtZTcwNjI3NTEzNQ@@._V1_.jpg",
+              "width": 1361,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Kasia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0653669",
+          "display_name": "Kati Outinen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM3MTAwNjI1N15BMl5BanBnXkFtZTYwMjYxOTA3._V1_.jpg",
+              "width": 485,
+              "height": 330
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Malinowska"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0412096",
+          "display_name": "Vlad Ivanov",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI1NTg0NTA3Ml5BMl5BanBnXkFtZTgwMDk1MjQxMDE@._V1_.jpg",
+              "width": 680,
+              "height": 478
+            }
+          ]
+        },
+        "characters": [
+          "Piotr"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0927240",
+          "display_name": "Robert Wieckiewicz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmFkNWVhZmItODZlZC00NzcyLWI0MzMtMWNkYTM1MWM5ZjljXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg",
+              "width": 900,
+              "height": 1350
+            }
+          ]
+        },
+        "characters": [
+          "Greger"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0474492",
+          "display_name": "Agata Kulesza",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTVlYjJjMjMtYmZlNS00MDZiLTg3MWQtYmRmMWNhZTU0ZTEzXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg",
+              "width": 419,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Marta"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1644158",
+          "display_name": "Piotr Glowacki",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTRiYTg0MzItMGQzMi00OGRhLWIzYTEtZjM0NGQyNmI4NzYyXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg",
+              "width": 1000,
+              "height": 1500
+            }
+          ]
+        },
+        "characters": [
+          "Victor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7872111",
+          "display_name": "Julia Gdula",
+          "avatars": null
+        },
+        "characters": [
+          "Hanna"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0952498",
+          "display_name": "Zbigniew Zamachowski",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmM3NzVlN2YtMjIzYS00MmRmLTllZDItNmQ2MjIxYWY4OWMyXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg",
+              "width": 404,
+              "height": 599
+            }
+          ]
+        },
+        "characters": [
+          "Lukasz"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0468600",
+          "display_name": "Danuta Kowalska",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDRlNGM0MjMtMjI5ZC00ZTlhLTlhNDAtMjhkY2I2YTFhMmVlXkEyXkFqcGc@._V1_.jpg",
+              "width": 736,
+              "height": 748
+            }
+          ]
+        },
+        "characters": [
+          "Kozlov's Mother"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1487040",
+          "display_name": "Zygmunt Józefczak",
+          "avatars": null
+        },
+        "characters": [
+          "Kozlov's Father"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7872113",
+          "display_name": "Marianna Figurska",
+          "avatars": null
+        },
+        "characters": [
+          "Olga"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0689810",
+          "display_name": "Anna Polony",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWQwNWMxODEtN2IwZi00YWEyLWJiNjctMmIxMjM0ZGQ2NWVlXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg",
+              "width": 1000,
+              "height": 667
+            }
+          ]
+        },
+        "characters": [
+          "Tadek's Mother"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1745021",
+          "display_name": "Marcin Stec",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGQ2NWI1NzktODIzYS00MzQ1LThmNDAtNzhmYjYzZDkxMmRiXkEyXkFqcGc@._V1_.jpg",
+              "width": 2665,
+              "height": 4000
+            }
+          ]
+        },
+        "characters": [
+          "Defense Lawyer"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "title": {
+    "id": "tt6322922",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "An Inconvenient Sequel: Truth to Power",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 98,
+    "plot": "A decade after An Inconvenient Truth (2006) brought climate change to the heart of popular culture, the follow-up shows just how close we are to a real energy revolution.",
+    "rating": {
+      "aggregate_rating": 6.6,
+      "votes_count": 8359
+    },
+    "genres": [
+      "Documentary"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTkzNTQ0MzA3Ml5BMl5BanBnXkFtZTgwNzg4OTcyMjI@._V1_.jpg",
+        "width": 1312,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      },
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 68,
+      "review_count": 36
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1010896",
+          "display_name": "Bonni Cohen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA5OTUxOTgzNV5BMl5BanBnXkFtZTgwOTE2NTY5MDI@._V1_.jpg",
+              "width": 1738,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0791556",
+          "display_name": "Jon Shenk",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDEwMTAyOTk2M15BMl5BanBnXkFtZTgwODE2NTY5MDI@._V1_.jpg",
+              "width": 1460,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0330722",
+          "display_name": "Al Gore",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY3NDcyMDQ2N15BMl5BanBnXkFtZTcwMDQxMjgyMg@@._V1_.jpg",
+              "width": 278,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm5177533",
+          "display_name": "Narendra Modi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGNjYmM4NDYtZTAxOS00MGZlLWJmZmMtYmNiZjdiYmFmYzIzXkEyXkFqcGc@._V1_.jpg",
+              "width": 2048,
+              "height": 1670
+            }
+          ]
+        },
+        "characters": null
+      }
+    ]
+  }
+}

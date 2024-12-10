@@ -1,0 +1,97 @@
+{
+  "title": {
+    "id": "tt14280066",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Box",
+    "original_title": null,
+    "start_year": 2021,
+    "end_year": null,
+    "runtime_minutes": 94,
+    "plot": "A music producer fallen from grace finds an artist - Ji Hoon who has everything needed to make it big and discovers the one thing holding him back, paralyzing stage fright.",
+    "rating": {
+      "aggregate_rating": 6.5,
+      "votes_count": 3890
+    },
+    "genres": [
+      "Drama",
+      "Music",
+      "Musical"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDNkODA0YTgtNzNhNC00NWM2LWI0OGItMDEzNDI5ZmQ1Nzc1XkEyXkFqcGdeQXVyMTMwNjAwNjQx._V1_.jpg",
+        "width": 754,
+        "height": 1080
+      }
+    ],
+    "certificates": null,
+    "spoken_languages": [
+      {
+        "code": "kor",
+        "name": "Korean"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "KR",
+        "name": "Republic of Korea"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm12418655",
+          "display_name": "Yang Jeong-Woong",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm12418655",
+          "display_name": "Yang Jeong-Woong",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm6847946",
+          "display_name": "Park Chan-yeol",
+          "avatars": null
+        },
+        "characters": null
+      },
+      {
+        "name": {
+          "id": "nm1572247",
+          "display_name": "Jo Dal-hwan",
+          "avatars": null
+        },
+        "characters": null
+      },
+      {
+        "name": {
+          "id": "nm4304672",
+          "display_name": "Lee Hwa-jung",
+          "avatars": null
+        },
+        "characters": [
+          "Drunk 5"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm15742733",
+          "display_name": "Rothy",
+          "avatars": null
+        },
+        "characters": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,385 @@
+{
+  "title": {
+    "id": "tt2333784",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Expendables 3",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 126,
+    "plot": "Barney augments his team with new blood for a personal battle: to take down Conrad Stonebanks, the Expendables co-founder and notorious arms trader who is hell bent on wiping out Barney and every single one of his associates.",
+    "rating": {
+      "aggregate_rating": 6.1,
+      "votes_count": 196418
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BODU5ODMyMzg2MV5BMl5BanBnXkFtZTgwMTA2MTcxMjE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "ron",
+        "name": "Romanian"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "BG",
+        "name": "Bulgaria"
+      },
+      {
+        "code": "DE",
+        "name": "Germany"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 35,
+      "review_count": 36
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0400850",
+          "display_name": "Patrick Hughes",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2NmM2UzMDctODNjMC00OGE0LWEzN2QtYzk4MDkzOTA1YjAzXkEyXkFqcGdeQXVyMjEwMDA0NA@@._V1_.jpg",
+              "width": 1535,
+              "height": 2302
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0000230",
+          "display_name": "Sylvester Stallone",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGU0Y2JiMGEtYzc0Ni00MDIwLTgxZGYtOWE2ZDMzYWQ5MjI0XkEyXkFqcGdeQXVyMTI3NjAxODc0._V1_.jpg",
+              "width": 1079,
+              "height": 1216
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm4950667",
+          "display_name": "Creighton Rothenberger",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2QwZmRhMjUtMGEzZS00NGVlLTkyZDgtMGY4YWUwZDQzNDY5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2371,
+              "height": 3000
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm4951717",
+          "display_name": "Katrin Benedikt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjI4OWQwMmItZWI0OC00NzVkLTljMTUtYjQ0ODRkNDRkZjkxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 557,
+              "height": 885
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1709264",
+          "display_name": "Dave Callaham",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTgwODBmZTItMGZmYi00MWY2LTllZjMtZDc4YjM0NzRmMjNhXkEyXkFqcGdeQXVyNDEzMDkzOQ@@._V1_.jpg",
+              "width": 986,
+              "height": 1276
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000230",
+          "display_name": "Sylvester Stallone",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGU0Y2JiMGEtYzc0Ni00MDIwLTgxZGYtOWE2ZDMzYWQ5MjI0XkEyXkFqcGdeQXVyMTI3NjAxODc0._V1_.jpg",
+              "width": 1079,
+              "height": 1216
+            }
+          ]
+        },
+        "characters": [
+          "Barney Ross"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005458",
+          "display_name": "Jason Statham",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzk2MDkwOV5BMl5BanBnXkFtZTcwMDAxODQwMg@@._V1_.jpg",
+              "width": 263,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Lee Christmas"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000148",
+          "display_name": "Harrison Ford",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY4Mjg0NjIxOV5BMl5BanBnXkFtZTcwMTM2NTI3MQ@@._V1_.jpg",
+              "width": 269,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Drummer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000216",
+          "display_name": "Arnold Schwarzenegger",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI3MDc4NzUyMV5BMl5BanBnXkFtZTcwMTQyMTc5MQ@@._V1_.jpg",
+              "width": 318,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Trench"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000154",
+          "display_name": "Mel Gibson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_.jpg",
+              "width": 291,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Stonebanks"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000648",
+          "display_name": "Wesley Snipes",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI4Mzk4MDk2NV5BMl5BanBnXkFtZTYwODgxNjc4._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Doc"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000185",
+          "display_name": "Dolph Lundgren",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyMzEyNzU4NV5BMl5BanBnXkFtZTgwNDg2MzM3MDE@._V1_.jpg",
+              "width": 852,
+              "height": 1280
+            }
+          ]
+        },
+        "characters": [
+          "Gunner"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1330276",
+          "display_name": "Randy Couture",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMxMDkwMTI5OV5BMl5BanBnXkFtZTgwMjQ3NzI4MTE@._V1_.jpg",
+              "width": 1361,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Toll Road"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0187719",
+          "display_name": "Terry Crews",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE1ODY0NzE4N15BMl5BanBnXkFtZTcwMTY5Mzk0Mw@@._V1_.jpg",
+              "width": 263,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Caesar"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001288",
+          "display_name": "Kelsey Grammer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEyNjkxODM5N15BMl5BanBnXkFtZTcwMTU3NDE1Mg@@._V1_.jpg",
+              "width": 294,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Bonaparte"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1412974",
+          "display_name": "Glen Powell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGEzMTIwM2UtYjc5MC00ZGI4LWJiOTAtYzAwZmU0OTYzYWIxXkEyXkFqcGdeQXVyNDg0MzQyNA@@._V1_.jpg",
+              "width": 1280,
+              "height": 1920
+            }
+          ]
+        },
+        "characters": [
+          "Thorn"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000104",
+          "display_name": "Antonio Banderas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTQ3NTYyNF5BMl5BanBnXkFtZTcwMTY2NjIzNQ@@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Galgo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4244770",
+          "display_name": "Victor Ortiz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA5MTQwNzA2NF5BMl5BanBnXkFtZTgwNjIyMDYxODE@._V1_.jpg",
+              "width": 395,
+              "height": 594
+            }
+          ]
+        },
+        "characters": [
+          "Mars"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3313925",
+          "display_name": "Ronda Rousey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMzOTYwODY4NF5BMl5BanBnXkFtZTgwNzI2ODY4NTE@._V1_.jpg",
+              "width": 1572,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Luna"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1553725",
+          "display_name": "Kellan Lutz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDA2NDhhYTgtMzRlYy00NzgzLTkzMzUtYWEyZjc3MWJmMWMyXkEyXkFqcGdeQXVyODA4MTI0NDc@._V1_.jpg",
+              "width": 1400,
+              "height": 2100
+            }
+          ]
+        },
+        "characters": [
+          "Smilee"
+        ]
+      }
+    ]
+  }
+}

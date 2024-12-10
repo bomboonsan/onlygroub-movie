@@ -1,0 +1,383 @@
+{
+  "title": {
+    "id": "tt2245084",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Big Hero 6",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 102,
+    "plot": "A special bond develops between plus-sized inflatable robot Baymax and prodigy Hiro Hamada, who together team up with a group of friends to form a band of high-tech heroes.",
+    "rating": {
+      "aggregate_rating": 7.8,
+      "votes_count": 503034
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Crime",
+      "Family",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjQ3YzUyOGQtNjdlYS00YmRhLWIyOWYtMGQ3YjkwMjJiYzRjXkEyXkFqcGc@._V1_.jpg",
+        "width": 1984,
+        "height": 2835
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 74,
+      "review_count": 39
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm2320658",
+          "display_name": "Don Hall",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc4NDg2MzkxOV5BMl5BanBnXkFtZTgwNTA4MDQwMDE@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0930261",
+          "display_name": "Chris Williams",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcwMDM4NzM3OF5BMl5BanBnXkFtZTcwOTYwNzkyMg@@._V1_.jpg",
+              "width": 923,
+              "height": 1015
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1471001",
+          "display_name": "Jordan Roberts",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTMyNzMzMjIyNV5BMl5BanBnXkFtZTgwODU0NjQwMDI@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0047916",
+          "display_name": "Robert L. Baird",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDU0OGFhMjEtYzJiNS00ZGI3LWJmYzctYmJkOGU2OTY0NDQ2XkEyXkFqcGdeQXVyNzcyMTA0MDE@._V1_.jpg",
+              "width": 640,
+              "height": 1136
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0314870",
+          "display_name": "Daniel Gerson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY3MDU1MDUzOF5BMl5BanBnXkFtZTgwMzAwMjY5NzE@._V1_.jpg",
+              "width": 871,
+              "height": 1346
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2185413",
+          "display_name": "Man of Action",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2400268",
+          "display_name": "Steven T. Seagle",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0012523",
+          "display_name": "Scott Adsit",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMyNzI5NTQ4Nl5BMl5BanBnXkFtZTgwMTY5NzUzMzE@._V1_.jpg",
+              "width": 768,
+              "height": 1156
+            }
+          ]
+        },
+        "characters": [
+          "Baymax"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3994407",
+          "display_name": "Ryan Potter",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYzNzkxMzg5Nl5BMl5BanBnXkFtZTgwOTM3MzIxNDE@._V1_.jpg",
+              "width": 2048,
+              "height": 1408
+            }
+          ]
+        },
+        "characters": [
+          "Hiro"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2024644",
+          "display_name": "Daniel Henney",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTRkNmVkNjQtMDkyZC00YjQ4LWI4NTUtZjc0NTg0MjgxMjU0XkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_.jpg",
+              "width": 1200,
+              "height": 1558
+            }
+          ]
+        },
+        "characters": [
+          "Tadashi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2554352",
+          "display_name": "T.J. Miller",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIwMzI0NTEwMF5BMl5BanBnXkFtZTcwMjk4MDkxNA@@._V1_.jpg",
+              "width": 278,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Fred"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1512166",
+          "display_name": "Jamie Chung",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGVkYmU0MTktN2EyNS00MDRhLWI4MmItNGVhZmJhMGY2MjljXkEyXkFqcGdeQXVyMTI0MjAwMjg@._V1_.jpg",
+              "width": 436,
+              "height": 290
+            }
+          ]
+        },
+        "characters": [
+          "Go Go"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0915458",
+          "display_name": "Damon Wayans Jr.",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjY0MTA3MzQwM15BMl5BanBnXkFtZTcwMzU4OTc1Mg@@._V1_.jpg",
+              "width": 303,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Wasabi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1270009",
+          "display_name": "Genesis Rodriguez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGU2NmFkMjItNzBiOC00ODY2LWI0NTYtNzhhZWQ0NWYyZDFjXkEyXkFqcGdeQXVyMTAzNzIxNjUw._V1_.jpg",
+              "width": 2000,
+              "height": 2499
+            }
+          ]
+        },
+        "characters": [
+          "Honey Lemon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000342",
+          "display_name": "James Cromwell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzU1NTEzMzMxM15BMl5BanBnXkFtZTgwMzY0MjAzMTE@._V1_.jpg",
+              "width": 1000,
+              "height": 1500
+            }
+          ]
+        },
+        "characters": [
+          "Robert Callaghan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0876138",
+          "display_name": "Alan Tudyk",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE0MzEwNDUxNV5BMl5BanBnXkFtZTcwNTE1MDAzOQ@@._V1_.jpg",
+              "width": 186,
+              "height": 271
+            }
+          ]
+        },
+        "characters": [
+          "Alistair Krei"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0748973",
+          "display_name": "Maya Rudolph",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMzOTQwMzAyOF5BMl5BanBnXkFtZTYwNzA1OTc0._V1_.jpg",
+              "width": 259,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Cass"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0072344",
+          "display_name": "Abraham Benrubi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDAzOTAzYzctM2NjNC00MTBjLWEwMjEtZGU1ZmU1MGE4NDhiXkEyXkFqcGdeQXVyMzk5MTcxMg@@._V1_.jpg",
+              "width": 2048,
+              "height": 1341
+            }
+          ]
+        },
+        "characters": [
+          "General"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1705090",
+          "display_name": "Katie Lowes",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTEwNjc2NTgyNjleQTJeQWpwZ15BbWU4MDc1MDUyNDAy._V1_.jpg",
+              "width": 1330,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Abigail"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1129362",
+          "display_name": "Billy Bush",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg5NzI4ODEzM15BMl5BanBnXkFtZTgwMjAzNzM5ODE@._V1_.jpg",
+              "width": 1613,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Newscaster"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0314870",
+          "display_name": "Daniel Gerson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY3MDU1MDUzOF5BMl5BanBnXkFtZTgwMzAwMjY5NzE@._V1_.jpg",
+              "width": 871,
+              "height": 1346
+            }
+          ]
+        },
+        "characters": [
+          "Desk Sergeant"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2128363",
+          "display_name": "Paul Briggs",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjk2ZTE2OTEtMDAyMi00M2NjLTk3YTYtZDY2MDU3MGU0ZjA0XkEyXkFqcGdeQXVyMzM1MzI0NQ@@._V1_.jpg",
+              "width": 2592,
+              "height": 3872
+            }
+          ]
+        },
+        "characters": [
+          "Yama"
+        ]
+      }
+    ]
+  }
+}

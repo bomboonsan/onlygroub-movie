@@ -1,0 +1,173 @@
+{
+  "title": {
+    "id": "tt13428686",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Collectors",
+    "original_title": "Dogool",
+    "start_year": 2020,
+    "end_year": null,
+    "runtime_minutes": 114,
+    "plot": "A search is underway for an ancient royal treasure in the city of Seoul.",
+    "rating": {
+      "aggregate_rating": 6.3,
+      "votes_count": 1078
+    },
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmNkNDcwMDEtM2E5Mi00NzgwLThkM2ItZGI5NjQ5MDBlNjRiXkEyXkFqcGdeQXVyMTA5NzUzODM4._V1_.jpg",
+        "width": 450,
+        "height": 644
+      }
+    ],
+    "certificates": null,
+    "spoken_languages": [
+      {
+        "code": "kor",
+        "name": "Korean"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "KR",
+        "name": "Republic of Korea"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm12048736",
+          "display_name": "Park Jung-bae",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm15038101",
+          "display_name": "Ryu Sun-gyu",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm2043703",
+          "display_name": "Lee Je-Hoon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2UyYzg2YTUtOTY4MS00YWY2LTlmNWEtOWIyNGRkN2RiZmI5XkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_.jpg",
+              "width": 597,
+              "height": 899
+            }
+          ]
+        },
+        "characters": [
+          "Dong-goo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4623753",
+          "display_name": "Jo Woo-jin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmI0MWY3ZjUtYzQzNC00ZjdjLTk1YjgtZDhlNWY3YTBjZTU2XkEyXkFqcGdeQXVyNTUxNTI3MzY@._V1_.jpg",
+              "width": 3952,
+              "height": 5928
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Jones"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7553004",
+          "display_name": "Shin Hye-sun",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmQ4MWI2NzEtNTliMC00MDNmLTg0OWQtYTZlYjBjZDI2YzJhXkEyXkFqcGdeQXVyMzQ0NTk5NzU@._V1_.jpg",
+              "width": 600,
+              "height": 900
+            }
+          ]
+        },
+        "characters": [
+          "Se-hee"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1045970",
+          "display_name": "Im Won-hee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWNhZWQzNWUtOGI0Mi00NTI2LTg4MWYtZDg1MzQ1ZjgzNTI4XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+              "width": 467,
+              "height": 700
+            }
+          ]
+        },
+        "characters": [
+          "Shovel Leg"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0814309",
+          "display_name": "Song Young-chang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTFlMDAxZTMtZWI2Yi00NjFkLWJkY2MtZTFiYmE3NmVkNzdlXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+              "width": 1280,
+              "height": 1519
+            }
+          ]
+        },
+        "characters": [
+          "Sang-gil"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm15297383",
+          "display_name": "Woo Kang-Min",
+          "avatars": null
+        },
+        "characters": [
+          "Gwang-cheol's gang member"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm14324443",
+          "display_name": "Gi So-yoo",
+          "avatars": null
+        },
+        "characters": [
+          "Kid With Explosive"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3789210",
+          "display_name": "Yoon Young-Kyun",
+          "avatars": null
+        },
+        "characters": [
+          "Viper gang #3"
+        ]
+      }
+    ]
+  }
+}

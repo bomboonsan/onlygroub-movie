@@ -1,0 +1,138 @@
+{
+  "title": {
+    "id": "tt6573444",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Human Flow",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 140,
+    "plot": "Human Flow is director and artist Ai Weiwei's detailed and heartbreaking exploration into the global refugee crisis.",
+    "rating": {
+      "aggregate_rating": 7.2,
+      "votes_count": 2799
+    },
+    "genres": [
+      "Documentary"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTU4ODI2NjIzNF5BMl5BanBnXkFtZTgwNDQwMzUyMzI@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CN",
+        "name": "China"
+      },
+      {
+        "code": "DE",
+        "name": "Germany"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "PS",
+        "name": "Palestinian Territory (Occupied)"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 77,
+      "review_count": 22
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm2675885",
+          "display_name": "Ai Weiwei",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg4NTU2OTcyMl5BMl5BanBnXkFtZTcwOTc0MDMyNw@@._V1_.jpg",
+              "width": 2048,
+              "height": 1413
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm8837491",
+          "display_name": "Chin-Chin Yap",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm9068854",
+          "display_name": "Tim Finch",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm9068855",
+          "display_name": "Boris Cheshirkov",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0039181",
+          "display_name": "Hanan Ashrawi",
+          "avatars": null
+        },
+        "characters": [
+          "Interviewee"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9081835",
+          "display_name": "Marisa P. Elham and Family",
+          "avatars": null
+        },
+        "characters": [
+          "Interviewee"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9081837",
+          "display_name": "Rozhan Hossin and Family",
+          "avatars": null
+        },
+        "characters": [
+          "Interviewee"
+        ]
+      }
+    ]
+  }
+}

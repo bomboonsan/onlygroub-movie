@@ -1,0 +1,341 @@
+{
+  "title": {
+    "id": "tt2513074",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Billy Lynn's Long Halftime Walk",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 113,
+    "plot": "19-year-old Billy Lynn is brought home for a victory tour after a harrowing Iraq battle. Through flashbacks, the film shows what really happened to his squad - contrasting the realities of war with America's perceptions.",
+    "rating": {
+      "aggregate_rating": 6.2,
+      "votes_count": 24070
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Sport",
+      "Thriller",
+      "War"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY1NDI1Nzg4OF5BMl5BanBnXkFtZTgwNjYxOTg4ODE@._V1_.jpg",
+        "width": 972,
+        "height": 1518
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CN",
+        "name": "China"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "TW",
+        "name": "Taiwan (Province of China)"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 53,
+      "review_count": 42
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0000487",
+          "display_name": "Ang Lee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODA2MTczOTY0N15BMl5BanBnXkFtZTcwNTU3NjA4OA@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1697731",
+          "display_name": "Ben Fountain",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0144785",
+          "display_name": "Jean-Christophe Castelli",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm7153679",
+          "display_name": "Joe Alwyn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjVlZjMwODctNTIxNy00ZjgwLWI0NDAtNGY2Y2NhYjI0Mzk3XkEyXkFqcGdeQXVyOTg3MTU2MjU@._V1_.jpg",
+              "width": 819,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Billy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1330560",
+          "display_name": "Garrett Hedlund",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM0NDM1NTMwNF5BMl5BanBnXkFtZTYwMTE0NTgz._V1_.jpg",
+              "width": 273,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Dime"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3594330",
+          "display_name": "Arturo Castro",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMwNGU2ZjQtN2EyZS00ZjIzLTgwZjctNjExM2ZlYzZkODQxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 835,
+              "height": 1182
+            }
+          ]
+        },
+        "characters": [
+          "Mango"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0497853",
+          "display_name": "Mason Lee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGFlYTVhNGQtNjc1Ni00YjE3LTg2YzgtMDMxYTY0NWEzNDMwXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 317,
+              "height": 422
+            }
+          ]
+        },
+        "characters": [
+          "Foo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4702342",
+          "display_name": "Astro",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIxMjIzNzQwOF5BMl5BanBnXkFtZTgwMTQ4Nzg3MTE@._V1_.jpg",
+              "width": 489,
+              "height": 653
+            }
+          ]
+        },
+        "characters": [
+          "Lodis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3354041",
+          "display_name": "Beau Knapp",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWY1NThiM2EtNzhlZC00MTFlLWI1MjgtNDU1OTlkYTUzZGFmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 439,
+              "height": 635
+            }
+          ]
+        },
+        "characters": [
+          "Crack"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3033454",
+          "display_name": "Ismael Cruz Cordova",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTcxNzkxNzc5MV5BMl5BanBnXkFtZTgwODc2MjA0NzM@._V1_.jpg",
+              "width": 1582,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Holliday"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6905444",
+          "display_name": "Barney Harris",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzA2MDhkYzktMTBmNy00NDBmLWI2NzMtZTZkNjhjYjdlOTcwXkEyXkFqcGc@._V1_.jpg",
+              "width": 5107,
+              "height": 6384
+            }
+          ]
+        },
+        "characters": [
+          "Sykes"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0004874",
+          "display_name": "Vin Diesel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjExNzA4MDYxN15BMl5BanBnXkFtZTcwOTI1MDAxOQ@@._V1_.jpg",
+              "width": 1477,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Shroom"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000188",
+          "display_name": "Steve Martin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDY0ODYwNDM3OV5BMl5BanBnXkFtZTcwMTc3NjQzMg@@._V1_.jpg",
+              "width": 270,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Norm"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000676",
+          "display_name": "Chris Tucker",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc4NjAxMjQwMF5BMl5BanBnXkFtZTYwMzcxOTg0._V1_.jpg",
+              "width": 291,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Albert"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0829576",
+          "display_name": "Kristen Stewart",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTJlOGE3ZjEtZDg4OS00MGJlLTgzY2QtYzg3OWE2NmZmYmE1XkEyXkFqcGdeQXVyMTI2Nzk2ODk3._V1_.jpg",
+              "width": 3981,
+              "height": 4281
+            }
+          ]
+        },
+        "characters": [
+          "Kathryn"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4689170",
+          "display_name": "Makenzie Leigh",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzY4ZWY1OWQtMmZlMi00NDhiLThhMWMtMzQyMWNmZGZmOGU1XkEyXkFqcGdeQXVyNDIzNjk2ODU@._V1_.jpg",
+              "width": 2304,
+              "height": 1832
+            }
+          ]
+        },
+        "characters": [
+          "Faison"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4805317",
+          "display_name": "Ben Platt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQ0NjUwMTYwNF5BMl5BanBnXkFtZTgwMDg4MTMwNTM@._V1_.jpg",
+              "width": 1920,
+              "height": 1536
+            }
+          ]
+        },
+        "characters": [
+          "Josh"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0571936",
+          "display_name": "Bruce McKinnon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTkxNTZmZGItOGQ0MS00ZGRhLThhMjktYzlmYzY2MjNkMWY2XkEyXkFqcGdeQXVyOTU5MjU5OA@@._V1_.jpg",
+              "width": 3744,
+              "height": 5616
+            }
+          ]
+        },
+        "characters": [
+          "Billy's Father"
+        ]
+      }
+    ]
+  }
+}

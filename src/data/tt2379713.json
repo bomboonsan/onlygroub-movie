@@ -1,0 +1,384 @@
+{
+  "title": {
+    "id": "tt2379713",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Spectre",
+    "original_title": null,
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 148,
+    "plot": "A cryptic message from James Bond's past sends him on a trail to uncover the existence of a sinister organisation named SPECTRE. With a new threat dawning, Bond learns the terrible truth about the author of all his pain in his most recent missions.",
+    "rating": {
+      "aggregate_rating": 6.8,
+      "votes_count": 466624
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWQ1MDE1NzgtNTQ4OC00ZjliLTllZDAtN2IyOTVmMTc5YjUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "width": 2026,
+        "height": 3000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      },
+      {
+        "code": "ita",
+        "name": "Italian"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      },
+      {
+        "code": "ukr",
+        "name": "Ukrainian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 60,
+      "review_count": 48
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0005222",
+          "display_name": "Sam Mendes",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTgzODMyMDUwNF5BMl5BanBnXkFtZTcwNzEyMjAyMg@@._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0517589",
+          "display_name": "John Logan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc0MjEzMjM3MF5BMl5BanBnXkFtZTgwNzk5MjkxMDI@._V1_.jpg",
+              "width": 3264,
+              "height": 3744
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0701031",
+          "display_name": "Neal Purvis",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0905498",
+          "display_name": "Robert Wade",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0125336",
+          "display_name": "Jez Butterworth",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg3OTE4OTc3Nl5BMl5BanBnXkFtZTYwODQwNjc2._V1_.jpg",
+              "width": 485,
+              "height": 320
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0001220",
+          "display_name": "Ian Fleming",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIzNzk1Mjg5M15BMl5BanBnXkFtZTcwMDc2NTg2OA@@._V1_.jpg",
+              "width": 1530,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0185819",
+          "display_name": "Daniel Craig",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEzMjk4NDU4MF5BMl5BanBnXkFtZTcwMDMyNjQzMg@@._V1_.jpg",
+              "width": 269,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "James Bond"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0910607",
+          "display_name": "Christoph Waltz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM4MDk3OTYxOF5BMl5BanBnXkFtZTcwMDk5OTUwOQ@@._V1_.jpg",
+              "width": 1497,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Blofeld"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2244205",
+          "display_name": "Léa Seydoux",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM3MTczNzY1MF5BMl5BanBnXkFtZTgwNjgwODgzNDE@._V1_.jpg",
+              "width": 1464,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Madeleine"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000146",
+          "display_name": "Ralph Fiennes",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzc5MjE1NDgyN15BMl5BanBnXkFtZTcwNzg2ODgwNA@@._V1_.jpg",
+              "width": 306,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "M"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000899",
+          "display_name": "Monica Bellucci",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM4MTcxMzY3MV5BMl5BanBnXkFtZTgwOTkwODgzNDE@._V1_.jpg",
+              "width": 1389,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Lucia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0924210",
+          "display_name": "Ben Whishaw",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc1MDYzNzY4MF5BMl5BanBnXkFtZTcwMDcwNzU0OA@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Q"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0365140",
+          "display_name": "Naomie Harris",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyMDU1MTU2N15BMl5BanBnXkFtZTgwODkyNzQ3MDE@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Moneypenny"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1176985",
+          "display_name": "Dave Bautista",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTZkYzU0ZGUtZTk1MC00MzJjLWFmMzItY2M0ODY1ZmI2OGQ0XkEyXkFqcGdeQXVyMjI0MjgwNjc@._V1_.jpg",
+              "width": 1000,
+              "height": 562
+            }
+          ]
+        },
+        "characters": [
+          "Hinx"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0778831",
+          "display_name": "Andrew Scott",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ5MjI2NTc1Ml5BMl5BanBnXkFtZTcwMzM5NjY4Nw@@._V1_.jpg",
+              "width": 1350,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "C"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1239499",
+          "display_name": "Rory Kinnear",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQwOTMwMDM5OV5BMl5BanBnXkFtZTcwODQ1MDExOA@@._V1_.jpg",
+              "width": 1465,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Tanner"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0159802",
+          "display_name": "Jesper Christensen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEyNzk2OTgzMl5BMl5BanBnXkFtZTYwMTc0NzAz._V1_.jpg",
+              "width": 450,
+              "height": 369
+            }
+          ]
+        },
+        "characters": [
+          "Mr. White"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0187361",
+          "display_name": "Alessandro Cremona",
+          "avatars": null
+        },
+        "characters": [
+          "Marco Sciarra"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2362713",
+          "display_name": "Stephanie Sigman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTcyN2YyOTctNjU1MC00YTExLTg0NjgtZmY5MWJiODg2Yzc1XkEyXkFqcGdeQXVyMjY2MjYyMTI@._V1_.jpg",
+              "width": 6144,
+              "height": 3240
+            }
+          ]
+        },
+        "characters": [
+          "Estrella"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2204178",
+          "display_name": "Tenoch Huerta",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2QwNmE4Y2YtZjNkMS00NDAzLTliYTgtYTgyZDYyMTcwYTM4XkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_.jpg",
+              "width": 426,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Mexican Man in Lift"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2578315",
+          "display_name": "Adriana Paz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWIyMDg5YTUtYWRjNS00NTU5LWI1ZjgtOTcyNmM4YjUzYWQzXkEyXkFqcGc@._V1_.jpg",
+              "width": 4000,
+              "height": 2666
+            }
+          ]
+        },
+        "characters": [
+          "Mexican Woman in Lift"
+        ]
+      }
+    ]
+  }
+}

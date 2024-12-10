@@ -1,0 +1,330 @@
+{
+  "title": {
+    "id": "tt4094724",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Purge: Election Year",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 108,
+    "plot": "Former Police Sergeant Barnes becomes head of security for Senator Charlie Roan, a Presidential candidate targeted for death on Purge night due to her vow to eliminate the Purge.",
+    "rating": {
+      "aggregate_rating": 6,
+      "votes_count": 110181
+    },
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjI3MDI0MTA1N15BMl5BanBnXkFtZTgwOTk4NjU5ODE@._V1_.jpg",
+        "width": 1013,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "afr",
+        "name": "Afrikaans"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 55,
+      "review_count": 31
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0218621",
+          "display_name": "James DeMonaco",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQwODUwODQxMV5BMl5BanBnXkFtZTgwMTYzMDAyMjE@._V1_.jpg",
+              "width": 1742,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0218621",
+          "display_name": "James DeMonaco",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQwODUwODQxMV5BMl5BanBnXkFtZTgwMTYzMDAyMjE@._V1_.jpg",
+              "width": 1742,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0342029",
+          "display_name": "Frank Grillo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDEyMjk5NDM1M15BMl5BanBnXkFtZTgwOTAyMDE2MjE@._V1_.jpg",
+              "width": 2048,
+              "height": 1568
+            }
+          ]
+        },
+        "characters": [
+          "Leo Barnes"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0593310",
+          "display_name": "Elizabeth Mitchell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY4OTk4NjE2N15BMl5BanBnXkFtZTgwNzMxODk1MzE@._V1_.jpg",
+              "width": 500,
+              "height": 627
+            }
+          ]
+        },
+        "characters": [
+          "Senator Charlie Roan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0932112",
+          "display_name": "Mykelti Williamson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWM4ZGFmZWEtYWJjYi00ZjYzLWJjNWYtMDVkMzU5OGVmYjMzXkEyXkFqcGdeQXVyODk5Mzg4NDY@._V1_.jpg",
+              "width": 2322,
+              "height": 1742
+            }
+          ]
+        },
+        "characters": [
+          "Joe Dixon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1928515",
+          "display_name": "J.J. Soria",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWRhNGM1NTAtOWRlOS00Yzc2LTkwNDQtMzBlMTljM2ZjNDAyXkEyXkFqcGdeQXVyMTI2NjExMDgy._V1_.jpg",
+              "width": 3467,
+              "height": 5200
+            }
+          ]
+        },
+        "characters": [
+          "Marcos"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3340597",
+          "display_name": "Betty Gabriel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTEyMzgzNDU4OTBeQTJeQWpwZ15BbWU4MDgxMzk1OTQz._V1_.jpg",
+              "width": 1409,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Laney Rucker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0785352",
+          "display_name": "Terry Serpico",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDBiMzYwZjktNGUzYy00ZDFmLWIxNGItODNiZmY5ZDFiMjRjXkEyXkFqcGdeQXVyMjMzNjU1NzY@._V1_.jpg",
+              "width": 3648,
+              "height": 5121
+            }
+          ]
+        },
+        "characters": [
+          "Earl Danzinger"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0388064",
+          "display_name": "Edwin Hodge",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI0MTA3NjQ1MF5BMl5BanBnXkFtZTgwODI5NTMzODE@._V1_.jpg",
+              "width": 1456,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Dante Bishop"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001717",
+          "display_name": "Kyle Secor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTIxODEyNDM3N15BMl5BanBnXkFtZTYwMjQ3MDA1._V1_.jpg",
+              "width": 275,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Minister Edwidge Owens"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0634218",
+          "display_name": "Barry Nolan",
+          "avatars": null
+        },
+        "characters": [
+          "Reporter #1"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1154919",
+          "display_name": "Liza Colón-Zayas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDgwZTBiMGEtOWI1NS00MGE3LWFkMDQtMGE5MjQ4NTlkMGEyXkEyXkFqcGdeQXVyNjQ5MDYyODc@._V1_.jpg",
+              "width": 952,
+              "height": 1282
+            }
+          ]
+        },
+        "characters": [
+          "Dawn"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0680392",
+          "display_name": "Ethan Phillips",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTJkN2Y1MDUtMTcyNC00ODJlLWFiNDMtMmY5MDg4NzE0NjlhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 960,
+              "height": 1280
+            }
+          ]
+        },
+        "characters": [
+          "Chief Couper"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2592774",
+          "display_name": "Adam Cantor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGYwOGQwMzMtYTY5OC00MTEzLWEzZTItZGVkMzJhNTJjMzIxXkEyXkFqcGc@._V1_.jpg",
+              "width": 1170,
+              "height": 1772
+            }
+          ]
+        },
+        "characters": [
+          "Tall Eric Busmalis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0048336",
+          "display_name": "Christopher James Baker",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYyNjcwOTMwMl5BMl5BanBnXkFtZTcwNTcwODI2OQ@@._V1_.jpg",
+              "width": 1103,
+              "height": 1471
+            }
+          ]
+        },
+        "characters": [
+          "Harmon James"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6221266",
+          "display_name": "Jared Kemp",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjE4ODZjNDMtOTNiNS00Mzg3LWFiOGYtZWU2ZTY5YThkZWI3XkEyXkFqcGdeQXVyNjQ4OTA5OTg@._V1_.jpg",
+              "width": 8256,
+              "height": 5504
+            }
+          ]
+        },
+        "characters": [
+          "Rondo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4212725",
+          "display_name": "Brittany Mirabile",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzEwYmU5NzUtZmVmZi00NTFjLWI0ZTUtNmYxMWExMzg5Yzg2XkEyXkFqcGc@._V1_.jpg",
+              "width": 576,
+              "height": 885
+            }
+          ]
+        },
+        "characters": [
+          "Schoolgirl #1 Freakbride",
+          "Kimmy"
+        ]
+      }
+    ]
+  }
+}

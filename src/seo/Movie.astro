@@ -3,7 +3,7 @@ const { seo } = Astro.props;
 ---
 <title>{seo.title}</title>
 {seo.metaDesc && <meta name="description" content={seo.metaDesc} />}
-<link rel="canonical" href={seo.canonical ? 'https://movie.onlygroub.com'+seo.canonical : Astro.url.pathname} />
+<link rel="canonical" href={seo.canonical ? seo.canonical : 'https://movie.onlygroub.com'+Astro.url.pathname} />
 {seo.focuskw && <meta name="keywords" content={seo.focuskw} />}
 
 <!-- Open Graph / Facebook -->

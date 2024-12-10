@@ -1,0 +1,307 @@
+{
+  "title": {
+    "id": "tt5058340",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Death Note: Light Up the New World",
+    "original_title": "Death Note - Desu nôto: Light Up the New World",
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 135,
+    "plot": "An update to the \"Death Note\" series in which a mysterious notebook contains deadly powers.",
+    "rating": {
+      "aggregate_rating": 5.7,
+      "votes_count": 3328
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjUxNTVjNDQtZmNkNi00ZWVkLWFlYTItZGUyZGNlNjJjMDMyXkEyXkFqcGc@._V1_.jpg",
+        "width": 640,
+        "height": 907
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "TV-14"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "jpn",
+        "name": "Japanese"
+      },
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "JP",
+        "name": "Japan"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm0766263",
+          "display_name": "Shinsuke Sato",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTIxM2VkOTAtZmMxYi00NmZmLTg1Y2YtNzk0NjdkNDE0MTZiXkEyXkFqcGdeQXVyNTA0NTMyMDY@._V1_.jpg",
+              "width": 715,
+              "height": 1226
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1761126",
+          "display_name": "Takeshi Obata",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2174097",
+          "display_name": "Tsugumi Ôba",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm4027243",
+          "display_name": "Masaki Suda",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzlhMmFmNjAtYmFiYy00ZjMxLTk5NWMtNDg5MmE2YzlkMWQ2XkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+              "width": 1199,
+              "height": 800
+            }
+          ]
+        },
+        "characters": [
+          "Yûki Shien"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0297885",
+          "display_name": "Tatsuya Fujiwara",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU4Njc2OTYwMF5BMl5BanBnXkFtZTcwNDM1MzkwOA@@._V1_.jpg",
+              "width": 1357,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Light Yagami"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1328076",
+          "display_name": "Miyuki Sawashiro",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjBhN2JkNDctMTA5Ni00MjBhLTkxYWQtODcwNDY5MjJjZDE4XkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+              "width": 450,
+              "height": 558
+            }
+          ]
+        },
+        "characters": [
+          "Ama"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4818678",
+          "display_name": "Masahiro Higashide",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgwZjAyNWUtOTI0Zi00NDRkLTgwNjMtYTk3NmEzYTJmMTg3XkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 826,
+              "height": 1239
+            }
+          ]
+        },
+        "characters": [
+          "Tsukuru Mishima"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1947564",
+          "display_name": "Ken'ichi Matsuyama",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg1NjUwMDYyMF5BMl5BanBnXkFtZTcwNjAxMzEyNQ@@._V1_.jpg",
+              "width": 720,
+              "height": 480
+            }
+          ]
+        },
+        "characters": [
+          "L"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2065859",
+          "display_name": "Erika Toda",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWY0MjU5YzAtY2MyZi00NzA2LWIwOGMtNDk5ZTI0NmE1MzgwXkEyXkFqcGdeQXVyNTc0NjY1ODk@._V1_.jpg",
+              "width": 720,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Misa Amane"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1257423",
+          "display_name": "Sôsuke Ikematsu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmVkMGY0YmEtOTM5OC00ZjhjLTg0ZTQtMGI5M2I0YmU0NGViXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 2449,
+              "height": 3675
+            }
+          ]
+        },
+        "characters": [
+          "Ryuzaki"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5499293",
+          "display_name": "Noémie Nakai",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2JmMzViMTktM2Y3My00ZjI2LWE0MzYtNWJhMWM5YzA0YmIwXkEyXkFqcGdeQXVyNDQ1ODM0NTM@._V1_.jpg",
+              "width": 1000,
+              "height": 1500
+            }
+          ]
+        },
+        "characters": [
+          "J"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1217394",
+          "display_name": "Shidô Nakamura",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg1ODk5ODg4N15BMl5BanBnXkFtZTYwNTg1MDM3._V1_.jpg",
+              "width": 485,
+              "height": 323
+            }
+          ]
+        },
+        "characters": [
+          "Ryuk"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5157587",
+          "display_name": "Rina Kawaei",
+          "avatars": null
+        },
+        "characters": [
+          "Sakura Aoi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2400607",
+          "display_name": "Mina Fujii",
+          "avatars": null
+        },
+        "characters": [
+          "Shô Nanase"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0437473",
+          "display_name": "Akio Kaneda",
+          "avatars": null
+        },
+        "characters": [
+          "Junro Sugahara"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7452133",
+          "display_name": "Sergey Kuvaev",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTZiOWMwZmEtYzQ1NC00MTRlLTk5MDItZDJiNWQxMTM2YjA4XkEyXkFqcGc@._V1_.jpg",
+              "width": 242,
+              "height": 359
+            }
+          ]
+        },
+        "characters": [
+          "Roger Irving"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2100721",
+          "display_name": "Sota Aoyama",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWUyODUzM2EtNTc5Mi00OTZjLTllYjktNjFjOTMyNTg5MzZiXkEyXkFqcGc@._V1_.jpg",
+              "width": 848,
+              "height": 480
+            }
+          ]
+        },
+        "characters": [
+          "Tota Matsuda"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1678814",
+          "display_name": "Eiichirô Funakoshi",
+          "avatars": null
+        },
+        "characters": [
+          "Kenichi Mikuriya"
+        ]
+      }
+    ]
+  }
+}

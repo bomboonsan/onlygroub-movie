@@ -1,0 +1,314 @@
+{
+  "title": {
+    "id": "tt2644714",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Badges of Fury",
+    "original_title": "Bu er shen tan",
+    "start_year": 2013,
+    "end_year": null,
+    "runtime_minutes": 98,
+    "plot": "In just 3 days, three cases of Smiling Murder shock Hong Kong. The young detective Wang Bu'er and his buddy Huang Feihong embark on an investigation full of excitement and unexpected events.",
+    "rating": {
+      "aggregate_rating": 4.5,
+      "votes_count": 3133
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjcyODQ3ODk1MF5BMl5BanBnXkFtZTgwNDI2NjI2MDE@._V1_.jpg",
+        "width": 1605,
+        "height": 2242
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "Not Rated"
+      }
+    ],
+    "spoken_languages": null,
+    "origin_countries": [
+      {
+        "code": "CN",
+        "name": "China"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm5481432",
+          "display_name": "Ziming Wang",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0848826",
+          "display_name": "Tan Cheung",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm10867195",
+          "display_name": "Fengxiang Yang",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0001472",
+          "display_name": "Jet Li",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAxNjc0MjIyM15BMl5BanBnXkFtZTcwNTM2NDA4MQ@@._V1_.jpg",
+              "width": 330,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Huang Feihong"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3491286",
+          "display_name": "Zhang Wen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2NhNmYyNTItZWM0Yy00YzBkLTk1ZTYtZDgxMGE1MDgyZWU1XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 652,
+              "height": 846
+            }
+          ]
+        },
+        "characters": [
+          "Wang Bu'er"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3014806",
+          "display_name": "ShiShi Liu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDRiZmIwYzUtZTJmMS00NmRmLTliMzMtNWU3Nzc0ZWY5ZTliL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 960,
+              "height": 1440
+            }
+          ]
+        },
+        "characters": [
+          "Liu Jinshui"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1701227",
+          "display_name": "Michelle Chen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmExYjNlZDAtZTdlNC00ZGQ3LThhMzUtODY3YzdhNzhiN2M2XkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 1931,
+              "height": 2816
+            }
+          ]
+        },
+        "characters": [
+          "Sgt Angela"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4718714",
+          "display_name": "Yan Liu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2UwNWZmNDEtOWQ0OC00MzkwLThjMDItNTU3OTI1NjZhOThiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 637,
+              "height": 910
+            }
+          ]
+        },
+        "characters": [
+          "Dai Yiyi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0628877",
+          "display_name": "Collin Chou",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc4MDg3ODUzNF5BMl5BanBnXkFtZTcwNzc2MzQzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 630
+            }
+          ]
+        },
+        "characters": [
+          "Chen Hu"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1159570",
+          "display_name": "Lik-Sun Fong",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWYzYWU2MTAtNzNhMy00YmFlLThmNDYtMTc1NGIyZDc3MzhhXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 853,
+              "height": 1280
+            }
+          ]
+        },
+        "characters": [
+          "Fortune Teller"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0298691",
+          "display_name": "Stephen Fung",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWQ5ODYzMTktYjM4NS00MjZjLTgzNzUtYzg5MmU5ZTMyN2RmXkEyXkFqcGdeQXVyNTE4MjU5Nw@@._V1_.jpg",
+              "width": 1067,
+              "height": 1280
+            }
+          ]
+        },
+        "characters": [
+          "Liu Jun"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2119781",
+          "display_name": "Xiaoming Huang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDU2MzA5ODQ2NV5BMl5BanBnXkFtZTgwMjE4OTE0MzE@._V1_.jpg",
+              "width": 2880,
+              "height": 1920
+            }
+          ]
+        },
+        "characters": [
+          "Man in Black"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1332451",
+          "display_name": "Raymond Lam",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg2MGM2ZTAtZWIxNC00NmIzLTgzNWEtNTVmOWY0MDNiYjllXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 950,
+              "height": 1382
+            }
+          ]
+        },
+        "characters": [
+          "Gao Min"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0415777",
+          "display_name": "Ka-Yan Leung",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmVlODgwYmYtNTk3ZS00NGYzLWJkNzAtNjc5MDE1MGQ3OGM5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 300,
+              "height": 452
+            }
+          ]
+        },
+        "characters": [
+          "Tiger Crane Lucky"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0398760",
+          "display_name": "Siu-Lung Leung",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTA0MzI3NjMyMF5BMl5BanBnXkFtZTYwNjczNTE3._V1_.jpg",
+              "width": 485,
+              "height": 322
+            }
+          ]
+        },
+        "characters": [
+          "Liu Jinshui's uncle"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1375686",
+          "display_name": "Yili Ma",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWM0ODhhMWEtZmZmNS00ODQzLTkxMWUtODRmNTAwZmZhYzZkXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 503,
+              "height": 539
+            }
+          ]
+        },
+        "characters": [
+          "The Lieutenant"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1413739",
+          "display_name": "Stephy Tang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTdkODcyZjItYjk3NS00MDdhLWI5MjYtMWNhMDA5NmMzMjk4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 2263,
+              "height": 2953
+            }
+          ]
+        },
+        "characters": [
+          "Driver"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3588409",
+          "display_name": "Liang Tian",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDdkOTg4OTYtOGRjNS00NTkxLWFhYTctODdkNmYxNTRiNjU2XkEyXkFqcGc@._V1_.jpg",
+              "width": 667,
+              "height": 768
+            }
+          ]
+        },
+        "characters": [
+          "Liu Jinshui's Ex-boyfriend"
+        ]
+      }
+    ]
+  }
+}

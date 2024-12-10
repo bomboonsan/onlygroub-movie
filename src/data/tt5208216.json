@@ -1,0 +1,319 @@
+{
+  "title": {
+    "id": "tt5208216",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Wonderstruck",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 116,
+    "plot": "Tells the tale of two children separated by fifty years. In 1927, Rose searches for the actress whose life she chronicles in her scrapbook; in 1977, Ben runs away from home to find his father.",
+    "rating": {
+      "aggregate_rating": 6.2,
+      "votes_count": 11092
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Mystery"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjM3NjY0MTYwM15BMl5BanBnXkFtZTgwMDI5NzA2MzI@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 71,
+      "review_count": 44
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0001331",
+          "display_name": "Todd Haynes",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTQ5Njk0MDU1MF5BMl5BanBnXkFtZTcwMTQ1MzA2MQ@@._V1_.jpg",
+              "width": 273,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2561765",
+          "display_name": "Brian Selznick",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAzNjA4MDE4N15BMl5BanBnXkFtZTcwMjQ1MDY0Nw@@._V1_.jpg",
+              "width": 1637,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm8075925",
+          "display_name": "Millicent Simmonds",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzgzNmM4YzMtYzYyZC00YWExLTgyZjktNmY5YWMwMTlkZTQ1XkEyXkFqcGdeQXVyMTI2Nzk2ODk3._V1_.jpg",
+              "width": 4480,
+              "height": 6720
+            }
+          ]
+        },
+        "characters": [
+          "Rose"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000194",
+          "display_name": "Julianne Moore",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM5NDI1MjE2Ml5BMl5BanBnXkFtZTgwNDE0Nzk0MDE@._V1_.jpg",
+              "width": 596,
+              "height": 827
+            }
+          ]
+        },
+        "characters": [
+          "Lillian Mayhew",
+          "Rose"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5754425",
+          "display_name": "Cory Michael Smith",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM2NzY4NzgzOF5BMl5BanBnXkFtZTgwNDU2NzAzMDI@._V1_.jpg",
+              "width": 1300,
+              "height": 1812
+            }
+          ]
+        },
+        "characters": [
+          "Walter"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0172082",
+          "display_name": "James Urbaniak",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM0Mjk3Mzc2Nl5BMl5BanBnXkFtZTgwOTA2NjE0NjE@._V1_.jpg",
+              "width": 1451,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Kincaid, Rose's Father"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0949433",
+          "display_name": "Damian Young",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI1Mzc1MDc1M15BMl5BanBnXkFtZTcwNzc5NjAyOA@@._V1_.jpg",
+              "width": 1540,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Otto, Museum Guard"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2727142",
+          "display_name": "Patrick Murney",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzU2NGYwNmMtYWU2Ny00OTkzLTgwYTItMTQwYjFkMjlhOGI1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 5760,
+              "height": 3840
+            }
+          ]
+        },
+        "characters": [
+          "Workman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4248765",
+          "display_name": "Lauren Ridloff",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTQ5MzZiMzEtNjJjOS00ZGRjLTg4YzctZTljODUwMTg2ZjdiXkEyXkFqcGdeQXVyNjkzNjQ5NjU@._V1_.jpg",
+              "width": 853,
+              "height": 1280
+            }
+          ]
+        },
+        "characters": [
+          "Pearl, The Maid"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0622085",
+          "display_name": "Anthony Natale",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk5NTc3NTg0OV5BMl5BanBnXkFtZTcwMjI5NzM0MQ@@._V1_.jpg",
+              "width": 450,
+              "height": 229
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Gill, Teacher of the Deaf"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0011616",
+          "display_name": "Carole Addabbo",
+          "avatars": null
+        },
+        "characters": [
+          "Miss Conrad at the Museum"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8999607",
+          "display_name": "Howard Seago",
+          "avatars": null
+        },
+        "characters": [
+          "Remy Rubin, Theater Director"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1125288",
+          "display_name": "Brian Berrebbi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzYzMmZhN2YtNzg2YS00MGJlLTlhMWQtMTRlZGI4ZjI5MDhiXkEyXkFqcGc@._V1_.jpg",
+              "width": 2006,
+              "height": 1667
+            }
+          ]
+        },
+        "characters": [
+          "Stage Manager"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3858845",
+          "display_name": "John McGinty",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTIwNmMzNTItNWFmNi00MGJiLWIwYTgtZTkyMDI4N2UyZjIwXkEyXkFqcGc@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Valentin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1982371",
+          "display_name": "Mark A. Keeton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTcwMTc5YTYtYWU1Ni00OTk5LTlhYzUtMTcwMmUwZjlmOTE2XkEyXkFqcGc@._V1_.jpg",
+              "width": 3408,
+              "height": 4576
+            }
+          ]
+        },
+        "characters": [
+          "Shopkeeper"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1297530",
+          "display_name": "Patrick Wiley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGI3OGNjMzktMDhiZS00N2U4LThkMGEtNTk2M2RiOTk0Mjg0XkEyXkFqcGc@._V1_.jpg",
+              "width": 3024,
+              "height": 4032
+            }
+          ]
+        },
+        "characters": [
+          "Window Dresser"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2609794",
+          "display_name": "Garrett Zuercher",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTEyYTE1NjEtMWJlNy00MTA0LTlhNTYtMDkxZmQ0YTE1MzY3XkEyXkFqcGc@._V1_.jpg",
+              "width": 1239,
+              "height": 771
+            }
+          ]
+        },
+        "characters": [
+          "Officer Engel"
+        ]
+      }
+    ]
+  }
+}

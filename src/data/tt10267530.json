@@ -1,0 +1,116 @@
+{
+  "title": {
+    "id": "tt10267530",
+    "type": "short",
+    "is_adult": false,
+    "primary_title": "Polaroid",
+    "original_title": null,
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 9,
+    "plot": "A photographer buys a Polaroid camera. When she tries it, she realizes that the pictures don't match what she has photographed. They seem to show the future.",
+    "rating": null,
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Short"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWRiZDg0ZTMtMzEzNy00ODcxLWJjMzYtNGMxODU1N2RlZTQyXkEyXkFqcGc@._V1_.jpg",
+        "width": 3072,
+        "height": 1291
+      }
+    ],
+    "certificates": null,
+    "spoken_languages": [
+      {
+        "code": "fra",
+        "name": "French"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "FR",
+        "name": "France"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm3840060",
+          "display_name": "Arnaud Calistri",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm3840060",
+          "display_name": "Arnaud Calistri",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm3767111",
+          "display_name": "Domingo Roberto Mandrafina",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1253516",
+          "display_name": "Carlos Trillo",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1133795",
+          "display_name": "Kev Adams",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjg3NjkyYmEtZTIyMy00ZGM4LWFhMWItZDllYzBlNTE0Zjk5XkEyXkFqcGdeQXVyMTY1ODI3Mzg0._V1_.jpg",
+              "width": 824,
+              "height": 1242
+            }
+          ]
+        },
+        "characters": [
+          "The Baby"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4194384",
+          "display_name": "Philippe Amati",
+          "avatars": null
+        },
+        "characters": [
+          "The Vendor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3277348",
+          "display_name": "Alix Bénézech",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc0MDExMTUyOF5BMl5BanBnXkFtZTgwMjg0MTE5NTM@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "The Photographer"
+        ]
+      }
+    ]
+  }
+}

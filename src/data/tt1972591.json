@@ -1,0 +1,368 @@
+{
+  "title": {
+    "id": "tt1972591",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "King Arthur: Legend of the Sword",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 126,
+    "plot": "Robbed of his birthright, Arthur comes up the hard way in the back alleys of the city. But once he pulls the sword from the stone, he is forced to acknowledge his true legacy - whether he likes it or not.",
+    "rating": {
+      "aggregate_rating": 6.7,
+      "votes_count": 230519
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjM3ODY3Njc5Ml5BMl5BanBnXkFtZTgwMjQ5NjM5MTI@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "AU",
+        "name": "Australia"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 41,
+      "review_count": 45
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0005363",
+          "display_name": "Guy Ritchie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM2NDkxMTcxMl5BMl5BanBnXkFtZTcwNTMyNjI5MQ@@._V1_.jpg",
+              "width": 291,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1703612",
+          "display_name": "Joby Harold",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDhmMzJiNzQtZmQ4NS00MTU5LTg0MzgtYjZkNzg1YTBlZDE4XkEyXkFqcGdeQXVyMTQzMzUyNzY@._V1_.jpg",
+              "width": 425,
+              "height": 610
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0005363",
+          "display_name": "Guy Ritchie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM2NDkxMTcxMl5BMl5BanBnXkFtZTcwNTMyNjI5MQ@@._V1_.jpg",
+              "width": 291,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0927880",
+          "display_name": "Lionel Wigram",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTczNDczODk2N15BMl5BanBnXkFtZTcwMjk4NDM3Mg@@._V1_.jpg",
+              "width": 1015,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0229694",
+          "display_name": "David Dobkin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM4NTE1Nzk0OV5BMl5BanBnXkFtZTYwMTI0NzUz._V1_.jpg",
+              "width": 309,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0402271",
+          "display_name": "Charlie Hunnam",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE5NjE5Mzk2MV5BMl5BanBnXkFtZTcwODI5MDE1Ng@@._V1_.jpg",
+              "width": 284,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Arthur"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2793591",
+          "display_name": "Astrid Bergès-Frisbey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA3ODUyODkyMV5BMl5BanBnXkFtZTcwMjIxOTUwNw@@._V1_.jpg",
+              "width": 1535,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "The Mage"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000179",
+          "display_name": "Jude Law",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMwOTg5NTQ3NV5BMl5BanBnXkFtZTcwNzM3MDAzNQ@@._V1_.jpg",
+              "width": 1457,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Vortigern"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005023",
+          "display_name": "Djimon Hounsou",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQ2NTM4MzI4M15BMl5BanBnXkFtZTcwOTkxMjcxNA@@._V1_.jpg",
+              "width": 295,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Bedivere"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0051509",
+          "display_name": "Eric Bana",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGM2MjFhYjgtYTRlOS00YTQzLThlMDUtMGQxYjZmZjBiZmFjXkEyXkFqcGdeQXVyNzAxOTAyMDc@._V1_.jpg",
+              "width": 2400,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Uther"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0318821",
+          "display_name": "Aidan Gillen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMwNzE4MzMxNl5BMl5BanBnXkFtZTgwOTYwMTEyMDE@._V1_.jpg",
+              "width": 1536,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Bill"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3456865",
+          "display_name": "Freddie Fox",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTViMDU3MjUtYzMyNS00ODE2LWFkNGUtMGI5OWI4NjRhNjQ1XkEyXkFqcGdeQXVyMTAyNjY1MDU0._V1_.jpg",
+              "width": 1120,
+              "height": 1400
+            }
+          ]
+        },
+        "characters": [
+          "Rubio"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6210727",
+          "display_name": "Craig McGinlay",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmM4MjFjZGMtNTI2Mi00Y2I0LWI2NDUtMDEyZGEzMDQ0NmZkXkEyXkFqcGdeQXVyNjAwMTcxNzI@._V1_.jpg",
+              "width": 4032,
+              "height": 2623
+            }
+          ]
+        },
+        "characters": [
+          "Percival"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0943179",
+          "display_name": "Tom Wu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjQ4NTA4NzMxMl5BMl5BanBnXkFtZTgwNTQzMDg4ODE@._V1_.jpg",
+              "width": 1247,
+              "height": 1593
+            }
+          ]
+        },
+        "characters": [
+          "George"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4667984",
+          "display_name": "Kingsley Ben-Adir",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA3YmE2MzktMGZjYi00NzZhLTkxNDktMzBlNDhhY2UxNmI4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "width": 3051,
+              "height": 4577
+            }
+          ]
+        },
+        "characters": [
+          "Wet Stick"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0556453",
+          "display_name": "Neil Maskell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDNkOTgxYmQtOGJjMy00Yjk3LThlYjAtZmI5MTljMDI0NmIzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 4990,
+              "height": 3992
+            }
+          ]
+        },
+        "characters": [
+          "Back Lack"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1834115",
+          "display_name": "Annabelle Wallis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA2MjU2NjE1OV5BMl5BanBnXkFtZTgwNTMyMTAzMjI@._V1_.jpg",
+              "width": 2048,
+              "height": 1316
+            }
+          ]
+        },
+        "characters": [
+          "Maggie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8965395",
+          "display_name": "Zac Barker",
+          "avatars": null
+        },
+        "characters": [
+          "Young Arthur - 2 yrs."
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6697291",
+          "display_name": "Oliver Barker",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc2ODk4ODQyNV5BMl5BanBnXkFtZTgwMzUxMDI0MjE@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Young Arthur - 2 yrs."
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1052141",
+          "display_name": "Geoff Bell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc0NzQ4ODIzNV5BMl5BanBnXkFtZTcwMDkyODQyNw@@._V1_.jpg",
+              "width": 1420,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mischief John"
+        ]
+      }
+    ]
+  }
+}

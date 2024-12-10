@@ -1,0 +1,381 @@
+{
+  "title": {
+    "id": "tt4116284",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Lego Batman Movie",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 104,
+    "plot": "A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to rule Gotham City, while discovering that he has accidentally adopted a teenage orphan who wishes to become his sidekick.",
+    "rating": {
+      "aggregate_rating": 7.3,
+      "votes_count": 172824
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_.jpg",
+        "width": 1012,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "AU",
+        "name": "Australia"
+      },
+      {
+        "code": "DK",
+        "name": "Denmark"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 75,
+      "review_count": 48
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0003021",
+          "display_name": "Chris McKay",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2M3YjVlNzQtYTkyNi00OTkwLWE0OTAtMTFkNzg1MjAzM2U0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 650,
+              "height": 366
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0334381",
+          "display_name": "Seth Grahame-Smith",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA4MjE4NjEzOV5BMl5BanBnXkFtZTcwNzI0Mzc5Nw@@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0571344",
+          "display_name": "Chris McKenna",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjkwMTg3NTcwMF5BMl5BanBnXkFtZTcwNDM1MTMxOA@@._V1_.jpg",
+              "width": 515,
+              "height": 793
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1273099",
+          "display_name": "Erik Sommers",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2972864",
+          "display_name": "Jared Stern",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2FkMzM0NWMtMjRjNS00ZGY5LWE1M2YtMTUzNTZjMWM5OThlXkEyXkFqcGdeQXVyMTU0NTMwODgy._V1_.jpg",
+              "width": 861,
+              "height": 1058
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm4465847",
+          "display_name": "John Whittington",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmEzZDU1MTEtZjFjMS00YThlLWI4YmMtYzk5Yzg0YjBhOWZhXkEyXkFqcGdeQXVyMjEwNDY4NQ@@._V1_.jpg",
+              "width": 2843,
+              "height": 3787
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0004715",
+          "display_name": "Will Arnett",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTgxNDdlYjAtNGQzZC00ODJlLTliYjYtYTk0ZDE4YTBmYmM0XkEyXkFqcGdeQXVyNDc1NDA0NA@@._V1_.jpg",
+              "width": 612,
+              "height": 792
+            }
+          ]
+        },
+        "characters": [
+          "Batman",
+          "Bruce Wayne"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0148418",
+          "display_name": "Michael Cera",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTgyNDgxMjUyOV5BMl5BanBnXkFtZTcwMDYxNzY1OQ@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Robin",
+          "Dick Grayson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0206257",
+          "display_name": "Rosario Dawson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjlhN2YzMDYtOTcxYi00YWIwLTkwNTItNDNlMWY2ZDNkNzA5XkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_.jpg",
+              "width": 1600,
+              "height": 2000
+            }
+          ]
+        },
+        "characters": [
+          "Batgirl",
+          "Barbara Gordon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000146",
+          "display_name": "Ralph Fiennes",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzc5MjE1NDgyN15BMl5BanBnXkFtZTcwNzg2ODgwNA@@._V1_.jpg",
+              "width": 306,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Alfred Pennyworth"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9490217",
+          "display_name": "Siri",
+          "avatars": null
+        },
+        "characters": [
+          "'Puter"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0302108",
+          "display_name": "Zach Galifianakis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQwNzI3NjIwMV5BMl5BanBnXkFtZTcwMzA1OTIwMw@@._V1_.jpg",
+              "width": 273,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Joker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2809577",
+          "display_name": "Jenny Slate",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM0YjI1MzMtNTliMy00YTMwLTllOTUtOWVhMjY1ZmQxOThkXkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_.jpg",
+              "width": 402,
+              "height": 386
+            }
+          ]
+        },
+        "characters": [
+          "Harley Quinn"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1727621",
+          "display_name": "Jason Mantzoukas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzQwMzU3MDExNl5BMl5BanBnXkFtZTcwNDY5MzA5Nw@@._V1_.jpg",
+              "width": 1411,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Scarecrow"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005277",
+          "display_name": "Conan O'Brien",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMyMTAwMzQ0NF5BMl5BanBnXkFtZTcwNzM5MTU5MQ@@._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "The Riddler"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0072476",
+          "display_name": "Doug Benson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgwNDc1Mjg0MV5BMl5BanBnXkFtZTcwMDM4MjY0Mg@@._V1_.jpg",
+              "width": 290,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Bane"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001850",
+          "display_name": "Billy Dee Williams",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDI4MDQ2NTUzNV5BMl5BanBnXkFtZTYwNjA4NzUz._V1_.jpg",
+              "width": 287,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Two-Face"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2368789",
+          "display_name": "Zoë Kravitz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2NmMWViOTYtOGJhYi00MzU2LWI5ODYtOGJhYzhkMWViODY5XkEyXkFqcGdeQXVyNjk2NTA3MTc@._V1_.jpg",
+              "width": 422,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Catwoman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2177528",
+          "display_name": "Kate Micucci",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTVkYTVjYWItNDA2Zi00OWVjLWI0YTQtYThmMWRmYTc5ZGJiXkEyXkFqcGdeQXVyMzk5ODg4Nzg@._V1_.jpg",
+              "width": 803,
+              "height": 1170
+            }
+          ]
+        },
+        "characters": [
+          "Clayface"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1641251",
+          "display_name": "Riki Lindhome",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTAxNzM1NTkxOTleQTJeQWpwZ15BbWU3MDUwNDU2MjE@._V1_.jpg",
+              "width": 300,
+              "height": 420
+            }
+          ]
+        },
+        "characters": [
+          "Poison Ivy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0412850",
+          "display_name": "Eddie Izzard",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjY2MmQ5ODAtNWM4Zi00YWUxLThhYjktMDczN2NjNGUxNzQ2XkEyXkFqcGdeQXVyMjI4MDI0NTM@._V1_.jpg",
+              "width": 526,
+              "height": 790
+            }
+          ]
+        },
+        "characters": [
+          "Voldemort"
+        ]
+      }
+    ]
+  }
+}

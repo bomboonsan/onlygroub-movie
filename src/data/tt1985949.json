@@ -1,0 +1,392 @@
+{
+  "title": {
+    "id": "tt1985949",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Angry Birds Movie",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 97,
+    "plot": "When an island populated by happy, flightless birds is visited by mysterious green pigs, it's up to three unlikely outcasts to figure out what the pigs are up to.",
+    "rating": {
+      "aggregate_rating": 6.3,
+      "votes_count": 104055
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY3MjU0NDA0OF5BMl5BanBnXkFtZTgwNTc0MTU3OTE@._V1_.jpg",
+        "width": 1520,
+        "height": 2164
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "AU",
+        "name": "Australia"
+      },
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "FI",
+        "name": "Finland"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "SK",
+        "name": "Slovakia"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 43,
+      "review_count": 27
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0443505",
+          "display_name": "Clay Kaytis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2I5NzMyNTItZTU0YS00NTFlLWFkZjctMTk3NDJkNWYzMzMxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 588,
+              "height": 960
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0717678",
+          "display_name": "Fergal Reilly",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0900140",
+          "display_name": "Jon Vitti",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIzMDc0NDAyOV5BMl5BanBnXkFtZTgwMTIwMzM1NTM@._V1_.jpg",
+              "width": 1634,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm4678928",
+          "display_name": "Mikael Hed",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2039903",
+          "display_name": "Mikko Pöllä",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2805697",
+          "display_name": "John Cohen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIzMDM2NDkxOV5BMl5BanBnXkFtZTcwOTYyNDY4NA@@._V1_.jpg",
+              "width": 924,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm4679058",
+          "display_name": "Jaakko Iisalo",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0837177",
+          "display_name": "Jason Sudeikis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE3NTE4Nzg3Ml5BMl5BanBnXkFtZTgwODc5OTUxMTI@._V1_.jpg",
+              "width": 1356,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Red"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1265802",
+          "display_name": "Josh Gad",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzU0MDIxYzktNmZiZC00ODcwLWIyYWMtNzI3MjhlMTA2MzhiXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1118,
+              "height": 1304
+            }
+          ]
+        },
+        "characters": [
+          "Chuck"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1144419",
+          "display_name": "Danny McBride",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk5NTM0ODI4NF5BMl5BanBnXkFtZTcwNzg3MjY0Mg@@._V1_.jpg",
+              "width": 311,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Bomb"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0748973",
+          "display_name": "Maya Rudolph",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMzOTQwMzAyOF5BMl5BanBnXkFtZTYwNzA1OTc0._V1_.jpg",
+              "width": 259,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Matilda"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0352778",
+          "display_name": "Bill Hader",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTY3MzgwMjE3N15BMl5BanBnXkFtZTcwNjc2MjE3NA@@._V1_.jpg",
+              "width": 1342,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Leonard"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0227759",
+          "display_name": "Peter Dinklage",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM1MTI5Mzc0MF5BMl5BanBnXkFtZTYwNzgzOTQz._V1_.jpg",
+              "width": 321,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Mighty Eagle"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000576",
+          "display_name": "Sean Penn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc1NjMzMjY3NF5BMl5BanBnXkFtZTcwMzkxNjQzMg@@._V1_.jpg",
+              "width": 272,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Terence"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1221047",
+          "display_name": "Keegan-Michael Key",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmI1MDdjZTAtMzBiMy00M2Q2LTk5YjAtOWJkMGYwODE2OGViXkEyXkFqcGdeQXVyNzMxMTU2Mg@@._V1_.jpg",
+              "width": 243,
+              "height": 320
+            }
+          ]
+        },
+        "characters": [
+          "Judge Peckinpah"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0571952",
+          "display_name": "Kate McKinnon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQwMzEwMDQ2NF5BMl5BanBnXkFtZTgwMzU4NTY4NjE@._V1_.jpg",
+              "width": 1417,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Stella",
+          "Eva the Birthday Mom"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0355024",
+          "display_name": "Tony Hale",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGE2YWM1MjQtODBlMS00ZjVmLTg2YzEtZjk0ZDdmMjRlMDRhXkEyXkFqcGdeQXVyMTI2Nzk2ODk3._V1_.jpg",
+              "width": 1071,
+              "height": 1053
+            }
+          ]
+        },
+        "characters": [
+          "Ross",
+          "Cyrus",
+          "Mime"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2868110",
+          "display_name": "Hannibal Buress",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzMyYTg3YmEtZjJkZC00NjIzLWE1NWItZTNkODg3NDgzOGI1XkEyXkFqcGdeQXVyMTUyMTgzNjY4._V1_.jpg",
+              "width": 2048,
+              "height": 1536
+            }
+          ]
+        },
+        "characters": [
+          "Edward the Birthday Dad"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0054697",
+          "display_name": "Ike Barinholtz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE1NDY0NjMwOV5BMl5BanBnXkFtZTgwMDE4MTYxMDI@._V1_.jpg",
+              "width": 691,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Tiny"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4270695",
+          "display_name": "Tituss Burgess",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTg3ZGMyZTEtZDk0My00ODU4LThhYjItZDc4MDVlYzBkMTE2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 3333,
+              "height": 5000
+            }
+          ]
+        },
+        "characters": [
+          "Photog"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3597252",
+          "display_name": "Ian Hecox",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWU1NzYxMTgtNjRhNi00ZWQ5LTk2NDEtMWRhZGViOTlhMTZkXkEyXkFqcGdeQXVyMTc5NDY1MzY@._V1_.jpg",
+              "width": 2000,
+              "height": 2500
+            }
+          ]
+        },
+        "characters": [
+          "Bubbles"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0655699",
+          "display_name": "Anthony Padilla",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTNiZTcwOGEtMzVmYi00NGRkLTkwZWItNzVmMDI1ZDI5NjZhXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 2547,
+              "height": 1360
+            }
+          ]
+        },
+        "characters": [
+          "Hal"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "title": {
+    "id": "tt2713180",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Fury",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 134,
+    "plot": "A grizzled tank commander makes tough decisions as he and his crew fight their way across Germany in April, 1945.",
+    "rating": {
+      "aggregate_rating": 7.6,
+      "votes_count": 539077
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjA4MDU0NTUyN15BMl5BanBnXkFtZTgwMzQxMzY4MjE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CN",
+        "name": "China"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 64,
+      "review_count": 47
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0043742",
+          "display_name": "David Ayer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjBmMTY4M2ItMmEwNC00NTUyLWIyZDEtYWNhNjViNjRiOGVlXkEyXkFqcGdeQXVyMTY2MzU0MjA@._V1_.jpg",
+              "width": 757,
+              "height": 1024
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0043742",
+          "display_name": "David Ayer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjBmMTY4M2ItMmEwNC00NTUyLWIyZDEtYWNhNjViNjRiOGVlXkEyXkFqcGdeQXVyMTY2MzU0MjA@._V1_.jpg",
+              "width": 757,
+              "height": 1024
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000093",
+          "display_name": "Brad Pitt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA1MjE2MTQ2MV5BMl5BanBnXkFtZTcwMjE5MDY0Nw@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Don 'Wardaddy' Collier"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0479471",
+          "display_name": "Shia LaBeouf",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjNjNTI5NGMtMmMzZS00ZWRhLWJhZDQtMWEwODlkMzEyNWJlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1275,
+              "height": 1650
+            }
+          ]
+        },
+        "characters": [
+          "Boyd 'Bible' Swan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0503567",
+          "display_name": "Logan Lerman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODcyMTE4MTU0Ml5BMl5BanBnXkFtZTgwMjg2ODE5MDI@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        },
+        "characters": [
+          "Norman Ellison"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0671567",
+          "display_name": "Michael Peña",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTczNzcxNTE5NV5BMl5BanBnXkFtZTcwOTE4MTMzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 582
+            }
+          ]
+        },
+        "characters": [
+          "Trini 'Gordo' Garcia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1256532",
+          "display_name": "Jon Bernthal",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcwNzA5MDg0OV5BMl5BanBnXkFtZTcwMTU2NjE0Nw@@._V1_.jpg",
+              "width": 640,
+              "height": 873
+            }
+          ]
+        },
+        "characters": [
+          "Grady 'Coon-Ass' Travis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1747924",
+          "display_name": "Jim Parrack",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg4MTIwODQ5NF5BMl5BanBnXkFtZTcwMjQ5OTI5Nw@@._V1_.jpg",
+              "width": 1463,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Sergeant Binkowski"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0377034",
+          "display_name": "Brad William Henke",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM4NTE3NjU1Nl5BMl5BanBnXkFtZTcwMjQwNzcyMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 675
+            }
+          ]
+        },
+        "characters": [
+          "Sergeant Davis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5244059",
+          "display_name": "Kevin Vance",
+          "avatars": null
+        },
+        "characters": [
+          "Sergeant Peterson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1882152",
+          "display_name": "Xavier Samuel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIyOTc0ZjItN2Q4ZC00MzM4LTk3N2YtOTFkZDM0NDdmNzE4XkEyXkFqcGdeQXVyMTQ3NTc0ODI@._V1_.jpg",
+              "width": 2370,
+              "height": 2333
+            }
+          ]
+        },
+        "characters": [
+          "Lieutenant Parker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005042",
+          "display_name": "Jason Isaacs",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGM3MWZmZWYtYjgxNi00NGU1LThlMjUtMWVkY2FmZGE5Y2VjXkEyXkFqcGdeQXVyMzE4ODAxMA@@._V1_.jpg",
+              "width": 1120,
+              "height": 1680
+            }
+          ]
+        },
+        "characters": [
+          "Captain Waggoner"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1671512",
+          "display_name": "Anamaria Marinca",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGU5NmY5MzUtOWI0OS00NTZhLTg4YjgtZTU2YjNiNDFmNzhhXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_.jpg",
+              "width": 1355,
+              "height": 1767
+            }
+          ]
+        },
+        "characters": [
+          "Irma"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2736690",
+          "display_name": "Alicia von Rittberg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQyODEwNzY1OF5BMl5BanBnXkFtZTgwMTc3NjMwMzE@._V1_.jpg",
+              "width": 1298,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Emma"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2207222",
+          "display_name": "Scott Eastwood",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODQ4ODU5NjIxMF5BMl5BanBnXkFtZTgwNzIzNTIzNzM@._V1_.jpg",
+              "width": 1535,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Sergeant Miles"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1736605",
+          "display_name": "Laurence Spellman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDJiMjFjZmQtYmE0NS00OGEwLTg3N2ItNmQwMWNlODJkMGIyXkEyXkFqcGdeQXVyNDA1MjI3OA@@._V1_.jpg",
+              "width": 847,
+              "height": 802
+            }
+          ]
+        },
+        "characters": [
+          "Sergeant Dillard"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0079418",
+          "display_name": "Daniel Betts",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU0NjIxNjg4NV5BMl5BanBnXkFtZTgwOTE4NTc1MDI@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Burgermeister"
+        ]
+      }
+    ]
+  }
+}

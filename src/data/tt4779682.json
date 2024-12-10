@@ -1,0 +1,348 @@
+{
+  "title": {
+    "id": "tt4779682",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Meg",
+    "original_title": null,
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 113,
+    "plot": "A group of scientists exploring the Marianas Trench encounter the largest marine predator that has ever existed - the Megalodon.",
+    "rating": {
+      "aggregate_rating": 5.7,
+      "votes_count": 205564
+    },
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTAxMGRmODYtM2NkYS00ZGRlLWE1MWItYjI1MzIwNjQwN2RiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "width": 2764,
+        "height": 4096
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "jpn",
+        "name": "Japanese"
+      },
+      {
+        "code": "tha",
+        "name": "Thai"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CN",
+        "name": "China"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 46,
+      "review_count": 46
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0005509",
+          "display_name": "Jon Turteltaub",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU5NzMxNjgyNF5BMl5BanBnXkFtZTcwNDcxMTQ2Mw@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1212988",
+          "display_name": "Dean Georgaris",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0388377",
+          "display_name": "Jon Hoeber",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0388375",
+          "display_name": "Erich Hoeber",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0022709",
+          "display_name": "Steve Alten",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg0NjEzMDE2OV5BMl5BanBnXkFtZTcwNTc1NTAzMQ@@._V1_.jpg",
+              "width": 420,
+              "height": 374
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0005458",
+          "display_name": "Jason Statham",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzk2MDkwOV5BMl5BanBnXkFtZTcwMDAxODQwMg@@._V1_.jpg",
+              "width": 263,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Jonas Taylor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0508356",
+          "display_name": "Bingbing Li",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzUzMjc4MTg2NV5BMl5BanBnXkFtZTgwMDYzNjgxNjM@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        },
+        "characters": [
+          "Suyin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0933988",
+          "display_name": "Rainn Wilson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGMyYzM0ZWEtZDA1ZC00NmUzLThjNWMtOGM0NGIyY2Y3YTgxXkEyXkFqcGdeQXVyMTMyNzI3NzIy._V1_.jpg",
+              "width": 1280,
+              "height": 1932
+            }
+          ]
+        },
+        "characters": [
+          "Morris"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0193295",
+          "display_name": "Cliff Curtis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTIxMzA1MDQyM15BMl5BanBnXkFtZTYwNzMwMjI3._V1_.jpg",
+              "width": 485,
+              "height": 595
+            }
+          ]
+        },
+        "characters": [
+          "Mac"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0152061",
+          "display_name": "Winston Chao",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODBjYzI1MDktY2FhNS00NmE0LTkwZWYtZDQ1YTdlZDI2ZjYzXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 650,
+              "height": 650
+            }
+          ]
+        },
+        "characters": [
+          "Zhang"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8528988",
+          "display_name": "Shuya Sophia Cai",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY1MDk1NTE1MV5BMl5BanBnXkFtZTgwMTU5OTcwNjM@._V1_.jpg",
+              "width": 2048,
+              "height": 858
+            }
+          ]
+        },
+        "characters": [
+          "Meiying"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3199307",
+          "display_name": "Ruby Rose",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcwOTg3NzgyNF5BMl5BanBnXkFtZTgwNzAyNDkyOTE@._V1_.jpg",
+              "width": 500,
+              "height": 500
+            }
+          ]
+        },
+        "characters": [
+          "Jaxx"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1191866",
+          "display_name": "Page Kennedy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDFmYTk5ZDMtZDFkNC00NWQ2LWJhYTItZTg2MzVlZmE2MDQxXkEyXkFqcGdeQXVyNzQxMDc5MzE@._V1_.jpg",
+              "width": 720,
+              "height": 1080
+            }
+          ]
+        },
+        "characters": [
+          "DJ"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0853079",
+          "display_name": "Robert Taylor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg3MDQ1NDUwOF5BMl5BanBnXkFtZTgwNDY1Nzk3NjE@._V1_.jpg",
+              "width": 2048,
+              "height": 1362
+            }
+          ]
+        },
+        "characters": [
+          "Heller"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0959963",
+          "display_name": "Ólafur Darri Ólafsson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTJlMzFjM2YtZjY3My00ZDBhLTk5ZTQtYjE2YzY0OWNjZmJlXkEyXkFqcGdeQXVyMTk5MzA1MQ@@._V1_.jpg",
+              "width": 2475,
+              "height": 3300
+            }
+          ]
+        },
+        "characters": [
+          "The Wall"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2537621",
+          "display_name": "Jessica McNamee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWQ4MzRmYTgtYzZiOC00YzZmLWE4MjItODZlNTVkNDg5YTc5XkEyXkFqcGdeQXVyNjkxNzc0Mzg@._V1_.jpg",
+              "width": 1163,
+              "height": 1454
+            }
+          ]
+        },
+        "characters": [
+          "Lori"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1199811",
+          "display_name": "Masi Oka",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTA4Mjc5ODIxNV5BMl5BanBnXkFtZTcwODk1NjU2NQ@@._V1_.jpg",
+              "width": 2912,
+              "height": 4368
+            }
+          ]
+        },
+        "characters": [
+          "Toshi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8529104",
+          "display_name": "Raymond Vinten",
+          "avatars": null
+        },
+        "characters": [
+          "Dive Control Technician"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5071064",
+          "display_name": "Hongmei Mai",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTRlOGRiODQtNzlmNy00ZjdmLWE4NjEtODk2MTUwMWZkZTUwXkEyXkFqcGc@._V1_.jpg",
+              "width": 520,
+              "height": 647
+            }
+          ]
+        },
+        "characters": [
+          "Mother"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10032264",
+          "display_name": "Wei Yi",
+          "avatars": null
+        },
+        "characters": [
+          "Awesome Kid on Beach"
+        ]
+      }
+    ]
+  }
+}

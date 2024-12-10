@@ -1,0 +1,158 @@
+{
+  "title": {
+    "id": "tt6835804",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Kids on the Slope",
+    "original_title": "Sakamichi no Apollon",
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 120,
+    "plot": "Two different students - a successful but aloof academic and a rebellious but kindhearted delinquent - form a friendship through their love for music.",
+    "rating": {
+      "aggregate_rating": 6.7,
+      "votes_count": 825
+    },
+    "genres": [
+      "Drama"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWRhZmE5MjctZTAxZS00MDIwLWIwMWQtMzhmM2U1NWEyYWM5XkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+        "width": 1450,
+        "height": 2048
+      }
+    ],
+    "certificates": null,
+    "spoken_languages": [
+      {
+        "code": "jpn",
+        "name": "Japanese"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "JP",
+        "name": "Japan"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm3410783",
+          "display_name": "Takahiro Miki",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm4986583",
+          "display_name": "Yuki Kodama",
+          "avatars": null
+        }
+      },
+      {
+        "name": null
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1867502",
+          "display_name": "Yuri Chinen",
+          "avatars": null
+        },
+        "characters": [
+          "Kaoru Nishimi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2601626",
+          "display_name": "Dean Fujioka",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDY2OWE1MTUtM2IxOC00ZTgzLTgzNjAtNGRhNTdhOWQ4Yjk5XkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 750,
+              "height": 1125
+            }
+          ]
+        },
+        "characters": [
+          "Junichi Katsuragi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5862455",
+          "display_name": "Nana Komatsu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMzNzQ1NDk2Nl5BMl5BanBnXkFtZTgwOTk4NjUyNzE@._V1_.jpg",
+              "width": 5616,
+              "height": 3744
+            }
+          ]
+        },
+        "characters": [
+          "Ritsuko Mukae"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3940196",
+          "display_name": "Erina Mano",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmI0ODg1MzQtZDViOC00NTkyLWI1MGMtNzVhYjI0OTRkNGNhXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+              "width": 1000,
+              "height": 1338
+            }
+          ]
+        },
+        "characters": [
+          "Yurika Fukahori"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4941993",
+          "display_name": "Hokuto Matsumura",
+          "avatars": null
+        },
+        "characters": [
+          "Seiji Matsuoka"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4667834",
+          "display_name": "Taishi Nakagawa",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODgwOGRiNjktMWUyNy00YTJiLWIwOGMtZmEyNWNiZmRmMWM4XkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+              "width": 1200,
+              "height": 800
+            }
+          ]
+        },
+        "characters": [
+          "Sentaro Kawabuchi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0620120",
+          "display_name": "Baijaku Nakamura",
+          "avatars": null
+        },
+        "characters": [
+          "Tsutomu Mukae"
+        ]
+      }
+    ]
+  }
+}

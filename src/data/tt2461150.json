@@ -1,0 +1,344 @@
+{
+  "title": {
+    "id": "tt2461150",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Masterminds",
+    "original_title": null,
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 95,
+    "plot": "A guard at an armored car company in the Southern U.S. organizes one of the biggest bank heists in American history. Based on the October 1997 Loomis Fargo robbery.",
+    "rating": {
+      "aggregate_rating": 5.8,
+      "votes_count": 59892
+    },
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Crime"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTYzMTY5Mzg1Ml5BMl5BanBnXkFtZTgwNTUzODUwNjE@._V1_.jpg",
+        "width": 900,
+        "height": 1325
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 47,
+      "review_count": 29
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0381478",
+          "display_name": "Jared Hess",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI0ODkwODY2OV5BMl5BanBnXkFtZTYwODExNjA3._V1_.jpg",
+              "width": 485,
+              "height": 363
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0101302",
+          "display_name": "Chris Bowman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2I5MjMyMGYtZDc5Ny00YjlkLTg5MDEtMjhkNDA4YTQ1N2RlXkEyXkFqcGc@._V1_.jpg",
+              "width": 1970,
+              "height": 1970
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1376062",
+          "display_name": "Hubbel Palmer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2NjYjk4MGUtOWRlNy00MzE0LTk3MjctM2UyMWNkNTU3NTYzXkEyXkFqcGc@._V1_.jpg",
+              "width": 756,
+              "height": 1008
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0819225",
+          "display_name": "Emily Spivey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzI3ZjFhZmItZWU5Yi00NmZiLThkNjAtZDI0YWE5MjIyNjM4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 3494,
+              "height": 4500
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0302108",
+          "display_name": "Zach Galifianakis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQwNzI3NjIwMV5BMl5BanBnXkFtZTcwMzA1OTIwMw@@._V1_.jpg",
+              "width": 273,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "David Ghantt"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005562",
+          "display_name": "Owen Wilson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgwMzQ4ODYxMV5BMl5BanBnXkFtZTcwNDAwMTc2NQ@@._V1_.jpg",
+              "width": 1285,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Steve Chambers"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1325419",
+          "display_name": "Kristen Wiig",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODY0NzMzYTEtOGZmNS00ODJiLWEzYzktY2I4NDI3ODA2ZGRhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 2673,
+              "height": 4010
+            }
+          ]
+        },
+        "characters": [
+          "Kelly Campbell"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5155666",
+          "display_name": "Ross Kimball",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWYwNDY0OTQtZmQ0OS00NTRkLWE3MWQtZTU3YjEzNGFmNmFmXkEyXkFqcGdeQXVyMjcwOTAyNjA@._V1_.jpg",
+              "width": 3451,
+              "height": 4999
+            }
+          ]
+        },
+        "characters": [
+          "Eric Payne"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0711864",
+          "display_name": "Devin Ratray",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjRjZmY1MTgtNDVhZS00YWVkLTk1OGEtMTI3YmE0MTdjODc3XkEyXkFqcGdeQXVyMTUyODIwNDE@._V1_.jpg",
+              "width": 1242,
+              "height": 2208
+            }
+          ]
+        },
+        "characters": [
+          "Runny"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1634944",
+          "display_name": "Mary Elizabeth Ellis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE3NTU4OTU2OV5BMl5BanBnXkFtZTgwMTQxNjE3NTE@._V1_.jpg",
+              "width": 768,
+              "height": 768
+            }
+          ]
+        },
+        "characters": [
+          "Michelle Chambers"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0837177",
+          "display_name": "Jason Sudeikis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE3NTE4Nzg3Ml5BMl5BanBnXkFtZTgwODc5OTUxMTI@._V1_.jpg",
+              "width": 1356,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mike McKinney"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0571952",
+          "display_name": "Kate McKinnon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQwMzEwMDQ2NF5BMl5BanBnXkFtZTgwMzU4NTY4NjE@._V1_.jpg",
+              "width": 1417,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Jandice"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0428656",
+          "display_name": "Leslie Jones",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk4MTgyMDMzM15BMl5BanBnXkFtZTgwODE1NzczMzE@._V1_.jpg",
+              "width": 3400,
+              "height": 4400
+            }
+          ]
+        },
+        "characters": [
+          "Scanlon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1789985",
+          "display_name": "Jon Daly",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk4NzcwMTQxMV5BMl5BanBnXkFtZTgwMTU4ODQ2MDE@._V1_.jpg",
+              "width": 1499,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Plewe"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0547800",
+          "display_name": "Ken Marino",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGQ4M2MyZWItMGZhNS00NjVjLWI5ODUtZjVjZWRkZDY3NDc4XkEyXkFqcGdeQXVyOTIzNjQ2NjY@._V1_.jpg",
+              "width": 356,
+              "height": 460
+            }
+          ]
+        },
+        "characters": [
+          "Doug Jeffcoat"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0669254",
+          "display_name": "Daniel Zacapa",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM1OTc0MjY1NV5BMl5BanBnXkFtZTgwNDAxNjYxMDI@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Quintero"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3197155",
+          "display_name": "Tom Werme",
+          "avatars": null
+        },
+        "characters": [
+          "Anchorman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1157209",
+          "display_name": "Njema Williams",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWE2YWMxNTUtODBiZC00YTI3LWJmMDktZmY2YzQ0NTAzMzZkXkEyXkFqcGdeQXVyMTU3MDI3OTE@._V1_.jpg",
+              "width": 2212,
+              "height": 3318
+            }
+          ]
+        },
+        "characters": [
+          "Ty"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0190419",
+          "display_name": "Nils Cruz",
+          "avatars": null
+        },
+        "characters": [
+          "Carlo's Uncle"
+        ]
+      }
+    ]
+  }
+}

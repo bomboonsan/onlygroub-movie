@@ -1,0 +1,332 @@
+{
+  "title": {
+    "id": "tt1472584",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Max Steel",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 92,
+    "plot": "The adventures of teenager Max McGrath and his alien companion, Steel, who must harness and combine their tremendous new powers to evolve into the turbo-charged superhero Max Steel.",
+    "rating": {
+      "aggregate_rating": 4.6,
+      "votes_count": 20580
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTk2MTMwOTk3N15BMl5BanBnXkFtZTgwMDI5OTYxMDI@._V1_.jpg",
+        "width": 1012,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 22,
+      "review_count": 7
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0376664",
+          "display_name": "Stewart Hendler",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzliZmI4YWUtZjExNC00YTBjLThmNDEtNmViNzdkMmNmM2NiXkEyXkFqcGdeQXVyMTM4NTEzOQ@@._V1_CR216,347,1354,2030_.jpg",
+              "width": 1354,
+              "height": 2030
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1236653",
+          "display_name": "Christopher L. Yost",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQ5OTU4Nzc4M15BMl5BanBnXkFtZTgwMTY3Nzc4MzI@._V1_.jpg",
+              "width": 1385,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm3656718",
+          "display_name": "Ben Winchell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmYzMWE1MDAtYzU5ZS00ZGI1LTg4ZjYtMTA1MGJiNDA3NmE3XkEyXkFqcGdeQXVyMjcyODQ1MDA@._V1_.jpg",
+              "width": 4128,
+              "height": 5743
+            }
+          ]
+        },
+        "characters": [
+          "Max McGrath"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3091777",
+          "display_name": "Josh Brener",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjY5Mjg4OWQtYzk1Ny00MGVjLWFkMjktM2FlNDMzMmE5MmVmXkEyXkFqcGdeQXVyMjIwMjMyNzc@._V1_.jpg",
+              "width": 900,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Steel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0004742",
+          "display_name": "Maria Bello",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI3NDE3NTAyOF5BMl5BanBnXkFtZTcwNTg0MDEwMg@@._V1_.jpg",
+              "width": 308,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Molly McGrath"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000412",
+          "display_name": "Andy Garcia",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM3NDA5NTgxNl5BMl5BanBnXkFtZTgwMzU3NDc4NDE@._V1_.jpg",
+              "width": 1642,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Miles Edwards"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3544963",
+          "display_name": "Ana Villafañe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWI5MGI3YWUtMmViZS00MzMwLWE0MWQtNzA5NTdhOTk5MTZjXkEyXkFqcGc@._V1_.jpg",
+              "width": 2473,
+              "height": 3091
+            }
+          ]
+        },
+        "characters": [
+          "Sofia Martinez"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0236451",
+          "display_name": "Mike Doyle",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM2NDE5NDMzN15BMl5BanBnXkFtZTgwNTc0OTYxNzE@._V1_.jpg",
+              "width": 445,
+              "height": 594
+            }
+          ]
+        },
+        "characters": [
+          "Jim McGrath"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0222883",
+          "display_name": "Phillip DeVona",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTczNjI1MjkzM15BMl5BanBnXkFtZTYwNTIzMjAz._V1_.jpg",
+              "width": 360,
+              "height": 288
+            }
+          ]
+        },
+        "characters": [
+          "Harkins"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1551999",
+          "display_name": "Billy Slaughter",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU3MTQ4OTUyNV5BMl5BanBnXkFtZTgwOTY3NTAxMDI@._V1_.jpg",
+              "width": 465,
+              "height": 594
+            }
+          ]
+        },
+        "characters": [
+          "Murphy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5818222",
+          "display_name": "Al Mitchell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTg1MDRmZDktNGNhZC00OGVlLWIwZjktMGUxNWE2YTc1ZWZiXkEyXkFqcGdeQXVyNDUyODA2MDI@._V1_.jpg",
+              "width": 4549,
+              "height": 6824
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Smith"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2949405",
+          "display_name": "Lawrence Kao",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ5Yzg2YjEtZWQyYS00NGY3LTk4OGItYmI5YWE1ZGFhMDYzXkEyXkFqcGdeQXVyMjA4Mjg3MzU@._V1_.jpg",
+              "width": 4480,
+              "height": 6720
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Lee"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1654820",
+          "display_name": "Brett Gentile",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDA3MjQ2MDUtYzUzNy00MTlkLTk2MWYtNjk2OGU1OGYwZWU0XkEyXkFqcGc@._V1_.jpg",
+              "width": 2400,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Quinn"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4360783",
+          "display_name": "Jahneé Castro",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2JhMTAxN2EtYTZhNS00ZGM0LTliNDYtOTIzODI4NzQ1OTgzXkEyXkFqcGc@._V1_.jpg",
+              "width": 3300,
+              "height": 4125
+            }
+          ]
+        },
+        "characters": [
+          "Student",
+          "Thirsty Kid"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0055499",
+          "display_name": "Avis-Marie Barnes",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmJjMzBiNDktYzJmYS00ZDI0LWFkNzUtNTM2MWE0NjMxN2ViXkEyXkFqcGdeQXVyMTA5NjA1NTUy._V1_.jpg",
+              "width": 467,
+              "height": 700
+            }
+          ]
+        },
+        "characters": [
+          "Ms. Bernardo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3837944",
+          "display_name": "Brandon Larracuente",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTlhYmExYjQtOWE5YS00MDg3LWI4M2MtMDhmMDU4YTFjNjkzXkEyXkFqcGdeQXVyMjQyNDY2MjY@._V1_.jpg",
+              "width": 4024,
+              "height": 6048
+            }
+          ]
+        },
+        "characters": [
+          "Attentive Kid"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2584164",
+          "display_name": "Clayton Frey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWE1MDNjMzgtMzMxMi00YTAwLWI0MjEtNWIyOTlhNjdlMjkyXkEyXkFqcGc@._V1_.jpg",
+              "width": 3000,
+              "height": 4500
+            }
+          ]
+        },
+        "characters": [
+          "Punk"
+        ]
+      }
+    ]
+  }
+}

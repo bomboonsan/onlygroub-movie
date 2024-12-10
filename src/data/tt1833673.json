@@ -1,0 +1,311 @@
+{
+  "title": {
+    "id": "tt1833673",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Dhoom 3",
+    "original_title": "Dhoom:3",
+    "start_year": 2013,
+    "end_year": null,
+    "runtime_minutes": 172,
+    "plot": "Jai and Ali return to catch the clown thief, Sahir, who has targeted various branches of the Western Bank of Chicago.",
+    "rating": {
+      "aggregate_rating": 5.4,
+      "votes_count": 49141
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjA4OTEzMjkzN15BMl5BanBnXkFtZTgwMDAwNzg3MDE@._V1_.jpg",
+        "width": 1400,
+        "height": 900
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "Not Rated"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "hin",
+        "name": "Hindi"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "IN",
+        "name": "India"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 61,
+      "review_count": 4
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1715502",
+          "display_name": "Vijay Krishna Acharya",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjFlZmRkMWItNmE2MC00ZWQxLTg2YzktZjBjMTA0ODI2NWU1XkEyXkFqcGc@._V1_.jpg",
+              "width": 700,
+              "height": 1053
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1715502",
+          "display_name": "Vijay Krishna Acharya",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjFlZmRkMWItNmE2MC00ZWQxLTg2YzktZjBjMTA0ODI2NWU1XkEyXkFqcGc@._V1_.jpg",
+              "width": 700,
+              "height": 1053
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0159147",
+          "display_name": "Aditya Chopra",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTlhNGVlNWQtMzkwNi00Y2E2LTgyMDctYjJmZTA2MDFjODdmXkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_.jpg",
+              "width": 974,
+              "height": 1500
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0451148",
+          "display_name": "Aamir Khan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAwMjk3NDUzN15BMl5BanBnXkFtZTcwNjI4MTY0NA@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Sahir Khan",
+          "Samar Khan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0045393",
+          "display_name": "Abhishek Bachchan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk1NjU1NjkxN15BMl5BanBnXkFtZTcwNDI4MDMzMg@@._V1_.jpg",
+              "width": 297,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "A.C.P. Jai Dixit"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1229940",
+          "display_name": "Katrina Kaif",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI0Nzc4OTE0NV5BMl5BanBnXkFtZTgwOTczODgyNDM@._V1_.jpg",
+              "width": 1520,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Aaliya"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0159167",
+          "display_name": "Uday Chopra",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzhhOGJlNDEtNTM4OS00NTE3LTkxNmQtYTBiMTE3ZWVjYjg4XkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_.jpg",
+              "width": 974,
+              "height": 1500
+            }
+          ]
+        },
+        "characters": [
+          "Ali Khan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0006763",
+          "display_name": "Jackie Shroff",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzczOGViODMtMWY1Yi00ZTAwLTkzZjItYzlmMzU0NmM5YjBmXkEyXkFqcGdeQXVyMjYwMDk5NjE@._V1_.jpg",
+              "width": 625,
+              "height": 759
+            }
+          ]
+        },
+        "characters": [
+          "Iqbal Khan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3248988",
+          "display_name": "Tabrett Bethell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWY4NTVlZjktNmMwNC00MDE5LWJiYTQtMmE5Yzc3MzIxMmM0XkEyXkFqcGc@._V1_.jpg",
+              "width": 1324,
+              "height": 1984
+            }
+          ]
+        },
+        "characters": [
+          "Victoria"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0081070",
+          "display_name": "Andrew Bicknell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmU2MzExNjQtM2RkNS00MzFiLWJlZmYtYzJjMGVkYWE3ZDRmXkEyXkFqcGdeQXVyMzEzMzE0OTM@._V1_.jpg",
+              "width": 1707,
+              "height": 2074
+            }
+          ]
+        },
+        "characters": [
+          "Anderson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6168317",
+          "display_name": "Siddharth Nigam",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjExMDMwNDQxM15BMl5BanBnXkFtZTgwMjk1OTU4ODE@._V1_.jpg",
+              "width": 768,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Young Sahir"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4223311",
+          "display_name": "Charles Rasmussen",
+          "avatars": null
+        },
+        "characters": [
+          "Executive Banker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8993369",
+          "display_name": "Gavin Marshall",
+          "avatars": null
+        },
+        "characters": [
+          "Banker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8993370",
+          "display_name": "Girisha Nichani",
+          "avatars": null
+        },
+        "characters": [
+          "Ali",
+          "Victoria Kid 1"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8993371",
+          "display_name": "Kapish Chawla",
+          "avatars": null
+        },
+        "characters": [
+          "Ali",
+          "Victoria Kid 2"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8993372",
+          "display_name": "Kanishka Soni",
+          "avatars": null
+        },
+        "characters": [
+          "Ali",
+          "Victoria Kid 3"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8993373",
+          "display_name": "Kavya Nayak",
+          "avatars": null
+        },
+        "characters": [
+          "Ali",
+          "Victoria Kid 4"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8993374",
+          "display_name": "Adit Singh",
+          "avatars": null
+        },
+        "characters": [
+          "Rajuf"
+        ]
+      }
+    ]
+  }
+}

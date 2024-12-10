@@ -1,0 +1,309 @@
+{
+  "title": {
+    "id": "tt4504044",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Prodigy",
+    "original_title": null,
+    "start_year": 2019,
+    "end_year": null,
+    "runtime_minutes": 92,
+    "plot": "A mother concerned about her young son's disturbing behavior thinks something supernatural may be affecting him.",
+    "rating": {
+      "aggregate_rating": 5.9,
+      "votes_count": 28375
+    },
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTQxNTMwMmUtMWRkYi00MTRmLTgyYWItYTYwNGZkMWZmMzQ2XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg",
+        "width": 4050,
+        "height": 6000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "hun",
+        "name": "Hungarian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "HK",
+        "name": "Hong Kong (Special Administrative Region of China)"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 45,
+      "review_count": 18
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1130275",
+          "display_name": "Nicholas McCarthy",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1161528",
+          "display_name": "Jeff Buhler",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGRjNmYyYWItMjIxYi00NjJhLWFlZjgtYjA5ZGQ4NTdkYzk3XkEyXkFqcGdeQXVyMTY1NzkzNDY@._V1_.jpg",
+              "width": 1702,
+              "height": 2270
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm2279940",
+          "display_name": "Taylor Schilling",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE0ODIxNTczOF5BMl5BanBnXkFtZTcwMjE4Njg2Nw@@._V1_.jpg",
+              "width": 1460,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Sarah Blume"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7669135",
+          "display_name": "Jackson Robert Scott",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU1Njg2NjMxMl5BMl5BanBnXkFtZTgwNTA4MTE0OTE@._V1_.jpg",
+              "width": 733,
+              "height": 1163
+            }
+          ]
+        },
+        "characters": [
+          "Miles Blume"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1312105",
+          "display_name": "Peter Mooney",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzRmMTE0MmMtNDU1OS00NzY3LTkyZmQtYWY3YzEyN2ZmNWNkXkEyXkFqcGc@._V1_.jpg",
+              "width": 2650,
+              "height": 3314
+            }
+          ]
+        },
+        "characters": [
+          "John Blume"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0272173",
+          "display_name": "Colm Feore",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY2MDYzNjA2MF5BMl5BanBnXkFtZTYwMzQxMjE2._V1_.jpg",
+              "width": 254,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Arthur Jacobson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1145263",
+          "display_name": "Paul Fauteux",
+          "avatars": null
+        },
+        "characters": [
+          "Edward Scarka"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0020329",
+          "display_name": "Brittany Allen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGZkNGI2NGUtYjEyMS00OWFlLWI3NWMtZWIzMTJhM2VhYTJiXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3839,
+              "height": 5759
+            }
+          ]
+        },
+        "characters": [
+          "Margaret"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0099202",
+          "display_name": "Paula Boudreau",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzA4NTVhYzQtOTdmMi00OGRmLTg3NTItY2E3MTMyMGI4YzcwXkEyXkFqcGdeQXVyOTg0MTYzODU@._V1_.jpg",
+              "width": 2400,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Strasser"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0600571",
+          "display_name": "Elisa Moolecherry",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTc0OGVhYTQtZWNiZi00MDM2LWFlMDgtMjE3OGUwMzYyZWI5XkEyXkFqcGc@._V1_.jpg",
+              "width": 2100,
+              "height": 1398
+            }
+          ]
+        },
+        "characters": [
+          "Zoe"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1583978",
+          "display_name": "Olunike Adeliyi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTVhZDY5NDMtOGY5ZS00ZWE1LTk1OTgtYmRhNmE4MTU4MmZmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 3333,
+              "height": 5000
+            }
+          ]
+        },
+        "characters": [
+          "Rebecca"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0484341",
+          "display_name": "Janet Land",
+          "avatars": null
+        },
+        "characters": [
+          "Sarah's Mother"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0730045",
+          "display_name": "Martin Roach",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjEyMjliYTEtYWU3OC00OWU5LWEyNGYtNDY1ZDdmMzBkMThjL2ltYWdlXkEyXkFqcGdeQXVyNTU4NjY5MzM@._V1_.jpg",
+              "width": 1000,
+              "height": 667
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Kagan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0007664",
+          "display_name": "Byron Abalos",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTk3ODJmMTMtNWY5ZC00N2ViLThjZGItMGFiNDhiOWRjNjA2XkEyXkFqcGc@._V1_.jpg",
+              "width": 233,
+              "height": 350
+            }
+          ]
+        },
+        "characters": [
+          "Penmark Instructor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8155528",
+          "display_name": "Ashley Black",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjI2YjdkNGYtYTY4Ny00OWQ5LWFmOTMtMjdkM2M5ZDg5NzQ4XkEyXkFqcGc@._V1_.jpg",
+              "width": 1380,
+              "height": 1680
+            }
+          ]
+        },
+        "characters": [
+          "Hailey"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7404936",
+          "display_name": "Tristan Vasquez",
+          "avatars": null
+        },
+        "characters": [
+          "Dash"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1130275",
+          "display_name": "Nicholas McCarthy",
+          "avatars": null
+        },
+        "characters": [
+          "Penmark Supervisor"
+        ]
+      }
+    ]
+  }
+}

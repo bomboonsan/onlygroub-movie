@@ -1,0 +1,338 @@
+{
+  "title": {
+    "id": "tt8784956",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Ava",
+    "original_title": null,
+    "start_year": 2020,
+    "end_year": null,
+    "runtime_minutes": 96,
+    "plot": "Ava is a deadly assassin who works for a black ops organization, traveling the globe specializing in high profile hits. When a job goes dangerously wrong she is forced to fight for her own survival.",
+    "rating": {
+      "aggregate_rating": 5.5,
+      "votes_count": 61935
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTMzMTg1MjgtOWNhYy00NmZmLWExOTctMjA2OTZhZDFkNDhhXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      },
+      {
+        "code": "zho",
+        "name": "Chinese"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 39,
+      "review_count": 9
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0853238",
+          "display_name": "Tate Taylor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQxNDQ3OTgwNl5BMl5BanBnXkFtZTcwMjEzMDM5OA@@._V1_.jpg",
+              "width": 197,
+              "height": 256
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0628563",
+          "display_name": "Matthew Newton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTU0NjYwM15BMl5BanBnXkFtZTcwODU1NTczMg@@._V1_.jpg",
+              "width": 640,
+              "height": 359
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1567113",
+          "display_name": "Jessica Chastain",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU1MDM5NjczOF5BMl5BanBnXkFtZTcwOTY2MDE4OA@@._V1_.jpg",
+              "width": 1268,
+              "height": 1884
+            }
+          ]
+        },
+        "characters": [
+          "Ava"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000518",
+          "display_name": "John Malkovich",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcwMDM5ODUwOF5BMl5BanBnXkFtZTYwMzEwOTI4._V1_.jpg",
+              "width": 303,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Duke"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0996669",
+          "display_name": "Common",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzg4MTk5NDM1MV5BMl5BanBnXkFtZTcwMTM5OTQzMw@@._V1_.jpg",
+              "width": 307,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Michael"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000133",
+          "display_name": "Geena Davis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWU5MGMzMWYtYWQ1Ny00Njk0LTg3NTctZDgxOGUyNDhjNDJhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 3490,
+              "height": 5236
+            }
+          ]
+        },
+        "characters": [
+          "Bobbi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1422176",
+          "display_name": "Jess Weixler",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2UyN2U3NmEtMTViNi00YzNhLWE3OTEtMzAyMWYzZjliNDRiXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 620,
+              "height": 933
+            }
+          ]
+        },
+        "characters": [
+          "Judy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0344435",
+          "display_name": "Ioan Gruffudd",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDcxYzQ0NTgtMWUyYy00ZWUxLTljYzctYTIxMGMzOTg2ZjRkXkEyXkFqcGdeQXVyMTY5MDIxNDE@._V1_.jpg",
+              "width": 2700,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Peter"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9537602",
+          "display_name": "Diana Silvers",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDM0Yzk5N2EtYzU5MC00MzE1LTgzMjYtMzZhZThjZDNlN2Q1XkEyXkFqcGdeQXVyNzc4NTE4MjE@._V1_.jpg",
+              "width": 4160,
+              "height": 5536
+            }
+          ]
+        },
+        "characters": [
+          "Camille"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001040",
+          "display_name": "Joan Chen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMxNTA3MTQxNV5BMl5BanBnXkFtZTYwNjY2NDk3._V1_.jpg",
+              "width": 312,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Toni"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0268199",
+          "display_name": "Colin Farrell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg4NzM5NDk0MV5BMl5BanBnXkFtZTcwNzAzMTUxNw@@._V1_.jpg",
+              "width": 1429,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Simon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2788450",
+          "display_name": "Efka Kvaraciejus",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjQ4YTk2Y2ItODYyNi00ZTU0LWEwYzctMGIyMjA2NDliMDM5XkEyXkFqcGdeQXVyNzU5MTY0Nw@@._V1_.jpg",
+              "width": 884,
+              "height": 592
+            }
+          ]
+        },
+        "characters": [
+          "Alain"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3650881",
+          "display_name": "Christopher J. Domig",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2YyYzlkZTctMTkyYi00ZjY2LWI0YTYtZDVjOTFlZjkyNWFkXkEyXkFqcGdeQXVyMTgwODU4ODI@._V1_.jpg",
+              "width": 3648,
+              "height": 4470
+            }
+          ]
+        },
+        "characters": [
+          "Gunther"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0612204",
+          "display_name": "Michel Muller",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ3NDgxNDUwMV5BMl5BanBnXkFtZTgwOTA0MDc3MTE@._V1_.jpg",
+              "width": 2040,
+              "height": 2063
+            }
+          ]
+        },
+        "characters": [
+          "Teddy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2081661",
+          "display_name": "Dieter Riesle",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTAxMjEwNjIwMDFeQTJeQWpwZ15BbWU4MDY0Nzc1NTcx._V1_.jpg",
+              "width": 740,
+              "height": 960
+            }
+          ]
+        },
+        "characters": [
+          "Gunther's Officer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6839810",
+          "display_name": "Aramis Merlin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWZkYWZjMWEtNjA1My00MGNiLTk4ZmItNmZhYmExOWE5ZTQwXkEyXkFqcGdeQXVyNTA0MzQ3MDQ@._V1_.jpg",
+              "width": 3648,
+              "height": 4560
+            }
+          ]
+        },
+        "characters": [
+          "Gunther's Officer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1396591",
+          "display_name": "Michael Guarnera",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDkzMjRiZjItMjk3Yi00ZGQyLWI2ZmMtYzRiZDExN2YxYTk1XkEyXkFqcGdeQXVyMTU1NDk4MzQ@._V1_.jpg",
+              "width": 2832,
+              "height": 3776
+            }
+          ]
+        },
+        "characters": [
+          "Lobby Bartender"
+        ]
+      }
+    ]
+  }
+}

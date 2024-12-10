@@ -1,0 +1,377 @@
+{
+  "title": {
+    "id": "tt1067106",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "A Christmas Carol",
+    "original_title": null,
+    "start_year": 2009,
+    "end_year": null,
+    "runtime_minutes": 96,
+    "plot": "An animated retelling of Charles Dickens' classic novel about a Victorian-era miser taken on a journey of self-redemption, courtesy of several mysterious Christmas apparitions.",
+    "rating": {
+      "aggregate_rating": 6.8,
+      "votes_count": 128795
+    },
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Drama",
+      "Family",
+      "Fantasy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTM1MTI5ODU4MV5BMl5BanBnXkFtZTcwNTYyNTU4Mg@@._V1_.jpg",
+        "width": 1386,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 55,
+      "review_count": 32
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0000709",
+          "display_name": "Robert Zemeckis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgyMTMzMDUyNl5BMl5BanBnXkFtZTcwODA0ODMyMw@@._V1_.jpg",
+              "width": 1352,
+              "height": 2032
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0002042",
+          "display_name": "Charles Dickens",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGQ1NGQxNjMtNGQzMi00MzU1LTgyOGUtN2ZhNTYwZDI1Mzc3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg",
+              "width": 2048,
+              "height": 1536
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0000709",
+          "display_name": "Robert Zemeckis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgyMTMzMDUyNl5BMl5BanBnXkFtZTcwODA0ODMyMw@@._V1_.jpg",
+              "width": 1352,
+              "height": 2032
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000120",
+          "display_name": "Jim Carrey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQwMjAwNzI0M15BMl5BanBnXkFtZTcwOTY1MTMyOQ@@._V1_.jpg",
+              "width": 1665,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Scrooge",
+          "Ghost of Christmas Past",
+          "Scrooge as a Young Boy",
+          "Scrooge as a Teenage Boy",
+          "Scrooge as a Young Man",
+          "Scrooge as a Middle Aged Man",
+          "Ghost of Christmas Present",
+          "Ghost of Christmas Yet to Come"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0884313",
+          "display_name": "Steve Valentine",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTdlZThhM2ItZDMxNS00OTg2LWE1ZDctOGMzNmEyMGE4YWU0XkEyXkFqcGdeQXVyMjE5MTU2NDI@._V1_.jpg",
+              "width": 2134,
+              "height": 2904
+            }
+          ]
+        },
+        "characters": [
+          "Funerary Undertaker",
+          "Topper"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0754512",
+          "display_name": "Daryl Sabara",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTY3NjZhMGMtZmJiOS00YzMzLWE0NzMtOTE2NTk4MmU3ZmViXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 797,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Undertaker's Apprentice",
+          "Tattered Caroler",
+          "Beggar Boy",
+          "Peter Cratchit",
+          "Well Dressed Caroler"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2744955",
+          "display_name": "Sage Ryan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDI1MDZhNjAtZWY4Yi00ZDU1LWE3MTYtMWM0YzZmNzJlZmM3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2811,
+              "height": 3748
+            }
+          ]
+        },
+        "characters": [
+          "Tattered Caroler"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2961916",
+          "display_name": "Amber Gainey Meade",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIzOTU2NjM4Nl5BMl5BanBnXkFtZTcwNTAxODg3Mg@@._V1_.jpg",
+              "width": 1497,
+              "height": 1989
+            }
+          ]
+        },
+        "characters": [
+          "Tattered Caroler",
+          "Well Dressed Caroler"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2452327",
+          "display_name": "Ryan Ochoa",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODU5MzFjNzctMjk5MS00ODRhLThjYWMtNDQxZjhlNjk2YmY5XkEyXkFqcGdeQXVyMTMwNjU2MDk@._V1_.jpg",
+              "width": 3344,
+              "height": 5016
+            }
+          ]
+        },
+        "characters": [
+          "Tattered Caroler",
+          "Beggar Boy",
+          "Young Cratchit Boy",
+          "Ignorance Boy",
+          "Young Boy with Sleigh"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0656116",
+          "display_name": "Bobbi Page",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE3MDg3MDY4MF5BMl5BanBnXkFtZTgwNTIwMDE4OTE@._V1_.jpg",
+              "width": 2048,
+              "height": 1462
+            }
+          ]
+        },
+        "characters": [
+          "Tattered Caroler",
+          "Well Dressed Caroler"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1714720",
+          "display_name": "Ron Bottitta",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGU1YWM0MDYtNzczNy00M2M0LWI0MjgtZWIxMjZhMmE4MTA1XkEyXkFqcGdeQXVyMzQyMzAxNzY@._V1_.jpg",
+              "width": 284,
+              "height": 426
+            }
+          ]
+        },
+        "characters": [
+          "Tattered Caroler",
+          "Well Dressed Caroler"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1767820",
+          "display_name": "Samantha Hanratty",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWVjMmIzMDItNmQ3My00MzM5LWIwZDktYmM4ZGVkODc1ZDc2XkEyXkFqcGdeQXVyNDI3MDgyNQ@@._V1_.jpg",
+              "width": 2278,
+              "height": 3040
+            }
+          ]
+        },
+        "characters": [
+          "Beggar Boy",
+          "Young Cratchit Girl",
+          "Want Girl"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0391327",
+          "display_name": "Julian Holloway",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjZhMjYwZDAtNjBkZS00MjhjLWExODctMjQ2MGViNWMxMmE0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2272,
+              "height": 2000
+            }
+          ]
+        },
+        "characters": [
+          "Fat Cook",
+          "Portly Gentleman #2",
+          "Business Man #3"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000198",
+          "display_name": "Gary Oldman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc3NTM4MzQ5MV5BMl5BanBnXkFtZTcwOTE4MDczNw@@._V1_.jpg",
+              "width": 1389,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Bob Cratchit",
+          "Marley",
+          "Tiny Tim"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000147",
+          "display_name": "Colin Firth",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUxMDMwMTI4MF5BMl5BanBnXkFtZTcwMzE2MzQxMw@@._V1_.jpg",
+              "width": 287,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Fred"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000144",
+          "display_name": "Cary Elwes",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTUxNzY3NTAxNF5BMl5BanBnXkFtZTgwNjU4MDU0NzE@._V1_.jpg",
+              "width": 1872,
+              "height": 2808
+            }
+          ]
+        },
+        "characters": [
+          "Portly Gentleman #1",
+          "Dick Wilkins",
+          "Mad Fiddler",
+          "Guest #2",
+          "Business Man #1"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000705",
+          "display_name": "Robin Wright",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU0NTc4MzEyOV5BMl5BanBnXkFtZTcwODY0ODkzMQ@@._V1_.jpg",
+              "width": 280,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Fan",
+          "Belle"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001364",
+          "display_name": "Bob Hoskins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc5MTE0ODQyM15BMl5BanBnXkFtZTYwMTIyNTk1._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Fezziwig",
+          "Old Joe"
+        ]
+      }
+    ]
+  }
+}

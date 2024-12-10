@@ -1,0 +1,231 @@
+{
+  "title": {
+    "id": "tt5432188",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Tomcat",
+    "original_title": "Kater",
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 119,
+    "plot": "Andreas and Stefan lead a happy and passionate life: Together with their beloved tomcat Moses, they live in a beautiful old house in Vienna's vineyards. They work as a musician and as a scheduler in the same orchestra and they love their large circle of friends. An unexpected and inexplicable outburst of violence suddenly shakes up the relationship and calls everything into question - the blind spot that resides in all of us.",
+    "rating": {
+      "aggregate_rating": 6.4,
+      "votes_count": 1128
+    },
+    "genres": [
+      "Drama"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTFiMGFlZjQtY2RkOS00NWYwLTgwNGMtMjhmMzUwNWM5ZjRiXkEyXkFqcGc@._V1_.jpg",
+        "width": 1447,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "Unrated"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "deu",
+        "name": "German"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "AT",
+        "name": "Austria"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm0405551",
+          "display_name": "Klaus Händl",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0405551",
+          "display_name": "Klaus Händl",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm7898223",
+          "display_name": "Toni",
+          "avatars": null
+        },
+        "characters": [
+          "Kater Moses"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3000845",
+          "display_name": "Lukas Turtur",
+          "avatars": null
+        },
+        "characters": [
+          "Stefan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0387832",
+          "display_name": "Philipp Hochmair",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWMxY2JhY2QtYzRkMy00YjE4LTgwMTYtNThmZDFlMTEyNDIzXkEyXkFqcGdeQXVyNzM5MDU5MzU@._V1_.jpg",
+              "width": 426,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Andreas"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8846260",
+          "display_name": "Sebastian Löschberger",
+          "avatars": null
+        },
+        "characters": [
+          "Student Bernhard"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4771435",
+          "display_name": "Cornelius Meister",
+          "avatars": null
+        },
+        "characters": [
+          "Dirigent Bruno Ceipek"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2445857",
+          "display_name": "Manuel Rubey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGIxN2VjZDAtYTZlZS00MWUwLTkzMTItNmMxMjNjNDg2OTQwXkEyXkFqcGc@._V1_.jpg",
+              "width": 1200,
+              "height": 1800
+            }
+          ]
+        },
+        "characters": [
+          "Vladimir"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2362721",
+          "display_name": "Thomas Stipsits",
+          "avatars": null
+        },
+        "characters": [
+          "Lorenz"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2573993",
+          "display_name": "Anders Nyqvist",
+          "avatars": null
+        },
+        "characters": [
+          "Hannes"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8846261",
+          "display_name": "Maria Grün",
+          "avatars": null
+        },
+        "characters": [
+          "Charlotte"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3598060",
+          "display_name": "Benedikt Leitner",
+          "avatars": null
+        },
+        "characters": [
+          "Edmund"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8846262",
+          "display_name": "Johannes Kubitschek",
+          "avatars": null
+        },
+        "characters": [
+          "Volker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8846263",
+          "display_name": "Petra Hartl",
+          "avatars": null
+        },
+        "characters": [
+          "Renate"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8846264",
+          "display_name": "Rudolf Illavsky",
+          "avatars": null
+        },
+        "characters": [
+          "Petzi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8846265",
+          "display_name": "Anais Tamisier",
+          "avatars": null
+        },
+        "characters": [
+          "Bibiane"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8846266",
+          "display_name": "Violaine Regnier",
+          "avatars": null
+        },
+        "characters": [
+          "Yvonne"
+        ]
+      }
+    ]
+  }
+}

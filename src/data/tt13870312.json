@@ -1,0 +1,189 @@
+{
+  "title": {
+    "id": "tt13870312",
+    "type": "tvSeries",
+    "is_adult": false,
+    "primary_title": "The Night Beyond the Tricornered Window",
+    "original_title": "Sankaku Mado no Sotogawa wa Yoru",
+    "start_year": 2021,
+    "end_year": 2021,
+    "runtime_minutes": 24,
+    "plot": "Two psychics team up to solve a string of murders, and along their investigations develop a romantic connection.",
+    "rating": {
+      "aggregate_rating": 6.2,
+      "votes_count": 186
+    },
+    "genres": [
+      "Animation",
+      "Fantasy",
+      "Mystery",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTBkYTc2OWYtYjI2Zi00OWRlLWJmMWItODU4YzkzNTkzMjExXkEyXkFqcGc@._V1_.jpg",
+        "width": 694,
+        "height": 992
+      }
+    ],
+    "certificates": null,
+    "spoken_languages": [
+      {
+        "code": "jpn",
+        "name": "Japanese"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "JP",
+        "name": "Japan"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm10588596",
+          "display_name": "Daiji Iwanaga",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm3014410",
+          "display_name": "Yoshitaka Yasuda",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm12243824",
+          "display_name": "Tomoko Yamashita",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1146347",
+          "display_name": "Jun'ichi Suwabe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTMzNGJkOTUtMDExOS00Y2VjLTk1NmItOTJhNmE3MDE1NzI4XkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+              "width": 640,
+              "height": 927
+            }
+          ]
+        },
+        "characters": [
+          "Kazuomi Sakaki"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4858403",
+          "display_name": "Nobunaga Shimazaki",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzZlMmVhY2ItYTNjZC00NTBmLWIxYjQtMTdjNDk1MzU3N2FiXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+              "width": 404,
+              "height": 544
+            }
+          ]
+        },
+        "characters": [
+          "Kosuke Mikado"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2932868",
+          "display_name": "Yôko Hikasa",
+          "avatars": null
+        },
+        "characters": [
+          "Miyuki"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6160361",
+          "display_name": "Sôma Saitô",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGFhMGY1MmQtN2MyNi00ZmMwLTliMzYtOTAyOGFjMGVlY2VjXkEyXkFqcGdeQXVyNzQzNDM3NTI@._V1_.jpg",
+              "width": 512,
+              "height": 340
+            }
+          ]
+        },
+        "characters": [
+          "Keita Mukae"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1360441",
+          "display_name": "Sayaka Ôhara",
+          "avatars": null
+        },
+        "characters": [
+          "Saori Oniuchi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3340306",
+          "display_name": "Shin'ya Takahashi",
+          "avatars": null
+        },
+        "characters": [
+          "Store Manager"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1906130",
+          "display_name": "Wataru Hatano",
+          "avatars": null
+        },
+        "characters": [
+          "Rihito Hiyakawa"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3514770",
+          "display_name": "Chika Anzai",
+          "avatars": null
+        },
+        "characters": [
+          "Erika Hiura"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1555635",
+          "display_name": "Mai Nakahara",
+          "avatars": null
+        },
+        "characters": [
+          "Kozumi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3283701",
+          "display_name": "Satoshi Mikami",
+          "avatars": null
+        },
+        "characters": [
+          "Hirko Hanzawa"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "title": {
+    "id": "tt1758810",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Snowman",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 119,
+    "plot": "Detective Harry Hole investigates the disappearance of a woman whose scarf is found wrapped around an ominous-looking snowman.",
+    "rating": {
+      "aggregate_rating": 5.2,
+      "votes_count": 71730
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDg1NjYyMTEyOF5BMl5BanBnXkFtZTgwNzY4MDMyMzI@._V1_.jpg",
+        "width": 1012,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CN",
+        "name": "China"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "SE",
+        "name": "Sweden"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 23,
+      "review_count": 40
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0019247",
+          "display_name": "Tomas Alfredson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE3NDAyMjcyOF5BMl5BanBnXkFtZTcwMTM3NDMxNw@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1867674",
+          "display_name": "Jo Nesbø",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGE4N2ZmZDQtYWVkMy00YzFiLTg3NjgtMGE4ZmVhMjQ4NDcwXkEyXkFqcGdeQXVyMjM0MDMyMTM@._V1_.jpg",
+              "width": 1787,
+              "height": 2502
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1661186",
+          "display_name": "Peter Straughan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc5MTU5MTIzMV5BMl5BanBnXkFtZTcwOTE3NDMxNw@@._V1_.jpg",
+              "width": 1498,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0024925",
+          "display_name": "Hossein Amini",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTY4OTE1MTM3Ml5BMl5BanBnXkFtZTgwMzk3Njk3MTE@._V1_.jpg",
+              "width": 1388,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0841003",
+          "display_name": "Søren Sveistrup",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1055413",
+          "display_name": "Michael Fassbender",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk0NjM2MTE5M15BMl5BanBnXkFtZTcwODIxMzcyNw@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Harry Hole"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0272581",
+          "display_name": "Rebecca Ferguson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODYwMzk0MTk5MV5BMl5BanBnXkFtZTgwNzMwNjM0NTE@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Katrine Bratt"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001250",
+          "display_name": "Charlotte Gainsbourg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDQyMzQ5NTEzNl5BMl5BanBnXkFtZTcwNjI3NTEzNQ@@._V1_.jpg",
+              "width": 1361,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Rakel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0439642",
+          "display_name": "Jonas Karlsson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYxMjQ3MDY0MF5BMl5BanBnXkFtZTcwNjM3MTk1MQ@@._V1_.jpg",
+              "width": 472,
+              "height": 485
+            }
+          ]
+        },
+        "characters": [
+          "Mathias"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7868288",
+          "display_name": "Michael Yates",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDc1Y2EwNTAtMzUzZC00OWJlLTkyMTctNWNhZTYwMjVmNGRiXkEyXkFqcGc@._V1_.jpg",
+              "width": 1200,
+              "height": 1600
+            }
+          ]
+        },
+        "characters": [
+          "Oleg"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0895812",
+          "display_name": "Ronan Vibert",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWYzZjAxZjgtZmFkYy00MDVmLWEwODMtYWZjNmMwMTQ0ZGQ0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 957,
+              "height": 1435
+            }
+          ]
+        },
+        "characters": [
+          "Gunnar Hagen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0799777",
+          "display_name": "J.K. Simmons",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzg2NTI5NzQ1MV5BMl5BanBnXkFtZTgwNjI1NDEwMDI@._V1_.jpg",
+              "width": 1679,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Arve Støp"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000174",
+          "display_name": "Val Kilmer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk3ODIzMDA5Ml5BMl5BanBnXkFtZTcwNDY0NTU4Ng@@._V1_.jpg",
+              "width": 426,
+              "height": 605
+            }
+          ]
+        },
+        "characters": [
+          "Rafto"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1399770",
+          "display_name": "David Dencik",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI4OTExNTg3NF5BMl5BanBnXkFtZTgwNzE2NzQ4ODE@._V1_.jpg",
+              "width": 1498,
+              "height": 1999
+            }
+          ]
+        },
+        "characters": [
+          "Vetlesen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0429363",
+          "display_name": "Toby Jones",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgwMzc5NzM1MV5BMl5BanBnXkFtZTYwMzA0ODk0._V1_.jpg",
+              "width": 284,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "DC Svensson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0642444",
+          "display_name": "Genevieve O'Reilly",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTRhM2ZjMzItNTdlZS00NzFlLThhNDUtNDliZjc4YmU5MWExXkEyXkFqcGdeQXVyMTMyOTIwNDQ@._V1_.jpg",
+              "width": 427,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Birte Becker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0195439",
+          "display_name": "James D'Arcy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTc4ODA4NTktNjI5Yy00OTJhLWJhZWYtMzFjMDE0YTdjZmExXkEyXkFqcGdeQXVyNTU2MzE2OQ@@._V1_.jpg",
+              "width": 930,
+              "height": 1364
+            }
+          ]
+        },
+        "characters": [
+          "Filip Becker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5503448",
+          "display_name": "Jeté Laurence",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTc5NmEzZmItYjU0NC00OTM3LWE3OTMtNWZjZDExOTZhOWY3XkEyXkFqcGdeQXVyNjQ3NDAwOTA@._V1_.jpg",
+              "width": 2730,
+              "height": 4096
+            }
+          ]
+        },
+        "characters": [
+          "Josephine Becker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001160",
+          "display_name": "Adrian Dunbar",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYxNDEzMDM1Ml5BMl5BanBnXkFtZTcwODQ3NTcxOA@@._V1_.jpg",
+              "width": 1351,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Frederik Aasen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001721",
+          "display_name": "Chloë Sevigny",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTk2OTVjYzMtODY2MS00ZDg3LTkzOWQtZGRmMjFjNGZkNmU5XkEyXkFqcGdeQXVyMjQ0OTM2MTA@._V1_.jpg",
+              "width": 4286,
+              "height": 5714
+            }
+          ]
+        },
+        "characters": [
+          "Sylvia Ottersen",
+          "Ane Pedersen"
+        ]
+      }
+    ]
+  }
+}

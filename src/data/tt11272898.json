@@ -1,0 +1,259 @@
+{
+  "title": {
+    "id": "tt11272898",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Let It Snow",
+    "original_title": null,
+    "start_year": 2020,
+    "end_year": null,
+    "runtime_minutes": 87,
+    "plot": "Separated from her fiance after sneaking onto a restricted slope, Mia, a free-riding snowboarder, must survive not only against nature, but also the masked snowmobile rider in black who is out for her blood.",
+    "rating": {
+      "aggregate_rating": 4.4,
+      "votes_count": 1721
+    },
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTA5ZTM1MWYtNmFhMi00ZGRlLWE0ZDgtNzg0MDMyNGM2YjQ4XkEyXkFqcGdeQXVyNzIwMjQxMzQ@._V1_.jpg",
+        "width": 5404,
+        "height": 7238
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "kat",
+        "name": "Georgian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "ES",
+        "name": "Spain"
+      },
+      {
+        "code": "GE",
+        "name": "Georgia"
+      },
+      {
+        "code": "UA",
+        "name": "Ukraine"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm8879821",
+          "display_name": "Stanislav Kapralov",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2Y1NTgzNmYtYTFiNC00MzhlLWFjYzMtYjBhY2ExMjZlZTk2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 910,
+              "height": 853
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm8879821",
+          "display_name": "Stanislav Kapralov",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2Y1NTgzNmYtYTFiNC00MzhlLWFjYzMtYjBhY2ExMjZlZTk2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 910,
+              "height": 853
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm3838167",
+          "display_name": "Omri Rose",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTAzY2VlZjItOWNmOC00ODBjLTk3N2ItZThhMjNjMjc3MTFkXkEyXkFqcGdeQXVyMjI4OTgyODI@._V1_.jpg",
+              "width": 2623,
+              "height": 3280
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm4854961",
+          "display_name": "Ivanna Sakhno",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODE2NWJiY2QtNmE3Yy00ZjE5LWI1NmYtYmZjMjU0YzY4ZTM4XkEyXkFqcGdeQXVyMTk1MzY4Nzg@._V1_.jpg",
+              "width": 494,
+              "height": 705
+            }
+          ]
+        },
+        "characters": [
+          "Mia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3727971",
+          "display_name": "Alex Hafner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjg5NDA3OWQtZmQxMi00OWU4LWI5ODEtNzExMTk5YWRkM2Q3XkEyXkFqcGdeQXVyMjAwMzQ3NDM@._V1_.jpg",
+              "width": 6590,
+              "height": 4393
+            }
+          ]
+        },
+        "characters": [
+          "Max"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4121075",
+          "display_name": "Tinatin Dalakishvili",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2FmZjIxYmQtZTgxMC00MzE1LThiMGQtNGIzZDVlOTI4OTg0XkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_.jpg",
+              "width": 2000,
+              "height": 837
+            }
+          ]
+        },
+        "characters": [
+          "Lali"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12118278",
+          "display_name": "Mariam Sulakadze",
+          "avatars": null
+        },
+        "characters": [
+          "Girl"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12118279",
+          "display_name": "Olga Sulzhenko",
+          "avatars": null
+        },
+        "characters": [
+          "Freedrider 1"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12118280",
+          "display_name": "Ihar Kankov",
+          "avatars": null
+        },
+        "characters": [
+          "Freerider 2"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2353932",
+          "display_name": "Tamri Bziava",
+          "avatars": null
+        },
+        "characters": [
+          "Mother"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12118281",
+          "display_name": "Gia Japharidze",
+          "avatars": null
+        },
+        "characters": [
+          "Old Man"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12118282",
+          "display_name": "Avtandil Chakhunashvili",
+          "avatars": null
+        },
+        "characters": [
+          "Rescuer 1"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12118283",
+          "display_name": "Soslan Oniashvili",
+          "avatars": null
+        },
+        "characters": [
+          "Rescuer 2"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3558399",
+          "display_name": "Elena Turbal",
+          "avatars": null
+        },
+        "characters": [
+          "Man's Wife"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11592635",
+          "display_name": "Mykyta Kutepov",
+          "avatars": null
+        },
+        "characters": [
+          "Dead Man"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12118284",
+          "display_name": "Gocha Vardidze",
+          "avatars": null
+        },
+        "characters": [
+          "Pilot"
+        ]
+      }
+    ]
+  }
+}

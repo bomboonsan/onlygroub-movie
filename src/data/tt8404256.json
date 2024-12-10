@@ -1,0 +1,332 @@
+{
+  "title": {
+    "id": "tt8404256",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Snake Eyes",
+    "original_title": "Snake Eyes: G.I. Joe Origins",
+    "start_year": 2021,
+    "end_year": null,
+    "runtime_minutes": 121,
+    "plot": "A G.I. Joe spin-off centered around the character of Snake Eyes.",
+    "rating": {
+      "aggregate_rating": 5.4,
+      "votes_count": 44544
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime",
+      "Fantasy",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTZmM2FkOWYtNTdmMy00YmE1LThhYzYtZTk0NDJkNzQwOGUxXkEyXkFqcGdeQXVyMTAzODYwMzY3._V1_.jpg",
+        "width": 864,
+        "height": 1080
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 43,
+      "review_count": 32
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0777881",
+          "display_name": "Robert Schwentke",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU1NzAwNzg4MF5BMl5BanBnXkFtZTcwMTc1NTc3Mg@@._V1_.jpg",
+              "width": 289,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0818746",
+          "display_name": "Evan Spiliotopoulos",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjJmZjc1OTgtMDE4Mi00OTM2LWI3MDItMGY4MTNmMWIwODcxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 708,
+              "height": 1087
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1100123",
+          "display_name": "Joe Shrapnel",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm3143608",
+          "display_name": "Anna Waterhouse",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm6525901",
+          "display_name": "Henry Golding",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTEzNzcwODU0ODJeQTJeQWpwZ15BbWU4MDQ5MzE4MDYz._V1_.jpg",
+              "width": 1360,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Snake Eyes"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4010671",
+          "display_name": "Andrew Koji",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjNiM2QxOTEtNjk4Yi00ZTk3LWFiYTQtNTE3ZDQyZjEyYzFlXkEyXkFqcGdeQXVyNDYxMDc5NzA@._V1_.jpg",
+              "width": 2357,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Tommy",
+          "Storm Shadow"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2835835",
+          "display_name": "Haruka Abe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjk4NmJkYzQtOTU2Ny00YzljLThmYzgtMTQ2NjFkZDY2OTcyXkEyXkFqcGdeQXVyMTUwMTIzNzM@._V1_.jpg",
+              "width": 3024,
+              "height": 3704
+            }
+          ]
+        },
+        "characters": [
+          "Akiko"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3042346",
+          "display_name": "Takehiro Hira",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDZlMmI2YWUtYWE3NC00ZmFhLTgwNGQtMzI1YTIxMTY4YTE5XkEyXkFqcGdeQXVyMTk0ODc4NzY@._V1_.jpg",
+              "width": 2974,
+              "height": 3479
+            }
+          ]
+        },
+        "characters": [
+          "Kenta"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0410911",
+          "display_name": "Eri Ishida",
+          "avatars": null
+        },
+        "characters": [
+          "Sen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3299397",
+          "display_name": "Iko Uwais",
+          "avatars": null
+        },
+        "characters": [
+          "Hard Master"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0579795",
+          "display_name": "Peter Mensah",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTEyMjE3MTIyNTleQTJeQWpwZ15BbWU3MDc2MDI5ODc@._V1_.jpg",
+              "width": 1395,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Blind Master"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2216549",
+          "display_name": "Úrsula Corberó",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjBkMTc4ODctY2U1NC00NjQzLTliYTItZDM1MTkwNWNmODRjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 750,
+              "height": 750
+            }
+          ]
+        },
+        "characters": [
+          "Baroness"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3034977",
+          "display_name": "Samara Weaving",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU1Njc2NTc3OV5BMl5BanBnXkFtZTgwMzUyNjU5NDM@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        },
+        "characters": [
+          "Scarlett"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0278373",
+          "display_name": "Samuel Finzi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM0NTU2MDgwNl5BMl5BanBnXkFtZTcwMDQyMDMxNw@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Augustine"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0021247",
+          "display_name": "Steven Allerick",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQ0NTU2YzctZDNmOS00YTlmLWEwNWYtMWU3MDkxNGFmOWVkXkEyXkFqcGdeQXVyMTU3NDY5MzY@._V1_.jpg",
+              "width": 1800,
+              "height": 1800
+            }
+          ]
+        },
+        "characters": [
+          "Father"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9785431",
+          "display_name": "Max Archibald",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDY2YWY5NTItZDYwZS00MTFiLTkwMDUtYzliMGRjMGFkOWUyXkEyXkFqcGc@._V1_.jpg",
+              "width": 3782,
+              "height": 5665
+            }
+          ]
+        },
+        "characters": [
+          "Young Snake Eyes"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1777809",
+          "display_name": "Simon Chin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzc0ZDQ4ZjQtNGM3Yi00NWI0LTg5NTQtMjA0MTdlNDM5NTMwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2400,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Hama"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6626663",
+          "display_name": "Derrick de Villiers",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTY5OWNiZWEtZTEwMC00ZTQ5LTgwYzctYWY0Y2YxOTYxMjJiXkEyXkFqcGc@._V1_.jpg",
+              "width": 2402,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Promoter"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8510721",
+          "display_name": "Kento Matsunami",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzM3NTA1YzMtNzg0Zi00YzkzLThiNTEtYzg2YTQxNWQ4NjZhXkEyXkFqcGdeQXVyNjc2NjI4OTQ@._V1_.jpg",
+              "width": 4910,
+              "height": 7362
+            }
+          ]
+        },
+        "characters": [
+          "Arashikage Ninja Guard"
+        ]
+      }
+    ]
+  }
+}

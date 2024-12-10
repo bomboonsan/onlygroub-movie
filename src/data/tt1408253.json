@@ -1,0 +1,351 @@
+{
+  "title": {
+    "id": "tt1408253",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Ride Along",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 99,
+    "plot": "Security guard Ben must prove himself to his girlfriend's brother, top police officer James. He rides along James on a 24-hour patrol of Atlanta.",
+    "rating": {
+      "aggregate_rating": 6.1,
+      "votes_count": 122905
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjU4NzYzOTY1MF5BMl5BanBnXkFtZTgwMTAyNTc1MDE@._V1_.jpg",
+        "width": 1293,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "ukr",
+        "name": "Ukrainian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 41,
+      "review_count": 34
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1103162",
+          "display_name": "Tim Story",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk3MzUyMDI3M15BMl5BanBnXkFtZTcwNTcwOTgzNw@@._V1_.jpg",
+              "width": 1168,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0177637",
+          "display_name": "Greg Coolidge",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTIwOWM4MzEtZWZjNi00NzBiLTk0YjctYjViYmMzNjZiNDEzXkEyXkFqcGdeQXVyMjIxMTIxMzU@._V1_.jpg",
+              "width": 1080,
+              "height": 1440
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1727621",
+          "display_name": "Jason Mantzoukas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzQwMzU3MDExNl5BMl5BanBnXkFtZTcwNDY5MzA5Nw@@._V1_.jpg",
+              "width": 1411,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0006534",
+          "display_name": "Phil Hay",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDM4ZGI0MDAtMjY4NC00YzFjLWFiYmEtOTkzODc3NmJmMDU4XkEyXkFqcGdeQXVyMTgwMjMyNDU@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0542062",
+          "display_name": "Matt Manfredi",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0001084",
+          "display_name": "Ice Cube",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYyMTE0NDQwMV5BMl5BanBnXkFtZTcwMDA1NjA1Nw@@._V1_.jpg",
+              "width": 1329,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "James Payton"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0366389",
+          "display_name": "Kevin Hart",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY4OTAxMjkxN15BMl5BanBnXkFtZTgwODg5MzYyMTE@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Ben Barber"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000491",
+          "display_name": "John Leguizamo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTEyMjMxNDg5NF5BMl5BanBnXkFtZTcwNzczOTY4MQ@@._V1_.jpg",
+              "width": 325,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Santiago"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0569226",
+          "display_name": "Bruce McGill",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI4NDk0MDY2Nl5BMl5BanBnXkFtZTYwMjA3MTU0._V1_.jpg",
+              "width": 265,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Lt. Brooks"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1754366",
+          "display_name": "Tika Sumpter",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGQxNjdiOTctZjNiZS00YTU2LTgzMGYtZDdiNmJhMDVjN2NkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 4500,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Angela Payton"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0130437",
+          "display_name": "Bryan Callen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDI5YmRjZTEtYTVjNi00MTM3LTlkN2EtNzExNjg3YWQ1YTEwXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_.jpg",
+              "width": 668,
+              "height": 1000
+            }
+          ]
+        },
+        "characters": [
+          "Miggs"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000401",
+          "display_name": "Laurence Fishburne",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc0NjczNDc1MV5BMl5BanBnXkFtZTYwMDU0Mjg1._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Omar"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1058007",
+          "display_name": "Dragos Bucur",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGY3ZDU4M2MtM2YwNy00NjM3LTkwNWEtNDYxYTY2MjIxMmQ2XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+              "width": 1000,
+              "height": 669
+            }
+          ]
+        },
+        "characters": [
+          "Marko"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0654139",
+          "display_name": "Gary Owen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmVjNTQxNWEtNjg3NC00YjVhLWE0ZGEtYjVmM2Q3YzI1MzIxXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_.jpg",
+              "width": 600,
+              "height": 900
+            }
+          ]
+        },
+        "characters": [
+          "Crazy Cody"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3632976",
+          "display_name": "Jacob Latimore",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjk1MjVhNGYtZDlkYS00NDY0LTlkZDMtOWE0MDk0M2Y1NGY0XkEyXkFqcGdeQXVyMjk2NDE3Mjk@._V1_.jpg",
+              "width": 872,
+              "height": 1212
+            }
+          ]
+        },
+        "characters": [
+          "Ramon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3982894",
+          "display_name": "Jay Pharoah",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGVhZThlY2EtMmU5MC00NGFjLWI0ZDctOTJhNWVhYWFkZDNhXkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_.jpg",
+              "width": 6498,
+              "height": 4332
+            }
+          ]
+        },
+        "characters": [
+          "Runflat"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4652001",
+          "display_name": "Benjamin Flores Jr.",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY4NDU2ODE5MF5BMl5BanBnXkFtZTcwMzc1OTQwNw@@._V1_.jpg",
+              "width": 1525,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Morris the Kid"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4609551",
+          "display_name": "Greg Rementer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjM4ODUwZmEtZGVjMC00YTdlLTk0MjQtYjk3YTg5OTMyNDJhXkEyXkFqcGdeQXVyMjUwMTIwNTU@._V1_.jpg",
+              "width": 1323,
+              "height": 1069
+            }
+          ]
+        },
+        "characters": [
+          "Marko's Gunman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3553215",
+          "display_name": "Eric Benson",
+          "avatars": null
+        },
+        "characters": [
+          "Marko's Gunman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1385495",
+          "display_name": "Anna House",
+          "avatars": null
+        },
+        "characters": [
+          "Cafeteria Lady"
+        ]
+      }
+    ]
+  }
+}

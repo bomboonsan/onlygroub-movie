@@ -1,0 +1,398 @@
+{
+  "title": {
+    "id": "tt2560140",
+    "type": "tvSeries",
+    "is_adult": false,
+    "primary_title": "Attack on Titan",
+    "original_title": "Shingeki no Kyojin",
+    "start_year": 2013,
+    "end_year": 2023,
+    "runtime_minutes": 24,
+    "plot": "After his hometown is destroyed and is traumatized, young Eren Jaeger vows to cleanse the earth of the giant humanoid Titans that have brought humanity to the brink of extinction.",
+    "rating": {
+      "aggregate_rating": 9.1,
+      "votes_count": 513619
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDFjYTIxMjctYTQ2ZC00OGQ4LWE3OGYtNDdiMzNiNDZlMDAwXkEyXkFqcGdeQXVyNzI3NjY3NjQ@._V1_.jpg",
+        "width": 889,
+        "height": 1200
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "TV-MA"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "jpn",
+        "name": "Japanese"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "JP",
+        "name": "Japan"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm2013928",
+          "display_name": "Tetsurô Araki",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2967345",
+          "display_name": "Masashi Koizuka",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm3210514",
+          "display_name": "Yûichirô Hayashi",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2596818",
+          "display_name": "Jun Shishido",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2485876",
+          "display_name": "Hiroyuki Tanaka",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm4697729",
+          "display_name": "Hajime Isayama",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY0YjU5NTItZTRkMS00YzM0LThjNGUtN2ViYzZjNDI4ZGE1XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 873,
+              "height": 1167
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1639992",
+          "display_name": "Yasuko Kobayashi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjdmNzQ4NGUtMGFjMi00NjE5LWFiMTYtOTI4YTBlMGI4NzExXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 361,
+              "height": 478
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm5003154",
+          "display_name": "Hiroshi Seko",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1666021",
+          "display_name": "Noboru Takagi",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1309787",
+          "display_name": "Aaron Dismuke",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTFmNjgyZDUtY2U3Zi00NWVhLWJhNWItNGUwNTE4MmEyODA2XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 225,
+              "height": 350
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm2171329",
+          "display_name": "Jessie James Grelle",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDZlYWY2ODItM2QxZi00NWI2LTg5ZjgtODU0YjZkOTU0NzQzXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 477,
+              "height": 477
+            }
+          ]
+        },
+        "characters": [
+          "Armin Arlert",
+          "Armin Artlelt",
+          "Narrator",
+          "Narrator (Armin Arlert)",
+          "Additional Voices",
+          "Narrator (Armin)",
+          "Armin Arlert (Narrator)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0745310",
+          "display_name": "Bryce Papenbrook",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGE2MWNmYzAtNzllMy00NTk0LTk2ZjItYjcxNTE1OTNlNWJkXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 712,
+              "height": 958
+            }
+          ]
+        },
+        "characters": [
+          "Eren Jaeger",
+          "Additional Voices"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2986974",
+          "display_name": "Trina Nishimura",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGY2ODkxMTgtMmFiYy00NTZlLThmN2ItNDlhNjM4MjljNzk2XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 337,
+              "height": 458
+            }
+          ]
+        },
+        "characters": [
+          "Mikasa Ackermann",
+          "Mikasa Ackerman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2569233",
+          "display_name": "Yûki Kaji",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjY5NWQ4NmItNzhkYS00OWUzLTlmNDQtNjdhZmI2ZDRkNWU1XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 562,
+              "height": 812
+            }
+          ]
+        },
+        "characters": [
+          "Eren Yeager"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3426369",
+          "display_name": "Yui Ishikawa",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzdlOTdlNDEtZTViMy00NGQyLTg2YWQtYWY1YWUzY2E2MjFhXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 783,
+              "height": 1104
+            }
+          ]
+        },
+        "characters": [
+          "Mikasa Ackerman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2095800",
+          "display_name": "Marina Inoue",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmVhZGIxZTMtZDY0MC00MDBmLThmZjktOGFmNWVhNWFlMTcyXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 1125,
+              "height": 1503
+            }
+          ]
+        },
+        "characters": [
+          "Armin Arlert",
+          "Narrator",
+          "Narration"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1063029",
+          "display_name": "Kishô Taniyama",
+          "avatars": null
+        },
+        "characters": [
+          "Jean Kirstein"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1683003",
+          "display_name": "Hiro Shimono",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmU4YzZjNzMtMmM5Yy00YTQxLWI2ODQtMjlhODFlMzE5ODEzXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+              "width": 667,
+              "height": 1000
+            }
+          ]
+        },
+        "characters": [
+          "Connie Springer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5157463",
+          "display_name": "Clifford Chapin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNThjYjdlNGItMjI2MS00NDQwLWJlZWYtNjVkNTkyZDQwNzk2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3932,
+              "height": 3936
+            }
+          ]
+        },
+        "characters": [
+          "Conny Springer",
+          "Additional Voices"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0568772",
+          "display_name": "Mike McFarland",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTQ4ZWYwMDktNGZmNS00ZmU2LWI2MWYtM2RjNGYwYzZiMTI0XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 600,
+              "height": 893
+            }
+          ]
+        },
+        "characters": [
+          "Jean Kirschtein",
+          "Additional Voices"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0657139",
+          "display_name": "Romi Park",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmUxNDdlNDgtZTljMS00YjEzLTlkMWQtZTVjZDUxMDk5ZDAyXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 440,
+              "height": 574
+            }
+          ]
+        },
+        "characters": [
+          "Hange Zoe"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2233310",
+          "display_name": "Matthew Mercer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmUzNDcwNmEtZGFhNC00Zjc3LWE0NjktYjkxODBhNzE1NDlkXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_.jpg",
+              "width": 840,
+              "height": 1260
+            }
+          ]
+        },
+        "characters": [
+          "Levi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0130774",
+          "display_name": "Jessica Calvello",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2I1OTI1ZjctZTcyZC00Y2IzLWI1OWItZTJhNGQxZjA2NzE4XkEyXkFqcGc@._V1_.jpg",
+              "width": 720,
+              "height": 960
+            }
+          ]
+        },
+        "characters": [
+          "Hange Zoe"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0436778",
+          "display_name": "Hiroshi Kamiya",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmI4ZmNkYjAtMzhlZC00ODFjLWIwOWItNjczODJlNzk5ZjM4XkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+              "width": 363,
+              "height": 500
+            }
+          ]
+        },
+        "characters": [
+          "Levi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2893431",
+          "display_name": "Yoshimasa Hosoya",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzRlOTM1ZGEtMjAyMC00ZjFiLWIyOGItMjFlYWU0NTk0NmIxXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 566,
+              "height": 809
+            }
+          ]
+        },
+        "characters": [
+          "Reiner Braun"
+        ]
+      }
+    ]
+  }
+}

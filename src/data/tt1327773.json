@@ -1,0 +1,332 @@
+{
+  "title": {
+    "id": "tt1327773",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Butler",
+    "original_title": null,
+    "start_year": 2013,
+    "end_year": null,
+    "runtime_minutes": 132,
+    "plot": "As Cecil Gaines serves eight presidents during his tenure as a butler at the White House, the civil rights movement, Vietnam, and other major events affect this man's life, family, and American society.",
+    "rating": {
+      "aggregate_rating": 7.2,
+      "votes_count": 119794
+    },
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjM2NDY3MjkyMF5BMl5BanBnXkFtZTcwMDM5Nzg5OQ@@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 65,
+      "review_count": 47
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0200005",
+          "display_name": "Lee Daniels",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ4MTg5Nzc1Ml5BMl5BanBnXkFtZTcwODQyODcyMg@@._V1_.jpg",
+              "width": 475,
+              "height": 480
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0834960",
+          "display_name": "Danny Strong",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTExNzI1MTQtZWM5NS00YTdjLWE2ZmItODZiYmFlMjU1M2ZkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 594,
+              "height": 441
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1665973",
+          "display_name": "Wil Haygood",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0001845",
+          "display_name": "Forest Whitaker",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQzMDI3NTg2OV5BMl5BanBnXkFtZTcwNTgwMzg5Mg@@._V1_.jpg",
+              "width": 303,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Cecil Gaines"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1755886",
+          "display_name": "David Banner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk1NDczMDg1OF5BMl5BanBnXkFtZTcwMzg0OTI5MQ@@._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Earl Gaines"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3691729",
+          "display_name": "Michael Rainey Jr.",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWMyNWE0NmQtZDIyYy00YmQ2LTgwZGMtMzRmN2M1ZmY3OWYyXkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_.jpg",
+              "width": 1010,
+              "height": 828
+            }
+          ]
+        },
+        "characters": [
+          "Cecil Gaines (8)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4772555",
+          "display_name": "LaJessie Smith",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGViY2YwNDItNjAyOS00OGUxLTk0NzMtMmQ0NTY2ZWFiYmMyXkEyXkFqcGdeQXVyODY0MzA5MTg@._V1_.jpg",
+              "width": 500,
+              "height": 700
+            }
+          ]
+        },
+        "characters": [
+          "Abraham"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001014",
+          "display_name": "Mariah Carey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTUwZTAzZjUtNWMwNC00M2FkLTgyNzAtNmQ5MGYyODk1ZjE4XkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_.jpg",
+              "width": 570,
+              "height": 730
+            }
+          ]
+        },
+        "characters": [
+          "Hattie Pearl"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1641117",
+          "display_name": "Alex Pettyfer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzUyMzBmNzQtZjkxMy00MzI0LTlkMzMtMmQ2YzllMDliMTMzXkEyXkFqcGdeQXVyNjAzNTQ5Njc@._V1_.jpg",
+              "width": 600,
+              "height": 800
+            }
+          ]
+        },
+        "characters": [
+          "Thomas Westfall"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000603",
+          "display_name": "Vanessa Redgrave",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI3MjE0OTgzNF5BMl5BanBnXkFtZTcwOTQ3ODMwMg@@._V1_.jpg",
+              "width": 285,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Annabeth Westfall"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1543989",
+          "display_name": "Aml Ameen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgxMTMyMjE2Ml5BMl5BanBnXkFtZTgwOTA0OTI2NDM@._V1_.jpg",
+              "width": 1634,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Cecil Gaines (15)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0929934",
+          "display_name": "Clarence Williams III",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk3MzY0MTM5OF5BMl5BanBnXkFtZTYwMDg0ODQ2._V1_.jpg",
+              "width": 294,
+              "height": 450
+            }
+          ]
+        },
+        "characters": [
+          "Maynard"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0275183",
+          "display_name": "John P. Fertitta",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDMwZWRhNDQtMTk3YS00NmM1LWIwNzgtNzRkOTZmOTVhOTJlXkEyXkFqcGdeQXVyNDA4MTA2OA@@._V1_.jpg",
+              "width": 3052,
+              "height": 2852
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Jenkins"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0322282",
+          "display_name": "Jim Gleason",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDJjNWFlYzktZjJlOS00MDJlLWFlZWYtODg4MGYyZGY0ODFhXkEyXkFqcGdeQXVyNTUwMzYxMg@@._V1_.jpg",
+              "width": 420,
+              "height": 525
+            }
+          ]
+        },
+        "characters": [
+          "R.D. Warner"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001856",
+          "display_name": "Oprah Winfrey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgzODE3MzYxNF5BMl5BanBnXkFtZTYwMzEyNjc4._V1_.jpg",
+              "width": 272,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Gloria Gaines"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0924888",
+          "display_name": "Isaac White",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTA0YTY0YjItZmI2My00OWE0LWJkNWQtZTkzYjU3MWYzODEwXkEyXkFqcGdeQXVyMjQyNDc3MTE@._V1_.jpg",
+              "width": 333,
+              "height": 500
+            }
+          ]
+        },
+        "characters": [
+          "Charlie Gaines (10)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0654648",
+          "display_name": "David Oyelowo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTMyODkxMzktNWMwMy00MjRlLTlmNjUtM2I0NTczZDU3YjE0XkEyXkFqcGdeQXVyOTkyMDQ2Mw@@._V1_.jpg",
+              "width": 788,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Louis Gaines"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0159609",
+          "display_name": "Joe Chrest",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjY4NTJlNjktMWQzNy00NDVhLWJkOGUtNWZmNWUxMzEzYTdmXkEyXkFqcGdeQXVyMjIxNzUxMjY@._V1_.jpg",
+              "width": 1165,
+              "height": 1645
+            }
+          ]
+        },
+        "characters": [
+          "White Usher"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "title": {
+    "id": "tt3235888",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "It Follows",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 100,
+    "plot": "A young woman is followed by an unknown supernatural force after a sexual encounter.",
+    "rating": {
+      "aggregate_rating": 6.8,
+      "votes_count": 269469
+    },
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMmU0MjBlYzYtZWY0MC00MjliLWI3ZmUtMzhlZDVjMWVmYWY4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "width": 1012,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 83,
+      "review_count": 37
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1379002",
+          "display_name": "David Robert Mitchell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTg4MTE2MzI2MF5BMl5BanBnXkFtZTcwOTQ2MDk0Mw@@._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1379002",
+          "display_name": "David Robert Mitchell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTg4MTE2MzI2MF5BMl5BanBnXkFtZTcwOTQ2MDk0Mw@@._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm6092492",
+          "display_name": "Bailey Spry",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDI4OTU4ZjctMzlhMS00NTQ3LTg4MTktMmRjYzhlMjZjN2E1XkEyXkFqcGdeQXVyOTQyMTEyNjk@._V1_.jpg",
+              "width": 302,
+              "height": 433
+            }
+          ]
+        },
+        "characters": [
+          "Annie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5085895",
+          "display_name": "Carollette Phillips",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTcxNmE3MTctODQxMy00OGJkLTk4NjEtZGNkNjgzMDE3YWJhXkEyXkFqcGdeQXVyNDI4OTg5MjA@._V1_.jpg",
+              "width": 686,
+              "height": 1034
+            }
+          ]
+        },
+        "characters": [
+          "Woman with Groceries"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3257024",
+          "display_name": "Loren Bass",
+          "avatars": null
+        },
+        "characters": [
+          "Annie's Father"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1507857",
+          "display_name": "Keir Gilchrist",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ0OTMxMDk0NF5BMl5BanBnXkFtZTgwMjg0MTQxNDE@._V1_.jpg",
+              "width": 960,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Paul"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2140860",
+          "display_name": "Maika Monroe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYxNzA1MjcwMF5BMl5BanBnXkFtZTgwMDQwNjgyNjM@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        },
+        "characters": [
+          "Jay Height"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2714273",
+          "display_name": "Lili Sepe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjkwNDRjOTktMDBkYi00ODBmLWIyYzktODNiYWFjMjUxOWU2XkEyXkFqcGc@._V1_.jpg",
+              "width": 1200,
+              "height": 1800
+            }
+          ]
+        },
+        "characters": [
+          "Kelly Height"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7180491",
+          "display_name": "Charles Gertner",
+          "avatars": null
+        },
+        "characters": [
+          "Neighbor Boy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6011302",
+          "display_name": "Debbie Williams",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDE5ZjQ2MjItNWM1Mi00NjYyLWI5MzktODY4NTVmZGNjN2VhXkEyXkFqcGc@._V1_.jpg",
+              "width": 7952,
+              "height": 5304
+            }
+          ]
+        },
+        "characters": [
+          "Mrs. Height"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3459140",
+          "display_name": "Olivia Luccardi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGY5MDkxM2MtODQzZS00MzRhLTgzMzctMWUwNjcyNzJkY2JmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3190,
+              "height": 3518
+            }
+          ]
+        },
+        "characters": [
+          "Yara"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1621032",
+          "display_name": "Jake Weary",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjc1OWYxODgtZDNhMi00ZTg0LTlhMDEtNWUyMmU5YWFjN2M5XkEyXkFqcGdeQXVyMjEwMDE2Njk@._V1_.jpg",
+              "width": 396,
+              "height": 594
+            }
+          ]
+        },
+        "characters": [
+          "Hugh",
+          "Jeff"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4683167",
+          "display_name": "Daniel Zovatto",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzc4ZWMwNTgtNDJmNC00ZDJjLWJlMzgtY2UzMDI5YTkwMTMzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3456,
+              "height": 5184
+            }
+          ]
+        },
+        "characters": [
+          "Greg Hannigan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3697376",
+          "display_name": "Ruby Harris",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODJjZWViYjctYWFlMS00OGRlLTgyZDMtMmYxYjAwMWYwODk5XkEyXkFqcGdeQXVyMjI0NjA1NjM@._V1_.jpg",
+              "width": 500,
+              "height": 700
+            }
+          ]
+        },
+        "characters": [
+          "Mrs. Redmond"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3712833",
+          "display_name": "Leisa Pulido",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTliZGRlNTEtYjNjOS00MmY1LWIxNzctNGYyZmU0ODE5NDMyXkEyXkFqcGc@._V1_.jpg",
+              "width": 667,
+              "height": 1000
+            }
+          ]
+        },
+        "characters": [
+          "Mrs. Hannigan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7180492",
+          "display_name": "D.J. Oliver",
+          "avatars": null
+        },
+        "characters": [
+          "Police Officer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2359829",
+          "display_name": "Linda Boston",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODFhMDUwMzUtODU0Mi00MTc2LTgyMmItNTVhNGI1NDhhYzEzXkEyXkFqcGdeQXVyMTA1NzIwMzI@._V1_.jpg",
+              "width": 433,
+              "height": 576
+            }
+          ]
+        },
+        "characters": [
+          "Teacher"
+        ]
+      }
+    ]
+  }
+}

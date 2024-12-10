@@ -1,0 +1,406 @@
+{
+  "title": {
+    "id": "tt1833285",
+    "type": "tvSeries",
+    "is_adult": false,
+    "primary_title": "Boss",
+    "original_title": null,
+    "start_year": 2011,
+    "end_year": 2012,
+    "runtime_minutes": 60,
+    "plot": "Mayor Tom Kane, diagnosed with a dementia disorder, struggles to keep his grip on power in Chicago.",
+    "rating": {
+      "aggregate_rating": 8.1,
+      "votes_count": 18503
+    },
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjFmNDNjZTYtYTkzYS00MDMxLTljNWItOTdlMDNlNDcwNzM5XkEyXkFqcGc@._V1_.jpg",
+        "width": 2000,
+        "height": 3000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "TV-MA"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm0211523",
+          "display_name": "Jean de Segonzac",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0005522",
+          "display_name": "Mario Van Peebles",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc1MzgwOTA1NV5BMl5BanBnXkFtZTYwODI5NjM1._V1_.jpg",
+              "width": 307,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0570995",
+          "display_name": "Jim McKay",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUwNjUxOTYwMF5BMl5BanBnXkFtZTYwMjQ3OTc0._V1_.jpg",
+              "width": 213,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0001814",
+          "display_name": "Gus Van Sant",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI2MDcxOTEzM15BMl5BanBnXkFtZTcwNjY0ODkyMg@@._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0008971",
+          "display_name": "Phil Abraham",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM3NzA4NjkxMl5BMl5BanBnXkFtZTcwOTY0NTA1OA@@._V1_.jpg",
+              "width": 1387,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1731154",
+          "display_name": "Farhad Safinia",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTY5ODIyOTQ3Nl5BMl5BanBnXkFtZTcwMzQ3NDMwNw@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1148042",
+          "display_name": "Angelina Burnett",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm3688777",
+          "display_name": "Kevin J. Hynes",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1056414",
+          "display_name": "Bradford Winters",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0338115",
+          "display_name": "Lynnie Greene",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2M2YzI3YTEtZTliMC00ZTRiLWI1ZDMtOWRiZTQwZDViMmVkXkEyXkFqcGc@._V1_.jpg",
+              "width": 602,
+              "height": 694
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0001288",
+          "display_name": "Kelsey Grammer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEyNjkxODM5N15BMl5BanBnXkFtZTcwMTU3NDE1Mg@@._V1_.jpg",
+              "width": 294,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Mayor Tom Kane"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001567",
+          "display_name": "Connie Nielsen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzZiYTQ4YTAtMzRkMi00ZDZlLWFkZWItNGI2ZTIyODRiYTc4XkEyXkFqcGdeQXVyMjUzMjc2MjE@._V1_.jpg",
+              "width": 1350,
+              "height": 1800
+            }
+          ]
+        },
+        "characters": [
+          "Meredith Kane"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3799669",
+          "display_name": "Hannah Ware",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk1NTQzMjMwNF5BMl5BanBnXkFtZTgwNTU2MjU1NjE@._V1_.jpg",
+              "width": 2048,
+              "height": 1380
+            }
+          ]
+        },
+        "characters": [
+          "Emma Kane"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0378363",
+          "display_name": "Jeff Hephner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjI3ZDIzNGQtM2ExNy00MWNjLWFlODYtYWY0YzgzZjBjN2QxXkEyXkFqcGdeQXVyMTUwMjcwMjY@._V1_.jpg",
+              "width": 3234,
+              "height": 4600
+            }
+          ]
+        },
+        "characters": [
+          "Ben Zajac"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005370",
+          "display_name": "Kathleen Robertson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU1ODUyNzI3Nl5BMl5BanBnXkFtZTgwNjEyNzMxMDE@._V1_.jpg",
+              "width": 4080,
+              "height": 4078
+            }
+          ]
+        },
+        "characters": [
+          "Kitty O'Neill"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0004949",
+          "display_name": "Troy Garity",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODYxNzEwNjYwN15BMl5BanBnXkFtZTgwMjM2MjE5ODE@._V1_.jpg",
+              "width": 400,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Sam Miller"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4563820",
+          "display_name": "Rotimi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyMzE3ODM2N15BMl5BanBnXkFtZTgwNTg4MTQxNTE@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Darius Morrison"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2679699",
+          "display_name": "James Vincent Meredith",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjg1NWJjYzQtNWMwOS00NmMzLTg1NTMtMDcyMTZjYWMwOWE0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 300,
+              "height": 451
+            }
+          ]
+        },
+        "characters": [
+          "Alderman Ross"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0233027",
+          "display_name": "Martin Donovan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWIzNTAyZTktZmYzMC00MmQ1LWFhOTItYmZhZGViMWYwNzdjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 787,
+              "height": 1152
+            }
+          ]
+        },
+        "characters": [
+          "Ezra Stone"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3947241",
+          "display_name": "Mary Hollis Inboden",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjRhNmY4Y2MtYzc1OC00NTVhLTk1MTktNTU5YmRlNTdiYTc2XkEyXkFqcGc@._V1_.jpg",
+              "width": 1616,
+              "height": 1077
+            }
+          ]
+        },
+        "characters": [
+          "Jackie",
+          "Sentinel Colleague",
+          "Jackie Shope",
+          "Sentinal Colleague"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0347341",
+          "display_name": "Francis Guinan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmVkMTAzMWQtMmM2Yy00ZDMxLWFiOTUtZTE1MDY2NDU2NDA5XkEyXkFqcGdeQXVyNTc0NjY1ODk@._V1_.jpg",
+              "width": 512,
+              "height": 384
+            }
+          ]
+        },
+        "characters": [
+          "Governor McCall Cullen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0286171",
+          "display_name": "Nicole Forester",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2Y1Zjc0MmMtOWM1NC00OGNkLWFjMDItMjU1NjQ5MjQ3MmNhXkEyXkFqcGdeQXVyMjkzNDkzOQ@@._V1_.jpg",
+              "width": 3603,
+              "height": 5044
+            }
+          ]
+        },
+        "characters": [
+          "Maggie Zajac"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3924692",
+          "display_name": "Steve Lenz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2ZhNzdiMzctZmUxYy00ZjVmLWI5NzYtZjM5M2Q5NzVmYTRiXkEyXkFqcGc@._V1_.jpg",
+              "width": 1170,
+              "height": 1463
+            }
+          ]
+        },
+        "characters": [
+          "Kane's Aide",
+          "Phone Monkey"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0871240",
+          "display_name": "Daniel J. Travanti",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTg2NDAwODk3OF5BMl5BanBnXkFtZTcwMDQ0NTUyOA@@._V1_.jpg",
+              "width": 1335,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Gerald 'Babe' McGantry"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm14719759",
+          "display_name": "Tony Mockus Sr.",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTFiZWEwMDktZTcwMi00MDY2LTljNzMtYTIwZTdjZTk1NDk5XkEyXkFqcGc@._V1_.jpg",
+              "width": 1200,
+              "height": 1318
+            }
+          ]
+        },
+        "characters": [
+          "Mayor Rutledge"
+        ]
+      }
+    ]
+  }
+}

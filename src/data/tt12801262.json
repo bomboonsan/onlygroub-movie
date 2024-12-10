@@ -1,0 +1,351 @@
+{
+  "title": {
+    "id": "tt12801262",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Luca",
+    "original_title": null,
+    "start_year": 2021,
+    "end_year": null,
+    "runtime_minutes": 95,
+    "plot": "On the Italian Riviera, an unlikely but strong friendship grows between a human being and a sea monster disguised as a human.",
+    "rating": {
+      "aggregate_rating": 7.4,
+      "votes_count": 189501
+    },
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Drama",
+      "Family",
+      "Fantasy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTQyNTU0MDktYTFkYi00ZjNhLWE2ODctMzBkM2U1ZTk3YTMzXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_.jpg",
+        "width": 2025,
+        "height": 3000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "ita",
+        "name": "Italian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "IT",
+        "name": "Italy"
+      },
+      {
+        "code": "JP",
+        "name": "Japan"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 71,
+      "review_count": 52
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1154836",
+          "display_name": "Enrico Casarosa",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1154836",
+          "display_name": "Enrico Casarosa",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm5428959",
+          "display_name": "Jesse Andrews",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgyNzgwNjUyNl5BMl5BanBnXkFtZTgwNDc0MDgxNDE@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1776787",
+          "display_name": "Simon Stephenson",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0428873",
+          "display_name": "Mike Jones",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg5NDgzODQzOV5BMl5BanBnXkFtZTYwMDQ5ODc1._V1_.jpg",
+              "width": 249,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0528724",
+          "display_name": "Julie Lynn",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm5016878",
+          "display_name": "Jacob Tremblay",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODkwODQyNGYtY2JiNi00Zjk1LWIyNmQtMjE5MzRjZTM0MTllXkEyXkFqcGdeQXVyMTMyNzI3NzIy._V1_.jpg",
+              "width": 1200,
+              "height": 630
+            }
+          ]
+        },
+        "characters": [
+          "Luca Paguro"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6244013",
+          "display_name": "Jack Dylan Grazer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjQzYmE5OGItM2UzOC00YmViLTk4OGUtNzNjOGYyMTg0Y2FlXkEyXkFqcGdeQXVyOTg2NzI4Nw@@._V1_.jpg",
+              "width": 1580,
+              "height": 2016
+            }
+          ]
+        },
+        "characters": [
+          "Alberto Scorfano"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11735922",
+          "display_name": "Emma Berman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmFlYWEzMWQtMDVmNy00MzBiLTllZTAtNTA2YjNkMzA1MjJiXkEyXkFqcGdeQXVyMTAzNzYxMjUz._V1_.jpg",
+              "width": 2800,
+              "height": 4200
+            }
+          ]
+        },
+        "characters": [
+          "Giulia Marcovaldo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7184459",
+          "display_name": "Saverio Raimondo",
+          "avatars": null
+        },
+        "characters": [
+          "Ercole Visconti"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0748973",
+          "display_name": "Maya Rudolph",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMzOTQwMzAyOF5BMl5BanBnXkFtZTYwNzA1OTc0._V1_.jpg",
+              "width": 259,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Daniela Paguro"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0057349",
+          "display_name": "Marco Barricelli",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTlkYTBhMDQtNjI2NC00ZWVlLWI5MjYtZGNiNDcyZGVlZWNiXkEyXkFqcGdeQXVyMTI1NDY2Mzkx._V1_.jpg",
+              "width": 3859,
+              "height": 5789
+            }
+          ]
+        },
+        "characters": [
+          "Massimo Marcovaldo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0300712",
+          "display_name": "Jim Gaffigan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjMzNmYzODktNmEyZC00OWQ4LWI4MGUtOWNiYTg0NWNkZjRhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 5184,
+              "height": 3456
+            }
+          ]
+        },
+        "characters": [
+          "Lorenzo Paguro"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0812307",
+          "display_name": "Peter Sohn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk0NzcwMzc1MF5BMl5BanBnXkFtZTcwMTY2NjkxOA@@._V1_.jpg",
+              "width": 1542,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Ciccio"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7445017",
+          "display_name": "Lorenzo Crisci",
+          "avatars": null
+        },
+        "characters": [
+          "Guido"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0557457",
+          "display_name": "Marina Massironi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQwMDk2MzYxM15BMl5BanBnXkFtZTcwNDA0MDkyNA@@._V1_.jpg",
+              "width": 254,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Signora Marsigliese"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0478731",
+          "display_name": "Gino La Monica",
+          "avatars": null
+        },
+        "characters": [
+          "Tommaso (Old Fisherman)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0553036",
+          "display_name": "Sandy Martin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ1NTMyMTYzMV5BMl5BanBnXkFtZTgwMTU5OTM4NzE@._V1_.jpg",
+              "width": 480,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Grandma Paguro"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5521198",
+          "display_name": "Giacomo Gianniotti",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzRiOTA5YWQtYzMyMy00MDc3LWFlNzctODAyMWI4YTk5OWZlXkEyXkFqcGdeQXVyNDA1MTQyMTM@._V1_.jpg",
+              "width": 1072,
+              "height": 1352
+            }
+          ]
+        },
+        "characters": [
+          "Giacomo (Young Fisherman)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0672330",
+          "display_name": "Elisa Gabrielli",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU1MzI0OTc0Ml5BMl5BanBnXkFyZXN1bWU@._V1_.jpg",
+              "width": 995,
+              "height": 1500
+            }
+          ]
+        },
+        "characters": [
+          "Concetta Aragosta"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0562775",
+          "display_name": "Mimi Maynard",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmQzNmM4OGYtZGE1MC00NTI1LThjZjMtNDExY2NmMTFmMWQ2XkEyXkFqcGdeQXVyOTE1NDA0Mjg@._V1_.jpg",
+              "width": 400,
+              "height": 352
+            }
+          ]
+        },
+        "characters": [
+          "Pinuccia Aragosta"
+        ]
+      }
+    ]
+  }
+}

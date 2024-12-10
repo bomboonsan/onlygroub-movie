@@ -1,0 +1,365 @@
+{
+  "title": {
+    "id": "tt9784798",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Judas and the Black Messiah",
+    "original_title": null,
+    "start_year": 2021,
+    "end_year": null,
+    "runtime_minutes": 126,
+    "plot": "Offered a plea deal by the FBI, William O'Neal infiltrates the Illinois chapter of the Black Panther Party to gather intelligence on Chairman Fred Hampton.",
+    "rating": {
+      "aggregate_rating": 7.4,
+      "votes_count": 90312
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjBjYjBjNTUtOTg0Ni00Yzk2LTg1NWMtNjI2ODk2YjJmZGU0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+        "width": 2000,
+        "height": 3000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 85,
+      "review_count": 49
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm3489851",
+          "display_name": "Shaka King",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDRlZmEwZGEtNWRlNi00ZWFkLTg3YmQtYjUxM2E0NTMzNjNmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "width": 2262,
+              "height": 3500
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0077768",
+          "display_name": "Will Berson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGZiNzQ3YWUtMDQ0OS00MzVmLTg0ZTMtNzFjOGQ2MmRjZDBhXkEyXkFqcGdeQXVyMjg1NTAzNA@@._V1_.jpg",
+              "width": 2005,
+              "height": 1334
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm3489851",
+          "display_name": "Shaka King",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDRlZmEwZGEtNWRlNi00ZWFkLTg3YmQtYjUxM2E0NTMzNjNmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "width": 2262,
+              "height": 3500
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm3584219",
+          "display_name": "Kenneth Lucas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTEzNjhjZjEtMzIwOS00NDViLThmNmItZjMxYjkwOGE2ZWQ2XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 774,
+              "height": 995
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm5695570",
+          "display_name": "Keith Lucas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc4YzE1NGQtYTQ1Ny00ZTM1LWFmNjktZTlkMWU0YzI1YTA5XkEyXkFqcGdeQXVyNjE5MTc4NDQ@._V1_.jpg",
+              "width": 723,
+              "height": 813
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm2257207",
+          "display_name": "Daniel Kaluuya",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTk1MzgzOTg5OV5BMl5BanBnXkFtZTcwNDQ4NjMxOA@@._V1_.jpg",
+              "width": 1395,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Fred Hampton"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3147751",
+          "display_name": "LaKeith Stanfield",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU3NTg3MTc5NV5BMl5BanBnXkFtZTgwNzUzMzg1MzI@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Bill O'Neal"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0687146",
+          "display_name": "Jesse Plemons",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMThmNjY0YjUtZjNiZi00YWE0LWI0NTEtM2RkZjllN2JiMDA4XkEyXkFqcGdeQXVyMTY5MDYxNDg5._V1_.jpg",
+              "width": 720,
+              "height": 900
+            }
+          ]
+        },
+        "characters": [
+          "Roy Mitchell"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6195774",
+          "display_name": "Dominique Fishback",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmFmMGUxYTYtNjUwNi00NjI4LTkzMWUtYWNiYWFmNGVmYjA5XkEyXkFqcGdeQXVyMTA3OTI0MzUw._V1_.jpg",
+              "width": 1047,
+              "height": 1292
+            }
+          ]
+        },
+        "characters": [
+          "Deborah Johnson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5480894",
+          "display_name": "Ashton Sanders",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcxNTExNDIwOF5BMl5BanBnXkFtZTgwNTU2NzYwMTI@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Jimmy Palmer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4861346",
+          "display_name": "Algee Smith",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA3NDUxNTI5NV5BMl5BanBnXkFtZTgwNzc3MDcxNDM@._V1_.jpg",
+              "width": 1306,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Jake Winters"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2888524",
+          "display_name": "Darrell Britt-Gibson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTdjN2FjNTgtNmU5Yi00MzQ3LTkxYzQtNDA5NjQyYWFiYzhmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "width": 2667,
+              "height": 4000
+            }
+          ]
+        },
+        "characters": [
+          "Bobby Rush"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2577076",
+          "display_name": "Lil Rel Howery",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzRiNWQ1NzItMzQzNy00YWJjLWI3ZjEtZGU5MjgyNjY3ZDMyXkEyXkFqcGdeQXVyMTU4NTcwOTIy._V1_.jpg",
+              "width": 1440,
+              "height": 1440
+            }
+          ]
+        },
+        "characters": [
+          "Wayne"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9584861",
+          "display_name": "Dominique Thorne",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc2NTBjODMtYmIzOC00NTk5LWE2YzYtOGU2YWM5ZjIwZDhhXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg",
+              "width": 2302,
+              "height": 3400
+            }
+          ]
+        },
+        "characters": [
+          "Judy Harmon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000640",
+          "display_name": "Martin Sheen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTM1MTA5MTY0MV5BMl5BanBnXkFtZTcwMTQ4OTUzMg@@._V1_.jpg",
+              "width": 288,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "J. Edgar Hoover"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3281146",
+          "display_name": "Amari Cheatom",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY0NzI4MTMyMV5BMl5BanBnXkFtZTcwNjUzMTkwNA@@._V1_.jpg",
+              "width": 333,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Collins"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7800057",
+          "display_name": "Khris Davis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWNhY2VmNjAtZjlhZi00NTI5LThjMGYtNWNhMWYzOTg2MGRmXkEyXkFqcGdeQXVyMTExNzQ3MzAw._V1_.jpg",
+              "width": 265,
+              "height": 348
+            }
+          ]
+        },
+        "characters": [
+          "Steel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7468200",
+          "display_name": "Ian Duff",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTVkZTVjZTAtZDFiNi00NzI2LTgyNDQtNTYzMDBiZWM1YjdkXkEyXkFqcGdeQXVyNjAxMjc0ODY@._V1_.jpg",
+              "width": 2686,
+              "height": 3761
+            }
+          ]
+        },
+        "characters": [
+          "Doc Satchel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6783752",
+          "display_name": "Caleb Eberhardt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTZkNTE3ZTctM2MzMS00ZmYwLTkyYTYtZjZhNTI0MTI3YWNiXkEyXkFqcGdeQXVyNDU4NTQ3NzI@._V1_.jpg",
+              "width": 3448,
+              "height": 5168
+            }
+          ]
+        },
+        "characters": [
+          "Bob Lee"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0519486",
+          "display_name": "Robert Longstreet",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWNhMmQ0NjQtMzk1Ny00MzlhLTlkYTYtNDg5ZTM3MjRjZmE0XkEyXkFqcGdeQXVyMjM4MzU2Mg@@._V1_.jpg",
+              "width": 828,
+              "height": 1294
+            }
+          ]
+        },
+        "characters": [
+          "Leslie Carlyle"
+        ]
+      }
+    ]
+  }
+}

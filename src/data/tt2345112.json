@@ -1,0 +1,340 @@
+{
+  "title": {
+    "id": "tt2345112",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Parkland",
+    "original_title": null,
+    "start_year": 2013,
+    "end_year": null,
+    "runtime_minutes": 93,
+    "plot": "A recounting of the chaotic events that occurred at Dallas' Parkland Memorial Hospital on the day President John F. Kennedy was assassinated.",
+    "rating": {
+      "aggregate_rating": 6.4,
+      "votes_count": 17494
+    },
+    "genres": [
+      "Drama",
+      "History",
+      "Mystery",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjE2NjkwNDE2MF5BMl5BanBnXkFtZTgwNDY5ODIxMDE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 51,
+      "review_count": 35
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1481618",
+          "display_name": "Peter Landesman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY5MjIwODM0Ml5BMl5BanBnXkFtZTgwMjExNzg5NTE@._V1_.jpg",
+              "width": 240,
+              "height": 300
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1481618",
+          "display_name": "Peter Landesman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY5MjIwODM0Ml5BMl5BanBnXkFtZTgwMjExNzg5NTE@._V1_.jpg",
+              "width": 240,
+              "height": 300
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0119514",
+          "display_name": "Vincent Bugliosi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY5NTk5Nzk5Nl5BMl5BanBnXkFtZTgwMTU5OTc5MjE@._V1_.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0001315",
+          "display_name": "Marcia Gay Harden",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkxNDc3Njk3NF5BMl5BanBnXkFtZTgwODIxMjUxNzM@._V1_.jpg",
+              "width": 2039,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Nurse Doris Nelson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1204778",
+          "display_name": "Matt Barr",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM2MTQyNDQ3NV5BMl5BanBnXkFtZTcwNTM1OTc5OQ@@._V1_.jpg",
+              "width": 395,
+              "height": 594
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Paul Mikkelson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1374980",
+          "display_name": "Zac Efron",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUxNzY3NzYwOV5BMl5BanBnXkFtZTgwNzQ3Mzc4MTI@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Charles 'Jim' Carrico"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3725383",
+          "display_name": "Mallory Moye",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2U3MzUwMWItNzM2OC00YjBlLTk4MmUtMTk0NjlkZjg3ZTg2XkEyXkFqcGdeQXVyMTA2NjY2NzQ0._V1_.jpg",
+              "width": 445,
+              "height": 682
+            }
+          ]
+        },
+        "characters": [
+          "Emergency Room Nurse"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0316079",
+          "display_name": "Paul Giamatti",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTc0MDAzMTU4N15BMl5BanBnXkFtZTcwNzA0NzcwNA@@._V1_.jpg",
+              "width": 310,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Abraham Zapruder"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1128780",
+          "display_name": "Elizabeth Tulloch",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTMyMjlhZjAtOTRhNS00Y2RhLTk0ODUtZjk1NDkxMTBjOTk3XkEyXkFqcGdeQXVyNDU0NDY4MA@@._V1_.jpg",
+              "width": 750,
+              "height": 1334
+            }
+          ]
+        },
+        "characters": [
+          "Marilyn Sitzman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0515296",
+          "display_name": "Ron Livingston",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIxODk2NDUzOF5BMl5BanBnXkFtZTgwNTI2ODg1NDE@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "James Hosty"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0235103",
+          "display_name": "Jason Douglas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGY1MDE5NzQtMzYwNS00N2QxLThhYjUtNzVkMGE5NWMzZjBkXkEyXkFqcGdeQXVyMDA2MjgzMA@@._V1_.jpg",
+              "width": 2403,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Ken Howe"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1092086",
+          "display_name": "David Harbour",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTc5ODUzMDAtZGFhZS00NmExLTlhYWYtZDY0NGI2MGMwYTIzXkEyXkFqcGdeQXVyODY0MzQyODc@._V1_.jpg",
+              "width": 2087,
+              "height": 2593
+            }
+          ]
+        },
+        "characters": [
+          "Gordon Shanklin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0197647",
+          "display_name": "James Badge Dale",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIzNzEyMDkwOV5BMl5BanBnXkFtZTcwNDcxOTAyMw@@._V1_.jpg",
+              "width": 318,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Robert Oswald"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2202931",
+          "display_name": "Larry Jack Dotson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTZiOGFhOWEtYzVmZS00NTMzLTgxN2MtMmNjMmUyZjU3YWNkXkEyXkFqcGdeQXVyODIwNTkwNw@@._V1_.jpg",
+              "width": 3840,
+              "height": 5760
+            }
+          ]
+        },
+        "characters": [
+          "Acme Brick Supervisor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0629538",
+          "display_name": "Austin Nichols",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWM2NzlhN2MtMjBkNi00MWMzLWFkNzItYmFlYmJmYWY4NzljXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 508,
+              "height": 738
+            }
+          ]
+        },
+        "characters": [
+          "Emory Roberts"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000671",
+          "display_name": "Billy Bob Thornton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcxOTUwMDI0OF5BMl5BanBnXkFtZTcwNjIyNzkzNw@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Forrest Sorrels"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0106534",
+          "display_name": "Jonathan Breck",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTIxNDkyOTcwMl5BMl5BanBnXkFtZTcwNjcwNjE0MQ@@._V1_.jpg",
+              "width": 325,
+              "height": 398
+            }
+          ]
+        },
+        "characters": [
+          "Winston Lawson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0497247",
+          "display_name": "Eugene Lee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWE2MzIyMGMtNjRiOC00OWZhLWI2NGQtNDBhNWNhNTA2MDc1XkEyXkFqcGdeQXVyMTAwODIxMzEx._V1_.jpg",
+              "width": 400,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Orderly"
+        ]
+      }
+    ]
+  }
+}

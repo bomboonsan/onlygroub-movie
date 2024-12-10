@@ -1,0 +1,418 @@
+{
+  "title": {
+    "id": "tt1190634",
+    "type": "tvSeries",
+    "is_adult": false,
+    "primary_title": "The Boys",
+    "original_title": null,
+    "start_year": 2019,
+    "end_year": null,
+    "runtime_minutes": 60,
+    "plot": "A group of vigilantes set out to take down corrupt superheroes who abuse their superpowers.",
+    "rating": {
+      "aggregate_rating": 8.7,
+      "votes_count": 653191
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BODI5NDUxNjAtZTIxYS00N2M1LWI5NmItODBmM2QyNTU4ZDY4XkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_.jpg",
+        "width": 1080,
+        "height": 1350
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "TV-MA"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm0004223",
+          "display_name": "Philip Sgriccia",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTc2NDQ0ZTItZmM1Ny00YjljLTg5YzMtNzIyYTNiMDUzMDZkXkEyXkFqcGdeQXVyMzE3NDgxNA@@._V1_.jpg",
+              "width": 370,
+              "height": 469
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0870295",
+          "display_name": "Frederick E.O. Toye",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWVkYmUwMWEtMDY2Zi00MzlmLTg3NWItMDg0ZjJjNzRkNWJmXkEyXkFqcGdeQXVyMTIxNjM4OA@@._V1_.jpg",
+              "width": 4032,
+              "height": 3024
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0101908",
+          "display_name": "Sarah Boyd",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODcwNzZkMTUtNDk1ZC00YmYxLTgzYzUtYjFhOTYxNjkzNzY2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 206,
+              "height": 309
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0471392",
+          "display_name": "Eric Kripke",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEzOTYzNTEzOV5BMl5BanBnXkFtZTcwMDcwNTE4Ng@@._V1_.jpg",
+              "width": 1370,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0777447",
+          "display_name": "Stefan Schwartz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2UxZDAxN2ItZjZiZS00NDA0LWIzMTUtOTkxMmIwYTgzOTBlXkEyXkFqcGdeQXVyMzEzMzc0Njc@._V1_.jpg",
+              "width": 2640,
+              "height": 3421
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1212017",
+          "display_name": "Garth Ennis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYzNDY3MzU4N15BMl5BanBnXkFtZTgwMjE4NTMzODE@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0471392",
+          "display_name": "Eric Kripke",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEzOTYzNTEzOV5BMl5BanBnXkFtZTcwMDcwNTE4Ng@@._V1_.jpg",
+              "width": 1370,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1352769",
+          "display_name": "Darick Robertson",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm8401796",
+          "display_name": "Ellie Monahan",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1099663",
+          "display_name": "Anslem Richardson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDMxOTc3MzItM2UwNC00NDJjLTk3NGEtMGY0ZWFiOThjZTRhXkEyXkFqcGdeQXVyMjA3NDYwMA@@._V1_.jpg",
+              "width": 2309,
+              "height": 2893
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0881631",
+          "display_name": "Karl Urban",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjExMjQ2MDk4OF5BMl5BanBnXkFtZTcwNDQ3MzQ1MQ@@._V1_.jpg",
+              "width": 333,
+              "height": 500
+            }
+          ]
+        },
+        "characters": [
+          "Billy Butcher"
+        ]
+      },
+      {
+        "name": null,
+        "characters": [
+          "Hughie Campbell"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1102278",
+          "display_name": "Antony Starr",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQxMDg1Nzc0OV5BMl5BanBnXkFtZTcwODc4NTkyNw@@._V1_.jpg",
+              "width": 1465,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Homelander"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3929195",
+          "display_name": "Erin Moriarty",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTgwMzZiYTctMzEwMi00OTk0LTlmZTItM2JhMDIwY2Q2OWNlXkEyXkFqcGdeQXVyMjMzNDc5NTg@._V1_.jpg",
+              "width": 1350,
+              "height": 1797
+            }
+          ]
+        },
+        "characters": [
+          "Annie January",
+          "Starlight"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1900772",
+          "display_name": "Jessie T. Usher",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWYwNGRmZjAtNGVhNy00NGU4LTljZTYtMjdmOTIxMDNlNTMyXkEyXkFqcGdeQXVyNTIzMDExMjA@._V1_.jpg",
+              "width": 1170,
+              "height": 1206
+            }
+          ]
+        },
+        "characters": [
+          "A-Train",
+          "Reggie Franklin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0022306",
+          "display_name": "Laz Alonso",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDgyYTJhODktNWNjOS00MDQzLWE0OTAtNDNhOGM0MmZkNmRmXkEyXkFqcGdeQXVyNTE5MDA5NDU@._V1_.jpg",
+              "width": 2400,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Mother's Milk"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2003700",
+          "display_name": "Chace Crawford",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM4Nzc3Njc0N15BMl5BanBnXkFtZTgwMjE0MDEzMTE@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "The Deep",
+          "Kevin Moskowitz"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6150071",
+          "display_name": "Tomer Capone",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjExZDU3YWYtMWI4Ni00YzI4LTkwYzgtY2Q0MTNlOWZhOGJlXkEyXkFqcGc@._V1_CR114,0,455,682_.jpg",
+              "width": 455,
+              "height": 682
+            }
+          ]
+        },
+        "characters": [
+          "Frenchie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7232332",
+          "display_name": "Karen Fukuhara",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzY2YTIzZTUtMGVmMS00OWYzLTk1NjctNGJkOWY4YzQ3YjYxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1668,
+              "height": 2500
+            }
+          ]
+        },
+        "characters": [
+          "Kimiko Miyashiro",
+          "Kimiko"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1756121",
+          "display_name": "Nathan Mitchell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWU1ZjEyNjMtNmQ1Zi00ZjRlLWFlOTctNWY3ZDM1ZjY0YTQwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2611,
+              "height": 3058
+            }
+          ]
+        },
+        "characters": [
+          "Black Noir",
+          "Black Noir II",
+          "Irving"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2281371",
+          "display_name": "Colby Minifie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzQxMTFmM2QtODI1MC00ZTgxLTg3ZjAtZmQ2YjM5YTE5ZDRkXkEyXkFqcGc@._V1_.jpg",
+              "width": 1680,
+              "height": 2100
+            }
+          ]
+        },
+        "characters": [
+          "Ashley Barrett"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1069800",
+          "display_name": "Dominique McElligott",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDQ0MDliMmUtN2VkZC00OWE2LWI0ZWEtNzg3NjYxNjA2NGRlXkEyXkFqcGdeQXVyMTMyNzI3NzIy._V1_.jpg",
+              "width": 1280,
+              "height": 1519
+            }
+          ]
+        },
+        "characters": [
+          "Maggie Shaw",
+          "Queen Maeve"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4707628",
+          "display_name": "Claudia Doumit",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjM5MjRhMzEtYzE3MS00M2ZjLWFhMjMtNjRlYjNlZWY0NjgyXkEyXkFqcGc@._V1_.jpg",
+              "width": 1430,
+              "height": 1948
+            }
+          ]
+        },
+        "characters": [
+          "Victoria Neuman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7805172",
+          "display_name": "Cameron Crovetti",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmFkMTAzYmEtYmNhZi00OWViLTlmZGYtM2ViZDM5YzRhNzFhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 816,
+              "height": 1079
+            }
+          ]
+        },
+        "characters": [
+          "Ryan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6970024",
+          "display_name": "Nneka Elliott",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWJjNGZhZGYtNjAxYi00NTEzLTk4ZTMtZjdiNDI1MDc1NjQwXkEyXkFqcGdeQXVyNDU4MjU4ODE@._V1_.jpg",
+              "width": 3648,
+              "height": 3485
+            }
+          ]
+        },
+        "characters": [
+          "NNC News Anchor",
+          "Female News Anchor",
+          "News Reporter",
+          "NNC News Reporter",
+          "VNN News Reporter"
+        ]
+      }
+    ]
+  }
+}

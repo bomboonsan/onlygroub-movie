@@ -1,0 +1,307 @@
+{
+  "title": {
+    "id": "tt4019560",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Exposed",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 102,
+    "plot": "A police detective investigates the truth behind his partner's death. The mysterious case reveals disturbing police corruption and a dangerous secret involving an unlikely young woman.",
+    "rating": {
+      "aggregate_rating": 4.3,
+      "votes_count": 16824
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjAwMzk1MDI1OF5BMl5BanBnXkFtZTgwMDYxODkzNzE@._V1_.jpg",
+        "width": 2100,
+        "height": 3111
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 23,
+      "review_count": 5
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1768304",
+          "display_name": "Gee Malik Linton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWFiMmI2OTctODc1OS00OTM0LTg2ZDUtN2NjYTZlYTNmOTRkXkEyXkFqcGc@._V1_.jpg",
+              "width": 1296,
+              "height": 1296
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1768304",
+          "display_name": "Gee Malik Linton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWFiMmI2OTctODc1OS00OTM0LTg2ZDUtN2NjYTZlYTNmOTRkXkEyXkFqcGc@._V1_.jpg",
+              "width": 1296,
+              "height": 1296
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1869101",
+          "display_name": "Ana de Armas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWM3MDMzNjMtODM5Ny00YmY0LWJhNzQtNTE1ZDNlNjllNDQ0XkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg",
+              "width": 4000,
+              "height": 2667
+            }
+          ]
+        },
+        "characters": [
+          "Isabel De La Cruz"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2427397",
+          "display_name": "Gabe Vargas",
+          "avatars": null
+        },
+        "characters": [
+          "Manuel 'Rocky' De La Cruz"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4000255",
+          "display_name": "Sandy Tejada",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODg5YzdkOTEtMDE3MS00NGRhLWI0YzMtYTlmYTk3N2NhNmU4XkEyXkFqcGdeQXVyMTY4Nzg1Nzc3._V1_.jpg",
+              "width": 3058,
+              "height": 4080
+            }
+          ]
+        },
+        "characters": [
+          "Yesenia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6872945",
+          "display_name": "Venus Ariel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzk5Njc1MjktNjliMy00NGIwLTk2NTktZTZhOGM3MWNlNjJkXkEyXkFqcGdeQXVyNTYwOTcwMDQ@._V1_.jpg",
+              "width": 4480,
+              "height": 6720
+            }
+          ]
+        },
+        "characters": [
+          "Elisa"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5166378",
+          "display_name": "Ariel Pacheco",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWE1YjRiNTEtYmViNC00NTIxLTkxOTItMzI3NjJiOWZkNjdjXkEyXkFqcGc@._V1_.jpg",
+              "width": 4000,
+              "height": 6000
+            }
+          ]
+        },
+        "characters": [
+          "Naldo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3033454",
+          "display_name": "Ismael Cruz Cordova",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTcxNzkxNzc5MV5BMl5BanBnXkFtZTgwODc2MjA0NzM@._V1_.jpg",
+              "width": 1582,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Jose De La Cruz"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0749689",
+          "display_name": "Anthony Ruiz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODdiY2Q1ZDAtMTY0MC00OTk0LWE2ZGItOTgxY2Q1YTM5NzIxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_CR400,300,1600,2400_.jpg",
+              "width": 1600,
+              "height": 2400
+            }
+          ]
+        },
+        "characters": [
+          "Homeless Man"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7846553",
+          "display_name": "Stephen Thompson",
+          "avatars": null
+        },
+        "characters": [
+          "Albino Floating Man"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000206",
+          "display_name": "Keanu Reeves",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGJmMWEzOGQtMWZkNS00MGNiLTk5NGEtYzg1YzAyZTgzZTZmXkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_.jpg",
+              "width": 1800,
+              "height": 2700
+            }
+          ]
+        },
+        "characters": [
+          "Detective Galban"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000227",
+          "display_name": "Mira Sorvino",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzhmZjVjYTMtODRkYS00MTFjLWE0NDAtMDk5Mzk2M2JhNDliXkEyXkFqcGdeQXVyOTkxMDEwMDE@._V1_.jpg",
+              "width": 1309,
+              "height": 1309
+            }
+          ]
+        },
+        "characters": [
+          "Janine Cullen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0102726",
+          "display_name": "Denia Brache",
+          "avatars": null
+        },
+        "characters": [
+          "Gloria De La Cruz"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0327041",
+          "display_name": "Laura Gómez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg5NTUzOTg5NV5BMl5BanBnXkFtZTgwODM3OTI2NDM@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Eva De La Cruz"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4521141",
+          "display_name": "Jeanette Dilone",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTkxMTE3YzAtM2RlYi00NDhiLWJmNzEtZDBiNzE0YzBiZTk5XkEyXkFqcGc@._V1_.jpg",
+              "width": 2400,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Marisol De La Cruz"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4284111",
+          "display_name": "Danny Guzman",
+          "avatars": null
+        },
+        "characters": [
+          "Gucci De La Cruz"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001520",
+          "display_name": "Christopher McDonald",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGUyNmUyY2MtZjllNC00MzFkLWI5MzYtZThhZTQ5ZWVhYWJlXkEyXkFqcGdeQXVyODM2OTM2OQ@@._V1_.jpg",
+              "width": 900,
+              "height": 1349
+            }
+          ]
+        },
+        "characters": [
+          "Lieutenant Galway"
+        ]
+      }
+    ]
+  }
+}

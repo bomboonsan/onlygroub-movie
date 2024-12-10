@@ -1,0 +1,341 @@
+{
+  "title": {
+    "id": "tt1800241",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "American Hustle",
+    "original_title": null,
+    "start_year": 2013,
+    "end_year": null,
+    "runtime_minutes": 138,
+    "plot": "A con man, Irving Rosenfeld, along with his seductive partner Sydney Prosser, is forced to work for a wild F.B.I. Agent, Richie DiMaso, who pushes them into a world of Jersey powerbrokers and the Mafia.",
+    "rating": {
+      "aggregate_rating": 7.2,
+      "votes_count": 498329
+    },
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMmM4YzJjZGMtNjQxMy00NjdlLWJjYTItZWZkYzdhOTdhNzFiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "width": 648,
+        "height": 960
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CN",
+        "name": "China"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 90,
+      "review_count": 47
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0751102",
+          "display_name": "David O. Russell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMyMzg4NjA0Nl5BMl5BanBnXkFtZTgwNTI5NjQ5NjE@._V1_.jpg",
+              "width": 475,
+              "height": 655
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2545235",
+          "display_name": "Eric Warren Singer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIyMDIyOTQ2MV5BMl5BanBnXkFtZTgwMzI1ODI5MDE@._V1_.jpg",
+              "width": 1364,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0751102",
+          "display_name": "David O. Russell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMyMzg4NjA0Nl5BMl5BanBnXkFtZTgwNTI5NjQ5NjE@._V1_.jpg",
+              "width": 475,
+              "height": 655
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000288",
+          "display_name": "Christian Bale",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Irving Rosenfeld"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0177896",
+          "display_name": "Bradley Cooper",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM0OTIyMzY1M15BMl5BanBnXkFtZTgwMTg0OTE0NzE@._V1_.jpg",
+              "width": 2341,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Richie DiMaso"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0010736",
+          "display_name": "Amy Adams",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg2NTk2MTgxMV5BMl5BanBnXkFtZTgwNjcxMjAzMTI@._V1_.jpg",
+              "width": 1340,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Sydney Prosser"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0719637",
+          "display_name": "Jeremy Renner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTk2NDc2ODgzMF5BMl5BanBnXkFtZTcwMTMzOTQ4Nw@@._V1_.jpg",
+              "width": 363,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Mayor Carmine Polito"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2225369",
+          "display_name": "Jennifer Lawrence",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTU3NDE5MDQ4MV5BMl5BanBnXkFtZTgwMzE5ODQ3MDI@._V1_.jpg",
+              "width": 1284,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Rosalyn Rosenfeld"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0127373",
+          "display_name": "Louis C.K.",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM4OTkwNzg3NF5BMl5BanBnXkFtZTcwMjc5NjcyNw@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Stoddard Thorsen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1658935",
+          "display_name": "Jack Huston",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmJhNzYzNzgtMzUwYS00ZDUzLWJmODItYzRhMTlmMzVjNjkwXkEyXkFqcGdeQXVyMjEwOTk0MTk@._V1_.jpg",
+              "width": 815,
+              "height": 859
+            }
+          ]
+        },
+        "characters": [
+          "Pete Musane"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0671567",
+          "display_name": "Michael Peña",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTczNzcxNTE5NV5BMl5BanBnXkFtZTcwOTE4MTMzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 582
+            }
+          ]
+        },
+        "characters": [
+          "Paco Hernandez",
+          "Sheik Abdullah"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0924154",
+          "display_name": "Shea Whigham",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTQzMDUwNjg1NF5BMl5BanBnXkFtZTgwMzE0NjcxNDE@._V1_.jpg",
+              "width": 2048,
+              "height": 1991
+            }
+          ]
+        },
+        "characters": [
+          "Carl Elway"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005273",
+          "display_name": "Alessandro Nivola",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc5ODIxNzAzOF5BMl5BanBnXkFtZTcwMzE4NDMyNQ@@._V1_.jpg",
+              "width": 282,
+              "height": 401
+            }
+          ]
+        },
+        "characters": [
+          "Anthony Amado"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0737533",
+          "display_name": "Elisabeth Röhm",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDIyM2NlNGQtYTYwMi00NzYwLTg4NjItYWU3NGI4Y2UzZjcyXkEyXkFqcGdeQXVyMjUyNTQzNzk@._V1_.jpg",
+              "width": 1242,
+              "height": 1016
+            }
+          ]
+        },
+        "characters": [
+          "Dolly Polito"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0379200",
+          "display_name": "Paul Herman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjNlZWU5YjEtOWM2Ny00MjUxLTgxNGUtYWM3NzU0OTllMzg0XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 834,
+              "height": 1165
+            }
+          ]
+        },
+        "characters": [
+          "Alfonse Simone"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0846548",
+          "display_name": "Saïd Taghmaoui",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY4OTc0NjkwMF5BMl5BanBnXkFtZTcwNTcwOTgyNQ@@._V1_.jpg",
+              "width": 1379,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Irv's Sheik Plant"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0751330",
+          "display_name": "Matthew Russell",
+          "avatars": null
+        },
+        "characters": [
+          "Dominic Polito"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4626339",
+          "display_name": "Thomas Matthews",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTExNzQ3MDI5NV5BMl5BanBnXkFtZTgwNzg5MDQyNjE@._V1_.jpg",
+              "width": 640,
+              "height": 960
+            }
+          ]
+        },
+        "characters": [
+          "Francis Polito"
+        ]
+      }
+    ]
+  }
+}

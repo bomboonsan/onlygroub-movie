@@ -1,0 +1,302 @@
+{
+  "title": {
+    "id": "tt7737640",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Breaking News in Yuba County",
+    "original_title": null,
+    "start_year": 2021,
+    "end_year": null,
+    "runtime_minutes": 96,
+    "plot": "A woman takes advantage of her growing celebrity status when the police and the public think her dead husband is just missing.",
+    "rating": {
+      "aggregate_rating": 5.8,
+      "votes_count": 7168
+    },
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzg2MGVjNDctZWQ4Ni00MDEzLThkM2MtN2U0MjM5ZTg5ZTY1XkEyXkFqcGc@._V1_.jpg",
+        "width": 1842,
+        "height": 2728
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 24,
+      "review_count": 7
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0853238",
+          "display_name": "Tate Taylor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQxNDQ3OTgwNl5BMl5BanBnXkFtZTcwMjEzMDM5OA@@._V1_.jpg",
+              "width": 197,
+              "height": 256
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm3302028",
+          "display_name": "Amanda Idoko",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0005049",
+          "display_name": "Allison Janney",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAyNjc2NzgxM15BMl5BanBnXkFtZTgwODQyMjM1MjE@._V1_.jpg",
+              "width": 1496,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Sue Buttons"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005109",
+          "display_name": "Mila Kunis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODQyNTQyNzY4MV5BMl5BanBnXkFtZTcwODg5MDA3MQ@@._V1_.jpg",
+              "width": 334,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Nancy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0356021",
+          "display_name": "Regina Hall",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ5NjUyNjk2OF5BMl5BanBnXkFtZTcwNzEwMTYwMg@@._V1_.jpg",
+              "width": 275,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Detective Cam Harris"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5377144",
+          "display_name": "Awkwafina",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU0NTUwNjkyN15BMl5BanBnXkFtZTgwMjM0NzEzMTI@._V1_.jpg",
+              "width": 1473,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mina"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0843100",
+          "display_name": "Wanda Sykes",
+          "avatars": null
+        },
+        "characters": [
+          "Rita"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000289",
+          "display_name": "Ellen Barkin",
+          "avatars": null
+        },
+        "characters": [
+          "Debbie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000546",
+          "display_name": "Matthew Modine",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE3NTE4NjQxOF5BMl5BanBnXkFtZTgwMTI3MzQwNDI@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Karl Buttons"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0801051",
+          "display_name": "Jimmi Simpson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDVlMTExNWYtY2JkNC00OGRhLTkwMDMtMjI2ZmVlYmQ1ZTRkXkEyXkFqcGdeQXVyMzYyMjUwMzE@._V1_.jpg",
+              "width": 1094,
+              "height": 1437
+            }
+          ]
+        },
+        "characters": [
+          "Petey Buttons"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1692978",
+          "display_name": "Keong Sim",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmEwNzA0OWEtMGQwMy00ZTc4LTgxZjctNTVmN2I0NWNhYjlkXkEyXkFqcGdeQXVyMTcyNzk0ODM@._V1_.jpg",
+              "width": 3840,
+              "height": 5760
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Kim"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000496",
+          "display_name": "Juliette Lewis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDNmYmMzNzAtNjEzNy00YWUyLTg0NmItYWI4NWU0YjFhMjlhXkEyXkFqcGdeQXVyMTU3Njg2MjQy._V1_.jpg",
+              "width": 2042,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Gloria Michaels"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0004286",
+          "display_name": "Clifton Collins Jr.",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM3MDgyMzY2Nl5BMl5BanBnXkFtZTcwMjc2MjMzMQ@@._V1_.jpg",
+              "width": 350,
+              "height": 490
+            }
+          ]
+        },
+        "characters": [
+          "Ray"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4148126",
+          "display_name": "Samira Wiley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzMxZGMzYmItODRkMi00NzJkLTllYmItMGExM2JmZjI3OGUwXkEyXkFqcGdeQXVyNjA0MjE4Njk@._V1_.jpg",
+              "width": 4380,
+              "height": 6570
+            }
+          ]
+        },
+        "characters": [
+          "Jonelle"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3008608",
+          "display_name": "Bridget Everett",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk2NjY4NjczMV5BMl5BanBnXkFtZTgwMTI5MDg1NjE@._V1_.jpg",
+              "width": 546,
+              "height": 794
+            }
+          ]
+        },
+        "characters": [
+          "Leah Norton"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3958642",
+          "display_name": "T.C. Matherne",
+          "avatars": null
+        },
+        "characters": [
+          "Officer Jones"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1941237",
+          "display_name": "Dominic Burgess",
+          "avatars": null
+        },
+        "characters": [
+          "Captain Riggins"
+        ]
+      }
+    ]
+  }
+}

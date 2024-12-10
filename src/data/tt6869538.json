@@ -1,0 +1,291 @@
+{
+  "title": {
+    "id": "tt6869538",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Detective Dee: The Four Heavenly Kings",
+    "original_title": "Di Renjie zhi Sidatianwang",
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 132,
+    "plot": "Detective Dee is forced to defend himself against the accusations of Empress Wu while investigating a crime spree.",
+    "rating": {
+      "aggregate_rating": 6.3,
+      "votes_count": 3100
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjgzNmZkZWEtZWQwMS00ZTFhLWJkZjktOWI3ODg5OTI0ZDQ4XkEyXkFqcGc@._V1_.jpg",
+        "width": 1280,
+        "height": 1877
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "TV-MA"
+      }
+    ],
+    "spoken_languages": null,
+    "origin_countries": [
+      {
+        "code": "CN",
+        "name": "China"
+      },
+      {
+        "code": "HK",
+        "name": "Hong Kong (Special Administrative Region of China)"
+      }
+    ],
+    "critic_review": {
+      "score": 58,
+      "review_count": 4
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0007139",
+          "display_name": "Hark Tsui",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzAzMzg0OTc3NV5BMl5BanBnXkFtZTcwNzI4OTI4OQ@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2310115",
+          "display_name": "Chia-Lu Chang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjg0OWFjYjItZWU2YS00ZDcxLWFmOTMtYjRlZDA5NGZkODdjXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 491,
+              "height": 600
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm5341380",
+          "display_name": "Kenny Lin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkzNDYyNjA4OF5BMl5BanBnXkFtZTgwNjAwNjY4MzE@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        },
+        "characters": [
+          "Shatuo Zhong"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0490500",
+          "display_name": "Carina Lau",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDdkODZjY2MtYWFlNS00ZjYxLWE1ZjAtYWEzMWJkYjhiNWNhXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 262,
+              "height": 338
+            }
+          ]
+        },
+        "characters": [
+          "Wu Zetian"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2432722",
+          "display_name": "Ethan Juan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ0MTUwMTUzNl5BMl5BanBnXkFtZTcwMDUwODY2OQ@@._V1_.jpg",
+              "width": 1200,
+              "height": 800
+            }
+          ]
+        },
+        "characters": [
+          "Master Yuan Ce"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2682046",
+          "display_name": "Shaofeng Feng",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzM0MDRhYzctYTA5Ni00YjVmLWJkOWMtNjc5MWQ2MTdkNTQ1XkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 290,
+              "height": 440
+            }
+          ]
+        },
+        "characters": [
+          "Yuchi Zhenjin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3168315",
+          "display_name": "Sichun Ma",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTZjMzU3ODItMTM2ZS00N2NhLWExZGEtMjkwOTJhYjM0ZTA1L2ltYWdlXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 1024,
+              "height": 1536
+            }
+          ]
+        },
+        "characters": [
+          "Shui Yue"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3609766",
+          "display_name": "Mark Chao",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM1OTU0NzEyNF5BMl5BanBnXkFtZTcwMjQ2Mzc3NA@@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Dee"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0304723",
+          "display_name": "Xian Gao",
+          "avatars": null
+        },
+        "characters": [
+          "San Zang"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5071833",
+          "display_name": "Chien Sheng",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTIwNGZmNWItYWYwOC00Nzg1LThhZDYtYmU0Zjk2ZjU2OWE5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 400,
+              "height": 465
+            }
+          ]
+        },
+        "characters": [
+          "Emperor Gaozong"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1167899",
+          "display_name": "Jiaolong Sun",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWEwMmFmMmItMzAxNi00MTNhLWI3MDctNDhhYWRkOWNjZGNiXkEyXkFqcGc@._V1_.jpg",
+              "width": 373,
+              "height": 560
+            }
+          ]
+        },
+        "characters": [
+          "Spectral Blades"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3178635",
+          "display_name": "Bing Lei Li",
+          "avatars": null
+        },
+        "characters": [
+          "Huo Geng"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2849110",
+          "display_name": "Xichao Wang",
+          "avatars": null
+        },
+        "characters": [
+          "Flying Smoke"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7865891",
+          "display_name": "Aoyue Zhang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGFjMTg5ZTYtMWFmNS00ODkxLWI2MjQtZTk5YzE4ZmIyMDY1XkEyXkFqcGc@._V1_.jpg",
+              "width": 799,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Huan Tian Zhenren"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5596317",
+          "display_name": "Minghu Xu",
+          "avatars": null
+        },
+        "characters": [
+          "Yi An"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8095092",
+          "display_name": "Borkhuu Tangad",
+          "avatars": null
+        },
+        "characters": [
+          "Night Ghost"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10812794",
+          "display_name": "Wei Jia",
+          "avatars": null
+        },
+        "characters": [
+          "Head of Wind Warriors",
+          "Faceless Monster"
+        ]
+      }
+    ]
+  }
+}

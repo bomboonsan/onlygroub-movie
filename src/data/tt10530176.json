@@ -1,0 +1,307 @@
+{
+  "title": {
+    "id": "tt10530176",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Call",
+    "original_title": "Kol",
+    "start_year": 2020,
+    "end_year": null,
+    "runtime_minutes": 112,
+    "plot": "Two people live in different times. Seo-Yeon lives in the present and Young-Sook lives in the past. One phone call connects the two, and their lives are changed irrevocably.",
+    "rating": {
+      "aggregate_rating": 7.1,
+      "votes_count": 43746
+    },
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzZlOGEyZTMtYmIxYS00NmIxLWIwNjYtMzY3Yjg2OThjODU2XkEyXkFqcGc@._V1_.jpg",
+        "width": 829,
+        "height": 1200
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "TV-MA"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "kor",
+        "name": "Korean"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "KR",
+        "name": "Republic of Korea"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm8066994",
+          "display_name": "Chung-Hyun Lee",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1230585",
+          "display_name": "Sergio Casci",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm8066994",
+          "display_name": "Chung-Hyun Lee",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm2339975",
+          "display_name": "Park Shin-hye",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjdjNDdmMDItZTE3Ny00MWEwLWFmMTQtZWU5NjczNjgyYTVmXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+              "width": 432,
+              "height": 647
+            }
+          ]
+        },
+        "characters": [
+          "Seo-yeon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9311474",
+          "display_name": "Jeon Jong-seo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU4MDEzMTM2OF5BMl5BanBnXkFtZTgwNjM5MDM5NjM@._V1_.jpg",
+              "width": 1364,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Young-sook"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1118621",
+          "display_name": "Kim Sung-ryung",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjc0MjEyMDQ0NV5BMl5BanBnXkFtZTgwNTk3MjY4MTE@._V1_.jpg",
+              "width": 2048,
+              "height": 1586
+            }
+          ]
+        },
+        "characters": [
+          "Seo-yeon's mother"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5077687",
+          "display_name": "Lee El",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGM5YTZiYWEtMjgwOC00MmQzLWJlNDQtNzBjMDdlNzIwMmM2XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+              "width": 400,
+              "height": 540
+            }
+          ]
+        },
+        "characters": [
+          "Young-sook's mother"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1041146",
+          "display_name": "Park Ho-san",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjVlYzgzMjUtZjdjNy00MzYxLTllZmUtN2I4YmI3M2E4MzBhXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+              "width": 640,
+              "height": 960
+            }
+          ]
+        },
+        "characters": [
+          "Seo-yeon's father"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3403833",
+          "display_name": "Moon Chang-gil",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDRjZTkyZDQtZmJlOS00NzE5LTlmNTktNGQ4NjFkZDAzNDRiXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+              "width": 500,
+              "height": 789
+            }
+          ]
+        },
+        "characters": [
+          "Junk collector"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6771561",
+          "display_name": "Lee Dong-hwi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjY0MmRjNjMtYWNhYS00NTBlLTkwZjktYmE5NTgxMGJiZmYwXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+              "width": 1600,
+              "height": 1999
+            }
+          ]
+        },
+        "characters": [
+          "Baek Mi-hyun"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2442113",
+          "display_name": "Oh Jung-se",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTZmMThhMjktMmRmMi00MDlkLWIzMmEtNGIyZDdjOThiNTM3XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+              "width": 1000,
+              "height": 1167
+            }
+          ]
+        },
+        "characters": [
+          "Sung-ho"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7676531",
+          "display_name": "Eugene Ko",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDBlNjAxMzgtMGU1OC00NDc5LWI1YjYtZDQ1Y2VhOTcyNDU5XkEyXkFqcGdeQXVyNDUxOTUxMTM@._V1_.jpg",
+              "width": 1869,
+              "height": 2800
+            }
+          ]
+        },
+        "characters": [
+          "Min-hyun"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0475129",
+          "display_name": "Grace Lynn Kung",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjRmN2NkMjUtOGUwMy00ODRjLThhM2MtOTQ0ZDkyYzE2MmNiXkEyXkFqcGdeQXVyMDk5MzcxNQ@@._V1_.jpg",
+              "width": 1024,
+              "height": 1536
+            }
+          ]
+        },
+        "characters": [
+          "Young-sook's mother"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3727025",
+          "display_name": "Jo Kyeong-sook",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjEwOWE1NmYtYzRhOC00OWRjLTk3YjItOTg2ZGY3Y2M0Zjg0XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+              "width": 770,
+              "height": 1079
+            }
+          ]
+        },
+        "characters": [
+          "Sun-hee"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5553036",
+          "display_name": "Ryu Kyung-soo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWFhOWJmZmMtNjQ3Ny00ZjNiLWI0ZTMtZWM0ZjEzODAyNjc5XkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_.jpg",
+              "width": 864,
+              "height": 576
+            }
+          ]
+        },
+        "characters": [
+          "Junior police officer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2171510",
+          "display_name": "Jonny Siew",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWI3OGMxMmItZjY5NS00MTFmLTgyNTctYmI3NGE3NzU1MjNkXkEyXkFqcGc@._V1_.jpg",
+              "width": 2518,
+              "height": 3872
+            }
+          ]
+        },
+        "characters": [
+          "Sung-ho"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10082332",
+          "display_name": "Chae-Young Um",
+          "avatars": null
+        },
+        "characters": [
+          "Seo-yeon (young)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3774004",
+          "display_name": "Song Yo-sep",
+          "avatars": null
+        },
+        "characters": [
+          "Police officer"
+        ]
+      }
+    ]
+  }
+}

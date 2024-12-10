@@ -1,0 +1,336 @@
+{
+  "title": {
+    "id": "tt1767372",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "She's Funny That Way",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 93,
+    "plot": "On the set of a playwright's new project, a love triangle forms between his wife, her ex-lover and the call-girl-turned-actress cast in the production.",
+    "rating": {
+      "aggregate_rating": 6.1,
+      "votes_count": 28635
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BODEyMjYzMjY5Ml5BMl5BanBnXkFtZTgwMjYyODQyNjE@._V1_.jpg",
+        "width": 4965,
+        "height": 7305
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "DE",
+        "name": "Germany"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 45,
+      "review_count": 25
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0000953",
+          "display_name": "Peter Bogdanovich",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgxNzQ3NzAxMl5BMl5BanBnXkFtZTcwODQ5NDM5MQ@@._V1_.jpg",
+              "width": 320,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0091673",
+          "display_name": "Louise Stratten",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE4MzkyODQyM15BMl5BanBnXkFtZTcwNzc3MzgzMQ@@._V1_.jpg",
+              "width": 350,
+              "height": 484
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0000953",
+          "display_name": "Peter Bogdanovich",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgxNzQ3NzAxMl5BMl5BanBnXkFtZTcwODQ5NDM5MQ@@._V1_.jpg",
+              "width": 320,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1782299",
+          "display_name": "Imogen Poots",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU3OTA3MzM2NV5BMl5BanBnXkFtZTcwMDczNjY0Mw@@._V1_.jpg",
+              "width": 322,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Isabella Patterson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001152",
+          "display_name": "Illeana Douglas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzVjNTdmZGEtYjBmNC00YTUzLWE4MDQtOGVhYWQ1NGVhZWQzXkEyXkFqcGdeQXVyMzg3MjUyOQ@@._V1_.jpg",
+              "width": 1112,
+              "height": 1366
+            }
+          ]
+        },
+        "characters": [
+          "Judy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0141599",
+          "display_name": "Graydon Carter",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDgwNjM0NTQxMF5BMl5BanBnXkFtZTcwNzI5NTkwNQ@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Limo Driver"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005562",
+          "display_name": "Owen Wilson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgwMzQ4ODYxMV5BMl5BanBnXkFtZTcwNDAwMTc2NQ@@._V1_.jpg",
+              "width": 1285,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Arnold Albertson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5858012",
+          "display_name": "Scott Campbell",
+          "avatars": null
+        },
+        "characters": [
+          "Hotel Guest #1"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3724457",
+          "display_name": "Erin Heatherton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU4ODQ2ODcyOV5BMl5BanBnXkFtZTcwNDcxOTUyNQ@@._V1_.jpg",
+              "width": 1426,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Hotel Guest #2"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3931118",
+          "display_name": "Melanie Hill",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmU3NGViYjctMWJjNi00ZGJlLWFkNGEtMGM0NGJjNzA1MmVjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1200,
+              "height": 1800
+            }
+          ]
+        },
+        "characters": [
+          "Hotel Receptionist"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0388933",
+          "display_name": "Jake Hoffman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDQ2MDJjZjQtNTAzOS00MWJhLTlmODYtMDZlOTFkYjczYmI3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1081,
+              "height": 1441
+            }
+          ]
+        },
+        "characters": [
+          "Hotel Bellboy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0406975",
+          "display_name": "Rhys Ifans",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkyMzU0NDM4Ml5BMl5BanBnXkFtZTcwMDkzMDg5Nw@@._V1_.jpg",
+              "width": 1450,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Seth Gilbert"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0507659",
+          "display_name": "Richard Lewis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA5NDIzMzk0ODJeQTJeQWpwZ15BbWU2MDA3OTI0Mw@@._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Al Finkelstein"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001732",
+          "display_name": "Cybill Shepherd",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUzNTA1Mzg5M15BMl5BanBnXkFtZTYwNjkzNDk3._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Nettie Finkelstein"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000529",
+          "display_name": "Debi Mazar",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODgyNTQxMjM5NV5BMl5BanBnXkFtZTcwOTExOTAyMw@@._V1_.jpg",
+              "width": 293,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Vickie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0671721",
+          "display_name": "Austin Pendleton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTAxMzY4NjY1MzNeQTJeQWpwZ15BbWU3MDIzNjIzNjI@._V1_.jpg",
+              "width": 294,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Judge Pendergast"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0604420",
+          "display_name": "George Morfogen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGZjYzY3YzYtMTM3OS00NzU3LThlNTMtNzZhY2ZlMzhlNTVkXkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_.jpg",
+              "width": 700,
+              "height": 835
+            }
+          ]
+        },
+        "characters": [
+          "Harold Fleet"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0271165",
+          "display_name": "Tovah Feldshuh",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTIxNjM0ODI5MF5BMl5BanBnXkFtZTYwODQyNDky._V1_.jpg",
+              "width": 400,
+              "height": 616
+            }
+          ]
+        },
+        "characters": [
+          "Miriam Pendergast"
+        ]
+      }
+    ]
+  }
+}

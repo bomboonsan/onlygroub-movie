@@ -1,0 +1,367 @@
+{
+  "title": {
+    "id": "tt8356942",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The 355",
+    "original_title": null,
+    "start_year": 2022,
+    "end_year": null,
+    "runtime_minutes": 122,
+    "plot": "When a top-secret weapon falls into mercenary hands, a wild-card C.I.A. agent joins forces with three international agents on a mission to retrieve it, while staying a step ahead of a mysterious woman who's tracking their every move.",
+    "rating": {
+      "aggregate_rating": 5.6,
+      "votes_count": 37818
+    },
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzhkNmZlODUtYWM4YS00NzRlLWEwOTgtM2U5ZDA0ZDJjNDI3XkEyXkFqcGc@._V1_.jpg",
+        "width": 3158,
+        "height": 5000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      },
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      },
+      {
+        "code": "zho",
+        "name": "Chinese"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CN",
+        "name": "China"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "HK",
+        "name": "Hong Kong (Special Administrative Region of China)"
+      },
+      {
+        "code": "MA",
+        "name": "Morocco"
+      },
+      {
+        "code": "TW",
+        "name": "Taiwan (Province of China)"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 40,
+      "review_count": 40
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1334526",
+          "display_name": "Simon Kinberg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA4OTIzMzE4NzleQTJeQWpwZ15BbWU4MDYyMzkzNDUz._V1_.jpg",
+              "width": 395,
+              "height": 594
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0714246",
+          "display_name": "Theresa Rebeck",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1334526",
+          "display_name": "Simon Kinberg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA4OTIzMzE4NzleQTJeQWpwZ15BbWU4MDYyMzkzNDUz._V1_.jpg",
+              "width": 395,
+              "height": 594
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1567113",
+          "display_name": "Jessica Chastain",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU1MDM5NjczOF5BMl5BanBnXkFtZTcwOTY2MDE4OA@@._V1_.jpg",
+              "width": 1268,
+              "height": 1884
+            }
+          ]
+        },
+        "characters": [
+          "Mace",
+          "Mason Browne"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0004851",
+          "display_name": "Penélope Cruz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM0Mzc1MTc2OF5BMl5BanBnXkFtZTcwMzE4MzQxMw@@._V1_.jpg",
+              "width": 270,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Graciela Rivera"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1549063",
+          "display_name": "Bingbing Fan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQzMjcyNjk5NF5BMl5BanBnXkFtZTcwNDIzOTc0OQ@@._V1_.jpg",
+              "width": 709,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Lin Mi Sheng"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1208167",
+          "display_name": "Diane Kruger",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM3MzY0Nzk2Ml5BMl5BanBnXkFtZTcwODQ0MTMyMw@@._V1_.jpg",
+              "width": 408,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Marie Schmidt"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2143282",
+          "display_name": "Lupita Nyong'o",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY0NTQ4MDY2Nl5BMl5BanBnXkFtZTgwNDk1MTEyMDE@._V1_.jpg",
+              "width": 1360,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Khadijah Adiyeme"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1659221",
+          "display_name": "Sebastian Stan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTk2OGU4NzktODhhOC00Nzc2LWIyNzYtOWViMjljZGFiNTMxXkEyXkFqcGdeQXVyMTE1NTQwOTk@._V1_.jpg",
+              "width": 3300,
+              "height": 4293
+            }
+          ]
+        },
+        "characters": [
+          "Nick Fowler"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1183149",
+          "display_name": "Edgar Ramírez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI4MDgyODI2MV5BMl5BanBnXkFtZTgwMDA1NjUzNjM@._V1_.jpg",
+              "width": 1360,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Luis Rojas"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0002076",
+          "display_name": "Jason Flemyng",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA0MjUxNTk5MV5BMl5BanBnXkFtZTcwOTE0OTEyOA@@._V1_.jpg",
+              "width": 1660,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Elijah Clarke"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0343857",
+          "display_name": "Sylvester Groth",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTgzMGU4YzItNGVjNi00ODY5LWIyY2EtZDIxMDM5NGYzZDk5XkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_.jpg",
+              "width": 600,
+              "height": 900
+            }
+          ]
+        },
+        "characters": [
+          "Jonas Muller"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1479034",
+          "display_name": "John Douglas Thompson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjA3OWQ2NmYtY2M5YS00ZThlLTgwMjMtZmRhMWMyNDFjYzg0XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 798,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Larry Marks"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4222685",
+          "display_name": "Leo Staar",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmI0MDQ4NTMtMDZiYi00MTEzLTk1ZTQtNTIyYmRmOGNkZjdmXkEyXkFqcGdeQXVyMzE0MTcyMjA@._V1_.jpg",
+              "width": 2000,
+              "height": 2667
+            }
+          ]
+        },
+        "characters": [
+          "Grady"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0778637",
+          "display_name": "Pablo Scola",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYwOTA3OTMxNV5BMl5BanBnXkFtZTcwODA3ODA0MQ@@._V1_.jpg",
+              "width": 450,
+              "height": 678
+            }
+          ]
+        },
+        "characters": [
+          "Santiago"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4427839",
+          "display_name": "Marcello Cruz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjIyOGYzNDUtNTYzNC00MDk3LThhNjctZTA3OGIyOTVhNmE2XkEyXkFqcGc@._V1_.jpg",
+              "width": 729,
+              "height": 887
+            }
+          ]
+        },
+        "characters": [
+          "Jeronimo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4727534",
+          "display_name": "Eddie Arnold",
+          "avatars": null
+        },
+        "characters": [
+          "Agent Team Leader Ramirez"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9873540",
+          "display_name": "Sebastián Capitán Viveros",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzA4NzllMGUtNTNhNi00NTJkLTgzNDYtMTk3NDU1Nzc5OTNkXkEyXkFqcGdeQXVyNDYwNTY0NTY@._V1_.jpg",
+              "width": 2736,
+              "height": 4104
+            }
+          ]
+        },
+        "characters": [
+          "Agent #1"
+        ]
+      }
+    ]
+  }
+}

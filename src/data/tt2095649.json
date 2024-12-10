@@ -1,0 +1,354 @@
+{
+  "title": {
+    "id": "tt2095649",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Grace of Monaco",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 103,
+    "plot": "The story of former Hollywood star Grace Kelly's crisis of marriage and identity, during a political dispute between Monaco's Prince Rainier III and France's Charles De Gaulle, and a looming French invasion of Monaco in the early 1960s.",
+    "rating": {
+      "aggregate_rating": 5.7,
+      "votes_count": 21201
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzYyNDg4YzItZWFmNS00YWRkLWFhZWEtZTJiYjY0NjMxODQwXkEyXkFqcGc@._V1_.jpg",
+        "width": 2834,
+        "height": 3850
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "Not Rated"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      },
+      {
+        "code": "ita",
+        "name": "Italian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "BE",
+        "name": "Belgium"
+      },
+      {
+        "code": "CH",
+        "name": "Switzerland"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "IT",
+        "name": "Italy"
+      },
+      {
+        "code": "LU",
+        "name": "Luxembourg"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 21,
+      "review_count": 10
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0196860",
+          "display_name": "Olivier Dahan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg2NDQ1NjU4Nl5BMl5BanBnXkFtZTYwMTM2ODY3._V1_.jpg",
+              "width": 378,
+              "height": 559
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm3885069",
+          "display_name": "Arash Amel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDhiZTgxYmQtMDEwYS00ZTc2LTg5OGUtNjE2OGVhZmFkYjY4XkEyXkFqcGdeQXVyMjMyMjA2Njc@._V1_.jpg",
+              "width": 1536,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000173",
+          "display_name": "Nicole Kidman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk1MjM5NDg4MF5BMl5BanBnXkFtZTcwNDg1OTQ4Nw@@._V1_.jpg",
+              "width": 1404,
+              "height": 1902
+            }
+          ]
+        },
+        "characters": [
+          "Grace"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000619",
+          "display_name": "Tim Roth",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA5NTA3MDQyOV5BMl5BanBnXkFtZTcwODM4NDE3Mw@@._V1_.jpg",
+              "width": 312,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Prince Rainier"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001449",
+          "display_name": "Frank Langella",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI5MDc0NTI3Nl5BMl5BanBnXkFtZTcwMTgzNjQzMg@@._V1_.jpg",
+              "width": 283,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Francis Tucker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0891895",
+          "display_name": "Paz Vega",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDVjNDFmZjktMzUyOC00NDg5LTlmYjMtZDA5YTMxZTk4ZTNhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 657,
+              "height": 818
+            }
+          ]
+        },
+        "characters": [
+          "Maria Callas"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000205",
+          "display_name": "Parker Posey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGZhZWMzYTYtNTRiZS00NzkwLWEyZGItODAxNjQwM2ZlNmUxXkEyXkFqcGdeQXVyMTExNzQ3MzAw._V1_.jpg",
+              "width": 360,
+              "height": 358
+            }
+          ]
+        },
+        "characters": [
+          "Madge"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0893257",
+          "display_name": "Milo Ventimiglia",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWFlMjU0OWYtNDI3Mi00MmVmLWFkNjUtNWVkYWJhYjNlMDdiXkEyXkFqcGdeQXVyOTE0NjgwMjY@._V1_.jpg",
+              "width": 3475,
+              "height": 5212
+            }
+          ]
+        },
+        "characters": [
+          "Rupert Allan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0813893",
+          "display_name": "Geraldine Somerville",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEzNjk5MjA3NF5BMl5BanBnXkFtZTcwMjUxNTY5OA@@._V1_.jpg",
+              "width": 960,
+              "height": 1280
+            }
+          ]
+        },
+        "characters": [
+          "Princess Antoinette"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0268297",
+          "display_name": "Nicholas Farrell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg2MDk5MjA3MV5BMl5BanBnXkFtZTYwOTIxNDc2._V1_.jpg",
+              "width": 485,
+              "height": 322
+            }
+          ]
+        },
+        "characters": [
+          "Jean-Charles Rey"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0512305",
+          "display_name": "Robert Lindsay",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUxMjkxNzQwNF5BMl5BanBnXkFtZTcwODE5MDMyOA@@._V1_.jpg",
+              "width": 1361,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Aristotle Onassis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001394",
+          "display_name": "Derek Jacobi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIzMDkwNzI2OF5BMl5BanBnXkFtZTcwMDkxODgwMw@@._V1_.jpg",
+              "width": 2048,
+              "height": 2039
+            }
+          ]
+        },
+        "characters": [
+          "Count Fernando D'Aillieres"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0672422",
+          "display_name": "André Penvern",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2E1NmQ2N2ItYjAwMy00ODFmLWIxZDAtYmFmN2JjNzFmYTkzXkEyXkFqcGdeQXVyMTY3NTY5OTcx._V1_.jpg",
+              "width": 554,
+              "height": 776
+            }
+          ]
+        },
+        "characters": [
+          "Charles de Gaulle"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0050210",
+          "display_name": "Jeanne Balibar",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjE0MDM2NjE5NF5BMl5BanBnXkFtZTYwMzM5Nzc4._V1_.jpg",
+              "width": 485,
+              "height": 323
+            }
+          ]
+        },
+        "characters": [
+          "Countess Baciochi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2929459",
+          "display_name": "Flora Nicholson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDVhNzM3NGQtMjZjNy00ZmQ1LWIzMGMtZTE0NzRhYWIzM2M4XkEyXkFqcGc@._V1_.jpg",
+              "width": 1920,
+              "height": 1040
+            }
+          ]
+        },
+        "characters": [
+          "Phyllis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0415191",
+          "display_name": "Yves Jacques",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzM2NDA5NTc2Ml5BMl5BanBnXkFtZTYwMDIxNTAz._V1_.jpg",
+              "width": 450,
+              "height": 683
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Delavenne"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0705005",
+          "display_name": "Olivier Rabourdin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEyNjU2MDI3MF5BMl5BanBnXkFtZTcwOTk3MDE1Mw@@._V1_.jpg",
+              "width": 2048,
+              "height": 1360
+            }
+          ]
+        },
+        "characters": [
+          "Emile Pelletier"
+        ]
+      }
+    ]
+  }
+}

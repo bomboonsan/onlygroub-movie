@@ -1,0 +1,324 @@
+{
+  "title": {
+    "id": "tt1730768",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Zookeeper's Wife",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 127,
+    "plot": "Keepers of the Warsaw Zoo, Antonina and Jan Zabinski, must save hundreds of people and animals during the Nazi invasion in WWII Poland.",
+    "rating": {
+      "aggregate_rating": 7,
+      "votes_count": 46721
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmM4YmY4ZDItZWQ3MC00MmMwLWI4MGUtMzlhMzE1YjE2NjgyXkEyXkFqcGc@._V1_.jpg",
+        "width": 1025,
+        "height": 1583
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "heb",
+        "name": "Hebrew"
+      },
+      {
+        "code": "pol",
+        "name": "Polish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CZ",
+        "name": "Czechia"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 57,
+      "review_count": 36
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0138927",
+          "display_name": "Niki Caro",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDI4MTgzNjMyNF5BMl5BanBnXkFtZTcwMjg2OTkxMw@@._V1_.jpg",
+              "width": 1110,
+              "height": 1606
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0941453",
+          "display_name": "Angela Workman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGIxNjA1MDEtN2RiOS00Mjk3LTk1OGQtOTg0ZmZlOTE2NDAzXkEyXkFqcGdeQXVyODQ0MTYxMQ@@._V1_.jpg",
+              "width": 400,
+              "height": 600
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2430979",
+          "display_name": "Diane Ackerman",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1567113",
+          "display_name": "Jessica Chastain",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU1MDM5NjczOF5BMl5BanBnXkFtZTcwOTY2MDE4OA@@._V1_.jpg",
+              "width": 1268,
+              "height": 1884
+            }
+          ]
+        },
+        "characters": [
+          "Antonina Zabinska"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0374949",
+          "display_name": "Johan Heldenbergh",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODU4NzQ1MTExOV5BMl5BanBnXkFtZTgwNDEyNDc4MTI@._V1_.jpg",
+              "width": 2048,
+              "height": 1362
+            }
+          ]
+        },
+        "characters": [
+          "Jan Zabinski"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0117709",
+          "display_name": "Daniel Brühl",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzliYzY1NWQtNTFhYy00NjVhLTlkOGItY2RhNDgwOTg5ZDhiXkEyXkFqcGdeQXVyNTkzODg0ODk@._V1_.jpg",
+              "width": 1490,
+              "height": 1987
+            }
+          ]
+        },
+        "characters": [
+          "Lutz Heck"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7666861",
+          "display_name": "Timothy Radford",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjY3NGViNzItMDVkZS00ZWUxLTg1NDMtMDlhMjBmM2FkY2EwXkEyXkFqcGc@._V1_.jpg",
+              "width": 1414,
+              "height": 1520
+            }
+          ]
+        },
+        "characters": [
+          "Ryszard Zabinski (Younger)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3575889",
+          "display_name": "Efrat Dor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzk0NTM4YjctNmVhNS00NDkwLTg4NGMtYWY0ZDA0YjljYWExXkEyXkFqcGc@._V1_.jpg",
+              "width": 500,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Magda Gross"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0325221",
+          "display_name": "Iddo Goldberg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI3MDE3NzUxOF5BMl5BanBnXkFtZTgwNDEwOTgzNDM@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Maurycy Fraenkel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6024635",
+          "display_name": "Shira Haas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGMyNWIzM2QtOGFkOS00ODIyLWE2ZDItMzIzYWI5ZDUzZGQ5XkEyXkFqcGdeQXVyMzQ0NTk5NzU@._V1_.jpg",
+              "width": 3082,
+              "height": 3331
+            }
+          ]
+        },
+        "characters": [
+          "Urszula"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0568385",
+          "display_name": "Michael McElhatton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAzMTIzNjAwMF5BMl5BanBnXkFtZTgwMzc4NTk1ODE@._V1_.jpg",
+              "width": 1368,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Jerzyk"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7307794",
+          "display_name": "Val Maloku",
+          "avatars": null
+        },
+        "characters": [
+          "Ryszard Zabinski (Older)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0411568",
+          "display_name": "Martha Issová",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2M5YWJkZmEtODA4Mi00MzFlLWExNGYtN2ZiNmM0ZjNhOGM5XkEyXkFqcGc@._V1_.jpg",
+              "width": 454,
+              "height": 684
+            }
+          ]
+        },
+        "characters": [
+          "Regina Kenigswein"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5000658",
+          "display_name": "Daniel Ratimorský",
+          "avatars": null
+        },
+        "characters": [
+          "Samuel Kenigswein"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7684187",
+          "display_name": "Frederick Preston",
+          "avatars": null
+        },
+        "characters": [
+          "Miecio Kenigswein"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7684188",
+          "display_name": "Theo Preston",
+          "avatars": null
+        },
+        "characters": [
+          "Stefcio Kenigswein"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8765250",
+          "display_name": "Viktoria Zakharyanova",
+          "avatars": null
+        },
+        "characters": [
+          "Stefania Keningswein"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1336552",
+          "display_name": "Goran Kostic",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUxNjIwNzAwNl5BMl5BanBnXkFtZTcwMTQ5MjQxNw@@._V1_.jpg",
+              "width": 1610,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Kinszerbaum"
+        ]
+      }
+    ]
+  }
+}

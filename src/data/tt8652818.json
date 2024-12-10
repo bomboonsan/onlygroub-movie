@@ -1,0 +1,275 @@
+{
+  "title": {
+    "id": "tt8652818",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Violet Evergarden: The Movie",
+    "original_title": "Gekijouban Violet Evergarden",
+    "start_year": 2020,
+    "end_year": null,
+    "runtime_minutes": 140,
+    "plot": "After the aftermath of a war, a young girl who was used as a 'tool' for war learned to live. With the scars of burns, she goes back to her past to feel the true feelings of the Major's, \"I love you.\"",
+    "rating": {
+      "aggregate_rating": 8.3,
+      "votes_count": 10278
+    },
+    "genres": [
+      "Animation",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTJmNzc5YTEtNTBmNy00YmUxLWFlNzktYjZjMTg3OGY3ZDhkXkEyXkFqcGdeQXVyMzUzMzgxNA@@._V1_.jpg",
+        "width": 424,
+        "height": 600
+      }
+    ],
+    "certificates": null,
+    "spoken_languages": [
+      {
+        "code": "jpn",
+        "name": "Japanese"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CZ",
+        "name": "Czechia"
+      },
+      {
+        "code": "DE",
+        "name": "Germany"
+      },
+      {
+        "code": "JP",
+        "name": "Japan"
+      },
+      {
+        "code": "KR",
+        "name": "Republic of Korea"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm2518118",
+          "display_name": "Taichi Ishidate",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm9183441",
+          "display_name": "Kana Akatsuki",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1027089",
+          "display_name": "Reiko Yoshida",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm3426369",
+          "display_name": "Yui Ishikawa",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzdlOTdlNDEtZTViMy00NGQyLTg2YWQtYWY1YWUzY2E2MjFhXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 783,
+              "height": 1104
+            }
+          ]
+        },
+        "characters": [
+          "Violet Evergarden"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0620657",
+          "display_name": "Daisuke Namikawa",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWVhZjEzZjUtZWU1Ni00NDAyLTk3OGQtZWUyMWE3Mzc0OTJlXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+              "width": 460,
+              "height": 460
+            }
+          ]
+        },
+        "characters": [
+          "Gilbert Bougainvillea"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0468729",
+          "display_name": "Takehito Koyasu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWIwMzhiYmYtNWEyOS00NWZjLTgwYTAtZTRhZjI2OGNlZjhjXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+              "width": 525,
+              "height": 788
+            }
+          ]
+        },
+        "characters": [
+          "Claudia Hodgins"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1428827",
+          "display_name": "Hidenobu Kiuchi",
+          "avatars": null
+        },
+        "characters": [
+          "Dietfried Bougainvillea"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2955927",
+          "display_name": "Haruka Tomatsu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDg5MjA4MDctYWExOC00MzU4LTliZDMtYzg0OTU5OTIxZmI5XkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+              "width": 708,
+              "height": 982
+            }
+          ]
+        },
+        "characters": [
+          "Iris Cannary"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2146022",
+          "display_name": "Kôki Uchiyama",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGM1NmJmYjQtZGI0Yy00ZDU1LTkzOWMtYjhiZTMwNzAwMTFkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+              "width": 688,
+              "height": 930
+            }
+          ]
+        },
+        "characters": [
+          "Benedict Blue"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2594314",
+          "display_name": "Aya Endô",
+          "avatars": null
+        },
+        "characters": [
+          "Cattleya Baudelaire"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2276741",
+          "display_name": "Minori Chihara",
+          "avatars": null
+        },
+        "characters": [
+          "Erica Brown"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0594646",
+          "display_name": "Kaori Mizuhashi",
+          "avatars": null
+        },
+        "characters": [
+          "Ulysse"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2051934",
+          "display_name": "Rina Satô",
+          "avatars": null
+        },
+        "characters": [
+          "Luca"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3213978",
+          "display_name": "Daichi Endô",
+          "avatars": null
+        },
+        "characters": [
+          "Ulysse's Father"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3740910",
+          "display_name": "Mayuno Yasokawa",
+          "avatars": null
+        },
+        "characters": [
+          "Ulysse's Mother"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0559540",
+          "display_name": "Megumi Matsumoto",
+          "avatars": null
+        },
+        "characters": [
+          "Shion"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3435770",
+          "display_name": "Sumire Morohoshi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzZkMjMwNDgtMjZmZi00YTc3LTg3ZGUtYjkyZjFiNDk2ZWVlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+              "width": 720,
+              "height": 944
+            }
+          ]
+        },
+        "characters": [
+          "Daisy Magnolia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0620124",
+          "display_name": "Jôji Nakata",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDVlYzE1NDctYjY5My00YjNjLTkyMGQtMjU2ZmEyNTIzNGQzXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 761,
+              "height": 1148
+            }
+          ]
+        },
+        "characters": [
+          "Lord Bougainvillea"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "title": {
+    "id": "tt3499096",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Race",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 134,
+    "plot": "Jesse Owens' quest to become the greatest track and field athlete in history thrusts him onto the world stage of the 1936 Olympics, where he faces off against Adolf Hitler's vision of Aryan supremacy.",
+    "rating": {
+      "aggregate_rating": 7.1,
+      "votes_count": 40996
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQ3MDM1MDU2NF5BMl5BanBnXkFtZTgwMzM3OTIzNzE@._V1_.jpg",
+        "width": 1383,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "DE",
+        "name": "Germany"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 56,
+      "review_count": 35
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0394280",
+          "display_name": "Stephen Hopkins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY0MzAyNDI4Ml5BMl5BanBnXkFtZTYwNDYzNjkz._V1_.jpg",
+              "width": 270,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1100123",
+          "display_name": "Joe Shrapnel",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm3143608",
+          "display_name": "Anna Waterhouse",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm4150847",
+          "display_name": "Stephan James",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIxNjQ4MzkwNV5BMl5BanBnXkFtZTgwNDQ3NDMyMTI@._V1_.jpg",
+              "width": 1414,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Jesse Owens"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0837177",
+          "display_name": "Jason Sudeikis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE3NTE4Nzg3Ml5BMl5BanBnXkFtZTgwODc5OTUxMTI@._V1_.jpg",
+              "width": 1356,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Larry Snyder"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2345856",
+          "display_name": "Eli Goree",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjViMGMxMGItNzdmYS00OWVhLWJlZmYtMGU4M2JiOGI4ZTg3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "width": 4480,
+              "height": 6720
+            }
+          ]
+        },
+        "characters": [
+          "Dave Albritton"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4002412",
+          "display_name": "Shanice Banton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgwNDkyMDU3OV5BMl5BanBnXkFtZTgwNjUxNjM5NzE@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        },
+        "characters": [
+          "Ruth Solomon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0396924",
+          "display_name": "Carice van Houten",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWYzYjI3YmYtNzc0OC00YTYyLTliOTAtZmYwOGZiOGFmNjQ0XkEyXkFqcGdeQXVyMTY1ODY0NDA@._V1_.jpg",
+              "width": 3055,
+              "height": 3928
+            }
+          ]
+        },
+        "characters": [
+          "Leni Riefenstahl"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000460",
+          "display_name": "Jeremy Irons",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY5Mzg2NDY5OV5BMl5BanBnXkFtZTcwMDQwNzA0Mg@@._V1_.jpg",
+              "width": 303,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Avery Brundage"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000458",
+          "display_name": "William Hurt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEyNzA5MTUxN15BMl5BanBnXkFtZTcwMTU3ODQ3MQ@@._V1_.jpg",
+              "width": 276,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Jeremiah Mahoney"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1269088",
+          "display_name": "David Kross",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTAxMTNiNjgtOGU5Ni00Yzg3LWEyMWMtNDFlNzgxM2U3NTMxXkEyXkFqcGdeQXVyMTI3OTk0ODQ4._V1_.jpg",
+              "width": 3233,
+              "height": 2794
+            }
+          ]
+        },
+        "characters": [
+          "Carl 'Luz' Long"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0383425",
+          "display_name": "Jonathan Higgins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjFjMmYwMDItMzlmYS00OTY2LWIwNzgtZmVmMThkZmE2NGNiXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1517,
+              "height": 1470
+            }
+          ]
+        },
+        "characters": [
+          "Dean Cromwell"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0192889",
+          "display_name": "Tony Curran",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmQzYjNjNDEtOTg2YS00YWMyLTg5MTQtNWYzYmYwOWM0MWQ2XkEyXkFqcGdeQXVyMzA4NDA5NTg@._V1_.jpg",
+              "width": 691,
+              "height": 863
+            }
+          ]
+        },
+        "characters": [
+          "Lawson Robertson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1468739",
+          "display_name": "Amanda Crew",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjI3MmU0NmYtMGUzZi00NjcxLTk0OWUtZDFjNWIwZDhkNjk5XkEyXkFqcGdeQXVyMzg0OTM5NTQ@._V1_.jpg",
+              "width": 4259,
+              "height": 4533
+            }
+          ]
+        },
+        "characters": [
+          "Peggy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0582614",
+          "display_name": "Barnaby Metschurat",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGU0NmEwZDktMTJmOC00YmI0LTg3NjYtMWUwNWYyYmNjNzVjXkEyXkFqcGc@._V1_CR0,502,2065,3098_.jpg",
+              "width": 2065,
+              "height": 3098
+            }
+          ]
+        },
+        "characters": [
+          "Joseph Goebbels"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6698172",
+          "display_name": "Chantel Riley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDI5ZmNiNTgtMzUzOC00YjQ0LWFhOTQtZjRhMjdkZmFmMDdjXkEyXkFqcGdeQXVyODIzMjg0MzM@._V1_.jpg",
+              "width": 1200,
+              "height": 1600
+            }
+          ]
+        },
+        "characters": [
+          "Quincella"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0903985",
+          "display_name": "Vlasta Vrana",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzRmODQ2NGMtM2Y2Yi00NjFkLWFhNTEtNjgxNDg3ZGNmYmM0XkEyXkFqcGdeQXVyMTE0NjIxNjY@._V1_.jpg",
+              "width": 2384,
+              "height": 3271
+            }
+          ]
+        },
+        "characters": [
+          "St-John"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3875456",
+          "display_name": "Shamier Anderson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGQ0ZWE3MDktMjVhOS00MTgyLTgzZDYtNmUwZTM2YmQ2NTU0XkEyXkFqcGdeQXVyMzU2MTUxMDM@._V1_.jpg",
+              "width": 3764,
+              "height": 4704
+            }
+          ]
+        },
+        "characters": [
+          "Eulace Peacock"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,434 @@
+{
+  "title": {
+    "id": "tt0386676",
+    "type": "tvSeries",
+    "is_adult": false,
+    "primary_title": "The Office",
+    "original_title": null,
+    "start_year": 2005,
+    "end_year": 2013,
+    "runtime_minutes": 22,
+    "plot": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, tedium and romance.",
+    "rating": {
+      "aggregate_rating": 9,
+      "votes_count": 713850
+    },
+    "genres": [
+      "Comedy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDNkOTE4NDQtMTNmYi00MWE0LWE4ZTktYTc0NzhhNWIzNzJiXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg",
+        "width": 1280,
+        "height": 1922
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "TV-14"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm0082450",
+          "display_name": "Paul Feig",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjUyODUyODQzM15BMl5BanBnXkFtZTcwNzM3MjE3NA@@._V1_.jpg",
+              "width": 1430,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0251848",
+          "display_name": "Randall Einhorn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQwNTczNDA3NV5BMl5BanBnXkFtZTcwMjk5OTQwOA@@._V1_.jpg",
+              "width": 1297,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0477129",
+          "display_name": "Ken Kwapis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAwNDU3ODYxNl5BMl5BanBnXkFtZTgwNjQ5MTc0NjE@._V1_.jpg",
+              "width": 2531,
+              "height": 3797
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0199948",
+          "display_name": "Greg Daniels",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQzMTY4NjE0Ml5BMl5BanBnXkFtZTcwNTE0MTg2OA@@._V1_.jpg",
+              "width": 1364,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0998825",
+          "display_name": "Jeffrey Blitz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDczMTAzYzctYjk4OS00NDRmLWJhNjItYzJmNGJmYjA3NWU0XkEyXkFqcGdeQXVyNzY1NjI0OQ@@._V1_.jpg",
+              "width": 5616,
+              "height": 3744
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0199948",
+          "display_name": "Greg Daniels",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQzMTY4NjE0Ml5BMl5BanBnXkFtZTcwNTE0MTg2OA@@._V1_.jpg",
+              "width": 1364,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0315041",
+          "display_name": "Ricky Gervais",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQzOTEzMTk1M15BMl5BanBnXkFtZTgwODI1Mzc0MDI@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0580351",
+          "display_name": "Stephen Merchant",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkyNzIwNjcxNV5BMl5BanBnXkFtZTcwOTQzMDQ1NA@@._V1_.jpg",
+              "width": 1603,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2874818",
+          "display_name": "Carrie Kemper",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1411676",
+          "display_name": "Mindy Kaling",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzQ2OTUzNDU1MF5BMl5BanBnXkFtZTcwODQ2MTYyNw@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0933988",
+          "display_name": "Rainn Wilson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGMyYzM0ZWEtZDA1ZC00NmUzLThjNWMtOGM0NGIyY2Y3YTgxXkEyXkFqcGdeQXVyMTMyNzI3NzIy._V1_.jpg",
+              "width": 1280,
+              "height": 1932
+            }
+          ]
+        },
+        "characters": [
+          "Dwight Schrute"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1024677",
+          "display_name": "John Krasinski",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc3MzY3MjQ3OV5BMl5BanBnXkFtZTcwODI3NjQxMw@@._V1_.jpg",
+              "width": 287,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Jim Halpert"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0278979",
+          "display_name": "Jenna Fischer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMyOTYzODQ5MF5BMl5BanBnXkFtZTcwMjE3MDgzMQ@@._V1_.jpg",
+              "width": 320,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Pam Beesly"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1534715",
+          "display_name": "Leslie David Baker",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc2ODA4NTUzNV5BMl5BanBnXkFtZTcwMzE0MjMxMw@@._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Stanley Hudson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1580911",
+          "display_name": "Brian Baumgartner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWFmNmU5MDQtZTZmMC00YjNlLWE1NWEtOWRkN2E3OTdiZjYyXkEyXkFqcGdeQXVyMTY4NzM1Njk4._V1_.jpg",
+              "width": 2400,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Kevin Malone"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1526554",
+          "display_name": "Angela Kinsey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDg2MTIxNzgzMV5BMl5BanBnXkFtZTcwMDUyOTY1Nw@@._V1_.jpg",
+              "width": 1429,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Angela Martin",
+          "Angela Martin-Lipton",
+          "Angela Schrute"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0281212",
+          "display_name": "Kate Flannery",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ2NzM3NjU0OF5BMl5BanBnXkFtZTcwOTUwMTkyMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 433
+            }
+          ]
+        },
+        "characters": [
+          "Meredith Palmer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0809613",
+          "display_name": "Phyllis Smith",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA4NTM3NjUwMV5BMl5BanBnXkFtZTcwMDMyMTk3Mw@@._V1_.jpg",
+              "width": 1421,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Phyllis Vance",
+          "Phyllis Lapin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0105588",
+          "display_name": "Creed Bratton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQzNDMwMjQ5OF5BMl5BanBnXkFtZTgwMTc5MTY1OTE@._V1_.jpg",
+              "width": 1709,
+              "height": 1367
+            }
+          ]
+        },
+        "characters": [
+          "Creed Bratton"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1386645",
+          "display_name": "Oscar Nuñez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc1OTEyMjM4M15BMl5BanBnXkFtZTgwNTI3MTg0MjE@._V1_.jpg",
+              "width": 1561,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Oscar Martinez"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1145983",
+          "display_name": "B.J. Novak",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU0MTg4MzEyMl5BMl5BanBnXkFtZTcwMzUxMzAyOA@@._V1_.jpg",
+              "width": 640,
+              "height": 960
+            }
+          ]
+        },
+        "characters": [
+          "Ryan Howard"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1411676",
+          "display_name": "Mindy Kaling",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzQ2OTUzNDU1MF5BMl5BanBnXkFtZTcwODQ2MTYyNw@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Kelly Kapoor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1159180",
+          "display_name": "Ed Helms",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk2MDQwODEwNV5BMl5BanBnXkFtZTcwNjc4MTY0NA@@._V1_.jpg",
+              "width": 1605,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Andy Bernard"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0136797",
+          "display_name": "Steve Carell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMyOTM2OTk1Ml5BMl5BanBnXkFtZTgwMTI3MzkyNjM@._V1_.jpg",
+              "width": 1371,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Michael Scott"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0509425",
+          "display_name": "Paul Lieberstein",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTM1OWNkOWMtOWZiYS00OWI5LWI0MjEtZGUzMTZiYjEzZTI1XkEyXkFqcGdeQXVyNjAyMTkwODQ@._V1_.jpg",
+              "width": 720,
+              "height": 720
+            }
+          ]
+        },
+        "characters": [
+          "Toby Flenderson"
+        ]
+      }
+    ]
+  }
+}

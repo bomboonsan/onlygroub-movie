@@ -1,0 +1,316 @@
+{
+  "title": {
+    "id": "tt5715410",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Son of Bigfoot",
+    "original_title": "The Son of Bigfoot",
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 92,
+    "plot": "A young teenage boy sets out to find his missing father, only to discover that he's actually the mythical creature known as Bigfoot.",
+    "rating": {
+      "aggregate_rating": 6.1,
+      "votes_count": 8347
+    },
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzE0YmUzMTQtYWUwZi00NDcxLTk4ZmUtZDhhMGE1ZDQ5ZTY1XkEyXkFqcGc@._V1_.jpg",
+        "width": 3167,
+        "height": 4724
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "BE",
+        "name": "Belgium"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm0214857",
+          "display_name": "Jérémie Degruson",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0823721",
+          "display_name": "Ben Stassen",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1779809",
+          "display_name": "Bob Barlen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDk4NzcyNTEzMV5BMl5BanBnXkFtZTcwNzA4Mjk5OA@@._V1_.jpg",
+              "width": 3596,
+              "height": 5760
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2117510",
+          "display_name": "Cal Brunker",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDJhMGI5YjQtYWVjMi00ZWNkLWE1MjUtMjRkOGJlNzdlMmExXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2854,
+              "height": 3996
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1197574",
+          "display_name": "Cinda Adams",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTRmZWE2NDctMWIxMS00MzJjLTg3YmItYzI0ZjEzYjMzNmYxXkEyXkFqcGdeQXVyMTk3MjQzMjg@._V1_.jpg",
+              "width": 507,
+              "height": 570
+            }
+          ]
+        },
+        "characters": [
+          "Secretary",
+          "Waitress"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0015924",
+          "display_name": "Mari Devon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2RiZGZiODItY2NlMy00Njg2LTgxMmMtZjE1ZDhmOTcwYzIxXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 478,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Female Reporter",
+          "Mildred"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0861558",
+          "display_name": "Kirk Thornton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWQ2YTliOTktZDE3YS00Y2EzLWE2NDMtMDQwN2E1ZjNhZThjXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 2000,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Japanese Man #1 (AKA Asian Investor #1)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0021633",
+          "display_name": "John Allsopp",
+          "avatars": null
+        },
+        "characters": [
+          "Agent 2"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6571727",
+          "display_name": "George Babbit",
+          "avatars": null
+        },
+        "characters": [
+          "Truck Driver"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5389637",
+          "display_name": "Laila Berzins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzA5NjZkMDAtNDlhMi00ZTY1LTk2NzEtNTlkMDJhZTcwOWYzXkEyXkFqcGdeQXVyNTcxODEwNjM@._V1_.jpg",
+              "width": 3442,
+              "height": 4303
+            }
+          ]
+        },
+        "characters": [
+          "911 Operator",
+          "Weecha"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3700051",
+          "display_name": "Tom Blank",
+          "avatars": null
+        },
+        "characters": [
+          "Mr. Blakestone"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1548347",
+          "display_name": "Barrie D. Buckner Jr.",
+          "avatars": null
+        },
+        "characters": [
+          "Garcia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0131436",
+          "display_name": "Joey Camen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzVkZDZlYTgtYTU1YS00ZmE4LWIzM2MtMGEyYjEzZDViNmJhXkEyXkFqcGdeQXVyMjgzNTQyNjc@._V1_.jpg",
+              "width": 1920,
+              "height": 2673
+            }
+          ]
+        },
+        "characters": [
+          "Principal Jones"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0234731",
+          "display_name": "Jeff Doucette",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk3MzQzNTU5M15BMl5BanBnXkFtZTYwMzU2MDgy._V1_.jpg",
+              "width": 450,
+              "height": 299
+            }
+          ]
+        },
+        "characters": [
+          "Fat Dan",
+          "Tim",
+          "Tech Support Operator"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7024941",
+          "display_name": "David Epstein",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWMzMzdmZmEtNmUwMy00ZDJmLTkyNmUtNmYyN2NlNDIzYjlkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1016,
+              "height": 1500
+            }
+          ]
+        },
+        "characters": [
+          "Charlie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4970912",
+          "display_name": "Pappy Faulkner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDg0NzlhMjYtNTYxZS00ZTFkLWI2MGEtYWMyNzk4YzNkNTg2XkEyXkFqcGdeQXVyNjQxNzczMjM@._V1_.jpg",
+              "width": 1242,
+              "height": 1814
+            }
+          ]
+        },
+        "characters": [
+          "Adam"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0199809",
+          "display_name": "Sandy Fox",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzZhY2M1NjItNWZkNy00OTFkLWE0YmEtZWEwMjRhN2MyZjk5XkEyXkFqcGdeQXVyMzQ1MjgzNQ@@._V1_.jpg",
+              "width": 1800,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Tina"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9518484",
+          "display_name": "James Fredrick",
+          "avatars": null
+        },
+        "characters": [
+          "Gate Guard"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9518485",
+          "display_name": "Victor Friedland",
+          "avatars": null
+        },
+        "characters": [
+          "Prison Guard"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "title": {
+    "id": "tt1083452",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Eddie the Eagle",
+    "original_title": null,
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 106,
+    "plot": "The story of Eddie Edwards, the notoriously tenacious British underdog ski jumper who charmed the world at the 1988 Winter Olympics.",
+    "rating": {
+      "aggregate_rating": 7.3,
+      "votes_count": 99654
+    },
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Comedy",
+      "Drama",
+      "History",
+      "Sport"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTUxOTc5MTU1NF5BMl5BanBnXkFtZTgwODYyNTA1NzE@._V1_.jpg",
+        "width": 509,
+        "height": 755
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "nor",
+        "name": "Norwegian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "DE",
+        "name": "Germany"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 54,
+      "review_count": 34
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0002077",
+          "display_name": "Dexter Fletcher",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGMwNWMxZGEtNzgzMi00ZDcwLTgwMWEtNjg3OGFkZTBjZDJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg",
+              "width": 2539,
+              "height": 3808
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2035069",
+          "display_name": "Simon Kelton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA1Nzk3MDMxN15BMl5BanBnXkFtZTgwNzA4OTU5MDE@._V1_.jpg",
+              "width": 2937,
+              "height": 3331
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2306331",
+          "display_name": "Sean Macaulay",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzQ1NThiNTYtNmRkMi00YjQ0LTlkYWYtMWI0M2ViNTM2NDcxXkEyXkFqcGdeQXVyNjIyMDE2NTI@._V1_.jpg",
+              "width": 334,
+              "height": 342
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm8030441",
+          "display_name": "Tom Costello",
+          "avatars": null
+        },
+        "characters": [
+          "Eddie (10 years old)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0366846",
+          "display_name": "Jo Hartley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjY4YThiMGMtY2I0Mi00M2Y1LTk5ZmYtOTNlNDRjY2IyYzI1XkEyXkFqcGdeQXVyMzk4MjEzOQ@@._V1_.jpg",
+              "width": 1170,
+              "height": 1075
+            }
+          ]
+        },
+        "characters": [
+          "Janette"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0020717",
+          "display_name": "Keith Allen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDEyNjc2MjE5N15BMl5BanBnXkFtZTcwODg1MDk5Nw@@._V1_.jpg",
+              "width": 1360,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Terry"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0866221",
+          "display_name": "Dickon Tolson",
+          "avatars": null
+        },
+        "characters": [
+          "UK Doctor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7952949",
+          "display_name": "Jack Costello",
+          "avatars": null
+        },
+        "characters": [
+          "Eddie (15 years old)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5473782",
+          "display_name": "Taron Egerton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYzODU2OTI2Nl5BMl5BanBnXkFtZTgwMTUyMTAwMzE@._V1_.jpg",
+              "width": 1471,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Eddie Edwards"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0072949",
+          "display_name": "Mark Benton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA0Nzk3NzkwMF5BMl5BanBnXkFtZTcwNjQyNzE1OQ@@._V1_.jpg",
+              "width": 1638,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Richmond the BOA Official"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0570570",
+          "display_name": "Tim McInnerny",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODAwMTc5NjE1NF5BMl5BanBnXkFtZTgwOTY1NTgzNDE@._V1_.jpg",
+              "width": 576,
+              "height": 720
+            }
+          ]
+        },
+        "characters": [
+          "Dustin Target"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5481344",
+          "display_name": "Edvin Endre",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDI4NDE0MjUtNzQ5Mi00ZDYyLWJmMjQtODVhOWQ1OWUyNzU3XkEyXkFqcGdeQXVyNDQ0MDE1OTE@._V1_.jpg",
+              "width": 525,
+              "height": 784
+            }
+          ]
+        },
+        "characters": [
+          "Matti Nykänen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3162723",
+          "display_name": "Mads Sjøgård Pettersen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzA2YTVkM2QtMTA4My00YmQzLWFhYTAtYjIwYmI3Mjg2MWFlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+              "width": 1483,
+              "height": 1111
+            }
+          ]
+        },
+        "characters": [
+          "Erik Moberg"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0071330",
+          "display_name": "Marc Benjamin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzE1YjliNDEtZDI0Yy00MzhmLWE4MWQtZDdjMTg3M2I5OWE2XkEyXkFqcGc@._V1_.jpg",
+              "width": 3636,
+              "height": 3623
+            }
+          ]
+        },
+        "characters": [
+          "Lars Holbin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001941",
+          "display_name": "Iris Berben",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgyNzIzNDU0NV5BMl5BanBnXkFtZTcwNzY1ODMwNw@@._V1_.jpg",
+              "width": 1416,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Petra"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0854815",
+          "display_name": "Rune Temte",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGQ4OTUzYmUtZjQyZS00ZWRhLWJhMzgtNjc0ZTdjZDU0YzlmXkEyXkFqcGdeQXVyNjM4MTMwNg@@._V1_.jpg",
+              "width": 3262,
+              "height": 4970
+            }
+          ]
+        },
+        "characters": [
+          "Bjørn the Norwegian Coach"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0413168",
+          "display_name": "Hugh Jackman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDExMzIzNjk3Nl5BMl5BanBnXkFtZTcwOTE4NDU5OA@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Bronson Peary"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6635873",
+          "display_name": "Carlton Bunce",
+          "avatars": null
+        },
+        "characters": [
+          "Old Jumper"
+        ]
+      }
+    ]
+  }
+}

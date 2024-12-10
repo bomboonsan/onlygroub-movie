@@ -1,0 +1,356 @@
+{
+  "title": {
+    "id": "tt1211837",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Doctor Strange",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 115,
+    "plot": "While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts.",
+    "rating": {
+      "aggregate_rating": 7.5,
+      "votes_count": 796318
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 72,
+      "review_count": 49
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0220600",
+          "display_name": "Scott Derrickson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY0MDA1MTUxM15BMl5BanBnXkFtZTgwNDI0Nzk2NDE@._V1_.jpg",
+              "width": 395,
+              "height": 594
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm3123612",
+          "display_name": "Jon Spaihts",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjk4MzJjYTMtYjhhNC00ZTAyLTg1MTMtZmIzMWE2MDUwNGFkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1000,
+              "height": 1232
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0220600",
+          "display_name": "Scott Derrickson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY0MDA1MTUxM15BMl5BanBnXkFtZTgwNDI0Nzk2NDE@._V1_.jpg",
+              "width": 395,
+              "height": 594
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1803036",
+          "display_name": "C. Robert Cargill",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0498278",
+          "display_name": "Stan Lee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk3NDE3Njc5M15BMl5BanBnXkFtZTYwOTY5Nzc1._V1_.jpg",
+              "width": 278,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0228492",
+          "display_name": "Steve Ditko",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2VhMmIwN2YtZDdjZC00ODhmLWIyZjctNGUwMTdjMThmYjRhXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 601,
+              "height": 599
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1212722",
+          "display_name": "Benedict Cumberbatch",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE0MDkzMDQwOF5BMl5BanBnXkFtZTgwOTE1Mjg1MzE@._V1_.jpg",
+              "width": 1414,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Stephen Strange"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0252230",
+          "display_name": "Chiwetel Ejiofor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzA5MDEyMTY3Nl5BMl5BanBnXkFtZTgwODQ0MjcxMDE@._V1_.jpg",
+              "width": 1467,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mordo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1046097",
+          "display_name": "Rachel McAdams",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY5ODcxMDU4NV5BMl5BanBnXkFtZTcwMjAzNjQyNQ@@._V1_.jpg",
+              "width": 1413,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Christine Palmer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0938950",
+          "display_name": "Benedict Wong",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDMxOGExNWItYjM4YS00ZDJhLWJiM2UtMTViYjhhNTM4OGYxXkEyXkFqcGdeQXVyMTgyMzY5MTk@._V1_.jpg",
+              "width": 1536,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Wong"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0586568",
+          "display_name": "Mads Mikkelsen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcyMTU5MzgxMF5BMl5BanBnXkFtZTYwMDI0NjI1._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Kaecilius"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0842770",
+          "display_name": "Tilda Swinton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM4NzMzMTkwNV5BMl5BanBnXkFtZTcwMzU4MDg1Mw@@._V1_.jpg",
+              "width": 319,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "The Ancient One"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0836121",
+          "display_name": "Michael Stuhlbarg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjdjNTlhZjUtODA0MC00Mjc3LWExNmMtZDc5ZmI0ZmNlZWZmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 682,
+              "height": 1023
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Nicodemus West"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000973",
+          "display_name": "Benjamin Bratt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUwNDIwOTI5N15BMl5BanBnXkFtZTcwMDcwMjQyNg@@._V1_.jpg",
+              "width": 1565,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Jonathan Pangborn"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0012078",
+          "display_name": "Scott Adkins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjM2MWU1YTEtNDExYS00NWVmLTkzZmQtYTg2ZDI5N2M3ZTE0XkEyXkFqcGdeQXVyMTA2NjI0MQ@@._V1_.jpg",
+              "width": 1920,
+              "height": 2772
+            }
+          ]
+        },
+        "characters": [
+          "Lucian",
+          "Strong Zealot"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2333360",
+          "display_name": "Zara Phythian",
+          "avatars": null
+        },
+        "characters": [
+          "Brunette Zealot"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2349733",
+          "display_name": "Alaa Safi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjQ5MDBjNDMtMDUzMC00NzE0LWI3NjQtODFmMTg4YWM5ZjdmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1365,
+              "height": 1365
+            }
+          ]
+        },
+        "characters": [
+          "Tall Zealot"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7167836",
+          "display_name": "Katrina Durden",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGQ4ZWRjZjktNGQ1Zi00YWUwLWJlM2UtZDRmNjRiZDBlMDE5XkEyXkFqcGdeQXVyNTYzMjU4MDc@._V1_.jpg",
+              "width": 3840,
+              "height": 5760
+            }
+          ]
+        },
+        "characters": [
+          "Blonde Zealot"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8508973",
+          "display_name": "Topo Wresniwiro",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjYyZjFkNGUtZjdjYy00NWIzLWExOTItODMzOGQ0NzY4YTdlXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 645,
+              "height": 891
+            }
+          ]
+        },
+        "characters": [
+          "Hamir"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3203072",
+          "display_name": "Umit Ulgen",
+          "avatars": null
+        },
+        "characters": [
+          "Sol Rama"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8091879",
+          "display_name": "Linda Louise Duan",
+          "avatars": null
+        },
+        "characters": [
+          "Tina Minoru"
+        ]
+      }
+    ]
+  }
+}

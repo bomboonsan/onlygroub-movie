@@ -1,0 +1,89 @@
+{
+  "title": {
+    "id": "tt2002719",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Machete Kills in Space",
+    "original_title": null,
+    "start_year": null,
+    "end_year": null,
+    "runtime_minutes": null,
+    "plot": "Voz flees to outer space after attempting to start a nuclear war on Earth and there is only one man who the President can trust to take Voz down: Machete.",
+    "rating": null,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BODE5NzM4NzctNjdmNS00YzZkLWJhMDItMmU4ODA3NzY3NmQwXkEyXkFqcGc@._V1_.jpg",
+        "width": 500,
+        "height": 755
+      }
+    ],
+    "certificates": null,
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm0001675",
+          "display_name": "Robert Rodriguez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc0NDg4ODAwNF5BMl5BanBnXkFtZTgwMTIxNTA0MjE@._V1_.jpg",
+              "width": 1335,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0001675",
+          "display_name": "Robert Rodriguez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc0NDg4ODAwNF5BMl5BanBnXkFtZTgwMTIxNTA0MjE@._V1_.jpg",
+              "width": 1335,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0001803",
+          "display_name": "Danny Trejo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzcxNTQ1ODQxMl5BMl5BanBnXkFtZTYwMzI4MDA2._V1_.jpg",
+              "width": 259,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Machete"
+        ]
+      }
+    ]
+  }
+}

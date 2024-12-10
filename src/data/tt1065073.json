@@ -1,0 +1,318 @@
+{
+  "title": {
+    "id": "tt1065073",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Boyhood",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 165,
+    "plot": "The life of Mason, from early childhood to his arrival at college.",
+    "rating": {
+      "aggregate_rating": 7.9,
+      "votes_count": 365586
+    },
+    "genres": [
+      "Drama"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTYzNDc2MDc0N15BMl5BanBnXkFtZTgwOTcwMDQ5MTE@._V1_.jpg",
+        "width": 1000,
+        "height": 1481
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      },
+      {
+        "code": "ukr",
+        "name": "Ukrainian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 100,
+      "review_count": 50
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0000500",
+          "display_name": "Richard Linklater",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ0Mzc2NzY0Ml5BMl5BanBnXkFtZTcwOTI3OTI5MQ@@._V1_.jpg",
+              "width": 280,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0000500",
+          "display_name": "Richard Linklater",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ0Mzc2NzY0Ml5BMl5BanBnXkFtZTcwOTI3OTI5MQ@@._V1_.jpg",
+              "width": 280,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1294664",
+          "display_name": "Ellar Coltrane",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU4OTg5NTY2M15BMl5BanBnXkFtZTgwMjUwMDEwMTE@._V1_.jpg",
+              "width": 1361,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mason"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000099",
+          "display_name": "Patricia Arquette",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ5Njg0NjkxMV5BMl5BanBnXkFtZTcwMzc0NTI5NA@@._V1_.jpg",
+              "width": 1382,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Olivia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6567391",
+          "display_name": "Elijah Smith",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI2NTE0MDQ1Ml5BMl5BanBnXkFtZTgwMTMxMjg1MzE@._V1_.jpg",
+              "width": 2731,
+              "height": 4096
+            }
+          ]
+        },
+        "characters": [
+          "Tommy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1085951",
+          "display_name": "Lorelei Linklater",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2Y5Yjg2MjAtYzIzNC00NzMzLWJiOWYtZTk2MjA3MTY5OGUzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 600,
+              "height": 338
+            }
+          ]
+        },
+        "characters": [
+          "Samantha"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0697637",
+          "display_name": "Steven Chester Prince",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGNjYjVjZTAtY2Y3OS00YzhkLThlN2QtYzhiNmU3NzJiOWRmXkEyXkFqcGdeQXVyNTkwNjM2MDc@._V1_.jpg",
+              "width": 427,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Ted"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6567392",
+          "display_name": "Bonnie Cross",
+          "avatars": [
+            {
+              "url": "",
+              "width": 0,
+              "height": 0
+            }
+          ]
+        },
+        "characters": [
+          "Teacher"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6567393",
+          "display_name": "Sydney Orta",
+          "avatars": [
+            {
+              "url": "",
+              "width": 0,
+              "height": 0
+            }
+          ]
+        },
+        "characters": [
+          "Elementary School Girl"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0898047",
+          "display_name": "Libby Villari",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjljMTYyMGYtMmY5YS00NjVhLWExZWQtNzc1Y2IxZjQ1ZDc4XkEyXkFqcGdeQXVyMTA0MjI4NzY@._V1_.jpg",
+              "width": 1333,
+              "height": 2000
+            }
+          ]
+        },
+        "characters": [
+          "Grandma"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000160",
+          "display_name": "Ethan Hawke",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk4NDMxMTI0MF5BMl5BanBnXkFtZTYwMjE3ODE0._V1_.jpg",
+              "width": 283,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Dad"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0673260",
+          "display_name": "Marco Perella",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAwNDEyMTAzNV5BMl5BanBnXkFtZTcwMDIyNTIzMQ@@._V1_.jpg",
+              "width": 350,
+              "height": 488
+            }
+          ]
+        },
+        "characters": [
+          "Professor Bill Welbrock"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6567394",
+          "display_name": "Jamie Howard",
+          "avatars": null
+        },
+        "characters": [
+          "Mindy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5956177",
+          "display_name": "Andrew Villarreal",
+          "avatars": null
+        },
+        "characters": [
+          "Randy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1782571",
+          "display_name": "Shane Graham",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2E3YThhMmEtNGM5OS00MmE1LThmZjctNjgxNGUwYjFmMzY2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 425,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Neighborhood Friend #1"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2592038",
+          "display_name": "Tess Allen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTA3YWZlOGUtMGE1YS00ZmIzLWFhYTAtNmI4Mjg0NTBlMjUzXkEyXkFqcGdeQXVyMTAwMzUyMzUy._V1_.jpg",
+              "width": 515,
+              "height": 817
+            }
+          ]
+        },
+        "characters": [
+          "Neighborhood Friend #2"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1152882",
+          "display_name": "Ryan Power",
+          "avatars": null
+        },
+        "characters": [
+          "Paul"
+        ]
+      }
+    ]
+  }
+}

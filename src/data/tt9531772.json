@@ -1,0 +1,364 @@
+{
+  "title": {
+    "id": "tt9531772",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Sooryavanshi",
+    "original_title": null,
+    "start_year": 2021,
+    "end_year": null,
+    "runtime_minutes": 145,
+    "plot": "DCP Veer Sooryavanshi, the chief of the Anti-Terrorism Squad in India, tries to bring down a terrorist organization with which he has a history.",
+    "rating": {
+      "aggregate_rating": 6,
+      "votes_count": 79043
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzM0YWRjNGYtYTdiMy00YzZhLThjMWYtMTY3N2Q5NGZkOTI2XkEyXkFqcGc@._V1_.jpg",
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "Not Rated"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "hin",
+        "name": "Hindi"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "IN",
+        "name": "India"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm1460159",
+          "display_name": "Rohit Shetty",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQ1Nzk4OTA1NV5BMl5BanBnXkFtZTgwMTIwMjMzOTE@._V1_.jpg",
+              "width": 1198,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm6820975",
+          "display_name": "Sanchit Bedre",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGI2MDJlMjctYzIyMi00YmJkLTk4YzMtOWIwMGRhNDVhOWM2XkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_.jpg",
+              "width": 1406,
+              "height": 1470
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm3077594",
+          "display_name": "Vidhi Ghodgaonkar",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1182352",
+          "display_name": "Yunus Sajawal",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2260872",
+          "display_name": "Farhad Samji",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjA0NGY3ZDMtYjk5Ni00NjdkLThiZTAtOGVmZTFkMmUyYzkwXkEyXkFqcGdeQXVyMTM1NjQ2OTI2._V1_.jpg",
+              "width": 696,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1460159",
+          "display_name": "Rohit Shetty",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQ1Nzk4OTA1NV5BMl5BanBnXkFtZTgwMTIwMjMzOTE@._V1_.jpg",
+              "width": 1198,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0474774",
+          "display_name": "Akshay Kumar",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODI4NDY1NzkyM15BMl5BanBnXkFtZTgwNzM3MDM0OTE@._V1_.jpg",
+              "width": 1630,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Veer Sooryavanshi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1229940",
+          "display_name": "Katrina Kaif",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI0Nzc4OTE0NV5BMl5BanBnXkFtZTgwOTczODgyNDM@._V1_.jpg",
+              "width": 1520,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Ria Sooryavanshi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0222426",
+          "display_name": "Ajay Devgn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY0MDY2MDMwOV5BMl5BanBnXkFtZTgwNDE4MDM0OTE@._V1_.jpg",
+              "width": 1496,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Bajirao Singham"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3828984",
+          "display_name": "Ranveer Singh",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTExOTcwMDU4NTReQTJeQWpwZ15BbWU3MDA0MjE1MTc@._V1_.jpg",
+              "width": 1393,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Sangram Bhalerao (Simmba)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0006763",
+          "display_name": "Jackie Shroff",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzczOGViODMtMWY1Yi00ZTAwLTkzZjItYzlmMzU0NmM5YjBmXkEyXkFqcGdeQXVyMjYwMDk5NjE@._V1_.jpg",
+              "width": 625,
+              "height": 759
+            }
+          ]
+        },
+        "characters": [
+          "Omar Hafeez"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0412917",
+          "display_name": "Jaaved Jaaferi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTNhMTZmY2QtODcxYy00MjM3LTljZTktN2ExYzA4NzgzZWJlXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 700,
+              "height": 1020
+            }
+          ]
+        },
+        "characters": [
+          "Kabir Shroff"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0004109",
+          "display_name": "Gulshan Grover",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTE1ZTM4NTYtMGZkNy00ZTcyLWI0YjgtZTA4MWI5NWY0M2I5XkEyXkFqcGc@._V1_CR17,14,739,1108_.jpg",
+              "width": 739,
+              "height": 1108
+            }
+          ]
+        },
+        "characters": [
+          "Qadar Usmani"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0008713",
+          "display_name": "Abhimanyu Singh",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGNhMjA2OGYtYWE5MC00ZWQwLThjNmYtNzQ4ZmMwYzk2Y2I3XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 1964,
+              "height": 1224
+            }
+          ]
+        },
+        "characters": [
+          "Riyaaz Hafeez",
+          "Vinod Thapar"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3049068",
+          "display_name": "Nikitin Dheer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgxMzAyNTM1Ml5BMl5BanBnXkFtZTgwNzIzMjgzOTE@._V1_.jpg",
+              "width": 1266,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mukhtar Ansari"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1122912",
+          "display_name": "Kumud Mishra",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWY2YTdhY2QtMzMxMS00MjNhLTgxYmQtMjM2OGM4MjczNzBmXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 674,
+              "height": 818
+            }
+          ]
+        },
+        "characters": [
+          "Bilal Ahmed"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1875257",
+          "display_name": "Vivan Bhatena",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODVlZGMzZmUtZTdjYi00MDRjLTkyYjktOGQ1OTQ2NTc5MmE2XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 411,
+              "height": 531
+            }
+          ]
+        },
+        "characters": [
+          "Vivaan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6155321",
+          "display_name": "Ashish Warang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjkwMTA1NTYtNWE3Mi00MDYzLWI4NjAtZjAxZTk4MWUxMWFlXkEyXkFqcGc@._V1_.jpg",
+              "width": 278,
+              "height": 278
+            }
+          ]
+        },
+        "characters": [
+          "Aashish Tambe"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5804705",
+          "display_name": "Mrunal Jain",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWZjMDI5NGEtMzRkNy00YTYwLWIzNDEtOTg1NWU4ZTEwYTQwXkEyXkFqcGc@._V1_.jpg",
+              "width": 236,
+              "height": 295
+            }
+          ]
+        },
+        "characters": [
+          "Raza Hafeez"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3071488",
+          "display_name": "Sikandar Kher",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDE0NWFhZWQtM2NhYy00NTYyLTgxNTAtZGQ5MWI0YjhkZDZjL2ltYWdlXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 968,
+              "height": 1344
+            }
+          ]
+        },
+        "characters": [
+          "John Mascarenhas"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1689533",
+          "display_name": "Anuradha Chandan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDgxMWRlM2YtYTU1YS00NWJiLThhNDktNjI1ZjEzNWJjZmFkXkEyXkFqcGc@._V1_.jpg",
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Mrs. Gupta (Rhea's mother)"
+        ]
+      }
+    ]
+  }
+}

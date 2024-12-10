@@ -1,0 +1,336 @@
+{
+  "title": {
+    "id": "tt6843812",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Baaghi 2",
+    "original_title": null,
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 137,
+    "plot": "A battle-hardened army officer squares off against drug lords and Russian henchmen to save his ex-lover's kidnapped daughter in the underbelly of Goa, India.",
+    "rating": {
+      "aggregate_rating": 4.8,
+      "votes_count": 11665
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGMyNmVhMzctNWNjMS00OGMxLTkwODUtMDM5YWNmYzFmMWI5XkEyXkFqcGc@._V1_.jpg",
+        "width": 831,
+        "height": 1200
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "Not Rated"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "hin",
+        "name": "Hindi"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "IN",
+        "name": "India"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm0451155",
+          "display_name": "Ahmed Khan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDA3Yjg3ODYtMzc5NC00OWYxLWI3ZmUtNGJlYThhMmQxZDU3XkEyXkFqcGc@._V1_.jpg",
+              "width": 3498,
+              "height": 4500
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0618898",
+          "display_name": "Sajid Nadiadwala",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2YzMDczYzMtNmNhZS00MzUwLTllYmItOTg2OWNhZDY1ZGRkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2880,
+              "height": 3636
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1262451",
+          "display_name": "Jojo Khan",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2097520",
+          "display_name": "Abbaas Hierapurwala",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm4687862",
+          "display_name": "Niraj Kumar Mishra",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmE4NDRmY2MtNDBkYy00MTI4LTg1YzYtNzMxYWZkNDJjNDYyXkEyXkFqcGc@._V1_CR488,1,1425,2138_.jpg",
+              "width": 1425,
+              "height": 2138
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm4990507",
+          "display_name": "Hussain Dalal",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm2596365",
+          "display_name": "Jacqueline Fernandez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTYwNTc1ODE0NF5BMl5BanBnXkFtZTgwNjU3OTA3MjI@._V1_.jpg",
+              "width": 1301,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mohini (Dancer in the song Ek Do Teen)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7796669",
+          "display_name": "Disha Patani",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmM3YTg2ZjUtNWMwMi00NWE2LWE1YmMtYWM1ZDViNmYzOWRkXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+              "width": 1063,
+              "height": 1600
+            }
+          ]
+        },
+        "characters": [
+          "Neha"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5899377",
+          "display_name": "Tiger Shroff",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjUyMTQyNDA2M15BMl5BanBnXkFtZTgwNDI4ODEzOTE@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Ranveer Pratap Singh"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0048075",
+          "display_name": "Manoj Bajpayee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzUwMWFjMjktMjVlOC00ZDU2LWE5NTEtYjRiMzVmYzM0OWEwXkEyXkFqcGdeQXVyMTU0ODI1NTA2._V1_.jpg",
+              "width": 685,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "DIG Ajay Shergill"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0393535",
+          "display_name": "Randeep Hooda",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzI1OTRhYjgtNTI4OS00MzU0LTg0YTktYzYxNDI1OWI1ZWIyXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",
+              "width": 5298,
+              "height": 3536
+            }
+          ]
+        },
+        "characters": [
+          "Loha Singh Dhull",
+          "LSD"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1299011",
+          "display_name": "Riteish Deshmukh",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmZhYjFhMTktZGRjZC00MmM0LTk2NTUtOWE1ZmZhNDJlNmMzXkEyXkFqcGdeQXVyMTMxMTIwMTE0._V1_.jpg",
+              "width": 350,
+              "height": 350
+            }
+          ]
+        },
+        "characters": null
+      },
+      {
+        "name": {
+          "id": "nm1795232",
+          "display_name": "Deepak Dobriyal",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDNkOTZiNWQtMzQwMy00MTgyLTlmZTMtYmE5OGFmNzJjOTUzXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 592,
+              "height": 774
+            }
+          ]
+        },
+        "characters": [
+          "Usman Langda"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1711203",
+          "display_name": "Lakshmi Manchu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTgyOTE5OTYtMzkwMC00ZThmLTk5NDctMGUwMDFkNjdlNWIxXkEyXkFqcGc@._V1_.jpg",
+              "width": 5304,
+              "height": 7952
+            }
+          ]
+        },
+        "characters": null
+      },
+      {
+        "name": {
+          "id": "nm3070408",
+          "display_name": "Prateik Patil Babbar",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDhmYWU2ODgtOTc4Ni00Yjg1LWJkYWEtMmNkZTQ2YzA0OGI5XkEyXkFqcGc@._V1_.jpg",
+              "width": 358,
+              "height": 506
+            }
+          ]
+        },
+        "characters": [
+          "Sunny Salgoankar"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1479650",
+          "display_name": "Vipin Sharma",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTg0MzYyNjAtYjY5Yy00ZjJjLTg1NTAtOGMwOTAyNDRhMWEwXkEyXkFqcGdeQXVyMzQ0NTk5NzU@._V1_.jpg",
+              "width": 350,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Neha's Father"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1069587",
+          "display_name": "Darshan Kumaar",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzkxYzE1NWYtNGZiNC00NmNjLThjM2UtZDQ2MTE3MzJlNjg3XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_.jpg",
+              "width": 1440,
+              "height": 1799
+            }
+          ]
+        },
+        "characters": [
+          "Shekhar Salgoankar"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3720657",
+          "display_name": "Paras Arora",
+          "avatars": null
+        },
+        "characters": null
+      },
+      {
+        "name": {
+          "id": "nm8183827",
+          "display_name": "Shifuji Shaurya Bharadwaj",
+          "avatars": null
+        },
+        "characters": [
+          "Colonel Ranjeet Walia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8441625",
+          "display_name": "Kumar Saurabh",
+          "avatars": null
+        },
+        "characters": [
+          "Chhotu"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1185319",
+          "display_name": "Ashwin Kaushal",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTk5MzJlODctNDVhYi00YmJhLThkNjctNzU1ODY1MzRlYTA5XkEyXkFqcGdeQXVyMjQ2MDI5ODE@._V1_.jpg",
+              "width": 556,
+              "height": 310
+            }
+          ]
+        },
+        "characters": [
+          "Man who stays opposite Reha's school"
+        ]
+      }
+    ]
+  }
+}

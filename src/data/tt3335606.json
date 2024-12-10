@@ -1,0 +1,317 @@
+{
+  "title": {
+    "id": "tt3335606",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Berlin Syndrome",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 116,
+    "plot": "A passionate holiday romance leads to an obsessive relationship when an Australian photojournalist awakens in a Berlin apartment one morning and is unable to leave.",
+    "rating": {
+      "aggregate_rating": 6.3,
+      "votes_count": 27667
+    },
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzQ0YWRjYjctYmQ5ZC00M2M2LWE0NzMtMTI4ZDg1NjIyZTM1XkEyXkFqcGdeQXVyMTM2MzgyOTU@._V1_.jpg",
+        "width": 4050,
+        "height": 6000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "AU",
+        "name": "Australia"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      }
+    ],
+    "critic_review": {
+      "score": 70,
+      "review_count": 17
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0795153",
+          "display_name": "Cate Shortland",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzk4Mzk2NTY2M15BMl5BanBnXkFtZTgwOTk4NTAyMTI@._V1_.jpg",
+              "width": 1387,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm3961014",
+          "display_name": "Shaun Grant",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWE0YmJjNjMtNDcwMS00NzQ3LWFjZDAtM2Q4OTNhOWU2ZDBmXkEyXkFqcGdeQXVyMjgyMDE3OTA@._V1_.jpg",
+              "width": 640,
+              "height": 627
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm6090597",
+          "display_name": "Melanie Joosten",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0795153",
+          "display_name": "Cate Shortland",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzk4Mzk2NTY2M15BMl5BanBnXkFtZTgwOTk4NTAyMTI@._V1_.jpg",
+              "width": 1387,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1954240",
+          "display_name": "Teresa Palmer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWY4OWYxMmYtYWQ1Yy00NzI2LTkxMzktMWViM2JlOGEwNDgwXkEyXkFqcGdeQXVyNDE1NzY2MTI@._V1_.jpg",
+              "width": 2584,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Clare Havel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0726262",
+          "display_name": "Max Riemelt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcxODA0MzUwM15BMl5BanBnXkFtZTcwMTgzNTMyNQ@@._V1_.jpg",
+              "width": 2048,
+              "height": 1364
+            }
+          ]
+        },
+        "characters": [
+          "Andi Werner"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0352278",
+          "display_name": "Matthias Habich",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWJiZjdjOGItMjlhMi00NTQwLTg4NTgtYmMzNWY1ZGJiZjhjXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg",
+              "width": 1200,
+              "height": 1800
+            }
+          ]
+        },
+        "characters": [
+          "Erich Werner"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4750182",
+          "display_name": "Emma Bading",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODk5Y2FmMjktMjEwNC00NDc3LWE3YjgtNjczN2UyZGVmOGIwXkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_.jpg",
+              "width": 500,
+              "height": 813
+            }
+          ]
+        },
+        "characters": [
+          "Franka Hummels"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5137635",
+          "display_name": "Elmira Bahrami",
+          "avatars": null
+        },
+        "characters": [
+          "Jana"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1893570",
+          "display_name": "Christoph Franken",
+          "avatars": null
+        },
+        "characters": [
+          "Peter"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5725027",
+          "display_name": "Lucie Aron",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTYxMjNlZjMtNzA4Zi00NTAzLWI0MTQtNTg4Nzc3OTEyNTdiXkEyXkFqcGc@._V1_.jpg",
+              "width": 480,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Elodie Zadikan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5945414",
+          "display_name": "Nassim Avat",
+          "avatars": null
+        },
+        "characters": [
+          "Aaron Hurwitz"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3646866",
+          "display_name": "Malin Steffen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmZmYzc0OTUtMzlkOS00NGEwLTg5MGQtZjdiY2ZiMzU2NDA0XkEyXkFqcGc@._V1_.jpg",
+              "width": 5464,
+              "height": 8192
+            }
+          ]
+        },
+        "characters": [
+          "Swedish Girl"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7399852",
+          "display_name": "Thuso Lekwape",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGMzYWNjOTUtZGM4OS00MTBmLThkN2QtMTMyMzFjNTM0ZGIyXkEyXkFqcGc@._V1_.jpg",
+              "width": 900,
+              "height": 900
+            }
+          ]
+        },
+        "characters": [
+          "Billy Dharma"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6999816",
+          "display_name": "Morgane Ferru",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjY3ZDExYWQtMzZmZS00MWIyLTkwYTktN2E2NWYxODdlOGU4XkEyXkFqcGc@._V1_.jpg",
+              "width": 2565,
+              "height": 3848
+            }
+          ]
+        },
+        "characters": [
+          "Jesie Lamarque"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8532246",
+          "display_name": "Lara Marie Müller",
+          "avatars": null
+        },
+        "characters": [
+          "Silke"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6626295",
+          "display_name": "Elias Esser",
+          "avatars": null
+        },
+        "characters": [
+          "Boy 1"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8007355",
+          "display_name": "Claude Heinrich",
+          "avatars": null
+        },
+        "characters": [
+          "Boy 2"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8218511",
+          "display_name": "Nadine Peschel",
+          "avatars": null
+        },
+        "characters": [
+          "Mother"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,369 @@
+{
+  "title": {
+    "id": "tt6587640",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Trolls World Tour",
+    "original_title": null,
+    "start_year": 2020,
+    "end_year": null,
+    "runtime_minutes": 91,
+    "plot": "When the Queen of the Hard Rock Trolls tries to take over all the Troll kingdoms, Queen Poppy and her friends try different ways to save all the Trolls.",
+    "rating": {
+      "aggregate_rating": 6.1,
+      "votes_count": 28235
+    },
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Musical",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTI5NmViY2YtNDk5NC00NjY2LWFlNGYtOGEwNzY1MTZmMjFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "width": 3158,
+        "height": 5000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "JP",
+        "name": "Japan"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 51,
+      "review_count": 36
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0230666",
+          "display_name": "Walt Dohrn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDRjMWE0NTctNGM3MC00ZGM2LTg5MTYtZjRhNjQ5NDIwNGUxXkEyXkFqcGdeQXVyMTMyNzI3NzIy._V1_.jpg",
+              "width": 3024,
+              "height": 4032
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1019583",
+          "display_name": "David P. Smith",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0008743",
+          "display_name": "Jonathan Aibel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAzNDI0MTAzOV5BMl5BanBnXkFtZTcwOTMwNzkyMg@@._V1_.jpg",
+              "width": 1184,
+              "height": 1083
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0074184",
+          "display_name": "Glenn Berger",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0285379",
+          "display_name": "Maya Forbes",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM4Mzg5OTY2NF5BMl5BanBnXkFtZTgwNzI5MDAwMTE@._V1_.jpg",
+              "width": 1395,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0938645",
+          "display_name": "Wallace Wolodarsky",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjk3MzE5MDc3NV5BMl5BanBnXkFtZTYwNTUyMTc2._V1_.jpg",
+              "width": 475,
+              "height": 713
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2533335",
+          "display_name": "Elizabeth Tippet",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0447695",
+          "display_name": "Anna Kendrick",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIzOTA0OTQyN15BMl5BanBnXkFtZTcwMjE1OTIwMw@@._V1_.jpg",
+              "width": 283,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Poppy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005493",
+          "display_name": "Justin Timberlake",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUwMjE1MjU2N15BMl5BanBnXkFtZTcwNjk0ODY1NA@@._V1_.jpg",
+              "width": 1516,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Branch"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3417385",
+          "display_name": "Rachel Bloom",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDU5NTQ1OTQyMF5BMl5BanBnXkFtZTgwMDM0MDcwMTI@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Barb"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0179479",
+          "display_name": "James Corden",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQxMzYwYTctMGRlMC00MjRmLTk3YTUtZTFmNjZlMDVjYTYyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+              "width": 2000,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Biggie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3236733",
+          "display_name": "Ron Funches",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzhiYzBiOTEtM2FiMC00NDA1LTlkYmMtYzM0ODk4ZDUwZGQ0XkEyXkFqcGdeQXVyMjAzODc2NTI@._V1_.jpg",
+              "width": 3356,
+              "height": 4475
+            }
+          ]
+        },
+        "characters": [
+          "Cooper"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1225628",
+          "display_name": "Kelly Clarkson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTIxNTI2NjAyOF5BMl5BanBnXkFtZTYwMzM3ODI4._V1_.jpg",
+              "width": 257,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Delta Dawn"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7256002",
+          "display_name": "Anderson .Paak",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWZhMGY2MmYtNzFlMi00MGQ2LTk2YjYtN2Q2MDBhYTQxZWM3XkEyXkFqcGdeQXVyMTE2NzE4MjEz._V1_.jpg",
+              "width": 2550,
+              "height": 2912
+            }
+          ]
+        },
+        "characters": [
+          "Prince D"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005377",
+          "display_name": "Sam Rockwell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc2NTM3MzE5NF5BMl5BanBnXkFtZTcwMjg4NDMwNA@@._V1_.jpg",
+              "width": 281,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Hickory"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1093741",
+          "display_name": "George Clinton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc0NjE5MDMwMV5BMl5BanBnXkFtZTgwODI4MjYyNDM@._V1_.jpg",
+              "width": 1612,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "King Quincy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0004763",
+          "display_name": "Mary J. Blige",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc2MzAzMDMxNl5BMl5BanBnXkFtZTYwNjQwMjY1._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Queen Essence"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0860380",
+          "display_name": "Kenan Thompson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc5NzQ4MjY4MV5BMl5BanBnXkFtZTYwMjcyNTM1._V1_.jpg",
+              "width": 269,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Tiny Diamond"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2471798",
+          "display_name": "Kunal Nayyar",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQzMzQyMTYyM15BMl5BanBnXkFtZTcwNjYyMDI5Mg@@._V1_.jpg",
+              "width": 281,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Guy Diamond"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5593235",
+          "display_name": "Caroline Hjelt",
+          "avatars": null
+        },
+        "characters": [
+          "Chenille"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5592916",
+          "display_name": "Aino Jawo",
+          "avatars": null
+        },
+        "characters": [
+          "Satin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6632237",
+          "display_name": "J Balvin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAyMjg0NTUxOV5BMl5BanBnXkFtZTgwNjg4NDAwNzM@._V1_.jpg",
+              "width": 1579,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Tresillo"
+        ]
+      }
+    ]
+  }
+}

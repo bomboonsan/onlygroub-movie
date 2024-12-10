@@ -1,0 +1,354 @@
+{
+  "title": {
+    "id": "tt3622592",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Paper Towns",
+    "original_title": null,
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 109,
+    "plot": "After an all-night adventure, Quentin's lifelong crush, Margo, disappears, leaving behind clues that Quentin and his friends follow on the journey of a lifetime.",
+    "rating": {
+      "aggregate_rating": 6.2,
+      "votes_count": 107446
+    },
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjE2ODQxODMwOF5BMl5BanBnXkFtZTgwNDY5NjY3NDE@._V1_.jpg",
+        "width": 1280,
+        "height": 1891
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 56,
+      "review_count": 34
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1500577",
+          "display_name": "Jake Schreier",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU4OTI3MDU0Ml5BMl5BanBnXkFtZTcwMDY0NzkyNw@@._V1_.jpg",
+              "width": 1966,
+              "height": 2298
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2354099",
+          "display_name": "Scott Neustadter",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYyNTQxMzcwNF5BMl5BanBnXkFtZTgwMDEzNTk0MzI@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2352210",
+          "display_name": "Michael H. Weber",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQyMzcyNzUwNl5BMl5BanBnXkFtZTcwNDE1MzY1Mw@@._V1_.jpg",
+              "width": 313,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1981261",
+          "display_name": "John Green",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE5ODQ1MzM3MF5BMl5BanBnXkFtZTgwNjQ4Mjg4MjE@._V1_.jpg",
+              "width": 1656,
+              "height": 1062
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1822659",
+          "display_name": "Nat Wolff",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI2ODBkNmItOGE3Zi00MTNlLWI1YzctZjFlYTRjY2ViMjcyXkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Quentin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5353321",
+          "display_name": "Cara Delevingne",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2U4NmUwODQtN2IwNC00MzE0LThmYmQtNTFlYTg0OTdjYzcxXkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_.jpg",
+              "width": 994,
+              "height": 1272
+            }
+          ]
+        },
+        "characters": [
+          "Margo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3641002",
+          "display_name": "Austin Abrams",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDhiYWE4NjYtYjczNS00OTIyLWFmMGQtMjdkYzRjNDRhODhjXkEyXkFqcGdeQXVyMjIyNzU2OTE@._V1_.jpg",
+              "width": 667,
+              "height": 1000
+            }
+          ]
+        },
+        "characters": [
+          "Ben"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6819854",
+          "display_name": "Justice Smith",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDI4Y2UzZTAtYWVhOS00MDhkLWFhNzAtOGVhNjcwMTM0MjQ2XkEyXkFqcGdeQXVyNTU2NjEwMzY@._V1_.jpg",
+              "width": 4704,
+              "height": 3136
+            }
+          ]
+        },
+        "characters": [
+          "Radar"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4296013",
+          "display_name": "Halston Sage",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDQzMWU0MTMtNTNjNC00YjUyLTlhMjctZjEwMGQ0YzRlNDRmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1125,
+              "height": 1836
+            }
+          ]
+        },
+        "characters": [
+          "Lacey"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3596959",
+          "display_name": "Jaz Sinclair",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmY3OTRiNjEtZDRkMi00YzQwLWE3ZDctNjQ1M2ExM2ViY2FlXkEyXkFqcGdeQXVyMjI3MjY2ODQ@._V1_.jpg",
+              "width": 1535,
+              "height": 1536
+            }
+          ]
+        },
+        "characters": [
+          "Angela"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0120648",
+          "display_name": "Cara Buono",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGNkOTUxY2EtMWI4ZS00MWVjLTkyYjctYmY1ZTljNTFmYjExXkEyXkFqcGdeQXVyMDUxNTgzNw@@._V1_.jpg",
+              "width": 705,
+              "height": 860
+            }
+          ]
+        },
+        "characters": [
+          "Mrs. Jacobsen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3752333",
+          "display_name": "Josiah Cerio",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzQzNTNkYjgtNjMwMi00ZDRkLWI0NzQtYzQxNTViMmRlYTkxXkEyXkFqcGdeQXVyMzgzNjgyOTk@._V1_.jpg",
+              "width": 1348,
+              "height": 2022
+            }
+          ]
+        },
+        "characters": [
+          "Young Quentin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6615590",
+          "display_name": "Hannah Riley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2E4NzUyYmUtMGM2ZS00YzAxLTk3MDUtN2I4Yzc3MzE3MTg5XkEyXkFqcGdeQXVyNTU4NjIxMjI@._V1_.jpg",
+              "width": 4480,
+              "height": 6720
+            }
+          ]
+        },
+        "characters": [
+          "Young Margo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5976690",
+          "display_name": "Meg Crosbie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGE3ZTBkZjEtZTQ4Yy00ODYzLTlmMmItZWI0YzFjZjM3MzY4XkEyXkFqcGdeQXVyNDM0NzU0NTI@._V1_CR15,26,598,897_.jpg",
+              "width": 598,
+              "height": 897
+            }
+          ]
+        },
+        "characters": [
+          "Ruthie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3573350",
+          "display_name": "Griffin Freeman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjE1M2JkZDAtZDViNi00MDliLTg5YTctZTM4NTcxMTcxZGM5XkEyXkFqcGdeQXVyMjIwMTQ1OTc@._V1_.jpg",
+              "width": 3302,
+              "height": 4954
+            }
+          ]
+        },
+        "characters": [
+          "Jase"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4850403",
+          "display_name": "Caitlin Carver",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2ZlODFlM2ItNWEwZS00YzE1LWFlMGYtZDlkOGY2ZDlmNzM4XkEyXkFqcGdeQXVyMzA0NTcxMjI@._V1_.jpg",
+              "width": 558,
+              "height": 800
+            }
+          ]
+        },
+        "characters": [
+          "Becca"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5886497",
+          "display_name": "RJ Shearer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA0MzIzOTU2NjheQTJeQWpwZ15BbWU4MDcxNDk5NDAy._V1_.jpg",
+              "width": 500,
+              "height": 700
+            }
+          ]
+        },
+        "characters": [
+          "Chuck"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2560322",
+          "display_name": "Susan Macke Miller",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODIxZGM3NTgtYzVmMy00OTRkLWExYTEtODgzZTFhM2VkMzEwXkEyXkFqcGdeQXVyMjAxNzI0NDU@._V1_.jpg",
+              "width": 4246,
+              "height": 5661
+            }
+          ]
+        },
+        "characters": [
+          "Mrs. Spiegelman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0385092",
+          "display_name": "Tom Hillmann",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDQzZDg4NGItYjBjMS00OTE4LWI0MzctYmI0Y2YzODlmNmU4XkEyXkFqcGdeQXVyMTIzNjMwOTg1._V1_.jpg",
+              "width": 2550,
+              "height": 3300
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Spiegelman"
+        ]
+      }
+    ]
+  }
+}

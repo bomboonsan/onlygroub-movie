@@ -1,0 +1,330 @@
+{
+  "title": {
+    "id": "tt5001718",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Everything, Everything",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 96,
+    "plot": "A teenager who's spent her whole life confined to her home falls for the boy next door.",
+    "rating": {
+      "aggregate_rating": 6.3,
+      "votes_count": 42517
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjAzMTE1NzQxNF5BMl5BanBnXkFtZTgwNjcwODY3MTI@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 52,
+      "review_count": 24
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm4907810",
+          "display_name": "Stella Meghie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmU3MDdlYzktNjgxYi00NTY2LTg2OTUtYTliM2FjMDA3MGY4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 720,
+              "height": 983
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0328987",
+          "display_name": "J. Mills Goodloe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTFjZTIyZDUtNzRjYS00MWIwLTljOTQtOTZhNWFkYjI3NWY2XkEyXkFqcGdeQXVyMTA5NzM1MDI0._V1_.jpg",
+              "width": 1510,
+              "height": 842
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm7567554",
+          "display_name": "Nicola Yoon",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm3964350",
+          "display_name": "Amandla Stenberg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTAyYmViNTctNjlmOS00ZTI0LWI0NzUtNDQyM2Q0N2ExYTMzXkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_.jpg",
+              "width": 828,
+              "height": 1025
+            }
+          ]
+        },
+        "characters": [
+          "Maddy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3538718",
+          "display_name": "Nick Robinson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzViMjQ4NzQtZDBhNC00ZTlhLTk4NzktYTYyYzE4NjFiZjQ1XkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_.jpg",
+              "width": 2000,
+              "height": 2500
+            }
+          ]
+        },
+        "characters": [
+          "Olly"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0741242",
+          "display_name": "Anika Noni Rose",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQ4MzQyODI4Nl5BMl5BanBnXkFtZTgwMDk0ODgyMTI@._V1_.jpg",
+              "width": 1462,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Pauline"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0307143",
+          "display_name": "Ana de la Reguera",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTljYTMyZjktYzAzMy00YzQ0LWFlNDctZTYyMDQ4ZjlhYjkyXkEyXkFqcGdeQXVyNzM0OTExMA@@._V1_.jpg",
+              "width": 1290,
+              "height": 1915
+            }
+          ]
+        },
+        "characters": [
+          "Carla"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6883785",
+          "display_name": "Taylor Hickson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWFjZTY2MWMtYzI1MC00MGJiLTgxYmQtNDg4NjQzM2Q1NjY0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 698,
+              "height": 938
+            }
+          ]
+        },
+        "characters": [
+          "Kayra"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7327824",
+          "display_name": "Danube Hermosillo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgzNDIwMWYtYmU0Mi00YTBhLThkOGMtNGUzZWI1MGFjODY5XkEyXkFqcGc@._V1_CR69,124,3333,5000_.jpg",
+              "width": 3333,
+              "height": 5000
+            }
+          ]
+        },
+        "characters": [
+          "Rosa"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1026161",
+          "display_name": "Dan Payne",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzY0ZTc5NGYtM2JiZi00MjZjLWIzOWUtMTczMGExNTE1YTE2XkEyXkFqcGdeQXVyMjczNjU0Mg@@._V1_.jpg",
+              "width": 2200,
+              "height": 3300
+            }
+          ]
+        },
+        "characters": [
+          "Joe"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0517370",
+          "display_name": "Fiona Loewi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQwOTI1MTA0NV5BMl5BanBnXkFtZTYwMTI5NzAz._V1_.jpg",
+              "width": 450,
+              "height": 338
+            }
+          ]
+        },
+        "characters": [
+          "Mae"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1242613",
+          "display_name": "Sage Brocklebank",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAyOTQzMDk2NF5BMl5BanBnXkFtZTcwMjQ1NTEzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 669
+            }
+          ]
+        },
+        "characters": [
+          "Astronaut"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0493096",
+          "display_name": "Robert Lawrenson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmY1OGI2NTAtYzcwMy00NmY0LTkxNmItYTUxMzgzNmExZGJhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Waterman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1193045",
+          "display_name": "Peter Benson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzhkMDBhZDAtMGJhNi00NTU5LTgzZDktYjA2N2NhZDE1NTZkXkEyXkFqcGdeQXVyOTI4ODA0OQ@@._V1_.jpg",
+              "width": 4096,
+              "height": 2732
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Chase"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0948123",
+          "display_name": "Françoise Yip",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTIzNDMyOTAyN15BMl5BanBnXkFtZTcwODY1NTgyMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 570
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Francis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5947387",
+          "display_name": "Farryn VanHumbeck",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWUyYTdjNzUtYWFmMC00YzI2LWFhZjctZjg2NzYzMjVmZWIwXkEyXkFqcGdeQXVyNDY2MDk1ODM@._V1_.jpg",
+              "width": 2640,
+              "height": 3960
+            }
+          ]
+        },
+        "characters": [
+          "Ruby"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1501598",
+          "display_name": "Marion Eisman",
+          "avatars": null
+        },
+        "characters": [
+          "Nurse Janet"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2428031",
+          "display_name": "Allison Riley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjk5N2IwYjUtOWNmNS00YjM2LWJlNWMtNTFlYzg0NTI3ZjcyXkEyXkFqcGdeQXVyMTQyMzM0NDY@._V1_.jpg",
+              "width": 2200,
+              "height": 3300
+            }
+          ]
+        },
+        "characters": [
+          "Police Officer #1"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "title": {
+    "id": "tt4513674",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Café Society",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 96,
+    "plot": "In the 1930s, a Bronx native moves to Hollywood and falls in love with a young woman who is seeing a married man.",
+    "rating": {
+      "aggregate_rating": 6.6,
+      "votes_count": 81353
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGNiYzM4ZGUtYzk3MC00MWQ1LWI5NGEtZWYzMzMxOTQ4ZDA0XkEyXkFqcGc@._V1_.jpg",
+        "width": 1012,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "heb",
+        "name": "Hebrew"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 64,
+      "review_count": 37
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0000095",
+          "display_name": "Woody Allen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI1MjU3MTI2MF5BMl5BanBnXkFtZTcwMDgxNTE4MQ@@._V1_.jpg",
+              "width": 274,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0000095",
+          "display_name": "Woody Allen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI1MjU3MTI2MF5BMl5BanBnXkFtZTcwMDgxNTE4MQ@@._V1_.jpg",
+              "width": 274,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0136797",
+          "display_name": "Steve Carell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMyOTM2OTk1Ml5BMl5BanBnXkFtZTgwMTI3MzkyNjM@._V1_.jpg",
+              "width": 1371,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Phil Stern"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0498247",
+          "display_name": "Sheryl Lee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM1NzYyODA2Nl5BMl5BanBnXkFtZTYwMDc3MDc2._V1_.jpg",
+              "width": 360,
+              "height": 529
+            }
+          ]
+        },
+        "characters": [
+          "Karen Stern"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0917361",
+          "display_name": "Todd Weeks",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjU1ODY1ZmYtMjQyYi00ZGY1LThiNDQtNGE1YWMyYWE1ZTIyXkEyXkFqcGdeQXVyMTk4NjUzNDU@._V1_.jpg",
+              "width": 3648,
+              "height": 5472
+            }
+          ]
+        },
+        "characters": [
+          "Oscar"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1073603",
+          "display_name": "Paul Schackman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmI5MmQ2NjgtMGU4Yi00ZjBiLTk2MmUtM2M3NGRmZjljZDIzXkEyXkFqcGdeQXVyMTQzNTkzMw@@._V1_.jpg",
+              "width": 2766,
+              "height": 3578
+            }
+          ]
+        },
+        "characters": [
+          "Al"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0137627",
+          "display_name": "Jodi Carlisle",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTcxM2Y4YWItZjFiNi00ZThjLWFlZjEtMDFmM2VlMTA1NDFiXkEyXkFqcGc@._V1_.jpg",
+              "width": 545,
+              "height": 700
+            }
+          ]
+        },
+        "characters": [
+          "Maid"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0075588",
+          "display_name": "Jeannie Berlin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjExMTk2NDkxM15BMl5BanBnXkFtZTgwNzkwMDEwMDE@._V1_.jpg",
+              "width": 160,
+              "height": 180
+            }
+          ]
+        },
+        "characters": [
+          "Rose"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0832792",
+          "display_name": "Ken Stott",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY5NTc5OTczMF5BMl5BanBnXkFtZTcwMTYyNjg3Ng@@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        },
+        "characters": [
+          "Marty"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0692466",
+          "display_name": "Richard Portnow",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk1MzU0NDExNV5BMl5BanBnXkFtZTgwNTg5Nzc5ODE@._V1_.jpg",
+              "width": 800,
+              "height": 1120
+            }
+          ]
+        },
+        "characters": [
+          "Walt"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0251986",
+          "display_name": "Jesse Eisenberg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTE3MzQzODE3OV5BMl5BanBnXkFtZTcwMDE0ODY1NA@@._V1_.jpg",
+              "width": 1445,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Bobby"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3102689",
+          "display_name": "Sari Lennick",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM4NDQ1MjctOGNkZS00ZmJhLWEyNjItMWU4ZjcyNTViM2NjXkEyXkFqcGc@._V1_.jpg",
+              "width": 1024,
+              "height": 1208
+            }
+          ]
+        },
+        "characters": [
+          "Evelyn"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0475218",
+          "display_name": "Stephen Kunken",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE2ZTRlMTUtMDY4NC00YTI3LWJkZjktOGZlOGU4NDY5YzYxXkEyXkFqcGdeQXVyMTU5ODg3Nzg@._V1_.jpg",
+              "width": 1440,
+              "height": 1800
+            }
+          ]
+        },
+        "characters": [
+          "Leonard"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7098219",
+          "display_name": "Laurel Griggs",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWUxNTQwNGItZGFlYy00YTNkLWE3MWItZGQyMzllZTgyZjYzXkEyXkFqcGc@._V1_.jpg",
+              "width": 1080,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Evelyn's Daughter"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1015684",
+          "display_name": "Corey Stoll",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGQxN2I1OTEtYTgwYi00Zjg2LWE4MTAtNTJmZTdhMGYwZTBmXkEyXkFqcGdeQXVyNTE4NTQwMA@@._V1_.jpg",
+              "width": 926,
+              "height": 1182
+            }
+          ]
+        },
+        "characters": [
+          "Ben"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0825627",
+          "display_name": "Saul Stein",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTZkZDNhNDEtMTgzMi00YjA1LWIzODktNWQ3NTU1ZTdkYmE2XkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_.jpg",
+              "width": 1000,
+              "height": 667
+            }
+          ]
+        },
+        "characters": [
+          "Ben's Hood"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0589804",
+          "display_name": "Gabriel Millman",
+          "avatars": null
+        },
+        "characters": [
+          "Ben's Hood"
+        ]
+      }
+    ]
+  }
+}

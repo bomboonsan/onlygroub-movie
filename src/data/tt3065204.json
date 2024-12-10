@@ -1,0 +1,355 @@
+{
+  "title": {
+    "id": "tt3065204",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Conjuring 2",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 134,
+    "plot": "Ed and Lorraine Warren travel to North London to help a single mother raising four children alone in a house plagued by a supernatural spirit.",
+    "rating": {
+      "aggregate_rating": 7.3,
+      "votes_count": 297618
+    },
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjU5OWVlN2EtODNlYy00MjhhLWI0MDUtMTA3MmQ5MGMwYTZmXkEyXkFqcGdeQXVyNjE5MTM4MzY@._V1_.jpg",
+        "width": 1280,
+        "height": 1897
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 65,
+      "review_count": 38
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1490123",
+          "display_name": "James Wan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY5NzExMTQ5N15BMl5BanBnXkFtZTcwNjY1NDQzOQ@@._V1_.jpg",
+              "width": 1800,
+              "height": 1730
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0370937",
+          "display_name": "Chad Hayes",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0370928",
+          "display_name": "Carey W. Hayes",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1490123",
+          "display_name": "James Wan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY5NzExMTQ5N15BMl5BanBnXkFtZTcwNjY1NDQzOQ@@._V1_.jpg",
+              "width": 1800,
+              "height": 1730
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0424901",
+          "display_name": "David Leslie Johnson-McGoldrick",
+          "avatars": [
+            {
+              "url": "",
+              "width": 0,
+              "height": 0
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0933940",
+          "display_name": "Patrick Wilson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkzNzcxNzcxMF5BMl5BanBnXkFtZTgwOTM1ODUzMTE@._V1_.jpg",
+              "width": 1404,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Ed Warren"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0267812",
+          "display_name": "Vera Farmiga",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIwNTU3NDUyMl5BMl5BanBnXkFtZTgwODEwODg5NDE@._V1_.jpg",
+              "width": 5184,
+              "height": 3456
+            }
+          ]
+        },
+        "characters": [
+          "Lorraine Warren"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4068901",
+          "display_name": "Madison Wolfe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2ZkYjJhY2UtMmYzOC00NDAxLTkwMWUtZTZhNGEyN2EzMWYwXkEyXkFqcGdeQXVyMjQwNjk2NTk@._V1_.jpg",
+              "width": 1050,
+              "height": 1406
+            }
+          ]
+        },
+        "characters": [
+          "Janet Hodgson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0640323",
+          "display_name": "Frances O'Connor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjY1MjE2NDcwOF5BMl5BanBnXkFtZTcwMjE5NTc5OA@@._V1_.jpg",
+              "width": 1581,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Peggy Hodgson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7110007",
+          "display_name": "Lauren Esposito",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTY4NzA0ZjctZWYyZC00ZGIzLWJkYWQtMDE3OWZlOGE4YmJhXkEyXkFqcGdeQXVyNTczMjc2NzQ@._V1_.jpg",
+              "width": 1200,
+              "height": 1800
+            }
+          ]
+        },
+        "characters": [
+          "Margaret Hodgson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7625129",
+          "display_name": "Benjamin Haigh",
+          "avatars": null
+        },
+        "characters": [
+          "Billy Hodgson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7625130",
+          "display_name": "Patrick McAuley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzFkNjBlYTMtOTBlNC00ZDc5LTgxNzktNjUyYjZkZDg0MTIxXkEyXkFqcGdeQXVyNjMxMzM5MzY@._V1_.jpg",
+              "width": 1463,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Johnny Hodgson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0564402",
+          "display_name": "Simon McBurney",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAyOTEzOTg2M15BMl5BanBnXkFtZTYwNTU3MTQ1._V1_.jpg",
+              "width": 276,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Maurice Grosse"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0448204",
+          "display_name": "Maria Doyle Kennedy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE4OTk5ODgyNl5BMl5BanBnXkFtZTYwOTExNzI1._V1_.jpg",
+              "width": 287,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Peggy Nottingham"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0216342",
+          "display_name": "Simon Delaney",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTVkMjlkNTAtOWY4MS00YzU4LTllMmYtYzk5OGMxYWNiM2VhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 4480,
+              "height": 6720
+            }
+          ]
+        },
+        "characters": [
+          "Vic Nottingham"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0004376",
+          "display_name": "Franka Potente",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTBjZDM0ZWEtMjg5Zi00YjNiLWE0ZGEtNmMzYjBlYjExMmNiXkEyXkFqcGdeQXVyMTI2Nzk2MjQ1._V1_.jpg",
+              "width": 2500,
+              "height": 1924
+            }
+          ]
+        },
+        "characters": [
+          "Anita Gregory"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0012432",
+          "display_name": "Bob Adrian",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzE3NDY4MjIxN15BMl5BanBnXkFtZTgwNDcxNDAzNzE@._V1_.jpg",
+              "width": 351,
+              "height": 437
+            }
+          ]
+        },
+        "characters": [
+          "Bill Wilkins"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0235960",
+          "display_name": "Robin Atkin Downes",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmI3ZTZmOTUtMTMzOS00MzMxLTliMDItYmIzN2E3NmJjZTI1XkEyXkFqcGdeQXVyMTM1OTc0MDEz._V1_.jpg",
+              "width": 3370,
+              "height": 5050
+            }
+          ]
+        },
+        "characters": [
+          "Demon Voice"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0007491",
+          "display_name": "Bonnie Aarons",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzU0ODdiZjktZjJhYy00YTkzLWJiMjMtZjM5NGExMzFhYTUyXkEyXkFqcGdeQXVyMTc2NTU3OTc@._V1_.jpg",
+              "width": 1470,
+              "height": 2080
+            }
+          ]
+        },
+        "characters": [
+          "Demon Nun"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2306701",
+          "display_name": "Javier Botet",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2EyZTIzYTItYWU3Ni00M2ZmLWE4MDktYWE2NWU4MmFjZTk1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 827,
+              "height": 1165
+            }
+          ]
+        },
+        "characters": [
+          "Crooked Man"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "title": {
+    "id": "tt4972582",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Split",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 117,
+    "plot": "Three girls are kidnapped by a man with a diagnosed 23 distinct personalities. They must try to escape before the apparent emergence of a frightful new 24th.",
+    "rating": {
+      "aggregate_rating": 7.3,
+      "votes_count": 543523
+    },
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTJiNGM2NjItNDRiYy00ZjY0LTgwNTItZDBmZGRlODQ4YThkL2ltYWdlXkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_.jpg",
+        "width": 1383,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "JP",
+        "name": "Japan"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 63,
+      "review_count": 48
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0796117",
+          "display_name": "M. Night Shyamalan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTczMTA5OTMxMl5BMl5BanBnXkFtZTcwMDA4NDg1Mw@@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0796117",
+          "display_name": "M. Night Shyamalan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTczMTA5OTMxMl5BMl5BanBnXkFtZTcwMDA4NDg1Mw@@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0564215",
+          "display_name": "James McAvoy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQzNzIxOTYzMl5BMl5BanBnXkFtZTcwNjYxNTk1Nw@@._V1_.jpg",
+              "width": 1569,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Dennis",
+          "Patricia",
+          "Hedwig",
+          "The Beast",
+          "Kevin Wendell Crumb",
+          "Barry",
+          "Orwell",
+          "Jade"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5896355",
+          "display_name": "Anya Taylor-Joy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTllYmE5YTYtZGZmYy00ZTBlLWJlODEtYWQ0ZmU1YTJkMjJlXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Casey Cooke"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000990",
+          "display_name": "Betty Buckley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg4MTQyMzU1Nl5BMl5BanBnXkFtZTcwOTQ4MDU3MQ@@._V1_.jpg",
+              "width": 286,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Karen Fletcher"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4726634",
+          "display_name": "Haley Lu Richardson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDNhMTgwNzAtYzNiZC00MTRiLTg1M2ItYjA1OTNmZjRiYWU3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1742,
+              "height": 2500
+            }
+          ]
+        },
+        "characters": [
+          "Claire Benoit"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4088627",
+          "display_name": "Jessica Sula",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDYxZWZkNWQtOTEzZi00NjI4LTlhOTAtYTNlMzJlZDFmODMxXkEyXkFqcGdeQXVyNjk1MjYyNTA@._V1_.jpg",
+              "width": 2000,
+              "height": 3008
+            }
+          ]
+        },
+        "characters": [
+          "Marcia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6732359",
+          "display_name": "Izzie Coffey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDQ3MGQ5NDgtMGE5Yy00N2Q5LWFiYzYtMGQ5N2M3MGQzMTY1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3840,
+              "height": 5760
+            }
+          ]
+        },
+        "characters": [
+          "Five-Year-Old Casey"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0377034",
+          "display_name": "Brad William Henke",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM4NTE3NjU1Nl5BMl5BanBnXkFtZTcwMjQwNzcyMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 675
+            }
+          ]
+        },
+        "characters": [
+          "Uncle John"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1278376",
+          "display_name": "Sebastian Arcelus",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM3MTQ1MTUxNl5BMl5BanBnXkFtZTcwMjQyNjU5NQ@@._V1_.jpg",
+              "width": 685,
+              "height": 457
+            }
+          ]
+        },
+        "characters": [
+          "Casey's Father"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0400223",
+          "display_name": "Neal Huff",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODI1OTYyMDgyNV5BMl5BanBnXkFtZTcwOTI2MDA1NA@@._V1_.jpg",
+              "width": 407,
+              "height": 526
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Benoit"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0913545",
+          "display_name": "Ukee Washington",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzExMTU4NTcyMF5BMl5BanBnXkFtZTcwNTMzMTIzOA@@._V1_.jpg",
+              "width": 847,
+              "height": 1119
+            }
+          ]
+        },
+        "characters": [
+          "News Anchor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8706999",
+          "display_name": "Ann Wood",
+          "avatars": null
+        },
+        "characters": [
+          "Game Show Enthusiast"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0446830",
+          "display_name": "Robert Michael Kelly",
+          "avatars": null
+        },
+        "characters": [
+          "Joe"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0796117",
+          "display_name": "M. Night Shyamalan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTczMTA5OTMxMl5BMl5BanBnXkFtZTcwMDA4NDg1Mw@@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        },
+        "characters": [
+          "Jai",
+          "Hooters Lover"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2674188",
+          "display_name": "Rosemary Howard",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzQ1MjBjZWQtMmNmOS00NGFmLThhZDAtNDliOTQ1ZDk2ZDUzXkEyXkFqcGdeQXVyMTk1MTcxNzk@._V1_.jpg",
+              "width": 1024,
+              "height": 1280
+            }
+          ]
+        },
+        "characters": [
+          "Kevin's Mother"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8707000",
+          "display_name": "Jerome Gallman",
+          "avatars": null
+        },
+        "characters": [
+          "Vince, Security Guard"
+        ]
+      }
+    ]
+  }
+}

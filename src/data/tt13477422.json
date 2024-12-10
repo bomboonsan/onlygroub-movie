@@ -1,0 +1,89 @@
+{
+  "title": {
+    "id": "tt13477422",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "My Rhythm",
+    "original_title": null,
+    "start_year": 2020,
+    "end_year": null,
+    "runtime_minutes": 100,
+    "plot": "The drama will narrate the story of a group of young university students who dream of forming a band.",
+    "rating": null,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTFkZmMwZGMtYTk4ZC00ZWVjLTkxM2QtYTlkMTMwMjk0ZWNlXkEyXkFqcGc@._V1_.jpg",
+        "width": 1400,
+        "height": 2000
+      }
+    ],
+    "certificates": null,
+    "spoken_languages": [
+      {
+        "code": "tha",
+        "name": "Thai"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "TH",
+        "name": "Thailand"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm12072133",
+          "display_name": "Rapee Wichan-Park",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": null,
+    "casts": [
+      {
+        "name": {
+          "id": "nm8712108",
+          "display_name": "Perawat Sangpotirat",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzIxMzcwMTktZDFjYS00NDQ2LWFlZTctNzg5NzlmMjg1YzJhXkEyXkFqcGdeQXVyMjMxNTAxNDk@._V1_.jpg",
+              "width": 1674,
+              "height": 1152
+            }
+          ]
+        },
+        "characters": [
+          "Ko"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12072134",
+          "display_name": "Boonsita Intrapak",
+          "avatars": null
+        },
+        "characters": [
+          "Som"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6694730",
+          "display_name": "Atikhun Adulpocatorn",
+          "avatars": null
+        },
+        "characters": [
+          "Yod"
+        ]
+      }
+    ]
+  }
+}

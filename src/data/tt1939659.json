@@ -1,0 +1,340 @@
+{
+  "title": {
+    "id": "tt1939659",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Carrie",
+    "original_title": null,
+    "start_year": 2013,
+    "end_year": null,
+    "runtime_minutes": 100,
+    "plot": "A shy girl, outcast by her peers and sheltered by her religious mother, unleashes telekinetic terror on her small town after being pushed too far at her senior prom.",
+    "rating": {
+      "aggregate_rating": 5.8,
+      "votes_count": 148294
+    },
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BODg2MDU2MjYxNl5BMl5BanBnXkFtZTcwMDQ5MzU0OQ@@._V1_.jpg",
+        "width": 540,
+        "height": 800
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 53,
+      "review_count": 34
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0005303",
+          "display_name": "Kimberly Peirce",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyMTYyMjU5OF5BMl5BanBnXkFtZTcwMjA5MTMwMg@@._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0169548",
+          "display_name": "Lawrence D. Cohen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzYzMjlhZjYtM2U4OS00NjAzLWE2YTMtNzVkODA3NmI0MjMyXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
+              "width": 473,
+              "height": 600
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2630745",
+          "display_name": "Roberto Aguirre-Sacasa",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAwNzMzNTgyN15BMl5BanBnXkFtZTgwMTU5NzA0MTI@._V1_.jpg",
+              "width": 1534,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0000175",
+          "display_name": "Stephen King",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA2ODIxNDM4Nl5BMl5BanBnXkFtZTYwMjkzMzU1._V1_.jpg",
+              "width": 257,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000194",
+          "display_name": "Julianne Moore",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM5NDI1MjE2Ml5BMl5BanBnXkFtZTgwNDE0Nzk0MDE@._V1_.jpg",
+              "width": 596,
+              "height": 827
+            }
+          ]
+        },
+        "characters": [
+          "Margaret White"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1631269",
+          "display_name": "Chloë Grace Moretz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjBlZTljOTctZmJjZS00YzE0LWE5NTUtMzA2MTE1MGQwMDFhXkEyXkFqcGdeQXVyMTYxNjg0Njgy._V1_.jpg",
+              "width": 1010,
+              "height": 1262
+            }
+          ]
+        },
+        "characters": [
+          "Carrie White"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3538539",
+          "display_name": "Gabriella Wilde",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmJkMTc2NzgtMThkYi00MzBlLTk2MDAtYzA1YjQ4ZjBmNTE3XkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_.jpg",
+              "width": 4000,
+              "height": 5000
+            }
+          ]
+        },
+        "characters": [
+          "Sue Snell"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0234668",
+          "display_name": "Portia Doubleday",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGZjNDlhZGMtMzlkNy00NmQzLTlhMDAtMjY3YjllYTM4OWZkXkEyXkFqcGdeQXVyMTMzOTMyOTM4._V1_.jpg",
+              "width": 1306,
+              "height": 1972
+            }
+          ]
+        },
+        "characters": [
+          "Chris Hargensen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2629010",
+          "display_name": "Zoë Belkin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGFiYmRmZjEtMmYyNi00MjUyLWIyNWItNTcyZjE1ODdmZDllXkEyXkFqcGdeQXVyMTg4MzAzNzU@._V1_.jpg",
+              "width": 4480,
+              "height": 6720
+            }
+          ]
+        },
+        "characters": [
+          "Tina"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1541944",
+          "display_name": "Samantha Weinstein",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmI5YmM1YzUtMmFlNi00OGI3LThkZDYtNWFmY2ZiOTZhMjUyXkEyXkFqcGc@._V1_.jpg",
+              "width": 960,
+              "height": 1440
+            }
+          ]
+        },
+        "characters": [
+          "Heather"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3634952",
+          "display_name": "Karissa Strain",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGQ4YzkwN2UtNjNlZi00Y2Q5LWIwZDAtZTJhYWY4ZjU0NmI3XkEyXkFqcGc@._V1_.jpg",
+              "width": 2400,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Nicki"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3634942",
+          "display_name": "Katie Strain",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2I5YmNjODctNzgxNy00ZTdmLTg5NWUtZjgzZTQyZGE1NWUxXkEyXkFqcGc@._V1_.jpg",
+              "width": 2400,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Lizzy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5052065",
+          "display_name": "Ansel Elgort",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTk1NWNmMTEtODdiMS00YzQ1LTg4MDQtMDczMzU5OGM3ZGFhXkEyXkFqcGdeQXVyODIzMDE1OTg@._V1_.jpg",
+              "width": 2249,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Tommy Ross"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1135869",
+          "display_name": "Demetrius Joyette",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk5MDEwNjExOF5BMl5BanBnXkFtZTgwODg4MzU2MjE@._V1_.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ]
+        },
+        "characters": [
+          "George"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0339460",
+          "display_name": "Judy Greer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg5MTAyMzMzMl5BMl5BanBnXkFtZTcwMDY2Mzc2NQ@@._V1_.jpg",
+              "width": 1387,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Ms. Desjardin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0377106",
+          "display_name": "Barry Shabaka Henley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI5NzQ5OTAxMV5BMl5BanBnXkFtZTYwNjExNDA0._V1_.jpg",
+              "width": 282,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Principal Morton"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0563250",
+          "display_name": "Arlene Mazerolle",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzhhMzRkNTQtMzQzMC00ODE4LWI3YTQtOTAwNWYyMjYyYmZiXkEyXkFqcGc@._V1_.jpg",
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        "characters": [
+          "Miss Helen Finch"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2092744",
+          "display_name": "Evan Gilchrist",
+          "avatars": null
+        },
+        "characters": [
+          "Greg Delois"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2239603",
+          "display_name": "Eddie Max Huband",
+          "avatars": null
+        },
+        "characters": [
+          "Harry Trenant"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "title": {
+    "id": "tt3544112",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Sing Street",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 106,
+    "plot": "A young lad notices a beautiful girl who begins to occupy his thoughts. While struggling with poverty, personal relationships and life's woes, he starts a band, hoping to catch her attention.",
+    "rating": {
+      "aggregate_rating": 7.9,
+      "votes_count": 101056
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjEzODA3MDcxMl5BMl5BanBnXkFtZTgwODgxNDk3NzE@._V1_.jpg",
+        "width": 2025,
+        "height": 3000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      },
+      {
+        "code": "lat",
+        "name": "Latin"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "IE",
+        "name": "Ireland"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 79,
+      "review_count": 38
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0138809",
+          "display_name": "John Carney",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgwNzUyOTEzOF5BMl5BanBnXkFtZTYwMzU2Nzc3._V1_.jpg",
+              "width": 450,
+              "height": 642
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm8823854",
+          "display_name": "Simon Carmody",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0138809",
+          "display_name": "John Carney",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgwNzUyOTEzOF5BMl5BanBnXkFtZTYwMzU2Nzc3._V1_.jpg",
+              "width": 450,
+              "height": 642
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm6916321",
+          "display_name": "Ferdia Walsh-Peelo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjc5MTFiNjQtMzE3OS00ZjA5LTk3MzItY2Y5Njg4MTQyYjM0XkEyXkFqcGdeQXVyNTY5NzYwODM@._V1_.jpg",
+              "width": 784,
+              "height": 935
+            }
+          ]
+        },
+        "characters": [
+          "Conor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5801651",
+          "display_name": "Kelly Thornton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjYyOGVmYzUtZGI3OS00Nzc1LThiM2QtZDJkMjEzOTgwMTJjXkEyXkFqcGdeQXVyNjAyMzQxNzY@._V1_.jpg",
+              "width": 1440,
+              "height": 1800
+            }
+          ]
+        },
+        "characters": [
+          "Ann"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0448204",
+          "display_name": "Maria Doyle Kennedy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE4OTk5ODgyNl5BMl5BanBnXkFtZTYwOTExNzI1._V1_.jpg",
+              "width": 287,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Penny"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2930503",
+          "display_name": "Jack Reynor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWRiYzdhMDUtODQxNy00ZjdiLWE3NTktOWEwNGZiZjg5NGI5XkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_.jpg",
+              "width": 1958,
+              "height": 1606
+            }
+          ]
+        },
+        "characters": [
+          "Brendan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0318821",
+          "display_name": "Aidan Gillen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMwNzE4MzMxNl5BMl5BanBnXkFtZTgwOTYwMTEyMDE@._V1_.jpg",
+              "width": 1536,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Robert"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2498053",
+          "display_name": "Ian Kenny",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc4NDdiNWItMGRmYi00YzY5LTlmODQtZGM1NmM4Y2RmZmU0XkEyXkFqcGdeQXVyMjEwMjYzNDA@._V1_.jpg",
+              "width": 5000,
+              "height": 3333
+            }
+          ]
+        },
+        "characters": [
+          "Barry"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7860900",
+          "display_name": "Ben Carolan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjcwZGE5Y2MtYTVmOS00MzZkLTlkYTEtY2EwYzdmMWUxZWU1XkEyXkFqcGc@._V1_.jpg",
+              "width": 1170,
+              "height": 1765
+            }
+          ]
+        },
+        "characters": [
+          "Darren"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7860901",
+          "display_name": "Percy Chamburuka",
+          "avatars": null
+        },
+        "characters": [
+          "Ngig"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7603308",
+          "display_name": "Mark McKenna",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTAxNDM5YWItMWNmYi00MzYzLWJlYzYtN2FjNmU5ZTg0ZTNhXkEyXkFqcGdeQXVyMzQ0NTk5NzU@._V1_.jpg",
+              "width": 1667,
+              "height": 2500
+            }
+          ]
+        },
+        "characters": [
+          "Eamon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0943614",
+          "display_name": "Don Wycherley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2VlNmIyYTAtMjI2OS00NzY1LWEyOTctOTZmMjI2Yzk5YjZiXkEyXkFqcGdeQXVyOTY1MzEzMzc@._V1_.jpg",
+              "width": 1170,
+              "height": 1539
+            }
+          ]
+        },
+        "characters": [
+          "Brother Baxter"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0449048",
+          "display_name": "Des Keogh",
+          "avatars": null
+        },
+        "characters": [
+          "Brother Barnabas"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3912874",
+          "display_name": "Kian Murphy",
+          "avatars": null
+        },
+        "characters": [
+          "Mick Mahon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4860644",
+          "display_name": "Dolores Mullally",
+          "avatars": null
+        },
+        "characters": [
+          "Dinner Lady"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2377903",
+          "display_name": "Lucy Boynton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk4ZWI3ZDktNzBiYS00MzdiLTk2MDEtOWNlOTY0ZDg3NDBhXkEyXkFqcGdeQXVyODY2MTA2OTg@._V1_.jpg",
+              "width": 800,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Raphina"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0687692",
+          "display_name": "Marcella Plunkett",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODQyNzgzODk3Ml5BMl5BanBnXkFtZTgwMDYzOTIwMjE@._V1_.jpg",
+              "width": 533,
+              "height": 800
+            }
+          ]
+        },
+        "characters": [
+          "Eamon's Mum"
+        ]
+      }
+    ]
+  }
+}

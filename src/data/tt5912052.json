@@ -1,0 +1,218 @@
+{
+  "title": {
+    "id": "tt5912052",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Rudolf the Black Cat",
+    "original_title": "Rudorufu to Ippaiattena",
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 89,
+    "plot": "A stranded little cat tries to find a way to back home.",
+    "rating": {
+      "aggregate_rating": 6.6,
+      "votes_count": 911
+    },
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjRlOTFiN2EtM2JmMi00NTZhLTlmOTctZDJmZGQyYmNlZTliXkEyXkFqcGc@._V1_.jpg",
+        "width": 319,
+        "height": 450
+      }
+    ],
+    "certificates": null,
+    "spoken_languages": [
+      {
+        "code": "jpn",
+        "name": "Japanese"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "JP",
+        "name": "Japan"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm1012102",
+          "display_name": "Motonori Sakakibara",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0951197",
+          "display_name": "Kunihiko Yuyama",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjVlZDg5NzAtNjE0ZC00ZGVmLTk0Y2YtZDgzOWNiZjY2YzJmXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 256,
+              "height": 384
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm8314767",
+          "display_name": "Hiroshi Saitô",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm8314768",
+          "display_name": "Hanmo Sugiura",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0441419",
+          "display_name": "Yôichi Katô",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmExZjM0ZTEtYjA5My00ZWY3LThhYmYtYTA3YzQwN2M4NWQwXkEyXkFqcGdeQXVyMTAzMTY2NTU0._V1_.jpg",
+              "width": 849,
+              "height": 882
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1800111",
+          "display_name": "Mao Inoue",
+          "avatars": null
+        },
+        "characters": [
+          "Rudolf"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0840660",
+          "display_name": "Ryohei Suzuki",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjg2YjVkNzUtMDU1ZS00MTBmLWEzMzAtNmFlODA0NDdmYzVkXkEyXkFqcGdeQXVyNDMwOTUyMDI@._V1_.jpg",
+              "width": 1211,
+              "height": 1524
+            }
+          ]
+        },
+        "characters": [
+          "Gottalot"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0960033",
+          "display_name": "Akio Ôtsuka",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzZlY2NiYjktM2Y2My00YjcyLTg5Y2UtM2M5YjMwNDRiMjY1XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+              "width": 684,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Master Kuma"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0299210",
+          "display_name": "Arata Furuta",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM2NDgyODczMV5BMl5BanBnXkFtZTcwNDMzNTI3NA@@._V1_.jpg",
+              "width": 2048,
+              "height": 1320
+            }
+          ]
+        },
+        "characters": [
+          "Devil"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1679934",
+          "display_name": "Nana Mizuki",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWFlM2E5OWYtMzI0My00MTUyLWFiNWQtODVmMGE4MjBlMjg3XkEyXkFqcGdeQXVyMTA2MDQ4Mg@@._V1_.jpg",
+              "width": 853,
+              "height": 480
+            }
+          ]
+        },
+        "characters": [
+          "Misha"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0946580",
+          "display_name": "Norito Yashima",
+          "avatars": null
+        },
+        "characters": [
+          "Buchi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6117053",
+          "display_name": "Rio Sasaki",
+          "avatars": null
+        },
+        "characters": [
+          "Rie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1029098",
+          "display_name": "Sandayû Dokumamushi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU1NDEwODY2NF5BMl5BanBnXkFtZTgwODkzOTU2MjE@._V1_.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ]
+        },
+        "characters": [
+          "Truck driver"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2719774",
+          "display_name": "Yuka Terasaki",
+          "avatars": null
+        },
+        "characters": [
+          "Rudolf's younger brother"
+        ]
+      }
+    ]
+  }
+}

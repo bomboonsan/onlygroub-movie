@@ -1,0 +1,370 @@
+{
+  "title": {
+    "id": "tt0369610",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Jurassic World",
+    "original_title": null,
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 124,
+    "plot": "A new theme park, built on the original site of Jurassic Park, creates a genetically modified hybrid dinosaur, the Indominus Rex, which escapes containment and goes on a killing spree.",
+    "rating": {
+      "aggregate_rating": 6.9,
+      "votes_count": 680075
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzQ3OTY4NjAtNzM5OS00N2ZhLWJlOWUtYzYwZjNmOWRiMzcyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "width": 3158,
+        "height": 5000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 59,
+      "review_count": 49
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1119880",
+          "display_name": "Colin Trevorrow",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTNjMjY2M2EtZTMwNC00NGZkLTliMDMtYzNiNzVjMjJkMzBmXkEyXkFqcGdeQXVyMjMyMzEzOTM@._V1_.jpg",
+              "width": 817,
+              "height": 1214
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0415425",
+          "display_name": "Rick Jaffa",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0798646",
+          "display_name": "Amanda Silver",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1119880",
+          "display_name": "Colin Trevorrow",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTNjMjY2M2EtZTMwNC00NGZkLTliMDMtYzNiNzVjMjJkMzBmXkEyXkFqcGdeQXVyMjMyMzEzOTM@._V1_.jpg",
+              "width": 817,
+              "height": 1214
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2081046",
+          "display_name": "Derek Connolly",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkzMTMxNjI5MV5BMl5BanBnXkFtZTcwMDc0NTUxOQ@@._V1_.jpg",
+              "width": 1480,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0000341",
+          "display_name": "Michael Crichton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgwOTQ1NTAyM15BMl5BanBnXkFtZTgwMTk4NzU0MDI@._V1_.jpg",
+              "width": 1402,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0695435",
+          "display_name": "Chris Pratt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjdkYjg1NzMtOTY2YS00ZWI1LWEwZWYtOTU1YTM2ODA2ZWY5XkEyXkFqcGdeQXVyMTM1MjAxMDc3._V1_.jpg",
+              "width": 1536,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Owen Grady"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0397171",
+          "display_name": "Bryce Dallas Howard",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjk4MTBkYzEtZmZhYi00ZGFkLWJmYmYtOGRiY2IwYTNhMWFlXkEyXkFqcGdeQXVyMjQ0MTg4Nw@@._V1_.jpg",
+              "width": 3300,
+              "height": 4126
+            }
+          ]
+        },
+        "characters": [
+          "Claire Dearing"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0451234",
+          "display_name": "Irrfan Khan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDg3NDgxNzY4NF5BMl5BanBnXkFtZTcwODMxODQzMg@@._V1_.jpg",
+              "width": 299,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Masrani"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000352",
+          "display_name": "Vincent D'Onofrio",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk0NTE2MDkzNF5BMl5BanBnXkFtZTYwODUzMjcz._V1_.jpg",
+              "width": 285,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Vic Hoskins"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1339223",
+          "display_name": "Ty Simpkins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2IyNDIxODgtOGEzZS00MTc5LTkxZDAtN2QxNjNkNDYyOTZmXkEyXkFqcGdeQXVyMTAxNjMxMjg@._V1_.jpg",
+              "width": 908,
+              "height": 950
+            }
+          ]
+        },
+        "characters": [
+          "Gray"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3538718",
+          "display_name": "Nick Robinson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzViMjQ4NzQtZDBhNC00ZTlhLTk4NzktYTYyYzE4NjFiZjQ1XkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_.jpg",
+              "width": 2000,
+              "height": 2500
+            }
+          ]
+        },
+        "characters": [
+          "Zach"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2159926",
+          "display_name": "Jake Johnson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjExMzc5NDM0Nl5BMl5BanBnXkFtZTcwOTU3MDU3OA@@._V1_.jpg",
+              "width": 540,
+              "height": 720
+            }
+          ]
+        },
+        "characters": [
+          "Lowery"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1082477",
+          "display_name": "Omar Sy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI2MjE3MDQ3NV5BMl5BanBnXkFtZTcwOTY0NzU0Nw@@._V1_.jpg",
+              "width": 1366,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Barry"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000703",
+          "display_name": "BD Wong",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYxNTEyMjEyOF5BMl5BanBnXkFtZTcwNjAwNTMwNA@@._V1_.jpg",
+              "width": 276,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Henry Wu"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0339460",
+          "display_name": "Judy Greer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg5MTAyMzMzMl5BMl5BanBnXkFtZTcwMDY2Mzc2NQ@@._V1_.jpg",
+              "width": 1387,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Karen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1944055",
+          "display_name": "Lauren Lapkus",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDExZjUzNjAtMGYwZC00M2FjLWJlOGUtYTE2YzRmNDQ5MzdmXkEyXkFqcGdeQXVyMjQxNzM1NjM@._V1_.jpg",
+              "width": 1657,
+              "height": 1341
+            }
+          ]
+        },
+        "characters": [
+          "Vivian"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0974575",
+          "display_name": "Brian Tee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGRlNjk2ODEtZTc5Yi00MTNkLTkzYzEtNmIwMTM3NWMxNGQ0XkEyXkFqcGdeQXVyMjM1NTU0NA@@._V1_.jpg",
+              "width": 3632,
+              "height": 3544
+            }
+          ]
+        },
+        "characters": [
+          "Hamada"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2692146",
+          "display_name": "Katie McGrath",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcxOTc0MDgzNV5BMl5BanBnXkFtZTcwODUyNDU5Ng@@._V1_.jpg",
+              "width": 1324,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Zara"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2952467",
+          "display_name": "Andy Buckley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUwMjk1NDU4NV5BMl5BanBnXkFtZTcwNDY2MDYxNA@@._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Scott"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1468061",
+          "display_name": "Eric Edelstein",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjE0MDc3ODkxN15BMl5BanBnXkFtZTcwNzE5OTY0Mg@@._V1_.jpg",
+              "width": 315,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Paddock Supervisor"
+        ]
+      }
+    ]
+  }
+}

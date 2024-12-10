@@ -1,0 +1,342 @@
+{
+  "title": {
+    "id": "tt8522006",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Happiest Season",
+    "original_title": null,
+    "start_year": 2020,
+    "end_year": null,
+    "runtime_minutes": 102,
+    "plot": "A holiday romantic comedy that captures the range of emotions tied to wanting your family's acceptance, being true to yourself, and trying not to ruin Christmas.",
+    "rating": {
+      "aggregate_rating": 6.6,
+      "votes_count": 47458
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDgyZDNiZGEtYmQ4NC00NzU5LTllODQtNjIwMGY2NDYyNGQwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "width": 1012,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 69,
+      "review_count": 31
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0245112",
+          "display_name": "Clea DuVall",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjU0NDc3MTM4NV5BMl5BanBnXkFtZTcwMjY4Mzc1OA@@._V1_.jpg",
+              "width": 1395,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0245112",
+          "display_name": "Clea DuVall",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjU0NDc3MTM4NV5BMl5BanBnXkFtZTcwMjY4Mzc1OA@@._V1_.jpg",
+              "width": 1395,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm4364610",
+          "display_name": "Mary Holland",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmRiNjI3MTQtMDAyOC00NjVkLTllMjItMzA2ZDE4NTE0ZDdmXkEyXkFqcGdeQXVyMTU5MzcwNjg@._V1_.jpg",
+              "width": 5273,
+              "height": 7905
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0829576",
+          "display_name": "Kristen Stewart",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTJlOGE3ZjEtZDg4OS00MGJlLTgzY2QtYzg3OWE2NmZmYmE1XkEyXkFqcGdeQXVyMTI2Nzk2ODk3._V1_.jpg",
+              "width": 3981,
+              "height": 4281
+            }
+          ]
+        },
+        "characters": [
+          "Abby"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4496875",
+          "display_name": "Mackenzie Davis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzRkYmE0YWYtY2I3OC00OTAyLWE5YmItYzIwMGYyMTk1NDk3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 564,
+              "height": 564
+            }
+          ]
+        },
+        "characters": [
+          "Harper"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005460",
+          "display_name": "Mary Steenburgen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk1OTI5OTc0Nl5BMl5BanBnXkFtZTcwNjc5NDMwNA@@._V1_.jpg",
+              "width": 305,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Tipper"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001255",
+          "display_name": "Victor Garber",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTQxODYxNzE3NV5BMl5BanBnXkFtZTcwOTM4MTMwMg@@._V1_.jpg",
+              "width": 322,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Ted"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1555340",
+          "display_name": "Alison Brie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjJkNDg5ZDctM2RlZS00NjFmLTkxZjktMWE5NGQzMDg4NDFhXkEyXkFqcGdeQXVyMTMwMDM1OTQ@._V1_.jpg",
+              "width": 1454,
+              "height": 2000
+            }
+          ]
+        },
+        "characters": [
+          "Sloane"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4364610",
+          "display_name": "Mary Holland",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmRiNjI3MTQtMDAyOC00NjVkLTllMjItMzA2ZDE4NTE0ZDdmXkEyXkFqcGdeQXVyMTU5MzcwNjg@._V1_.jpg",
+              "width": 5273,
+              "height": 7905
+            }
+          ]
+        },
+        "characters": [
+          "Jane"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2391794",
+          "display_name": "Dan Levy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2ZhOWMzZWMtMTNkMi00YmRjLTljOTEtZjhkNmI3NjlmZjM3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 2667,
+              "height": 4000
+            }
+          ]
+        },
+        "characters": [
+          "John"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1439629",
+          "display_name": "Burl Moseley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWNmMGFlYzMtZDFjZC00ZGVhLWFjMzUtOTkyODQwNTUwYjE0XkEyXkFqcGdeQXVyMTUwNTAyNjg@._V1_CR185,7,912,1368_.jpg",
+              "width": 912,
+              "height": 1368
+            }
+          ]
+        },
+        "characters": [
+          "Eric"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2201555",
+          "display_name": "Aubrey Plaza",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIyMzYyMjQ5OV5BMl5BanBnXkFtZTcwMTA0MTkxNw@@._V1_.jpg",
+              "width": 1428,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Riley Johnson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0710605",
+          "display_name": "Sarayu Blue",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjU1MGNkYTMtMDRjMC00YjlkLThiMTgtNGJiNzk4ZjkyMmY5XkEyXkFqcGdeQXVyNTMwNjc2OQ@@._V1_.jpg",
+              "width": 6056,
+              "height": 3963
+            }
+          ]
+        },
+        "characters": [
+          "Carolyn McCoy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1416330",
+          "display_name": "Jake McDorman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjdjZDQyMjAtMjcwNC00MDEzLWI1NTktYWZlZTE5MjU0NWMxXkEyXkFqcGdeQXVyMjUxOTk2Mzg@._V1_.jpg",
+              "width": 669,
+              "height": 1000
+            }
+          ]
+        },
+        "characters": [
+          "Connor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0309430",
+          "display_name": "Ana Gasteyer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk2NDYxMzkxNF5BMl5BanBnXkFtZTgwNjA0NTQ2OTE@._V1_.jpg",
+              "width": 774,
+              "height": 849
+            }
+          ]
+        },
+        "characters": [
+          "Harry Levin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8863263",
+          "display_name": "Caroline Harris",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjVkZDEwY2UtODQyZC00NWI1LTgyNGMtNDI0NjY1M2YyODgxXkEyXkFqcGdeQXVyNjU2OTk3MDc@._V1_.jpg",
+              "width": 500,
+              "height": 700
+            }
+          ]
+        },
+        "characters": [
+          "Kelly"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2661138",
+          "display_name": "Jenny Gulley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjgzZmUyMGQtNzQxYS00MDVmLWI1MTQtZTQ5NjA4MDFkNWFhXkEyXkFqcGdeQXVyMTQyMzAzODI@._V1_.jpg",
+              "width": 867,
+              "height": 1300
+            }
+          ]
+        },
+        "characters": [
+          "Ashley"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6626958",
+          "display_name": "Dominique Lawson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWI3YTdiN2ItYWE5MS00ZjliLWJiMzctNmM3YWE5YjNlNzNmXkEyXkFqcGc@._V1_.jpg",
+              "width": 828,
+              "height": 1214
+            }
+          ]
+        },
+        "characters": [
+          "Levi"
+        ]
+      }
+    ]
+  }
+}

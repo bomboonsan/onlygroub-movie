@@ -1,0 +1,305 @@
+{
+  "title": {
+    "id": "tt21308888",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Paradise",
+    "original_title": null,
+    "start_year": 2023,
+    "end_year": null,
+    "runtime_minutes": 117,
+    "plot": "After his wife is forced to give up 40 years of her life as payment for an insurance debt, a man desperately searches for a way to get them back.",
+    "rating": {
+      "aggregate_rating": 6.3,
+      "votes_count": 20230
+    },
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGRmZTRiMTUtMzczMS00OGY3LWE0OTAtNDVhZTBkY2E5MmQyXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_.jpg",
+        "width": 450,
+        "height": 630
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "TV-MA"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "DE",
+        "name": "Germany"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm2853069",
+          "display_name": "Boris Kunz",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm3062371",
+          "display_name": "Simon Amberger",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDVjMzc5MzktYmIzZC00YzdkLTgyNmQtMGQ1MmY4NmE5ZDBhXkEyXkFqcGdeQXVyNzkxODgwMDI@._V1_.jpg",
+              "width": 1675,
+              "height": 2512
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1037466",
+          "display_name": "Peter Kocyla",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2853069",
+          "display_name": "Boris Kunz",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0880518",
+          "display_name": "Kostja Ullmann",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE5NDIyNTk1MF5BMl5BanBnXkFtZTcwNDgwNjExOQ@@._V1_.jpg",
+              "width": 1435,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Max"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0456280",
+          "display_name": "Corinna Kirchhoff",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjMwZDgzZDQtMzljZC00OTg4LWIzYWMtMWMwN2IyMTQwOTEyXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_.jpg",
+              "width": 5120,
+              "height": 2700
+            }
+          ]
+        },
+        "characters": [
+          "Elena (alt)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8607281",
+          "display_name": "Marlene Tanczik",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTUwYzVjYmItZTc0Ny00ZGIxLTgyNzItZjQ1OTgwMTRmOGExXkEyXkFqcGdeQXVyMTA2NjY2NzQ0._V1_.jpg",
+              "width": 262,
+              "height": 387
+            }
+          ]
+        },
+        "characters": [
+          "Elena (jung)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001941",
+          "display_name": "Iris Berben",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgyNzIzNDU0NV5BMl5BanBnXkFtZTcwNzY1ODMwNw@@._V1_.jpg",
+              "width": 1416,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Olivia Theissen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2352896",
+          "display_name": "Lisa-Marie Koroll",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDQ2ZjY1MGItNGQwMy00MzUzLWJmODEtYjgwNmVjMTI0NmY4XkEyXkFqcGdeQXVyMTUzOTUxNjQ2._V1_.jpg",
+              "width": 1200,
+              "height": 1800
+            }
+          ]
+        },
+        "characters": [
+          "Marie Theissen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6282263",
+          "display_name": "Lorna Ishema",
+          "avatars": null
+        },
+        "characters": [
+          "Kaya"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1485637",
+          "display_name": "Numan Acar",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2ZkYTQ0MTEtYmFjMi00OTcyLThjZjQtYjU2ZjE5YzgyMzQwXkEyXkFqcGdeQXVyMjM2MTczMjQ@._V1_.jpg",
+              "width": 808,
+              "height": 830
+            }
+          ]
+        },
+        "characters": [
+          "Viktor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2957324",
+          "display_name": "Alina Levshin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzhkZGY0ZmQtOWNjMy00Zjc1LWE0NzMtYzQ1MDhmZGQxNThlXkEyXkFqcGdeQXVyNDE4MDU5OTE@._V1_.jpg",
+              "width": 717,
+              "height": 477
+            }
+          ]
+        },
+        "characters": [
+          "Sophie Theissen (jung)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2692001",
+          "display_name": "Tom Böttcher",
+          "avatars": null
+        },
+        "characters": [
+          "Nils"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5801924",
+          "display_name": "Gizem Emre",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmI4OGZhYzgtYTdiMC00N2YyLTgwN2QtYjA4YWMzZjYxNTIyXkEyXkFqcGdeQXVyMTAwMzUyMzUy._V1_.jpg",
+              "width": 280,
+              "height": 420
+            }
+          ]
+        },
+        "characters": [
+          "Eva (Clinic)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2966840",
+          "display_name": "Lisa Loven Kongsli",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmE2Mzc4MmItZmU2Mi00YTE4LWE4NDctNzIxYTQxMjNiOTc2XkEyXkFqcGdeQXVyMTkxMjc0MDQ@._V1_.jpg",
+              "width": 1140,
+              "height": 1380
+            }
+          ]
+        },
+        "characters": [
+          "Lilith"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3112456",
+          "display_name": "Dalila Abdallah",
+          "avatars": null
+        },
+        "characters": [
+          "Lorna"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3062371",
+          "display_name": "Simon Amberger",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDVjMzc5MzktYmIzZC00YzdkLTgyNmQtMGQ1MmY4NmE5ZDBhXkEyXkFqcGdeQXVyNzkxODgwMDI@._V1_.jpg",
+              "width": 1675,
+              "height": 2512
+            }
+          ]
+        },
+        "characters": [
+          "Moderator (MC)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1522275",
+          "display_name": "Zemyna Asmontaite",
+          "avatars": null
+        },
+        "characters": [
+          "Female Therapist 2"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm13040497",
+          "display_name": "Jan Beller",
+          "avatars": null
+        },
+        "characters": [
+          "Bornheim (AEON)"
+        ]
+      }
+    ]
+  }
+}

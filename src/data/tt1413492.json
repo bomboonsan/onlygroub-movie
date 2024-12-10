@@ -1,0 +1,363 @@
+{
+  "title": {
+    "id": "tt1413492",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "12 Strong",
+    "original_title": null,
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 130,
+    "plot": "12 Strong tells the story of the first Special Forces team deployed to Afghanistan after 9/11; under the leadership of a new captain, the team must work with an Afghan warlord to take down the Taliban.",
+    "rating": {
+      "aggregate_rating": 6.5,
+      "votes_count": 91050
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTEzMjk3NzkxMV5BMl5BanBnXkFtZTgwNjY2NDczNDM@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "prs",
+        "name": "Dari"
+      },
+      {
+        "code": "rus",
+        "name": "Russian"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      },
+      {
+        "code": "uzb",
+        "name": "Uzbek"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 54,
+      "review_count": 43
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm3350420",
+          "display_name": "Nicolai Fuglsig",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTgzMzBkM2MtMTFkNy00NzBiLTk4ZDYtYjRjOGU2ZTAzMDUzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 399,
+              "height": 600
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0848217",
+          "display_name": "Ted Tally",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0185976",
+          "display_name": "Peter Craig",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODlmNmZmY2ItYjI3Zi00M2E3LTk5YzEtM2Y1NTkzMTUzOGRmXkEyXkFqcGdeQXVyMTQ1ODI4NzY@._V1_.jpg",
+              "width": 688,
+              "height": 1064
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm3066678",
+          "display_name": "Doug Stanton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTk3MjE1YjItM2M3Zi00NzVlLWE3ODAtODFhNjMxMTg5ZDNiXkEyXkFqcGdeQXVyNzA4NTAwMzU@._V1_.jpg",
+              "width": 1650,
+              "height": 2513
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1165110",
+          "display_name": "Chris Hemsworth",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTU2MTI0NTIyNV5BMl5BanBnXkFtZTcwMTA4Nzc3OA@@._V1_.jpg",
+              "width": 384,
+              "height": 576
+            }
+          ]
+        },
+        "characters": [
+          "Captain Mitch Nelson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0788335",
+          "display_name": "Michael Shannon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE0NzM5MTc5OF5BMl5BanBnXkFtZTgwMjc3ODYxODE@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Hal Spencer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0671567",
+          "display_name": "Michael Peña",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTczNzcxNTE5NV5BMl5BanBnXkFtZTcwOTE4MTMzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 582
+            }
+          ]
+        },
+        "characters": [
+          "Sam Diller"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1041023",
+          "display_name": "Navid Negahban",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGEwM2VmYzItYjlhMC00YzRjLTgxOGYtZTdiMWY2YjkyNjI3XkEyXkFqcGdeQXVyMTQzMDU3Nw@@._V1_.jpg",
+              "width": 1600,
+              "height": 2195
+            }
+          ]
+        },
+        "characters": [
+          "General Dostum"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5218990",
+          "display_name": "Trevante Rhodes",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzAwNDEyNTc3MV5BMl5BanBnXkFtZTgwNTEzMzc1MTI@._V1_.jpg",
+              "width": 1367,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Ben Milo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0836176",
+          "display_name": "Geoff Stults",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzBhZDEwYzItNTM3Yi00YzM2LTk1MGItZmNiN2ZjMTQ4ZjlhXkEyXkFqcGdeQXVyNTUwMTE2NzM@._V1_.jpg",
+              "width": 3456,
+              "height": 5184
+            }
+          ]
+        },
+        "characters": [
+          "Sean Coffers"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0524745",
+          "display_name": "Thad Luckinbill",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA5NTEwNDQ5N15BMl5BanBnXkFtZTcwNTk0NjIzMQ@@._V1_.jpg",
+              "width": 350,
+              "height": 511
+            }
+          ]
+        },
+        "characters": [
+          "Vern Michaels"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3332884",
+          "display_name": "Austin Hébert",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWVjNTc3ZmYtMDAzYi00ZjgyLWFlMTgtMDY4NGViMjAxNzU5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1334,
+              "height": 750
+            }
+          ]
+        },
+        "characters": [
+          "Pat Essex"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3271473",
+          "display_name": "Austin Stowell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjgwYTkyZGEtNDY2ZS00YWU3LTg3MzktNGM3ZWU4MTgzYmQzXkEyXkFqcGdeQXVyNTkzMzIzOTc@._V1_.jpg",
+              "width": 629,
+              "height": 951
+            }
+          ]
+        },
+        "characters": [
+          "Fred Falls"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4649116",
+          "display_name": "Ben O'Toole",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg3NTUwMDc1N15BMl5BanBnXkFtZTgwOTY3NTM1MjI@._V1_.jpg",
+              "width": 1536,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Scott Black"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2756670",
+          "display_name": "Kenneth Miller",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGIwMDhmYTctYTVhOS00MzAwLWI2NDAtNDE4NmVmMTc3YzU5XkEyXkFqcGdeQXVyMjA3NTU2ODA@._V1_.jpg",
+              "width": 4480,
+              "height": 6720
+            }
+          ]
+        },
+        "characters": [
+          "Kevin Jackson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4259147",
+          "display_name": "Kenny Sheard",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzgyYTU0NmMtNTdiYi00YTdiLWE1MGEtMmZhNmI2MWU3NzUxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3024,
+              "height": 4032
+            }
+          ]
+        },
+        "characters": [
+          "Bill Bennett"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4477836",
+          "display_name": "Jack Kesy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzUyZTg1OGYtNmIzNC00NjUzLWEwYWUtZTIwOTg5ZGZjNzFlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 750,
+              "height": 747
+            }
+          ]
+        },
+        "characters": [
+          "Charles Jones"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1443527",
+          "display_name": "Rob Riggle",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA4MDc5MzI5N15BMl5BanBnXkFtZTgwMDMzODc3NjE@._V1_.jpg",
+              "width": 250,
+              "height": 250
+            }
+          ]
+        },
+        "characters": [
+          "Lt. Colonel Bowers"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001209",
+          "display_name": "William Fichtner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmM2Yzc1MDEtMjg5NC00NDU4LTg0Y2MtOTExMjgyZDgyZGVjXkEyXkFqcGdeQXVyNDI5Mzk0MjM@._V1_.jpg",
+              "width": 480,
+              "height": 580
+            }
+          ]
+        },
+        "characters": [
+          "Colonel Mulholland"
+        ]
+      }
+    ]
+  }
+}

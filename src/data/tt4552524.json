@@ -1,0 +1,292 @@
+{
+  "title": {
+    "id": "tt4552524",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Jeruzalem",
+    "original_title": null,
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 94,
+    "plot": "When a couple of American young adults fly to Israel to visit the city of Jerusalem, a biblical nightmare falls upon them.",
+    "rating": {
+      "aggregate_rating": 4.8,
+      "votes_count": 10958
+    },
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTc2MjU2ODY3M15BMl5BanBnXkFtZTgwMTg5OTc3NTE@._V1_.jpg",
+        "width": 550,
+        "height": 717
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "IL",
+        "name": "Israel"
+      }
+    ],
+    "critic_review": {
+      "score": 45,
+      "review_count": 8
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm3575912",
+          "display_name": "Doron Paz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzI3ZDY0ODAtYmU2ZS00NzRiLWI3MGYtZDBjZjBlZmM3MDZkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 5616,
+              "height": 3744
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm3576329",
+          "display_name": "Yoav Paz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDAyODdjMjAtZWM5Mi00NzQ0LWFkZmYtMGE3NjJkZDFjZWRiXkEyXkFqcGdeQXVyMjE5MzAyMTY@._V1_CR648,350,1643,2465_.jpg",
+              "width": 1643,
+              "height": 2465
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm3575912",
+          "display_name": "Doron Paz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzI3ZDY0ODAtYmU2ZS00NzRiLWI3MGYtZDBjZjBlZmM3MDZkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 5616,
+              "height": 3744
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm3576329",
+          "display_name": "Yoav Paz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDAyODdjMjAtZWM5Mi00NzQ0LWFkZmYtMGE3NjJkZDFjZWRiXkEyXkFqcGdeQXVyMjE5MzAyMTY@._V1_CR648,350,1643,2465_.jpg",
+              "width": 1643,
+              "height": 2465
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm4141803",
+          "display_name": "Yael Grobglas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYxMjQ2MTgwMF5BMl5BanBnXkFtZTgwNzE5MDcwMTI@._V1_.jpg",
+              "width": 1333,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Rachel Klein"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1699158",
+          "display_name": "Yon Tumarkin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTg2OTZhYjMtM2UxMC00NTBkLWFkZTctNjU1MmI0M2QxYmJkXkEyXkFqcGc@._V1_.jpg",
+              "width": 5415,
+              "height": 3333
+            }
+          ]
+        },
+        "characters": [
+          "Kevin Reed"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2533979",
+          "display_name": "Danielle Jadelyn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDAwODc1YWUtYTZiNi00NWI1LTkwYzUtMmJlMWQ4MTQ3MjI5XkEyXkFqcGc@._V1_.jpg",
+              "width": 200,
+              "height": 296
+            }
+          ]
+        },
+        "characters": [
+          "Sarah Pullman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5713899",
+          "display_name": "Tom Graziani",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDBmNmU5NWItZGM4My00YzA0LWEwMGQtNmVlMDQxZGUzYzU1XkEyXkFqcGc@._V1_.jpg",
+              "width": 316,
+              "height": 383
+            }
+          ]
+        },
+        "characters": [
+          "Omar"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3760468",
+          "display_name": "Sarel Piterman",
+          "avatars": null
+        },
+        "characters": [
+          "Young Priest"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0728066",
+          "display_name": "Howard Rypp",
+          "avatars": null
+        },
+        "characters": [
+          "Howard Pullman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0810558",
+          "display_name": "Ami Smolartchik",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA5ZjU4YzItNzFkYi00ZDg3LTg3MTMtNTc4ZmI4MDQzMWE1XkEyXkFqcGc@._V1_.jpg",
+              "width": 283,
+              "height": 345
+            }
+          ]
+        },
+        "characters": [
+          "Taxi driver"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1441851",
+          "display_name": "Yoav Koresh",
+          "avatars": null
+        },
+        "characters": [
+          "Yehuda"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4951041",
+          "display_name": "Ori Zaltzman",
+          "avatars": null
+        },
+        "characters": [
+          "Tomer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4164790",
+          "display_name": "Fares Hananya",
+          "avatars": null
+        },
+        "characters": [
+          "Fauzi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0945788",
+          "display_name": "Itsko Yampulski",
+          "avatars": null
+        },
+        "characters": [
+          "David"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7362817",
+          "display_name": "Mel Rosenberg",
+          "avatars": null
+        },
+        "characters": [
+          "Priest"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1414244",
+          "display_name": "Danny Zahavi",
+          "avatars": null
+        },
+        "characters": [
+          "David's Father"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7362819",
+          "display_name": "Moran Zelma",
+          "avatars": null
+        },
+        "characters": [
+          "Resurrected Mom"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7980882",
+          "display_name": "Salim",
+          "avatars": null
+        },
+        "characters": [
+          "Oud Playing Grandfather"
+        ]
+      }
+    ]
+  }
+}

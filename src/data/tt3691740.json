@@ -1,0 +1,358 @@
+{
+  "title": {
+    "id": "tt3691740",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The BFG",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 117,
+    "plot": "An orphan little girl befriends a benevolent giant who takes her to Giant Country, where they attempt to stop the man-eating giants that are invading the human world.",
+    "rating": {
+      "aggregate_rating": 6.3,
+      "votes_count": 93345
+    },
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjAzOTUzNTY3Ml5BMl5BanBnXkFtZTgwMjYwNzE5ODE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "hin",
+        "name": "Hindi"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "IN",
+        "name": "India"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 66,
+      "review_count": 48
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0000229",
+          "display_name": "Steven Spielberg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY1NjAzNzE1MV5BMl5BanBnXkFtZTYwNTk0ODc0._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0558953",
+          "display_name": "Melissa Mathison",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA0Njk4NjY1N15BMl5BanBnXkFtZTgwNzUyMTAyNzE@._V1_.jpg",
+              "width": 1334,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0001094",
+          "display_name": "Roald Dahl",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk1MjE1MTc2N15BMl5BanBnXkFtZTcwNDA2MjgxOA@@._V1_.jpg",
+              "width": 2048,
+              "height": 1511
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0753314",
+          "display_name": "Mark Rylance",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA1MDY3MTc2OTReQTJeQWpwZ15BbWU3MDc2MTU1NzE@._V1_.jpg",
+              "width": 262,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "BFG"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6982717",
+          "display_name": "Ruby Barnhill",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgzNDQ0NTQ3NV5BMl5BanBnXkFtZTgwNzk0NjI3MzE@._V1_.jpg",
+              "width": 1869,
+              "height": 1629
+            }
+          ]
+        },
+        "characters": [
+          "Sophie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0934362",
+          "display_name": "Penelope Wilton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzEwMjk3MDkwN15BMl5BanBnXkFtZTcwNjU5OTczNw@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "The Queen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1318596",
+          "display_name": "Jemaine Clement",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE4ODY4Njc5N15BMl5BanBnXkFtZTcwMjk1ODIyMw@@._V1_.jpg",
+              "width": 411,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Fleshlumpeater"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0356017",
+          "display_name": "Rebecca Hall",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjkzODU4MTQ4OV5BMl5BanBnXkFtZTcwNDU0MTA4NA@@._V1_.jpg",
+              "width": 1538,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mary"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1245863",
+          "display_name": "Rafe Spall",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzU3OTIzMzM1OF5BMl5BanBnXkFtZTcwMDc1MDkwOQ@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Tibbs"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0352778",
+          "display_name": "Bill Hader",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTY3MzgwMjE3N15BMl5BanBnXkFtZTcwNjc2MjE3NA@@._V1_.jpg",
+              "width": 1342,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Bloodbottler"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0959963",
+          "display_name": "Ólafur Darri Ólafsson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTJlMzFjM2YtZjY3My00ZDBhLTk5ZTQtYjE2YzY0OWNjZmJlXkEyXkFqcGdeQXVyMTk5MzA1MQ@@._V1_.jpg",
+              "width": 2475,
+              "height": 3300
+            }
+          ]
+        },
+        "characters": [
+          "Maidmasher",
+          "Cook"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0324134",
+          "display_name": "Adam Godley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQwNzIzOTAwNl5BMl5BanBnXkFtZTgwMDg4NjA3NDE@._V1_.jpg",
+              "width": 455,
+              "height": 611
+            }
+          ]
+        },
+        "characters": [
+          "Manhugger",
+          "Lout #1"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1027678",
+          "display_name": "Michael Adamthwaite",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgwMTYzNTI5MV5BMl5BanBnXkFtZTYwNjE0Mjgy._V1_.jpg",
+              "width": 450,
+              "height": 676
+            }
+          ]
+        },
+        "characters": [
+          "Butcher Boy",
+          "Danish Driver"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0004028",
+          "display_name": "Daniel Bacon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTgxOTY1NjE0OV5BMl5BanBnXkFtZTgwMTc5MTMzMTE@._V1_.jpg",
+              "width": 3840,
+              "height": 5760
+            }
+          ]
+        },
+        "characters": [
+          "Bonecruncher",
+          "Lout #2"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1684612",
+          "display_name": "Jonathan Holmes",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzE3OTMzOTMzNl5BMl5BanBnXkFtZTgwMDY1NjQyOTE@._V1_.jpg",
+              "width": 1562,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Childchewer",
+          "Pub Landlord"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1918295",
+          "display_name": "Chris Gibbs",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA3ODgwNjU0NzleQTJeQWpwZ15BbWU4MDEyNjc4MTQx._V1_.jpg",
+              "width": 564,
+              "height": 708
+            }
+          ]
+        },
+        "characters": [
+          "Gizzardgulper",
+          "Late Night Walker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1046194",
+          "display_name": "Paul Moniz de Sa",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmEzOWY5ZTctZjRmYS00NDYzLTg2M2EtOTVlNzVhOWE3MDI4XkEyXkFqcGc@._V1_.jpg",
+              "width": 4036,
+              "height": 4036
+            }
+          ]
+        },
+        "characters": [
+          "Meatdripper",
+          "Lout #3"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0635939",
+          "display_name": "Marilyn Norry",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjRhZGE0OWEtNzJhYi00ZmRkLThiMDctMWMwMDVlMGVjYjAwXkEyXkFqcGdeQXVyMTAwMzUyNTMw._V1_.jpg",
+              "width": 800,
+              "height": 1067
+            }
+          ]
+        },
+        "characters": [
+          "Matron"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "title": {
+    "id": "tt5690360",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Slender Man",
+    "original_title": null,
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 93,
+    "plot": "In a small town in Massachusetts, a group of friends, fascinated by the internet lore of the Slender Man, attempt to prove that he doesn't actually exist - until one of them mysteriously goes missing.",
+    "rating": {
+      "aggregate_rating": 3.3,
+      "votes_count": 38453
+    },
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjE0MzcwMDAyNl5BMl5BanBnXkFtZTgwMzc4ODg0NDM@._V1_.jpg",
+        "width": 1350,
+        "height": 2000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 30,
+      "review_count": 15
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1234893",
+          "display_name": "Sylvain White",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWY2OWYyYjItZDRhYy00NTUxLWJhYTgtYWNhZDQyNTM4ZDU2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 440,
+              "height": 672
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0083547",
+          "display_name": "David Birke",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjUxNDAyNDg3M15BMl5BanBnXkFtZTgwMjc5MjE2MDI@._V1_.jpg",
+              "width": 1507,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm6881486",
+          "display_name": "Victor Surge",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1428821",
+          "display_name": "Joey King",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2QwZjMwM2UtNDJiNS00M2Q0LWJiYTMtYjE3YmQwMjdlNDhkXkEyXkFqcGdeQXVyMjMzMjAyOA@@._V1_.jpg",
+              "width": 2747,
+              "height": 2737
+            }
+          ]
+        },
+        "characters": [
+          "Wren"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5065920",
+          "display_name": "Julia Goldani Telles",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA2MzVlYWMtOWEyOC00ODY2LTgwMjYtNDUxNGYyM2Y5ODk2XkEyXkFqcGc@._V1_.jpg",
+              "width": 1366,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Hallie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3596959",
+          "display_name": "Jaz Sinclair",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmY3OTRiNjEtZDRkMi00YzQwLWE3ZDctNjQ1M2ExM2ViY2FlXkEyXkFqcGdeQXVyMjI3MjY2ODQ@._V1_.jpg",
+              "width": 1535,
+              "height": 1536
+            }
+          ]
+        },
+        "characters": [
+          "Chloe"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2399383",
+          "display_name": "Annalise Basso",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTA5ZTg4NDItMDNlYi00M2I5LTg5NzItMDhhM2VmZmEzNmIxXkEyXkFqcGdeQXVyMTAyOTk1NTU@._V1_.jpg",
+              "width": 827,
+              "height": 1045
+            }
+          ]
+        },
+        "characters": [
+          "Katie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7989157",
+          "display_name": "Alex Fitzalan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjExYjk4N2EtOGMzZS00MTc5LWExZTctNzVhNDVmYjk3NjgzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2400,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Tom"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5765254",
+          "display_name": "Taylor Richardson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmFjMTYwN2ItMDQyNS00NzA0LWFhZTItZGNlNTg5N2E4MzVlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 426,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Lizzie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2306701",
+          "display_name": "Javier Botet",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2EyZTIzYTItYWU3Ni00M2ZmLWE4MDktYWE2NWU4MmFjZTk1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 827,
+              "height": 1165
+            }
+          ]
+        },
+        "characters": [
+          "Slender Man"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1264624",
+          "display_name": "Jessica Blank",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmYwOWFmZTAtYmRjMi00NDFmLTliNWUtOWRjMTI0Y2M5N2QzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 750,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Hallie's Mother"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0121805",
+          "display_name": "Michael Reilly Burke",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIxNTU3NjA5MF5BMl5BanBnXkFtZTgwNzA4MzQyNzE@._V1_.jpg",
+              "width": 1297,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Hallie's Dad"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0152430",
+          "display_name": "Kevin Chapman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDU4Y2YwMGItMzAxOS00NTVmLWI1MjQtOGZiZDFiODc1N2EzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 480,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Jensen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9102326",
+          "display_name": "Miguel Nascimento",
+          "avatars": null
+        },
+        "characters": [
+          "Kyle"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3814224",
+          "display_name": "Eddie Frateschi",
+          "avatars": null
+        },
+        "characters": [
+          "Biology Teacher"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2300772",
+          "display_name": "Oscar Wahlberg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWMwMDkwNjMtNjhiYi00MDg0LWFlZDgtZjNkYzMxNDcxYzNkXkEyXkFqcGdeQXVyMTAyOTgzMTQ0._V1_.jpg",
+              "width": 3648,
+              "height": 5472
+            }
+          ]
+        },
+        "characters": [
+          "Boy with Glasses"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9114735",
+          "display_name": "Danny Beaton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTA2NTAxZDItYTM3Ny00MmU0LTkzZWQtNmQxODI1Y2IwY2I4XkEyXkFqcGc@._V1_.jpg",
+              "width": 5689,
+              "height": 7111
+            }
+          ]
+        },
+        "characters": [
+          "Burley Kid"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1443288",
+          "display_name": "Marc Carver",
+          "avatars": null
+        },
+        "characters": [
+          "Doctor"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "title": {
+    "id": "tt3451230",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "High Strung",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 96,
+    "plot": "Dancer Ruby, starting at Manhattan Conservatory of the Arts, meets English violinist Johnnie, playing in a subway station. Music and dance follow.",
+    "rating": {
+      "aggregate_rating": 6.3,
+      "votes_count": 10291
+    },
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTcyNTExMDE1OV5BMl5BanBnXkFtZTgwNzg3OTMwODE@._V1_.jpg",
+        "width": 690,
+        "height": 988
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "RO",
+        "name": "Romania"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 48,
+      "review_count": 5
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0198755",
+          "display_name": "Michael Damian",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjk3OTIyMTU1OV5BMl5BanBnXkFtZTYwNTg2ODky._V1_.jpg",
+              "width": 150,
+              "height": 200
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0078943",
+          "display_name": "Janeen Damian",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDhiYTUzZjUtZWQ3YS00ZmRiLTliOGItMzhmZGY5Mjc4ZGEzXkEyXkFqcGdeQXVyODg4NTUzNjU@._V1_.jpg",
+              "width": 733,
+              "height": 921
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0198755",
+          "display_name": "Michael Damian",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjk3OTIyMTU1OV5BMl5BanBnXkFtZTYwNTg2ODky._V1_.jpg",
+              "width": 150,
+              "height": 200
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm6469442",
+          "display_name": "Keenan Kampa",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmZiNjliZjAtMzJhZC00MDZmLTg0OTUtNDk5ZDA3Mzc2OTkxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 638,
+              "height": 863
+            }
+          ]
+        },
+        "characters": [
+          "Ruby Adams"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5954280",
+          "display_name": "Nicholas Galitzine",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2MzYTg0NWMtMzdmMS00MDkwLThjNjktMjkxMTNkYzYwODQxXkEyXkFqcGdeQXVyMTMzOTMyOTM4._V1_.jpg",
+              "width": 842,
+              "height": 1054
+            }
+          ]
+        },
+        "characters": [
+          "Johnnie Blackwell"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4420495",
+          "display_name": "Sonoya Mizuno",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWUzZjJiZjUtNGM3YS00YTkwLThhMGYtYTk4ODBkM2RjNzI4XkEyXkFqcGdeQXVyNDg1MjM0ODk@._V1_.jpg",
+              "width": 1024,
+              "height": 765
+            }
+          ]
+        },
+        "characters": [
+          "Jazzy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005412",
+          "display_name": "Jane Seymour",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgxOTk2Njk1Nl5BMl5BanBnXkFtZTcwMTk2MTA0Mg@@._V1_.jpg",
+              "width": 1854,
+              "height": 1764
+            }
+          ]
+        },
+        "characters": [
+          "Oksana"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3834405",
+          "display_name": "Richard Southgate",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjNkYWQ4ZGYtYWU5OC00MTA2LThmZWUtYWM1NjMyZDc2OGYyXkEyXkFqcGdeQXVyMjI5NTk5MTM@._V1_.jpg",
+              "width": 4327,
+              "height": 5769
+            }
+          ]
+        },
+        "characters": [
+          "Kyle"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0293550",
+          "display_name": "Paul Freeman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA4Mzc2NjU2N15BMl5BanBnXkFtZTcwNzYzMDAxMw@@._V1_.jpg",
+              "width": 1370,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Kramrovsky"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5012780",
+          "display_name": "Marcus Emanuel Mitchell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZThmMzc4MzctY2MyMS00YTE4LWI2M2YtNWYyNjJjMWM1NTM3XkEyXkFqcGdeQXVyMTA0MTY4NjE4._V1_.jpg",
+              "width": 3169,
+              "height": 4781
+            }
+          ]
+        },
+        "characters": [
+          "Hayward"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0411581",
+          "display_name": "Maia Morgenstern",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMwMjg1MjY0Nl5BMl5BanBnXkFtZTcwNzE5Mjk1OQ@@._V1_.jpg",
+              "width": 851,
+              "height": 566
+            }
+          ]
+        },
+        "characters": [
+          "Markova"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4525592",
+          "display_name": "Anabel Kutay",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjYxZmU0MjEtYzQ4NS00MzE4LWE5NGItZTUyYjVlYTM0MWNlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 4000,
+              "height": 6000
+            }
+          ]
+        },
+        "characters": [
+          "April"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2293259",
+          "display_name": "John Silver",
+          "avatars": null
+        },
+        "characters": [
+          "Krispy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5212701",
+          "display_name": "Ian Eastwood",
+          "avatars": null
+        },
+        "characters": [
+          "Rik"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3033702",
+          "display_name": "Comfort Fedoke",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQzMTI3NDA5MF5BMl5BanBnXkFtZTcwNjAyMjg2Mw@@._V1_.jpg",
+              "width": 653,
+              "height": 452
+            }
+          ]
+        },
+        "characters": [
+          "Poptart"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8439313",
+          "display_name": "Corinne Holt",
+          "avatars": null
+        },
+        "characters": [
+          "Jett"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8439314",
+          "display_name": "Lorenzo Cammarota",
+          "avatars": null
+        },
+        "characters": [
+          "Tiptoe"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8439315",
+          "display_name": "Tom Russell",
+          "avatars": null
+        },
+        "characters": [
+          "Jaxson"
+        ]
+      }
+    ]
+  }
+}

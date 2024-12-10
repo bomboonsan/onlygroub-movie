@@ -1,0 +1,334 @@
+{
+  "title": {
+    "id": "tt1535109",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Captain Phillips",
+    "original_title": null,
+    "start_year": 2013,
+    "end_year": null,
+    "runtime_minutes": 134,
+    "plot": "The true story of Captain Richard Phillips and the 2009 hijacking by Somali pirates of the U.S.-flagged MV Maersk Alabama, the first American cargo ship to be hijacked in two hundred years.",
+    "rating": {
+      "aggregate_rating": 7.8,
+      "votes_count": 493168
+    },
+    "genres": [
+      "Action",
+      "Biography",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BODhiZWRhMjctNDUyMS00NmUwLTgwYmItMjJhOWNkZWQ3ZTQxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "width": 2025,
+        "height": 3000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "som",
+        "name": "Somali"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 82,
+      "review_count": 48
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0339030",
+          "display_name": "Paul Greengrass",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY3NzM4NjA0Nl5BMl5BanBnXkFtZTgwMjE5NzA0OTE@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0712753",
+          "display_name": "Billy Ray",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc0MjIxODA3Ml5BMl5BanBnXkFtZTYwMDk2MTY1._V1_.jpg",
+              "width": 277,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm3697679",
+          "display_name": "Richard Phillips",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm5643170",
+          "display_name": "Stephan Talty",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000158",
+          "display_name": "Tom Hanks",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1_.jpg",
+              "width": 1417,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Captain Richard Phillips"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001416",
+          "display_name": "Catherine Keener",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIwMzQ1Mzg1MF5BMl5BanBnXkFtZTcwNTE4MTU5MQ@@._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Andrea Phillips"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5831542",
+          "display_name": "Barkhad Abdi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY1NjU1OTgyMl5BMl5BanBnXkFtZTgwMjgzNTU5MDE@._V1_.jpg",
+              "width": 1431,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Muse"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5831543",
+          "display_name": "Barkhad Abdirahman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjE0MDY5MjgxOV5BMl5BanBnXkFtZTgwNzIwNTIzODE@._V1_.jpg",
+              "width": 1538,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Bilal"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5314015",
+          "display_name": "Faysal Ahmed",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM5NDY1MTA1MF5BMl5BanBnXkFtZTgwNjUzMzYzMDE@._V1_.jpg",
+              "width": 1494,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Najee"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5831544",
+          "display_name": "Mahat M. Ali",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA4MDA0OTQ4OV5BMl5BanBnXkFtZTgwMjQzMzYzMDE@._V1_.jpg",
+              "width": 1543,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Elmi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1985974",
+          "display_name": "Michael Chernus",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU5NTg5ODI3NV5BMl5BanBnXkFtZTgwNDg2NDY0MTI@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Shane Murphy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0913175",
+          "display_name": "David Warshofsky",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzVjZDUzMmEtODQ0MS00ZjAzLTliNjAtMjEwMDE2NGIzODljXkEyXkFqcGdeQXVyNDA5MTcxNQ@@._V1_.jpg",
+              "width": 2598,
+              "height": 2387
+            }
+          ]
+        },
+        "characters": [
+          "Mike Perry"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0424819",
+          "display_name": "Corey Johnson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWRiYmZhNmMtZDM3ZS00OGMxLWIwZmItMjRhODc0MjU4ZTU1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1057,
+              "height": 1587
+            }
+          ]
+        },
+        "characters": [
+          "Ken Quinn"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0611889",
+          "display_name": "Chris Mulkey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTA5MTc0NzktZDUyMi00NDEwLTkyNzEtODExNDU5NGMzOTAwXkEyXkFqcGdeQXVyNTA3NjA1MzU@._V1_.jpg",
+              "width": 1660,
+              "height": 1040
+            }
+          ]
+        },
+        "characters": [
+          "John Cronan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0891485",
+          "display_name": "Yul Vazquez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmNjZGE0ZDctNGRhZS00Njc3LTgzYWItNmI1MmFkYWM5NWU3XkEyXkFqcGdeQXVyMDE2ODM0NQ@@._V1_.jpg",
+              "width": 3840,
+              "height": 5760
+            }
+          ]
+        },
+        "characters": [
+          "Captain Frank Castellano"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0242882",
+          "display_name": "Max Martini",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWE5NzUzYWItMWU0ZC00YjZjLTk5ZTYtNGFlMzJkNWI4OGU2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 900,
+              "height": 1350
+            }
+          ]
+        },
+        "characters": [
+          "SEAL Commander"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1014446",
+          "display_name": "Omar Berdouni",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ5MzQ2Njg0MF5BMl5BanBnXkFtZTcwODYxNDc3MQ@@._V1_.jpg",
+              "width": 1139,
+              "height": 1521
+            }
+          ]
+        },
+        "characters": [
+          "Nemo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1677578",
+          "display_name": "Mohamed Ali",
+          "avatars": null
+        },
+        "characters": [
+          "Asad"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5831545",
+          "display_name": "Issak Farah Samatar",
+          "avatars": null
+        },
+        "characters": [
+          "Hufan"
+        ]
+      }
+    ]
+  }
+}

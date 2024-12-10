@@ -1,0 +1,291 @@
+{
+  "title": {
+    "id": "tt9564270",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "A Christmas Gift from Bob",
+    "original_title": null,
+    "start_year": 2020,
+    "end_year": null,
+    "runtime_minutes": 92,
+    "plot": "A struggling street musician finds himself the target of an animal welfare investigation that threatens to take away his beloved cat at Christmas.",
+    "rating": {
+      "aggregate_rating": 6.3,
+      "votes_count": 2662
+    },
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjE4YjRlNWQtNTA3OC00ZTRmLWEyZTQtODJmYTJmMDhjNWY5XkEyXkFqcGc@._V1_.jpg",
+        "width": 2025,
+        "height": 3000
+      }
+    ],
+    "certificates": null,
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm0001747",
+          "display_name": "Charles Martin Smith",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTM2Y2MwYTYtYmIzZi00YzQ0LTgwN2UtOTQ5YTZjYTBjNTYxXkEyXkFqcGdeQXVyNzY3NTc4OTQ@._V1_.jpg",
+              "width": 3236,
+              "height": 4854
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm6492918",
+          "display_name": "James Bowen",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm7839608",
+          "display_name": "Garry Jenkins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjIyMGQzNTctNGRiOC00ZTJkLTg1MDEtZmNiNzYzNGE3YzU4XkEyXkFqcGc@._V1_.jpg",
+              "width": 1066,
+              "height": 1600
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm2008435",
+          "display_name": "Luke Treadaway",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMxMTM3NzY0Ml5BMl5BanBnXkFtZTgwMTI5MjQ1MzE@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "James Bowen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5777945",
+          "display_name": "Ella Jarvis",
+          "avatars": null
+        },
+        "characters": [
+          "Lili"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2265675",
+          "display_name": "Sheena Bhattessa",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2ExYWE1OWQtN2MxNy00YWZjLWFmNjEtYzExYjdkMzlkZmE4XkEyXkFqcGc@._V1_.jpg",
+              "width": 3072,
+              "height": 3840
+            }
+          ]
+        },
+        "characters": [
+          "Jane"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4842256",
+          "display_name": "Tim McDonnell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTRjMDZhZjgtMWZlNC00ZjJiLWI4N2YtNzE2NTNmMmVlZTFiXkEyXkFqcGc@._V1_.jpg",
+              "width": 2008,
+              "height": 2811
+            }
+          ]
+        },
+        "characters": [
+          "Charlie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm15750122",
+          "display_name": "Kate Hargreaves",
+          "avatars": null
+        },
+        "characters": [
+          "Coat Check Girl"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6492918",
+          "display_name": "James Bowen",
+          "avatars": null
+        },
+        "characters": [
+          "Book Stall Customer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1043031",
+          "display_name": "Tim Plester",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzdkOGFlNjYtNzZiZC00Nzg4LThhYzktNDhmZDIyYTcwMDY4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2401,
+              "height": 3597
+            }
+          ]
+        },
+        "characters": [
+          "Leon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11115099",
+          "display_name": "Stefan Race",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOThiNTFhYzUtY2UyNy00ZTBiLThjZWYtZDA2NzFlZjcxOGE1XkEyXkFqcGc@._V1_.jpg",
+              "width": 1179,
+              "height": 1469
+            }
+          ]
+        },
+        "characters": [
+          "Ben"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6422972",
+          "display_name": "Aretha Ayeh",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzFlMWY2NTctMDRjNi00OWMzLTg3M2ItMGVlNDMxNzYzZGQ2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1800,
+              "height": 2250
+            }
+          ]
+        },
+        "characters": [
+          "Officer Jarvis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2060857",
+          "display_name": "Phaldut Sharma",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTAwMzUxNjkzNTNeQTJeQWpwZ15BbWU4MDUzNjk4MzUx._V1_.jpg",
+              "width": 2430,
+              "height": 3030
+            }
+          ]
+        },
+        "characters": [
+          "Moody"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10557982",
+          "display_name": "Kristina Tonteri-Young",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDc1MDBkMzAtNmY4Yy00NWM0LTg4NTYtZmE2YjQ4YTUwMWNmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 800,
+              "height": 1068
+            }
+          ]
+        },
+        "characters": [
+          "Bea Chan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7890697",
+          "display_name": "Juli Goldstein",
+          "avatars": null
+        },
+        "characters": [
+          "Posh Cat Lady"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm15750123",
+          "display_name": "Nick Murray",
+          "avatars": null
+        },
+        "characters": [
+          "Posh Cat Man"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0905564",
+          "display_name": "Nina Wadia",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2NhODA1YTItZjU3Ny00N2IxLWFiODktODMyODgwZjAwNmFlXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+              "width": 3167,
+              "height": 4662
+            }
+          ]
+        },
+        "characters": [
+          "Anika"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5543953",
+          "display_name": "Jamie Bacon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzIwMjY3YmMtNjQ3OS00NzEwLWI5NjUtZmNmNzQ0ZTAyYzA1XkEyXkFqcGdeQXVyMjAyMDExNjA@._V1_.jpg",
+              "width": 1873,
+              "height": 1873
+            }
+          ]
+        },
+        "characters": [
+          "Chugger"
+        ]
+      }
+    ]
+  }
+}

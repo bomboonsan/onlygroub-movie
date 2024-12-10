@@ -1,0 +1,341 @@
+{
+  "title": {
+    "id": "tt2980210",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "A Hologram for the King",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 98,
+    "plot": "A failed American sales rep looks to recoup his losses by traveling to Saudi Arabia and selling his company's product to a wealthy monarch.",
+    "rating": {
+      "aggregate_rating": 6.1,
+      "votes_count": 47501
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTU2MzU1NTg4NV5BMl5BanBnXkFtZTgwNzQ5MjAzODE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "DE",
+        "name": "Germany"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "MX",
+        "name": "Mexico"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 58,
+      "review_count": 35
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0878756",
+          "display_name": "Tom Tykwer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU2NzIzNDI2NF5BMl5BanBnXkFtZTcwOTYzMDE0Nw@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1101630",
+          "display_name": "Dave Eggers",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzk0Njg2MTU0M15BMl5BanBnXkFtZTcwOTQ4MzczNA@@._V1_.jpg",
+              "width": 1462,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0878756",
+          "display_name": "Tom Tykwer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU2NzIzNDI2NF5BMl5BanBnXkFtZTcwOTYzMDE0Nw@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000158",
+          "display_name": "Tom Hanks",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1_.jpg",
+              "width": 1417,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Alan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4025491",
+          "display_name": "Omar Elba",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2RlNjc0NTAtMzY2Zi00NDFkLTk2MmItMTI2NzRmODdhMzc1XkEyXkFqcGc@._V1_.jpg",
+              "width": 1552,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Yousef"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0002004",
+          "display_name": "Sarita Choudhury",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE1MjIyNzAwOF5BMl5BanBnXkFtZTYwNTMzNzYz._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Zahra"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0461746",
+          "display_name": "Sidse Babett Knudsen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA4MjA2Mzg4MjheQTJeQWpwZ15BbWU3MDAxMjQ2NTc@._V1_.jpg",
+              "width": 3543,
+              "height": 2835
+            }
+          ]
+        },
+        "characters": [
+          "Hanne"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3642988",
+          "display_name": "Tracey Fairaway",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzI4ZjJhMGEtODA2Zi00YzQ0LThmMzctMjk1NjZjMmFiNDhiXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 540,
+              "height": 960
+            }
+          ]
+        },
+        "characters": [
+          "Kit"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0675110",
+          "display_name": "Jane Perry",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzRmMWE2MTAtZjQzMy00NjQ3LWEyZTktMzZjYWQ3ZDYxYzMxXkEyXkFqcGdeQXVyMzEyNzAwNQ@@._V1_.jpg",
+              "width": 640,
+              "height": 800
+            }
+          ]
+        },
+        "characters": [
+          "Ruby"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000643",
+          "display_name": "Tom Skerritt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzY3Mjk5MTMyMl5BMl5BanBnXkFtZTYwMjUxMTc1._V1_.jpg",
+              "width": 276,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Ron"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0052912",
+          "display_name": "Michael Baral",
+          "avatars": null
+        },
+        "characters": [
+          "Young Ron"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2789810",
+          "display_name": "Lewis Rainer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk2MDc1OTY1OF5BMl5BanBnXkFtZTgwNjcwNTQ4MDE@._V1_.jpg",
+              "width": 242,
+              "height": 301
+            }
+          ]
+        },
+        "characters": [
+          "Young Alan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8083253",
+          "display_name": "Alexander Molkenthin",
+          "avatars": null
+        },
+        "characters": [
+          "Kid Alan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8083254",
+          "display_name": "Xara Eich",
+          "avatars": null
+        },
+        "characters": [
+          "Young Kit"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0579696",
+          "display_name": "David Menkin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmJmOTI0MGMtNjIxOS00MThkLTlmM2QtYTMwNGJiNjMwZjE4XkEyXkFqcGdeQXVyMzIxNTkyMzM@._V1_.jpg",
+              "width": 1024,
+              "height": 768
+            }
+          ]
+        },
+        "characters": [
+          "Brad"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3453330",
+          "display_name": "Christy Meyer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTRlOTZhZDEtOTkwOC00ZjNlLTlhN2QtMmI4ZDYwMjI2ZDY5XkEyXkFqcGdeQXVyMzM3NDAzNDk@._V1_.jpg",
+              "width": 4480,
+              "height": 6720
+            }
+          ]
+        },
+        "characters": [
+          "Cayley"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2756650",
+          "display_name": "Megan Maczko",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWE1NzlmYjEtMGRhNC00ODE2LWJmNWEtNGVmZGY5NmRjMzQ3XkEyXkFqcGdeQXVyMTkwNzI2NDY@._V1_.jpg",
+              "width": 2573,
+              "height": 3462
+            }
+          ]
+        },
+        "characters": [
+          "Rachel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0924210",
+          "display_name": "Ben Whishaw",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc1MDYzNzY4MF5BMl5BanBnXkFtZTcwMDcwNzU0OA@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Dave"
+        ]
+      }
+    ]
+  }
+}

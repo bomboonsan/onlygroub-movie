@@ -1,0 +1,347 @@
+{
+  "title": {
+    "id": "tt6663582",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Spy Who Dumped Me",
+    "original_title": null,
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 117,
+    "plot": "Best friends Audrey and Morgan unwittingly become entangled in an international conspiracy when one of them discovers that the boyfriend who dumped her was actually a spy.",
+    "rating": {
+      "aggregate_rating": 6,
+      "votes_count": 83309
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDY1MTA0NjgyN15BMl5BanBnXkFtZTgwMTEzNDQ4NTM@._V1_.jpg",
+        "width": 973,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      },
+      {
+        "code": "lit",
+        "name": "Lithuanian"
+      },
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "DE",
+        "name": "Germany"
+      },
+      {
+        "code": "HU",
+        "name": "Hungary"
+      },
+      {
+        "code": "NL",
+        "name": "Netherlands"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 52,
+      "review_count": 43
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm2573005",
+          "display_name": "Susanna Fogel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQwMDIxMzQyN15BMl5BanBnXkFtZTgwNDUxOTM2MTE@._V1_.jpg",
+              "width": 1396,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2573005",
+          "display_name": "Susanna Fogel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQwMDIxMzQyN15BMl5BanBnXkFtZTgwNDUxOTM2MTE@._V1_.jpg",
+              "width": 1396,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1503347",
+          "display_name": "David Iserson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGJkZmI1NmItMGYyZi00YjBiLThjZTgtYTBmZGU4NTNlZWJmXkEyXkFqcGdeQXVyMjUzNzM0Mjk@._V1_.jpg",
+              "width": 2400,
+              "height": 3600
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0857620",
+          "display_name": "Justin Theroux",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA4MDAxNTc5Nl5BMl5BanBnXkFtZTgwNTYyNzE4MTE@._V1_.jpg",
+              "width": 435,
+              "height": 580
+            }
+          ]
+        },
+        "characters": [
+          "Drew"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0571952",
+          "display_name": "Kate McKinnon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQwMzEwMDQ2NF5BMl5BanBnXkFtZTgwMzU4NTY4NjE@._V1_.jpg",
+              "width": 1417,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Morgan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7529030",
+          "display_name": "Blanka Györfi-Tóth",
+          "avatars": null
+        },
+        "characters": [
+          "Little Girl"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005109",
+          "display_name": "Mila Kunis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODQyNTQyNzY4MV5BMl5BanBnXkFtZTcwODg5MDA3MQ@@._V1_.jpg",
+              "width": 334,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Audrey"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1315976",
+          "display_name": "Vilma Szécsi",
+          "avatars": null
+        },
+        "characters": [
+          "Vendor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7649398",
+          "display_name": "Lolly Adefope",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGM5MzBhODctMTdkMy00OTEwLTkxZjctMjI4M2M1OWZhZjZiXkEyXkFqcGdeQXVyODAyMDk4NjE@._V1_.jpg",
+              "width": 2031,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Tess"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1845048",
+          "display_name": "Dustin Demri-Burns",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzk0YmNkYjgtZGYxOC00YzE0LTk5OWMtMzAzNjQ1NTA4ODVhXkEyXkFqcGdeQXVyNzk2NjI0MDM@._V1_.jpg",
+              "width": 2000,
+              "height": 2998
+            }
+          ]
+        },
+        "characters": [
+          "Viktor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1503347",
+          "display_name": "David Iserson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGJkZmI1NmItMGYyZi00YjBiLThjZTgtYTBmZGU4NTNlZWJmXkEyXkFqcGdeQXVyMjUzNzM0Mjk@._V1_.jpg",
+              "width": 2400,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Friend in the Bar"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1537825",
+          "display_name": "Sam Heughan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGM4Nzk2YzEtYTVhMi00Yjg1LWI0NTQtYmRkZWIzNjE4NjVmXkEyXkFqcGdeQXVyMTI2Nzk2ODk3._V1_.jpg",
+              "width": 1459,
+              "height": 1336
+            }
+          ]
+        },
+        "characters": [
+          "Sebastian"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3653778",
+          "display_name": "Hasan Minhaj",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2FiM2UyN2EtMWQ4MC00MTc3LWEwZTQtMTk3NTlmMTgzYWRlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1707,
+              "height": 2560
+            }
+          ]
+        },
+        "characters": [
+          "Duffer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6928944",
+          "display_name": "Peter Schueller",
+          "avatars": null
+        },
+        "characters": [
+          "TSA Agent"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1597296",
+          "display_name": "Mirjam Novak",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWJkMDZkZTUtOGJhNy00Y2FiLTg1MjEtMDU5Y2VhY2ZhNzJiXkEyXkFqcGdeQXVyNDI4OTE5NQ@@._V1_.jpg",
+              "width": 482,
+              "height": 720
+            }
+          ]
+        },
+        "characters": [
+          "Verne"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0126553",
+          "display_name": "Ágnes Bánfalvy",
+          "avatars": null
+        },
+        "characters": [
+          "Jaguar Woman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0036886",
+          "display_name": "László Áron",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzQyYzNiNjMtZDgwMS00ZWEyLWIyOGQtZDdkMWJiZWUzZmIyXkEyXkFqcGdeQXVyMTA2NjY2NzQ0._V1_.jpg",
+              "width": 533,
+              "height": 800
+            }
+          ]
+        },
+        "characters": [
+          "Jaguar Man"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1133795",
+          "display_name": "Kev Adams",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjg3NjkyYmEtZTIyMy00ZGM4LWFhMWItZDllYzBlNTE0Zjk5XkEyXkFqcGdeQXVyMTY1ODI3Mzg0._V1_.jpg",
+              "width": 824,
+              "height": 1242
+            }
+          ]
+        },
+        "characters": [
+          "Bitteauto Driver Lukas"
+        ]
+      }
+    ]
+  }
+}

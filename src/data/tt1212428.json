@@ -1,0 +1,346 @@
+{
+  "title": {
+    "id": "tt1212428",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Lost City of Z",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 141,
+    "plot": "A true-life drama, centering on British explorer Major Percival Fawcett, who disappeared whilst searching for a mysterious city in the Amazon in the 1920s.",
+    "rating": {
+      "aggregate_rating": 6.6,
+      "votes_count": 99575
+    },
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjAyN2QxOTItOGQ0YS00NmQxLWIxMjEtMDdkZmY0NDU5OWUzXkEyXkFqcGdeQXVyMTk1MDM0OTc@._V1_.jpg",
+        "width": 1457,
+        "height": 2158
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "por",
+        "name": "Portuguese"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 78,
+      "review_count": 44
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0336695",
+          "display_name": "James Gray",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc3MjE2OTY2NV5BMl5BanBnXkFtZTcwNTM4MjIzMg@@._V1_.jpg",
+              "width": 281,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0336695",
+          "display_name": "James Gray",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc3MjE2OTY2NV5BMl5BanBnXkFtZTcwNTM4MjIzMg@@._V1_.jpg",
+              "width": 281,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2970418",
+          "display_name": "David Grann",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWM5ZmIwNjktOTg5ZS00ZTcwLThmZGItN2Y4NTFjNzVhMDc1XkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_.jpg",
+              "width": 2592,
+              "height": 3872
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0402271",
+          "display_name": "Charlie Hunnam",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE5NjE5Mzk2MV5BMl5BanBnXkFtZTcwODI5MDE1Ng@@._V1_.jpg",
+              "width": 284,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Percy Fawcett"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1500155",
+          "display_name": "Robert Pattinson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzk0MDQ5OTUxMV5BMl5BanBnXkFtZTcwMDM5ODk5Mg@@._V1_.jpg",
+              "width": 301,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Henry Costin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1092227",
+          "display_name": "Sienna Miller",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmEyYmNjZGMtNzZlYy00NzVlLWI3ZWMtNjM4NmU3OTc4MzQ5XkEyXkFqcGdeQXVyOTE0NjgwMjY@._V1_.jpg",
+              "width": 421,
+              "height": 631
+            }
+          ]
+        },
+        "characters": [
+          "Nina Fawcett"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4043618",
+          "display_name": "Tom Holland",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzZiNTEyNTItYjNhMS00YjI2LWIwMWQtZmYwYTRlNjMyZTJjXkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_.jpg",
+              "width": 3648,
+              "height": 5472
+            }
+          ]
+        },
+        "characters": [
+          "Jack Fawcett"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5361352",
+          "display_name": "Edward Ashley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzg5YTY3ZTYtMTU0ZC00MWJkLThkODktYjAwYzM1NGNmMmI4XkEyXkFqcGdeQXVyMzc5MjAyMTI@._V1_.jpg",
+              "width": 2700,
+              "height": 3216
+            }
+          ]
+        },
+        "characters": [
+          "Arthur Manley"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005171",
+          "display_name": "Angus Macfadyen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTE2Y2MyNzUtOTJiYy00ZDM0LTkwZTEtMWE4YWI2ZTEzMmE5XkEyXkFqcGdeQXVyMzIyMjU3MA@@._V1_.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "James Murray"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001519",
+          "display_name": "Ian McDiarmid",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU1NDY1NjU4NF5BMl5BanBnXkFtZTYwODQxNTU0._V1_.jpg",
+              "width": 286,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Sir George Goldie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0290117",
+          "display_name": "Clive Francis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ0NDU2OTg4NF5BMl5BanBnXkFtZTgwNzM5ODEyMjE@._V1_.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ]
+        },
+        "characters": [
+          "Sir John Scott Keltie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8880199",
+          "display_name": "Pedro Coello",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDJiYzRhODItZjllMi00MmI0LTk1YmMtZGEzZDVjYWIzMjQzXkEyXkFqcGc@._V1_.jpg",
+              "width": 8586,
+              "height": 5724
+            }
+          ]
+        },
+        "characters": [
+          "Tadjui"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0839146",
+          "display_name": "Matthew Sunderland",
+          "avatars": null
+        },
+        "characters": [
+          "Dan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0616750",
+          "display_name": "Johann Myers",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIwODI3MzUzMl5BMl5BanBnXkFtZTgwNDA3MzAyNjE@._V1_.jpg",
+              "width": 3990,
+              "height": 5320
+            }
+          ]
+        },
+        "characters": [
+          "Willis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0431235",
+          "display_name": "Aleksandar Jovanovic",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmI4MzViMmUtMzAyMC00MWI1LWEyMTYtZjgzMzM3Y2RmMGExXkEyXkFqcGc@._V1_.jpg",
+              "width": 1112,
+              "height": 1311
+            }
+          ]
+        },
+        "characters": [
+          "Urquhart"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0813503",
+          "display_name": "Elena Solovey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTI2OGVmYjUtNmNhZS00Mjc4LTg3ZDktNTM2OGUwOGY0ZGU3XkEyXkFqcGc@._V1_.jpg",
+              "width": 1000,
+              "height": 1489
+            }
+          ]
+        },
+        "characters": [
+          "Madame Kumel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3913549",
+          "display_name": "Bobby Smalldridge",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjgzMDNjNDctMDEyYi00OGUyLWE4MzYtOGQ4YzQ3ZTIwNzRmXkEyXkFqcGdeQXVyMjMyNDU4MTA@._V1_.jpg",
+              "width": 1079,
+              "height": 1077
+            }
+          ]
+        },
+        "characters": [
+          "Jack Fawcett (7 Yr Old)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7555194",
+          "display_name": "Tom Mulheron",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTYxZTBhMTQtMDZhNC00ZTRkLWEzYTktNzBiZjM4Mzk3YmY0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1920,
+              "height": 2880
+            }
+          ]
+        },
+        "characters": [
+          "Jack Fawcett (3 Yr Old)"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "title": {
+    "id": "tt2283362",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Jumanji: Welcome to the Jungle",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 119,
+    "plot": "Four teenagers are sucked into a magical video game, and the only way they can escape is to work together to finish the game.",
+    "rating": {
+      "aggregate_rating": 7,
+      "votes_count": 450473
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BODQ0NDhjYWItYTMxZi00NTk2LWIzNDEtOWZiYWYxZjc2MTgxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "width": 1012,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "AU",
+        "name": "Australia"
+      },
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "IN",
+        "name": "India"
+      },
+      {
+        "code": "MX",
+        "name": "Mexico"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 58,
+      "review_count": 44
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0440458",
+          "display_name": "Jake Kasdan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDk1NjAwOTg1MV5BMl5BanBnXkFtZTcwODIwMjA3NA@@._V1_.jpg",
+              "width": 1476,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0571344",
+          "display_name": "Chris McKenna",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjkwMTg3NTcwMF5BMl5BanBnXkFtZTcwNDM1MTMxOA@@._V1_.jpg",
+              "width": 515,
+              "height": 793
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1273099",
+          "display_name": "Erik Sommers",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0003298",
+          "display_name": "Scott Rosenberg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ5MTU1NjgyNl5BMl5BanBnXkFtZTcwNTkwNTUxOA@@._V1_.jpg",
+              "width": 1378,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0684374",
+          "display_name": "Jeff Pinkner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzRjNTIzNDItMjNlNC00NjViLThlYjktYzI0ZGJjOWQ2YjM5XkEyXkFqcGc@._V1_.jpg",
+              "width": 5000,
+              "height": 3333
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0885575",
+          "display_name": "Chris Van Allsburg",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0425005",
+          "display_name": "Dwayne Johnson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWU1ODBiNGUtMzVjNi00MzdhLTk0OTktOWRiOTIxMWNhOGI2XkEyXkFqcGdeQXVyMTU2OTM5NDQw._V1_.jpg",
+              "width": 5464,
+              "height": 8192
+            }
+          ]
+        },
+        "characters": [
+          "Spencer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0366389",
+          "display_name": "Kevin Hart",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY4OTAxMjkxN15BMl5BanBnXkFtZTgwODg5MzYyMTE@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Fridge"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0085312",
+          "display_name": "Jack Black",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTFiMWNlNmItMDRiYy00NzA4LWE5YjItZmViNWQ2NzhhOWZlXkEyXkFqcGdeQXVyMTA2Mjc5ODMy._V1_.jpg",
+              "width": 750,
+              "height": 963
+            }
+          ]
+        },
+        "characters": [
+          "Bethany"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2394794",
+          "display_name": "Karen Gillan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQwMDQ0NDk1OV5BMl5BanBnXkFtZTcwNDcxOTExNg@@._V1_.jpg",
+              "width": 1411,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Martha"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1055302",
+          "display_name": "Rhys Darby",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ1NzMxOTgwN15BMl5BanBnXkFtZTgwNDQ3NTk3NzE@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Nigel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0134072",
+          "display_name": "Bobby Cannavale",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU0NzM3MzQ4Ml5BMl5BanBnXkFtZTgwOTg2MjY4ODE@._V1_.jpg",
+              "width": 693,
+              "height": 390
+            }
+          ]
+        },
+        "characters": [
+          "Van Pelt"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2679917",
+          "display_name": "Nick Jonas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI2NTI0NjczM15BMl5BanBnXkFtZTgwMDc4NDI1NDM@._V1_.jpg",
+              "width": 1545,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Alex"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1842974",
+          "display_name": "Alex Wolff",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTdiNzc5NmQtM2ZlNS00MTAxLTg2YzAtYzU0NjBjM2JkZDA1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2240,
+              "height": 3360
+            }
+          ]
+        },
+        "characters": [
+          "Young Spencer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3843144",
+          "display_name": "Ser'Darius Blain",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDliNGY1ZDYtMTYzMy00NmZkLWE2NTctZjE2MWE2ZTUwYTliXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1427,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Young Fridge"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5589690",
+          "display_name": "Madison Iseman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODczMzdmZGEtMDYzOC00ODRjLThhMTItMzY5YTU3MTU4ZTk2XkEyXkFqcGdeQXVyNDIxNzMxNTc@._V1_.jpg",
+              "width": 2400,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Young Bethany"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2367353",
+          "display_name": "Morgan Turner",
+          "avatars": null
+        },
+        "characters": [
+          "Young Martha"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5162650",
+          "display_name": "Sean Buxton",
+          "avatars": null
+        },
+        "characters": [
+          "Jogger"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6550067",
+          "display_name": "Mason Guccione",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTM2MjNmMTQtYWQyZS00OTNmLWExMDctODZkNWQwYThjYzYxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 960,
+              "height": 960
+            }
+          ]
+        },
+        "characters": [
+          "Gamer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0385792",
+          "display_name": "Marin Hinkle",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkyNTIyNDgyMV5BMl5BanBnXkFtZTcwMDk3MjU5MQ@@._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Spencer's Mom"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2111132",
+          "display_name": "Tracey Bonner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDhkM2JjZGMtMGYwYS00YmQ3LTg2ZjUtMDY5OWIwZDQ3ZGM4XkEyXkFqcGdeQXVyMTY2MzQ4NDQ@._V1_.jpg",
+              "width": 3186,
+              "height": 4787
+            }
+          ]
+        },
+        "characters": [
+          "Fridge's Mom"
+        ]
+      }
+    ]
+  }
+}

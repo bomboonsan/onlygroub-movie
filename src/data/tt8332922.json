@@ -1,0 +1,327 @@
+{
+  "title": {
+    "id": "tt8332922",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "A Quiet Place Part II",
+    "original_title": null,
+    "start_year": 2020,
+    "end_year": null,
+    "runtime_minutes": 97,
+    "plot": "Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize the creatures that hunt by sound are not the only threats lurking beyond the sand path.",
+    "rating": {
+      "aggregate_rating": 7.2,
+      "votes_count": 267896
+    },
+    "genres": [
+      "Drama",
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTE2ODU4NDEtNmRjNS00OTk1LTg4NmMtNTAzYzVlNzJmYjgzXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+        "width": 1013,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "ase",
+        "name": "American Sign Language"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 71,
+      "review_count": 57
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1024677",
+          "display_name": "John Krasinski",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc3MzY3MjQ3OV5BMl5BanBnXkFtZTcwODI3NjQxMw@@._V1_.jpg",
+              "width": 287,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1024677",
+          "display_name": "John Krasinski",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc3MzY3MjQ3OV5BMl5BanBnXkFtZTcwODI3NjQxMw@@._V1_.jpg",
+              "width": 287,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1456816",
+          "display_name": "Bryan Woods",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzg3MWZkNGQtNDJlMy00MzM4LWIxZGQtYzBhY2I0MzI0YzZjXkEyXkFqcGdeQXVyMTc2ODkxOA@@._V1_.jpg",
+              "width": 3712,
+              "height": 5376
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1399714",
+          "display_name": "Scott Beck",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDQwZmY2YzItNjIyNC00NGMwLTkzODktNGEyOGFiMmUyODkyXkEyXkFqcGdeQXVyMTU4NTkyNw@@._V1_.jpg",
+              "width": 2458,
+              "height": 3381
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1289434",
+          "display_name": "Emily Blunt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUxNDY4MTMzM15BMl5BanBnXkFtZTcwMjg5NzM2Ng@@._V1_.jpg",
+              "width": 1272,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Evelyn Abbott"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1024677",
+          "display_name": "John Krasinski",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc3MzY3MjQ3OV5BMl5BanBnXkFtZTcwODI3NjQxMw@@._V1_.jpg",
+              "width": 287,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Lee Abbott"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8075925",
+          "display_name": "Millicent Simmonds",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzgzNmM4YzMtYzYyZC00YWExLTgyZjktNmY5YWMwMTlkZTQ1XkEyXkFqcGdeQXVyMTI2Nzk2ODk3._V1_.jpg",
+              "width": 4480,
+              "height": 6720
+            }
+          ]
+        },
+        "characters": [
+          "Regan Abbott"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7415871",
+          "display_name": "Noah Jupe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMThlZjJlMTEtNWM0ZS00ZjM4LWIyYTMtNGUzOWVjYzU4YjJjXkEyXkFqcGdeQXVyNDg1NDM0NDk@._V1_.jpg",
+              "width": 706,
+              "height": 1076
+            }
+          ]
+        },
+        "characters": [
+          "Marcus Abbott"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0614165",
+          "display_name": "Cillian Murphy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDUxY2M1NTQtNzcwNC00ZDljLTk4YjctYzJjZGNiYTc0YTE1XkEyXkFqcGdeQXVyMTY5MDA5MDc3._V1_.jpg",
+              "width": 5504,
+              "height": 8256
+            }
+          ]
+        },
+        "characters": [
+          "Emmett"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005023",
+          "display_name": "Djimon Hounsou",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQ2NTM4MzI4M15BMl5BanBnXkFtZTcwOTkxMjcxNA@@._V1_.jpg",
+              "width": 295,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Man on Island"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3916460",
+          "display_name": "Okieriete Onaodowan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWEzOGMwNDUtZjZhMi00ZWM5LWI5MGQtNTY1N2VhYjU4NTJiXkEyXkFqcGdeQXVyOTEwODE3OTE@._V1_.jpg",
+              "width": 1662,
+              "height": 2500
+            }
+          ]
+        },
+        "characters": [
+          "Police Officer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1058940",
+          "display_name": "Scoot McNairy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzUxYjM1ZjEtYTcwNy00MDkyLWJjZGItMjFmNjZjM2ViMDMwXkEyXkFqcGdeQXVyMjMxOTI4MTk@._V1_.jpg",
+              "width": 871,
+              "height": 641
+            }
+          ]
+        },
+        "characters": [
+          "Marina Man"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10676334",
+          "display_name": "Zachary Golinger",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTIzNmY3M2YtMTZjNC00ZmM3LTkyYWItMGNhNjNlYzA3Mjk4XkEyXkFqcGdeQXVyMTAyMTMxNDc5._V1_.jpg",
+              "width": 1800,
+              "height": 2700
+            }
+          ]
+        },
+        "characters": [
+          "Emmett's Son"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2151806",
+          "display_name": "Blake DeLong",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmQyZTcyN2UtMTUyMC00NWY1LWEwMTctMTE4OGJhMjhiYzlhXkEyXkFqcGdeQXVyMTUzNTk5OTI@._V1_.jpg",
+              "width": 3000,
+              "height": 2000
+            }
+          ]
+        },
+        "characters": [
+          "Umpire"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9741130",
+          "display_name": "Stefania Warwick",
+          "avatars": null
+        },
+        "characters": [
+          "Woman at Game"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11555404",
+          "display_name": "Alycia Ripley",
+          "avatars": null
+        },
+        "characters": [
+          "Server"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9965865",
+          "display_name": "Cristalis Bonilla",
+          "avatars": null
+        },
+        "characters": [
+          "Teen in Bar"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12571467",
+          "display_name": "Domonic Taggart",
+          "avatars": null
+        },
+        "characters": [
+          "Teen in Bar"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8399011",
+          "display_name": "Silas Pereira-Olson",
+          "avatars": null
+        },
+        "characters": [
+          "Boy on Island"
+        ]
+      }
+    ]
+  }
+}

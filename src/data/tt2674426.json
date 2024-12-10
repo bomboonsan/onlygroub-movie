@@ -1,0 +1,305 @@
+{
+  "title": {
+    "id": "tt2674426",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Me Before You",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 110,
+    "plot": "A girl in a small town forms an unlikely bond with a recently-paralyzed man she's taking care of.",
+    "rating": {
+      "aggregate_rating": 7.4,
+      "votes_count": 287919
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2NjE4NDE2NV5BMl5BanBnXkFtZTgwOTcwNDE5NzE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 51,
+      "review_count": 36
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm4824763",
+          "display_name": "Thea Sharrock",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjUyNmI3NzktMDU3MS00M2FlLTlmM2EtMWU0MGQyMzA5YzllXkEyXkFqcGdeQXVyNjc1MTk2NzM@._V1_.jpg",
+              "width": 750,
+              "height": 1334
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm4424713",
+          "display_name": "Jojo Moyes",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTkxNDQxNzIxOV5BMl5BanBnXkFtZTgwNTYyNDEwOTE@._V1_.jpg",
+              "width": 1295,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm3510471",
+          "display_name": "Sam Claflin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI3MDQxNDUwOF5BMl5BanBnXkFtZTgwNjY4NjI3NjE@._V1_.jpg",
+              "width": 800,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Will Traynor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3948952",
+          "display_name": "Vanessa Kirby",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzUzNjkwMjMtODRiNi00ZTliLWE3Y2ItMDJmZmFmNjg1YTMyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1825,
+              "height": 2669
+            }
+          ]
+        },
+        "characters": [
+          "Alicia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3592338",
+          "display_name": "Emilia Clarke",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjg3OTg4MDczMl5BMl5BanBnXkFtZTgwODc0NzUwNjE@._V1_.jpg",
+              "width": 929,
+              "height": 1394
+            }
+          ]
+        },
+        "characters": [
+          "Lou Clark"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0243104",
+          "display_name": "Eileen Dunwoodie",
+          "avatars": null
+        },
+        "characters": [
+          "Café Customer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3177118",
+          "display_name": "Pablo Raybould",
+          "avatars": null
+        },
+        "characters": [
+          "Frank"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1322682",
+          "display_name": "Gabrielle Downey",
+          "avatars": null
+        },
+        "characters": [
+          "Daphne"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7592841",
+          "display_name": "Henri Charles",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDhjOThmZWUtNmJlOS00MDliLWE0YWEtYjEwNTQwM2ZmNDFjXkEyXkFqcGdeQXVyNjI2OTI0OTk@._V1_.jpg",
+              "width": 3099,
+              "height": 3099
+            }
+          ]
+        },
+        "characters": [
+          "Thomas Clark"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0819087",
+          "display_name": "Samantha Spiro",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc0NTM4NjA0NF5BMl5BanBnXkFtZTcwNDQ0NzkxOA@@._V1_.jpg",
+              "width": 1415,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Josie Clark"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0185354",
+          "display_name": "Brendan Coyle",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA2ODIxOTQ4N15BMl5BanBnXkFtZTcwOTI2NjYyNw@@._V1_.jpg",
+              "width": 1452,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Bernard Clark"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1982510",
+          "display_name": "Jenna Coleman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDY3MDU5NTUtOTIzOS00ZWQyLWI0OWEtZmYzOGEzZmIyMDhhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3000,
+              "height": 2075
+            }
+          ]
+        },
+        "characters": [
+          "Katrina \"Treena\" Clark"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2825879",
+          "display_name": "Alan Breck",
+          "avatars": null
+        },
+        "characters": [
+          "Grandad"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0507535",
+          "display_name": "Matthew Lewis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU1NTQ1Nzg5NF5BMl5BanBnXkFtZTcwNTIzNTIwNg@@._V1_.jpg",
+              "width": 1552,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Patrick"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2198515",
+          "display_name": "Muzz Khan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYxMzQ4MTU0NV5BMl5BanBnXkFtZTgwNjYyNDEwOTE@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Syed"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005216",
+          "display_name": "Janet McTeer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzk5MzQ3MDQxOF5BMl5BanBnXkFtZTcwOTU4OTI2Mg@@._V1_.jpg",
+              "width": 256,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Camilla Traynor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001097",
+          "display_name": "Charles Dance",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzY0Mjg4MzM0Ml5BMl5BanBnXkFtZTcwODc4NTIxNw@@._V1_.jpg",
+              "width": 1529,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Stephen Traynor"
+        ]
+      }
+    ]
+  }
+}

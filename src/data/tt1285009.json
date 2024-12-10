@@ -1,0 +1,285 @@
+{
+  "title": {
+    "id": "tt1285009",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Strangers: Prey at Night",
+    "original_title": null,
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 85,
+    "plot": "A family of four staying at a secluded mobile home park for the night are stalked and then hunted by three masked psychopaths.",
+    "rating": {
+      "aggregate_rating": 5.2,
+      "votes_count": 34783
+    },
+    "genres": [
+      "Horror"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY1OTIwODgzMV5BMl5BanBnXkFtZTgwMzUyMDgzNDM@._V1_.jpg",
+        "width": 1012,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 48,
+      "review_count": 25
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1266897",
+          "display_name": "Johannes Roberts",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGQ4ZjRkZjQtM2IyYy00NWE0LTlkYjMtOWYzMmEwNjY0YTdlXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_.jpg",
+              "width": 6000,
+              "height": 4000
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1052162",
+          "display_name": "Bryan Bertino",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzA2NDlmNmQtYmNmMi00OTdiLTg5OTItYTQ5ZGJkOTMxZTlhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2958,
+              "height": 3235
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2406892",
+          "display_name": "Ben Ketai",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTEzYTg3ZjYtMjMzNS00NDExLWE1NmEtZGQyMGYyMjU3MTJjXkEyXkFqcGdeQXVyMzIyNzc3MTI@._V1_.jpg",
+              "width": 1080,
+              "height": 1440
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0376716",
+          "display_name": "Christina Hendricks",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA5Njg3NDkxNV5BMl5BanBnXkFtZTgwNDczMTgyODE@._V1_.jpg",
+              "width": 3516,
+              "height": 4688
+            }
+          ]
+        },
+        "characters": [
+          "Cindy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0376540",
+          "display_name": "Martin Henderson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjc4MTA3NDIzNF5BMl5BanBnXkFtZTcwNTIwNTU5MQ@@._V1_.jpg",
+              "width": 320,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Mike"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1933128",
+          "display_name": "Bailee Madison",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2NmMGEwMjAtOWM2OS00ZmNkLWI5YzEtOTMxYWU1NzE3MzVhXkEyXkFqcGdeQXVyMTAwNjAwODg@._V1_.jpg",
+              "width": 1224,
+              "height": 1878
+            }
+          ]
+        },
+        "characters": [
+          "Kinsey"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5730649",
+          "display_name": "Lewis Pullman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTk3NDdiZWItZjYzZC00N2Y0LTk1YTItM2E0N2RhZjQyMDgxXkEyXkFqcGdeQXVyNzA0MTIyNjQ@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Luke"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0535541",
+          "display_name": "Damian Maffei",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2RkYTQyYjctMWViNC00NzA0LWJhZWYtMjExZjE1YzQ0ZjYyXkEyXkFqcGdeQXVyMTA3MzMzMTA1._V1_.jpg",
+              "width": 542,
+              "height": 540
+            }
+          ]
+        },
+        "characters": [
+          "Man in the Mask"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6066089",
+          "display_name": "Emma Bellomy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjQwZWRkOWMtZmIxNC00NDUzLWEzOGQtZGE4ZWFhOWNmNjYyXkEyXkFqcGc@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Dollface"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4572865",
+          "display_name": "Lea Enslin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgyMzk3MTQ3Ml5BMl5BanBnXkFtZTgwNDYyMzgyNjE@._V1_.jpg",
+              "width": 427,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Pinup"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9688247",
+          "display_name": "Mary Louise Casanta",
+          "avatars": null
+        },
+        "characters": [
+          "Aunt Sheryl"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0835349",
+          "display_name": "Ken Strunk",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2MxNDlkMWItZDA5NS00NTk2LWExYWUtNGQ0YTU3NmYxMTVkXkEyXkFqcGdeQXVyMzMzNzMzMzA@._V1_.jpg",
+              "width": 2268,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Uncle Marv"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7336536",
+          "display_name": "Rachel Kuhn",
+          "avatars": null
+        },
+        "characters": [
+          "Waitress"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1698286",
+          "display_name": "Leah Roberts",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjAzZWVhNzQtZjNiOS00ZGExLWE2NGMtMWRiYjViNzlkNGViXkEyXkFqcGc@._V1_.jpg",
+              "width": 3648,
+              "height": 4739
+            }
+          ]
+        },
+        "characters": [
+          "Young Mother"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4388015",
+          "display_name": "Preston Sadleir",
+          "avatars": null
+        },
+        "characters": [
+          "State Trooper"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5152960",
+          "display_name": "Gabriel A. Byrne",
+          "avatars": null
+        },
+        "characters": [
+          "Young Son"
+        ]
+      }
+    ]
+  }
+}

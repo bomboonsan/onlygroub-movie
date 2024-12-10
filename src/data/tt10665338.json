@@ -1,0 +1,379 @@
+{
+  "title": {
+    "id": "tt10665338",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Halloween Kills",
+    "original_title": null,
+    "start_year": 2021,
+    "end_year": null,
+    "runtime_minutes": 105,
+    "plot": "Surviving victims of Michael Myers form a vigilante mob and vow to end his reign of terror.",
+    "rating": {
+      "aggregate_rating": 5.5,
+      "votes_count": 98433
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDZjMzJjYzMtMzkxMi00ODdiLTkyZTctMzY3MGNmOTRlZmQ3XkEyXkFqcGc@._V1_.jpg",
+        "width": 3158,
+        "height": 5000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 42,
+      "review_count": 45
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0337773",
+          "display_name": "David Gordon Green",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYyNjI3NTUwOF5BMl5BanBnXkFtZTYwMTg1NjY1._V1_.jpg",
+              "width": 277,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0000118",
+          "display_name": "John Carpenter",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTAzMzgwNDgzODBeQTJeQWpwZ15BbWU4MDA2OTk2NDEx._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0384185",
+          "display_name": "Debra Hill",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWE3MjU4YzEtOWJmYi00MmY1LWIzMjItNTQ2ZWRiYjYzNzZlXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
+              "width": 534,
+              "height": 712
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1802374",
+          "display_name": "Scott Teems",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzE2ODNkZTAtMTYwMi00OWQ4LTgzNTktOWY1ZjFmZjg5MjU4XkEyXkFqcGdeQXVyMTAyOTU4Mg@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1144419",
+          "display_name": "Danny McBride",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk5NTM0ODI4NF5BMl5BanBnXkFtZTcwNzg3MjY0Mg@@._V1_.jpg",
+              "width": 311,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0337773",
+          "display_name": "David Gordon Green",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYyNjI3NTUwOF5BMl5BanBnXkFtZTYwMTg1NjY1._V1_.jpg",
+              "width": 277,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000130",
+          "display_name": "Jamie Lee Curtis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI0MTI0MDk2OV5BMl5BanBnXkFtZTgwODQ4MTE0NDE@._V1_.jpg",
+              "width": 564,
+              "height": 750
+            }
+          ]
+        },
+        "characters": [
+          "Laurie Strode"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0339460",
+          "display_name": "Judy Greer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg5MTAyMzMzMl5BMl5BanBnXkFtZTcwMDY2Mzc2NQ@@._V1_.jpg",
+              "width": 1387,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Karen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5506858",
+          "display_name": "Andi Matichak",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ0ZTU3ZDctNzIxMy00MDNlLWIzNjEtNTAxOGNlMzU1OWJmXkEyXkFqcGdeQXVyMTU0MzQxODA0._V1_.jpg",
+              "width": 1050,
+              "height": 1655
+            }
+          ]
+        },
+        "characters": [
+          "Allyson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0183921",
+          "display_name": "James Jude Courtney",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjVhZjQwYjEtNjE1Ni00OWJiLWEwYTktZTRjMGUzZjRkNTI0XkEyXkFqcGdeQXVyNTA5ODQ4NzU@._V1_.jpg",
+              "width": 2848,
+              "height": 4288
+            }
+          ]
+        },
+        "characters": [
+          "The Shape"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0145309",
+          "display_name": "Nick Castle",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzgzMTk3Nzk0N15BMl5BanBnXkFtZTgwMTc3NTA4NTM@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "The Shape"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2653003",
+          "display_name": "Airon Armstrong",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ0NDcxOTE2N15BMl5BanBnXkFtZTcwNTc2NjgyOQ@@._V1_.jpg",
+              "width": 1920,
+              "height": 2400
+            }
+          ]
+        },
+        "characters": [
+          "The Shape (1978)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001599",
+          "display_name": "Will Patton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTIyOTEzNzMxMV5BMl5BanBnXkFtZTYwNTk2Njc3._V1_.jpg",
+              "width": 443,
+              "height": 666
+            }
+          ]
+        },
+        "characters": [
+          "Officer Hawkins"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3287038",
+          "display_name": "Thomas Mann",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjhlYjNhNTgtOWY1MS00YjkyLWJjMTAtNWZkOTgyZjA4NWVhXkEyXkFqcGdeQXVyMTEzNjc3MDQ5._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Young Hawkins"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3526993",
+          "display_name": "Jim Cummings",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDk0OTZmNzYtMTVjNy00ZmY4LWIyNTAtMGYxNTIzNmQ4MWNmXkEyXkFqcGdeQXVyMTA5Mzg5Nzc@._V1_.jpg",
+              "width": 1440,
+              "height": 1800
+            }
+          ]
+        },
+        "characters": [
+          "Pete McCabe"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4003553",
+          "display_name": "Dylan Arnold",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTc3Zjc3OTgtZDNmNS00NTM3LTlkZWEtZDAzZGIyNmI4NmU5XkEyXkFqcGdeQXVyMjcxNjgyNDU@._V1_.jpg",
+              "width": 682,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Cameron Elam"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0519486",
+          "display_name": "Robert Longstreet",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWNhMmQ0NjQtMzk1Ny00MzlhLTlkYTYtNDg5ZTM3MjRjZmE0XkEyXkFqcGdeQXVyMjM4MzU2Mg@@._V1_.jpg",
+              "width": 828,
+              "height": 1294
+            }
+          ]
+        },
+        "characters": [
+          "Lonnie Elam"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001309",
+          "display_name": "Anthony Michael Hall",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTdhZmJlMmUtZjdhYi00MDVjLWFhZmMtNTY4MDU5OWIyMTU5XkEyXkFqcGdeQXVyODUwMjgxNDU@._V1_.jpg",
+              "width": 1242,
+              "height": 2208
+            }
+          ]
+        },
+        "characters": [
+          "Tommy Doyle"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0194234",
+          "display_name": "Charles Cyphers",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg2MTQyMjI3OF5BMl5BanBnXkFtZTcwMDQ1MTgwOA@@._V1_.jpg",
+              "width": 1367,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Leigh Brackett"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2509902",
+          "display_name": "Scott MacArthur",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2Q0M2QzZWEtYTBhYy00NjAxLTg1MmUtMWViZmI1YTEyMWVjXkEyXkFqcGdeQXVyNzE0NjI5NQ@@._V1_.jpg",
+              "width": 3648,
+              "height": 5472
+            }
+          ]
+        },
+        "characters": [
+          "Big John"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0567912",
+          "display_name": "Michael McDonald",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjA2MTc2NTU3N15BMl5BanBnXkFtZTcwNDgxNjIzNA@@._V1_.jpg",
+              "width": 427,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Little John"
+        ]
+      }
+    ]
+  }
+}

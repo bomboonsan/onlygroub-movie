@@ -1,0 +1,284 @@
+{
+  "title": {
+    "id": "tt11540468",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Breathe",
+    "original_title": null,
+    "start_year": 2024,
+    "end_year": null,
+    "runtime_minutes": 93,
+    "plot": "An East Flatbush mother and daughter, barely surviving in an oxygen-less world, must band together to protect each other when intruders arrive claiming to know their missing father.",
+    "rating": {
+      "aggregate_rating": 3.7,
+      "votes_count": 1293
+    },
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmM4NGMyMjYtNmQwZC00YmU2LWExZDEtOWFhZWNhYjlmNzAxXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_.jpg",
+        "width": 2028,
+        "height": 3002
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm4455533",
+          "display_name": "Stefon Bristol",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1962738",
+          "display_name": "Doug Simon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmZlMjA3MWYtMWE2NS00NGUwLWJiZWMtZWQ1YjhjYTlmZjQ3XkEyXkFqcGdeQXVyMjIwMTkxNA@@._V1_.jpg",
+              "width": 4032,
+              "height": 6048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1617685",
+          "display_name": "Jennifer Hudson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM5NTczMDU5OV5BMl5BanBnXkFtZTcwNDI0ODY1NA@@._V1_.jpg",
+              "width": 1462,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Maya"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000170",
+          "display_name": "Milla Jovovich",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzA1Nzc4NjYwNV5BMl5BanBnXkFtZTcwNjA2NjY1Mg@@._V1_.jpg",
+              "width": 1687,
+              "height": 2134
+            }
+          ]
+        },
+        "characters": [
+          "Tess"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4832920",
+          "display_name": "Quvenzhané Wallis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU1ZDQwNDctMDA5OC00ODdmLWJjNWYtNTcxNTFlOWFlYzQ2XkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_.jpg",
+              "width": 1624,
+              "height": 2436
+            }
+          ]
+        },
+        "characters": [
+          "Zora"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0941777",
+          "display_name": "Sam Worthington",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWUwNmEwZTUtYzMxMS00ODg5LTlmYjItMGU4ZjNmN2Q1NjkwXkEyXkFqcGdeQXVyMTM1MjAxMDc3._V1_.jpg",
+              "width": 567,
+              "height": 800
+            }
+          ]
+        },
+        "characters": [
+          "Lucas"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0996669",
+          "display_name": "Common",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzg4MTk5NDM1MV5BMl5BanBnXkFtZTcwMTM5OTQzMw@@._V1_.jpg",
+              "width": 307,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Darius"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1950004",
+          "display_name": "Raúl Castillo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjIwODM3YzUtNmNmYS00YmRiLTliNzctMDQ1NTU5YzQxYzhhXkEyXkFqcGdeQXVyNDA4MzMwNw@@._V1_.jpg",
+              "width": 1585,
+              "height": 1983
+            }
+          ]
+        },
+        "characters": [
+          "Micah"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0520901",
+          "display_name": "Dan Martin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ0NTgzOTMwMV5BMl5BanBnXkFtZTcwOTE3MTkyMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 304
+            }
+          ]
+        },
+        "characters": [
+          "Mike"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5892578",
+          "display_name": "Kaliswa Brewster",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTQyMzM3YmMtYzU1Mi00NmNhLTkwYjQtNjI2NTAxNDFjODlkXkEyXkFqcGdeQXVyMTk3OTE2NjE@._V1_.jpg",
+              "width": 2400,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Harriet"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0756839",
+          "display_name": "James Saito",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI4ZTM4Y2ItOWY2Ny00NWZjLWIzODktMjQ5NTllNjkzNWY0XkEyXkFqcGdeQXVyNjk2NTU0NzY@._V1_.jpg",
+              "width": 1338,
+              "height": 2005
+            }
+          ]
+        },
+        "characters": [
+          "The Man"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6105190",
+          "display_name": "Sonya Giddings",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzdiMjY1MzctMjU4MS00N2ViLThkOTQtM2M4NDY5N2M1M2UzXkEyXkFqcGdeQXVyNTk2MzQyNjc@._V1_.jpg",
+              "width": 4016,
+              "height": 6016
+            }
+          ]
+        },
+        "characters": [
+          "Lady"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7546869",
+          "display_name": "Kimberly L. Jackson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgyNzU3NTkxMV5BMl5BanBnXkFtZTgwMTQ2NzIwODE@._V1_.jpg",
+              "width": 520,
+              "height": 693
+            }
+          ]
+        },
+        "characters": [
+          "Survivor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12520261",
+          "display_name": "John Xavier Lambert",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTBjMjYyYjItM2Q4Zi00YmJiLWFhZWYtMzU0MjdiN2RmOWYyXkEyXkFqcGc@._V1_.jpg",
+              "width": 485,
+              "height": 725
+            }
+          ]
+        },
+        "characters": [
+          "Kid 1"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12710207",
+          "display_name": "Madison Latham",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjRiOGQ3ZjUtYWFkMy00OGJmLWJlOTMtYjg1YTdmMmQ3MDI0XkEyXkFqcGc@._V1_.jpg",
+              "width": 5304,
+              "height": 7952
+            }
+          ]
+        },
+        "characters": [
+          "Baby Zora"
+        ]
+      }
+    ]
+  }
+}

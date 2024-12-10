@@ -1,0 +1,288 @@
+{
+  "title": {
+    "id": "tt6741368",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Remi, Nobody's Boy",
+    "original_title": "Rémi sans famille",
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 105,
+    "plot": "The adventures of young Rémi, an orphan raised by the gentle Madam Barberin. At the age of 10 years, he is snatched from his adoptive mother and entrusted to Vitalis, a mysterious itinerant musician. At his side, Rémi will learn the harsh life of an acrobat and sing to win his bread. Accompanied by the faithful dog Capi and the small monkey Joli-Coeur, his long trip through France makes for meetings, friendships and mutual assistance, and leads him to the secret of his origins.",
+    "rating": {
+      "aggregate_rating": 7.1,
+      "votes_count": 3082
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmI2NmM0NjItNjUyNC00YjZhLWIwZTYtMWQ2ZTc3ZGU5ODNjXkEyXkFqcGc@._V1_.jpg",
+        "width": 810,
+        "height": 1080
+      }
+    ],
+    "certificates": null,
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "BE",
+        "name": "Belgium"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm2463233",
+          "display_name": "Antoine Blossier",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2463233",
+          "display_name": "Antoine Blossier",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0540632",
+          "display_name": "Hector Malot",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000809",
+          "display_name": "Daniel Auteuil",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjc2ODU1MTMzM15BMl5BanBnXkFtZTcwOTQwMjI1OQ@@._V1_.jpg",
+              "width": 1384,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Vitalis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9521992",
+          "display_name": "Maleaume Paquin",
+          "avatars": null
+        },
+        "characters": [
+          "Rémi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001461",
+          "display_name": "Virginie Ledoyen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEwMzA4NTY0NF5BMl5BanBnXkFtZTYwMDM5MzU0._V1_.jpg",
+              "width": 259,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Mme Harper"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0951520",
+          "display_name": "Jonathan Zaccaï",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI4MzU1OTQ5Ml5BMl5BanBnXkFtZTcwOTg3MzMyMw@@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        },
+        "characters": [
+          "Jérôme Barberin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0674742",
+          "display_name": "Jacques Perrin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMwMzMzNDA3Nl5BMl5BanBnXkFtZTYwMzMwODc1._V1_.jpg",
+              "width": 298,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Rémi âgé"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0756203",
+          "display_name": "Ludivine Sagnier",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmI0NGZkNDQtNjczNC00MzljLWJhNDQtYjFmNWMwNTU5NDgwXkEyXkFqcGdeQXVyMjMxMDI3ODk@._V1_.jpg",
+              "width": 1200,
+              "height": 1600
+            }
+          ]
+        },
+        "characters": [
+          "Mme Barberin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9231928",
+          "display_name": "Albane Masson",
+          "avatars": null
+        },
+        "characters": [
+          "Lise"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3018580",
+          "display_name": "Zoe Boyle",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzdmZjI0NTktNGFlMy00ZDE3LWIyNjMtZTJiNzk0ODdjNThjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3840,
+              "height": 5760
+            }
+          ]
+        },
+        "characters": [
+          "Mme Milligan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0746583",
+          "display_name": "Nicholas Rowe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDJkNzA2OWEtMDc4Ni00NzAwLThhNjMtYzUxYmY0ZmVjYmE3XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 666,
+              "height": 1000
+            }
+          ]
+        },
+        "characters": [
+          "James Milligan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0240440",
+          "display_name": "Nicola Duffett",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUxNTkwNTM1NV5BMl5BanBnXkFtZTgwNTM2NDI2NTE@._V1_.jpg",
+              "width": 2048,
+              "height": 1286
+            }
+          ]
+        },
+        "characters": [
+          "Mrs. Driscoll"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1409802",
+          "display_name": "Simon Armstrong",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQyNTI4NTgyNF5BMl5BanBnXkFtZTcwNDc2NzcwOA@@._V1_.jpg",
+              "width": 1188,
+              "height": 1791
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Driscoll"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7851207",
+          "display_name": "Fleur Geffrier",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2FkNDk0MzUtNDNhZS00YmEzLTlkMzYtNzc0YzZiMDJhOTc2XkEyXkFqcGdeQXVyNTUwMDA4NzA@._V1_.jpg",
+              "width": 539,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Dame auberge"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1824171",
+          "display_name": "Jérôme Cachon",
+          "avatars": null
+        },
+        "characters": [
+          "Gendarme Albi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1118726",
+          "display_name": "Xavier Lafitte",
+          "avatars": null
+        },
+        "characters": [
+          "Docteur"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3334266",
+          "display_name": "Elliot Bousson",
+          "avatars": null
+        },
+        "characters": [
+          "Eliott"
+        ]
+      }
+    ]
+  }
+}

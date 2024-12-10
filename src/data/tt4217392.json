@@ -1,0 +1,313 @@
+{
+  "title": {
+    "id": "tt4217392",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Kung Fu Yoga",
+    "original_title": "Gong fu yu jia",
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 107,
+    "plot": "Two professors team up to locate a lost treasure and embark on an adventure that takes them from a Tibetan ice cave to Dubai, and to a mountain temple in India.",
+    "rating": {
+      "aggregate_rating": 5.2,
+      "votes_count": 11332
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Mystery"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTAxZTQ4MmMtNDU2OS00NGRhLTllMmItZDQwODZlNTdjYzQyL2ltYWdlXkEyXkFqcGdeQXVyMjU3NTI0Mg@@._V1_.jpg",
+        "width": 2765,
+        "height": 4096
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "Not Rated"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "AE",
+        "name": "United Arab Emirates"
+      },
+      {
+        "code": "CN",
+        "name": "China"
+      },
+      {
+        "code": "HK",
+        "name": "Hong Kong (Special Administrative Region of China)"
+      },
+      {
+        "code": "IN",
+        "name": "India"
+      },
+      {
+        "code": "IS",
+        "name": "Iceland"
+      },
+      {
+        "code": "KR",
+        "name": "Republic of Korea"
+      }
+    ],
+    "critic_review": {
+      "score": 50,
+      "review_count": 9
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0867262",
+          "display_name": "Stanley Tong",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2QwYzQwMDYtMzEyNS00MzQ1LWJiNjYtZTE2NWI2MTM1ZGY0L2ltYWdlXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 513,
+              "height": 732
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0867262",
+          "display_name": "Stanley Tong",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2QwYzQwMDYtMzEyNS00MzQ1LWJiNjYtZTE2NWI2MTM1ZGY0L2ltYWdlXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 513,
+              "height": 732
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000329",
+          "display_name": "Jackie Chan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk4MDM0MDUzM15BMl5BanBnXkFtZTcwOTI4MzU1Mw@@._V1_.jpg",
+              "width": 288,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Jack"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7344694",
+          "display_name": "Yixing Zhang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjEwMzVlYWMtMmFlYS00OThjLWIzMWMtZTgwZjU3NTllZjIwL2ltYWdlXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 1203,
+              "height": 1626
+            }
+          ]
+        },
+        "characters": [
+          "Xiaoguang"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7094216",
+          "display_name": "Miya Muqi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjdmMzQ2M2YtNzNjNy00MTljLWI2ZTgtY2UyOGIxODc2ODA3XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 1688,
+              "height": 2145
+            }
+          ]
+        },
+        "characters": [
+          "Nuomin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7796669",
+          "display_name": "Disha Patani",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmM3YTg2ZjUtNWMwMi00NWE2LWE1YmMtYWM1ZDViNmYzOWRkXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+              "width": 1063,
+              "height": 1600
+            }
+          ]
+        },
+        "characters": [
+          "Ashmita"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3810208",
+          "display_name": "Aarif Lee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIwODQ2NDg2M15BMl5BanBnXkFtZTcwMjg1MTYxNQ@@._V1_.jpg",
+              "width": 1037,
+              "height": 691
+            }
+          ]
+        },
+        "characters": [
+          "Jones"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5711339",
+          "display_name": "Amyra Dastur",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTIzNTQ2NTgyNl5BMl5BanBnXkFtZTgwMTkxMzQyNTE@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        },
+        "characters": [
+          "Kyra"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1399243",
+          "display_name": "Sonu Sood",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGI2MGUwYzQtZmVmNi00MDc3LWEwMzMtNTIzMWIzMDk5YzViL2ltYWdlXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 564,
+              "height": 739
+            }
+          ]
+        },
+        "characters": [
+          "Randall"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4975017",
+          "display_name": "Paul Philip Clark",
+          "avatars": null
+        },
+        "characters": [
+          "Max"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7622096",
+          "display_name": "Yuxian Shang",
+          "avatars": null
+        },
+        "characters": [
+          "Circe"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7657744",
+          "display_name": "Jiang Wen",
+          "avatars": null
+        },
+        "characters": [
+          "Jiang Wen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0874676",
+          "display_name": "Eric Tsang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGRjMjY5NjMtOGZiNi00M2VkLWExZjItYWRmZmI1MmQzN2Q4XkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 800,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Jianghua"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0955346",
+          "display_name": "Guoli Zhang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA0ODk1MTQyODZeQTJeQWpwZ15BbWU3MDAwMTc1Nzg@._V1_.jpg",
+              "width": 2048,
+              "height": 1078
+            }
+          ]
+        },
+        "characters": [
+          "Jonathan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0591241",
+          "display_name": "Ming Gao",
+          "avatars": null
+        },
+        "characters": [
+          "Museum Curator"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4141219",
+          "display_name": "Lavlin Thadani",
+          "avatars": null
+        },
+        "characters": [
+          "Professor Ashmita"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10683506",
+          "display_name": "Bob Tao",
+          "avatars": null
+        },
+        "characters": [
+          "Nerdy Chap"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,343 @@
+{
+  "title": {
+    "id": "tt0437086",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Alita: Battle Angel",
+    "original_title": null,
+    "start_year": 2019,
+    "end_year": null,
+    "runtime_minutes": 122,
+    "plot": "A deactivated cyborg's revived, but can't remember anything of her past and goes on a quest to find out who she is.",
+    "rating": {
+      "aggregate_rating": 7.3,
+      "votes_count": 294125
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQzYWYwYjctY2JhZS00NTYzLTllM2UtZWY5ZTk0NmYwYzIyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
+        "width": 1382,
+        "height": 2047
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "JP",
+        "name": "Japan"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 53,
+      "review_count": 49
+    },
+    "directors": [
+      {
+        "name": null
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0000116",
+          "display_name": "James Cameron",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI0MjMzOTg2MF5BMl5BanBnXkFtZTcwMTM3NjQxMw@@._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0436164",
+          "display_name": "Laeta Kalogridis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmVhMTlmNDYtMTdmYi00NmYxLTllYTUtNTAyNTZlNzJmNGE5XkEyXkFqcGdeQXVyMDE3NDQzNQ@@._V1_.jpg",
+              "width": 516,
+              "height": 500
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1738737",
+          "display_name": "Yukito Kishiro",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm4023073",
+          "display_name": "Rosa Salazar",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2FkNDAwMDItMWQwNy00YzE5LWJiM2EtZmNhZTZjZDk1YmJlXkEyXkFqcGdeQXVyMjQwMTcxMzA@._V1_.jpg",
+              "width": 1080,
+              "height": 1440
+            }
+          ]
+        },
+        "characters": [
+          "Alita"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0910607",
+          "display_name": "Christoph Waltz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM4MDk3OTYxOF5BMl5BanBnXkFtZTcwMDk5OTUwOQ@@._V1_.jpg",
+              "width": 1497,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Dyson Ido"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000124",
+          "display_name": "Jennifer Connelly",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWM0OTlhYmQtZWI0NS00NzM0LWE5YjItMWZmYzkzY2FmNTc2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+              "width": 1814,
+              "height": 2723
+            }
+          ]
+        },
+        "characters": [
+          "Chiren"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0991810",
+          "display_name": "Mahershala Ali",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZThiZjJjNWYtNGRlYS00NDdkLTk0MTMtYjEwYzM1MDExNTYwXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",
+              "width": 3260,
+              "height": 3569
+            }
+          ]
+        },
+        "characters": [
+          "Vector"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4534098",
+          "display_name": "Ed Skrein",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYThkMzU5NjItZDY1NS00NzBmLTg4ZTgtMjBiNTU3YmI2ZjQzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "width": 3502,
+              "height": 5253
+            }
+          ]
+        },
+        "characters": [
+          "Zapan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0355097",
+          "display_name": "Jackie Earle Haley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYwMDY1ODEzMF5BMl5BanBnXkFtZTcwNjYyODg2Mw@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Grewishka"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5277107",
+          "display_name": "Keean Johnson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzdiMzdmZTMtMDAwMi00NzY4LTk3ZmYtYTlmYTliZGI5YzZmXkEyXkFqcGdeQXVyNDM5NjU4Njk@._V1_.jpg",
+              "width": 1361,
+              "height": 2050
+            }
+          ]
+        },
+        "characters": [
+          "Hugo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7449863",
+          "display_name": "Jorge Lendeborg Jr.",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTUwOTM5ODM4Nl5BMl5BanBnXkFtZTgwOTQ2NDM5NjM@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Tanji"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7093076",
+          "display_name": "Lana Condor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIwMjU2MTk5MV5BMl5BanBnXkFtZTgwMDg1MTM5NjE@._V1_.jpg",
+              "width": 506,
+              "height": 754
+            }
+          ]
+        },
+        "characters": [
+          "Koyomi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1701107",
+          "display_name": "Idara Victor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWRjMDVmYmUtMmU5NC00MDI0LWExMDUtZDVhNjJhMzU3NTM3XkEyXkFqcGdeQXVyODI0MjcwODQ@._V1_.jpg",
+              "width": 2700,
+              "height": 4213
+            }
+          ]
+        },
+        "characters": [
+          "Nurse Gerhad"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001194",
+          "display_name": "Jeff Fahey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNThhNmE3NDEtYzVlYi00ZGQ0LTk0ZWUtYzRmNzQxMzZiMmZiXkEyXkFqcGdeQXVyOTY2NzAzMTk@._V1_.jpg",
+              "width": 1179,
+              "height": 1950
+            }
+          ]
+        },
+        "characters": [
+          "McTeague"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2555462",
+          "display_name": "Eiza González",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODZjZTI5OTQtYzVkYS00ZTNkLTgwNTQtNmM5NTQxMzkxYjgxXkEyXkFqcGdeQXVyNjA1OTA1Njk@._V1_.jpg",
+              "width": 1440,
+              "height": 1800
+            }
+          ]
+        },
+        "characters": [
+          "Nyssiana"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0575216",
+          "display_name": "Derek Mears",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjkxMTNmNjUtNDY0Ny00YmY0LTkzMWUtNTIxMTgwYzkzYTk5XkEyXkFqcGdeQXVyNDYwMTkyOA@@._V1_.jpg",
+              "width": 1400,
+              "height": 2100
+            }
+          ]
+        },
+        "characters": [
+          "Romo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1422236",
+          "display_name": "Leonard Wu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzZlYjMxMGItOGM4Ni00Mzc1LWE0MDctZDJhMDkzYzQyMTkxXkEyXkFqcGdeQXVyNjQ3NDE4NA@@._V1_.jpg",
+              "width": 1141,
+              "height": 1510
+            }
+          ]
+        },
+        "characters": [
+          "Kinuba"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1897406",
+          "display_name": "Racer Rodriguez",
+          "avatars": null
+        },
+        "characters": [
+          "Claymore"
+        ]
+      }
+    ]
+  }
+}

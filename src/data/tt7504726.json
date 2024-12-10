@@ -1,0 +1,350 @@
+{
+  "title": {
+    "id": "tt7504726",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Call of the Wild",
+    "original_title": null,
+    "start_year": 2020,
+    "end_year": null,
+    "runtime_minutes": 100,
+    "plot": "A sled dog struggles for survival in the wilds of the Yukon.",
+    "rating": {
+      "aggregate_rating": 6.7,
+      "votes_count": 55712
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDA1ZmQ2OGMtZDhkMC00ZjRkLWE3ZTMtMzA5ZTk0YjM1OGRmXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg",
+        "width": 1080,
+        "height": 1600
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 48,
+      "review_count": 44
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0761498",
+          "display_name": "Chris Sanders",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTEzNTE3OTYzNl5BMl5BanBnXkFtZTcwMTgwNjExOQ@@._V1_.jpg",
+              "width": 2048,
+              "height": 1333
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0338169",
+          "display_name": "Michael Green",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzJhMDY3YjUtZmFkMS00ZWJkLWE5ZDAtNjE3MTllZWZkZjFmXkEyXkFqcGdeQXVyNzU5MjUxNDA@._V1_.jpg",
+              "width": 5087,
+              "height": 5181
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0518711",
+          "display_name": "Jack London",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTViNTcyYzQtOGFjNS00NjgyLTk5OWUtZDQxNTFjZmUxNTYzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg",
+              "width": 884,
+              "height": 1184
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm10950558",
+          "display_name": "Egerton Ryerson Young",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000148",
+          "display_name": "Harrison Ford",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY4Mjg0NjIxOV5BMl5BanBnXkFtZTcwMTM2NTI3MQ@@._V1_.jpg",
+              "width": 269,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "John Thornton"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1082477",
+          "display_name": "Omar Sy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI2MjE3MDQ3NV5BMl5BanBnXkFtZTcwOTY0NzU0Nw@@._V1_.jpg",
+              "width": 1366,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Perrault"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4446254",
+          "display_name": "Cara Gee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDU4MjM2MjQtNGFkNC00NGE3LTg4NWQtMDcyYzAxNjYwNDJiXkEyXkFqcGdeQXVyNjE4NjI4NDY@._V1_.jpg",
+              "width": 2100,
+              "height": 3150
+            }
+          ]
+        },
+        "characters": [
+          "Francoise"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1405398",
+          "display_name": "Dan Stevens",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY0NTY5OTI2MF5BMl5BanBnXkFtZTgwNDkzMzIxMzE@._V1_.jpg",
+              "width": 428,
+              "height": 594
+            }
+          ]
+        },
+        "characters": [
+          "Hal"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0925966",
+          "display_name": "Bradley Whitford",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQwMzg3ODUxNF5BMl5BanBnXkFtZTgwMzc5MDcxNDM@._V1_.jpg",
+              "width": 1591,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Judge Miller"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0446465",
+          "display_name": "Jean Louisa Kelly",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjA2NTIxODEtZDBjYy00OWY3LTg0MzgtOWI5Yzc3MDkwOWRiXkEyXkFqcGdeQXVyMjQ5MjIzNTk@._V1_.jpg",
+              "width": 855,
+              "height": 1280
+            }
+          ]
+        },
+        "characters": [
+          "Katie Miller"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0395398",
+          "display_name": "Michael Horse",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkzNDk1ODc4NV5BMl5BanBnXkFtZTgwMTAyMjg0MDE@._V1_.jpg",
+              "width": 2048,
+              "height": 2040
+            }
+          ]
+        },
+        "characters": [
+          "Edenshaw"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2394794",
+          "display_name": "Karen Gillan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQwMDQ0NDk1OV5BMl5BanBnXkFtZTcwNDcxOTExNg@@._V1_.jpg",
+              "width": 1411,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mercedes"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6018521",
+          "display_name": "Colin Woodell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTRiZjIyMTktYTUyZC00ZmVjLTk0NmQtZjAyZGJhMjZmYjQxXkEyXkFqcGdeQXVyNDc2NzIzNjM@._V1_.jpg",
+              "width": 2432,
+              "height": 3648
+            }
+          ]
+        },
+        "characters": [
+          "Charles"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4288087",
+          "display_name": "Micah Fitzgerald",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODYyMWMwZWUtMjRiNS00MWRkLWJlZTgtYjVhYWRmOWZmNDgzXkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_.jpg",
+              "width": 1242,
+              "height": 2175
+            }
+          ]
+        },
+        "characters": [
+          "Red Sweater"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1573698",
+          "display_name": "Heather McPhaul",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjBhNjlmMWUtZDIwOC00OGNkLWEzNTEtZTA2NmI4ZjhiNzY2XkEyXkFqcGdeQXVyNTIwMTMwMw@@._V1_.jpg",
+              "width": 5464,
+              "height": 8192
+            }
+          ]
+        },
+        "characters": [
+          "Head Cook"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1727237",
+          "display_name": "Adam Fergus",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2I2MTI0ZmQtZjVkNy00MjFjLWE0MjctNDI4NDU2MWRhZGU1XkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_.jpg",
+              "width": 1200,
+              "height": 801
+            }
+          ]
+        },
+        "characters": [
+          "James"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1570123",
+          "display_name": "Stephanie Czajkowski",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzJlNzg5YTktZWMyYi00NDQxLTk1MTMtMTVjY2M1Y2I2ZWQ1XkEyXkFqcGdeQXVyMjI5MTYwNTA@._V1_.jpg",
+              "width": 2400,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Postmaster"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0072344",
+          "display_name": "Abraham Benrubi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDAzOTAzYzctM2NjNC00MTBjLWEwMjEtZGU1ZmU1MGE4NDhiXkEyXkFqcGdeQXVyMzk5MTcxMg@@._V1_.jpg",
+              "width": 2048,
+              "height": 1341
+            }
+          ]
+        },
+        "characters": [
+          "Skookum Bench King"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6930836",
+          "display_name": "Thomas Adoue Polk",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTZhMzk0MDUtYzIxNC00ZDI1LThkMjktNjFmNGQ5ODViZWE3XkEyXkFqcGdeQXVyNjM1MzM0MDU@._V1_.jpg",
+              "width": 4016,
+              "height": 6016
+            }
+          ]
+        },
+        "characters": [
+          "Assistant Postmaster"
+        ]
+      }
+    ]
+  }
+}

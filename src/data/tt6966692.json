@@ -1,0 +1,369 @@
+{
+  "title": {
+    "id": "tt6966692",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Green Book",
+    "original_title": null,
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 130,
+    "plot": "A working-class Italian-American bouncer becomes the driver for an African-American classical pianist on a tour of venues through the 1960s American South.",
+    "rating": {
+      "aggregate_rating": 8.2,
+      "votes_count": 556408
+    },
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_.jpg",
+        "width": 1000,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "ita",
+        "name": "Italian"
+      },
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CN",
+        "name": "China"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 69,
+      "review_count": 52
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0268380",
+          "display_name": "Peter Farrelly",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU5Njg0NjU0M15BMl5BanBnXkFtZTgwNDM5OTg4NjM@._V1_.jpg",
+              "width": 1842,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0885014",
+          "display_name": "Nick Vallelonga",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGMzNjQ0MGUtZDNmOS00Y2EzLTkwZjgtYmQxMWM5ZGRjOTQ3XkEyXkFqcGdeQXVyNjY5NDE1MDM@._V1_.jpg",
+              "width": 951,
+              "height": 1069
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0192942",
+          "display_name": "Brian Hayes Currie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg5ODY4NDIxMl5BMl5BanBnXkFtZTgwNjkxMzUyNzM@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0268380",
+          "display_name": "Peter Farrelly",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU5Njg0NjU0M15BMl5BanBnXkFtZTgwNDM5OTg4NjM@._V1_.jpg",
+              "width": 1842,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0001557",
+          "display_name": "Viggo Mortensen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDQzOTg4NzA2Nl5BMl5BanBnXkFtZTcwMzkwNjkxMg@@._V1_.jpg",
+              "width": 269,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Tony Lip"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0991810",
+          "display_name": "Mahershala Ali",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZThiZjJjNWYtNGRlYS00NDdkLTk0MTMtYjEwYzM1MDExNTYwXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",
+              "width": 3260,
+              "height": 3569
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Donald Shirley"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0004802",
+          "display_name": "Linda Cardellini",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MDM4MTM2NF5BMl5BanBnXkFtZTgwMTM4MjYyMDE@._V1_.jpg",
+              "width": 1482,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Dolores"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1724319",
+          "display_name": "Sebastian Maniscalco",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTA0OWM4NWUtMTRiOC00MzM3LTk3NzktMjQyNjIyOGI4ZjUyXkEyXkFqcGdeQXVyMTI5OTE4MzM@._V1_.jpg",
+              "width": 4769,
+              "height": 7146
+            }
+          ]
+        },
+        "characters": [
+          "Johnny Venere"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1221253",
+          "display_name": "Dimiter D. Marinov",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzMwMjZiZmItMGE4MC00MGMyLTliYzctZWY0MWUyZThiNmZmXkEyXkFqcGdeQXVyMjE4ODQyODU@._V1_.jpg",
+              "width": 904,
+              "height": 1103
+            }
+          ]
+        },
+        "characters": [
+          "Oleg"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2273391",
+          "display_name": "Mike Hatton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzY2MjNlZjEtYWIyMC00MTEwLWE2M2EtYjcyMjRlZTdlNzVmXkEyXkFqcGdeQXVyNDc4MjAwMA@@._V1_.jpg",
+              "width": 792,
+              "height": 1068
+            }
+          ]
+        },
+        "characters": [
+          "George"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0126260",
+          "display_name": "P.J. Byrne",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODcyMjFmYjgtOTMxMi00MDlhLWFlNjQtN2I4YTZmYzk1MjllXkEyXkFqcGdeQXVyMTA2MTE2MA@@._V1_.jpg",
+              "width": 2048,
+              "height": 1363
+            }
+          ]
+        },
+        "characters": [
+          "Record Exec"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0181288",
+          "display_name": "Joe Cortese",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODZjYTkyY2UtN2I4ZS00OTA2LWEwZGYtYzFiMjQ1MzljOWZiXkEyXkFqcGdeQXVyODg3Nzg3MA@@._V1_.jpg",
+              "width": 1638,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Gio Loscudo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8337482",
+          "display_name": "Maggie Nixon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmQ0ZWZjYjQtZGE3Zi00NGM0LWE2OGQtYTA1Yjk4ODg3YmJhXkEyXkFqcGdeQXVyNDk0MzAwNDE@._V1_.jpg",
+              "width": 2100,
+              "height": 3150
+            }
+          ]
+        },
+        "characters": [
+          "Copa Coat Check Girl"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4439921",
+          "display_name": "Von Lewis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzY1OWVjZjctMjFlMS00OGQzLTlhYzctNjY2Y2IzZDgzOTRiXkEyXkFqcGdeQXVyMjU5ODg1OTE@._V1_.jpg",
+              "width": 4480,
+              "height": 6720
+            }
+          ]
+        },
+        "characters": [
+          "Bobby Rydell"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9918154",
+          "display_name": "Jon Sortland",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmVjMDlkZTktM2I0Ny00YWVlLWJiMTYtYzlkNTg1YjhkMThlXkEyXkFqcGdeQXVyODkxNDUwODk@._V1_.jpg",
+              "width": 500,
+              "height": 637
+            }
+          ]
+        },
+        "characters": [
+          "Rydell Band Leader"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0823155",
+          "display_name": "Don Stark",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzM0NDAyODA2N15BMl5BanBnXkFtZTgwMjQyNTg0MDI@._V1_.jpg",
+              "width": 480,
+              "height": 480
+            }
+          ]
+        },
+        "characters": [
+          "Jules Podell"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0542134",
+          "display_name": "Anthony Mangano",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGUxMjA3YTYtYzgwMS00MzExLWFhNzMtYmU5ZTFjM2ZkZGU3XkEyXkFqcGdeQXVyMTYwMzIyMDM@._V1_.jpg",
+              "width": 2403,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Copa Bouncer Danny"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0806002",
+          "display_name": "Paul Sloan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTZlNGVhM2UtYTQ2Yi00NThkLTkzZjEtMTY5MDg3ODhmMjNhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 642,
+              "height": 631
+            }
+          ]
+        },
+        "characters": [
+          "Copa Maître D' Carmine"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0240606",
+          "display_name": "Quinn Duffy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmRmZmJkNjItNzU4Zi00MGIyLWJlOTMtMjM1Mjc1MDFjNTAzXkEyXkFqcGdeQXVyMTY5NjI0NDc@._V1_.jpg",
+              "width": 355,
+              "height": 652
+            }
+          ]
+        },
+        "characters": [
+          "Mikey Cerrone"
+        ]
+      }
+    ]
+  }
+}

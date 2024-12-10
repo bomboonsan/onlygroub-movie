@@ -1,0 +1,374 @@
+{
+  "title": {
+    "id": "tt1528100",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Exodus: Gods and Kings",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 150,
+    "plot": "The defiant leader Moses rises up against Egyptian Pharaoh Ramses II, setting six hundred thousand slaves on a monumental journey of escape from Egypt and its terrifying cycle of deadly plagues.",
+    "rating": {
+      "aggregate_rating": 6,
+      "votes_count": 177911
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjI3MDY0NjkxNl5BMl5BanBnXkFtZTgwNTM3NTA0MzE@._V1_.jpg",
+        "width": 1011,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "ES",
+        "name": "Spain"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 52,
+      "review_count": 43
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0000631",
+          "display_name": "Ridley Scott",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGJkOGM5OWEtNDYxMy00Njg4LWExNjAtY2ZlNWNlNzVhNDk4XkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_.jpg",
+              "width": 3412,
+              "height": 5118
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0177836",
+          "display_name": "Adam Cooper",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWM1YTJjOTgtNTk3Mi00ZmRmLTlhNzctMjdiMzA4NDRjODUwXkEyXkFqcGdeQXVyNzE3OTc1NQ@@._V1_.jpg",
+              "width": 786,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0171651",
+          "display_name": "Bill Collage",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTAwNzRmNzEtZTU3Yi00ZjA0LWExOTItMmRiZmVkMzFmMWYxXkEyXkFqcGdeQXVyMjkzMTgwMw@@._V1_.jpg",
+              "width": 1512,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0128997",
+          "display_name": "Jeffrey Caine",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgxOTMwMjYyOF5BMl5BanBnXkFtZTYwNTQ4NDQ1._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0001873",
+          "display_name": "Steven Zaillian",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA2MDc1NzI3MV5BMl5BanBnXkFtZTcwODkyMDA1OA@@._V1_.jpg",
+              "width": 247,
+              "height": 327
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000288",
+          "display_name": "Christian Bale",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Moses"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0249291",
+          "display_name": "Joel Edgerton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA0ODI1ODk4NzdeQTJeQWpwZ15BbWU3MDkwNjkzOTY@._V1_.jpg",
+              "width": 512,
+              "height": 768
+            }
+          ]
+        },
+        "characters": [
+          "Ramses"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001806",
+          "display_name": "John Turturro",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzYwNjgwMjMxMF5BMl5BanBnXkFtZTcwNjUwOTc3NQ@@._V1_.jpg",
+              "width": 1705,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Seti"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0666739",
+          "display_name": "Aaron Paul",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY1OTY5NjI5NV5BMl5BanBnXkFtZTcwODA4MjM0OA@@._V1_.jpg",
+              "width": 681,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Joshua"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0578853",
+          "display_name": "Ben Mendelsohn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA3NzcyMDcyMF5BMl5BanBnXkFtZTcwNjQwMTczMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Viceroy Hegep"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1482999",
+          "display_name": "María Valverde",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTViMTM1YTAtMWZkOC00MTY1LWFhMDktM2E2ZjMwMzQ5MWMyXkEyXkFqcGdeQXVyMTk4MDc2MzM@._V1_.jpg",
+              "width": 3327,
+              "height": 4159
+            }
+          ]
+        },
+        "characters": [
+          "Zipporah"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000244",
+          "display_name": "Sigourney Weaver",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk1MTcyNTE3OV5BMl5BanBnXkFtZTcwMTA0MTMyMw@@._V1_.jpg",
+              "width": 450,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Tuya"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001426",
+          "display_name": "Ben Kingsley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTU2Njg2NzM4M15BMl5BanBnXkFtZTgwNjYwNjQwMTI@._V1_.jpg",
+              "width": 595,
+              "height": 807
+            }
+          ]
+        },
+        "characters": [
+          "Nun"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5036576",
+          "display_name": "Isaac Andrews",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzU4NWIxY2MtOTk4MC00OGIxLTlkY2UtZjBlZjUyODZiMmQ5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_.jpg",
+              "width": 729,
+              "height": 409
+            }
+          ]
+        },
+        "characters": [
+          "Malak"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0007814",
+          "display_name": "Hiam Abbass",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTEzMDQ2OTM5Ml5BMl5BanBnXkFtZTcwMDk2NTE4Nw@@._V1_.jpg",
+              "width": 1394,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Bithia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0890055",
+          "display_name": "Indira Varma",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAzMzAyNjE1Nl5BMl5BanBnXkFtZTcwNjYyOTI4Mw@@._V1_.jpg",
+              "width": 490,
+              "height": 653
+            }
+          ]
+        },
+        "characters": [
+          "High Priestess"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001971",
+          "display_name": "Ewen Bremner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTVjNzNhNzItNjc1ZC00YTJjLWI2MjctMDc4MmMxOGZkZGUxXkEyXkFqcGdeQXVyMTg0NTYyNjU@._V1_.jpg",
+              "width": 3163,
+              "height": 3374
+            }
+          ]
+        },
+        "characters": [
+          "Expert"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0267042",
+          "display_name": "Golshifteh Farahani",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA5MDAwMDUzNV5BMl5BanBnXkFtZTgwMjQ4NDE2MDE@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Nefertari"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1586095",
+          "display_name": "Ghassan Massoud",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgzNjc3Njg1Ml5BMl5BanBnXkFtZTcwMTUwNzUxOA@@._V1_.jpg",
+              "width": 1160,
+              "height": 1780
+            }
+          ]
+        },
+        "characters": [
+          "Ramses' Grand Vizier"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001216",
+          "display_name": "Tara Fitzgerald",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkxNjQyNjEwMV5BMl5BanBnXkFtZTYwODMyOTI3._V1_.jpg",
+              "width": 360,
+              "height": 480
+            }
+          ]
+        },
+        "characters": [
+          "Miriam"
+        ]
+      }
+    ]
+  }
+}

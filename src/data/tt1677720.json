@@ -1,0 +1,372 @@
+{
+  "title": {
+    "id": "tt1677720",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Ready Player One",
+    "original_title": null,
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 140,
+    "plot": "When the creator of a virtual reality called the OASIS dies, he makes a posthumous challenge to all OASIS users to find his Easter Egg, which will give the finder his fortune and control of his world.",
+    "rating": {
+      "aggregate_rating": 7.4,
+      "votes_count": 487159
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2JiYTNmZTctYTQ1OC00YjU4LWEwMjYtZjkwY2Y5MDI0OTU3XkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_.jpg",
+        "width": 2764,
+        "height": 4096
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "jpn",
+        "name": "Japanese"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "AU",
+        "name": "Australia"
+      },
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "IN",
+        "name": "India"
+      },
+      {
+        "code": "JP",
+        "name": "Japan"
+      },
+      {
+        "code": "SG",
+        "name": "Singapore"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 64,
+      "review_count": 56
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0000229",
+          "display_name": "Steven Spielberg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY1NjAzNzE1MV5BMl5BanBnXkFtZTYwNTk0ODc0._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0672015",
+          "display_name": "Zak Penn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzQyNzY0MTEzN15BMl5BanBnXkFtZTgwMTE4NzEwNTM@._V1_.jpg",
+              "width": 1499,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2094392",
+          "display_name": "Ernest Cline",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM0NzA0NTc1Nl5BMl5BanBnXkFtZTcwMzAxNjkxOA@@._V1_.jpg",
+              "width": 1853,
+              "height": 1039
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm4446467",
+          "display_name": "Tye Sheridan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjQzNmQ0NzQtNzdkMy00YzlmLThlNjMtNzVlYTkzMzg1MGUyXkEyXkFqcGdeQXVyMjYyNzQ0MzU@._V1_.jpg",
+              "width": 3000,
+              "height": 2000
+            }
+          ]
+        },
+        "characters": [
+          "Parzival",
+          "Wade"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4972453",
+          "display_name": "Olivia Cooke",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTVkNzI2ZDEtZGEzNy00ZGI0LTkxNDktYTFjZWUyODgyODQ1XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_.jpg",
+              "width": 2745,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Art3mis",
+          "Samantha"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0578853",
+          "display_name": "Ben Mendelsohn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA3NzcyMDcyMF5BMl5BanBnXkFtZTcwNjQwMTczMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Sorrento"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2913119",
+          "display_name": "Lena Waithe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWUwYWY5ZTQtOWU4ZC00ZmRjLWE5Y2ItM2VjNjkyZGE0YzBlXkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_.jpg",
+              "width": 732,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Aech",
+          "Helen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2554352",
+          "display_name": "T.J. Miller",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIwMzI0NTEwMF5BMl5BanBnXkFtZTcwMjk4MDkxNA@@._V1_.jpg",
+              "width": 278,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "I-R0k"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0670408",
+          "display_name": "Simon Pegg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzMwODE1NjA3OV5BMl5BanBnXkFtZTgwNTY5MzM2OTE@._V1_.jpg",
+              "width": 427,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Curator",
+          "Ogden Morrow"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0753314",
+          "display_name": "Mark Rylance",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA1MDY3MTc2OTReQTJeQWpwZ15BbWU3MDc2MTU1NzE@._V1_.jpg",
+              "width": 262,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Anorak",
+          "Halliday"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8354830",
+          "display_name": "Philip Zhao",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTEyNjk5NDY2NDJeQTJeQWpwZ15BbWU4MDcyODcxMDUz._V1_.jpg",
+              "width": 1471,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Sho"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3359104",
+          "display_name": "Win Morisaki",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU4NzUwNzk4Nl5BMl5BanBnXkFtZTgwODI4NzEwNTM@._V1_.jpg",
+              "width": 1467,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Daito"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4789912",
+          "display_name": "Hannah John-Kamen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGMwMmNmNWItZWI4Mi00OWY5LThjZmUtMjg2NDcxZDljYjYyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 3137,
+              "height": 5000
+            }
+          ]
+        },
+        "characters": [
+          "F'Nale Zandor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0408591",
+          "display_name": "Ralph Ineson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjc1YWU0ODktYTNlYy00YmZmLWI5ZTgtMWU3MGNmMWU5N2E1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1200,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Rick"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0528462",
+          "display_name": "Susan Lynch",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTAyODQ4MDYyNDheQTJeQWpwZ15BbWU3MDMwNjg4MDM@._V1_.jpg",
+              "width": 1358,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Alice"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0383354",
+          "display_name": "Clare Higgins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTY2NTM1NTY4MV5BMl5BanBnXkFtZTYwNDIzNzc4._V1_.jpg",
+              "width": 485,
+              "height": 325
+            }
+          ]
+        },
+        "characters": [
+          "Mrs. Gilmore"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1736605",
+          "display_name": "Laurence Spellman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDJiMjFjZmQtYmE0NS00OGEwLTg3N2ItNmQwMWNlODJkMGIyXkEyXkFqcGdeQXVyNDA1MjI3OA@@._V1_.jpg",
+              "width": 847,
+              "height": 802
+            }
+          ]
+        },
+        "characters": [
+          "Lame Tattoo Guy (Reb)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0917347",
+          "display_name": "Perdita Weeks",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI4MzcwNzEwNF5BMl5BanBnXkFtZTgwODg1MTU5NTM@._V1_.jpg",
+              "width": 1354,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Kira"
+        ]
+      }
+    ]
+  }
+}

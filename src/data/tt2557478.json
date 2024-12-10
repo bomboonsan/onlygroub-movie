@@ -1,0 +1,386 @@
+{
+  "title": {
+    "id": "tt2557478",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Pacific Rim: Uprising",
+    "original_title": null,
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 111,
+    "plot": "Jake Pentecost, son of Stacker Pentecost, reunites with Mako Mori to lead a new generation of Jaeger pilots, including rival Lambert and 15-year-old hacker Amara, against a new Kaiju threat.",
+    "rating": {
+      "aggregate_rating": 5.6,
+      "votes_count": 125888
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjI3Nzg0MTM5NF5BMl5BanBnXkFtZTgwOTE2MTgwNTM@._V1_.jpg",
+        "width": 675,
+        "height": 1000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CN",
+        "name": "China"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "JP",
+        "name": "Japan"
+      },
+      {
+        "code": "MX",
+        "name": "Mexico"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 44,
+      "review_count": 45
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0215299",
+          "display_name": "Steven S. DeKnight",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTQzZTYzMGItMGNjYi00Nzk2LTg0YjQtZmQzOGQyM2M4ZmViXkEyXkFqcGdeQXVyMTA1MDYxNDgz._V1_.jpg",
+              "width": 3840,
+              "height": 5760
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0215299",
+          "display_name": "Steven S. DeKnight",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTQzZTYzMGItMGNjYi00Nzk2LTg0YjQtZmQzOGQyM2M4ZmViXkEyXkFqcGdeQXVyMTA1MDYxNDgz._V1_.jpg",
+              "width": 3840,
+              "height": 5760
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm3045440",
+          "display_name": "Emily Carmichael",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGRkZjQ3Y2ItOWE2OC00NjgxLWFlMWMtOTBkM2U4ZmRkMDIwXkEyXkFqcGdeQXVyNDQ2MjAxOQ@@._V1_.jpg",
+              "width": 584,
+              "height": 584
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2575780",
+          "display_name": "Kira Snyder",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE0NDczMDQwOV5BMl5BanBnXkFtZTgwMzAwNTMzNDE@._V1_.jpg",
+              "width": 1200,
+              "height": 1800
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2385905",
+          "display_name": "T.S. Nowlin",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2012438",
+          "display_name": "Travis Beacham",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjk3OGYxYzAtODFhYy00YWI2LTg3NjEtMjVmNDFjYWI1OTc2XkEyXkFqcGdeQXVyNjg3MDMxNzU@._V1_.jpg",
+              "width": 2259,
+              "height": 3000
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm3915784",
+          "display_name": "John Boyega",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDg4NWZjNmEtZWVmNC00MzdhLTlhOTEtZmViYjdmMzhjMTAyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 432,
+              "height": 540
+            }
+          ]
+        },
+        "characters": [
+          "Jake Pentecost"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2207222",
+          "display_name": "Scott Eastwood",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODQ4ODU5NjIxMF5BMl5BanBnXkFtZTgwNzIzNTIzNzM@._V1_.jpg",
+              "width": 1535,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Nate Lambert"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8314228",
+          "display_name": "Cailee Spaeny",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU1NzA0MjEwNV5BMl5BanBnXkFtZTgwNTE5ODczNjM@._V1_.jpg",
+              "width": 503,
+              "height": 651
+            }
+          ]
+        },
+        "characters": [
+          "Amara Namani"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1218607",
+          "display_name": "Burn Gorman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmRjYmU0NDgtNTdiNS00N2Y4LTg5MzctNTU3NGNkOTgxYWE2XkEyXkFqcGdeQXVyMTA2MDIzMDE5._V1_.jpg",
+              "width": 1700,
+              "height": 2200
+            }
+          ]
+        },
+        "characters": [
+          "Hermann Gottlieb"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0206359",
+          "display_name": "Charlie Day",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjI2YWE1ODUtNTFjNy00MDgyLWJmNzgtNjBiZWE1NDY1YzFhXkEyXkFqcGdeQXVyODgwOTcwMDY@._V1_.jpg",
+              "width": 749,
+              "height": 1000
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Newton Geiszler"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1320897",
+          "display_name": "Tian Jing",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc1MDMzMjg1OV5BMl5BanBnXkFtZTgwODcxMzM0MzE@._V1_.jpg",
+              "width": 1152,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Liwen Shao"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1018221",
+          "display_name": "Jin Zhang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTA1ODcxODAzNF5BMl5BanBnXkFtZTgwMjg0NTU3NjE@._V1_.jpg",
+              "width": 2000,
+              "height": 1333
+            }
+          ]
+        },
+        "characters": [
+          "Marshal Quan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5245722",
+          "display_name": "Adria Arjona",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWIzMDVkYWUtYTA3My00MzIwLWJhY2MtNWNlODA3NWQyYmI4XkEyXkFqcGdeQXVyMTI2Nzk2ODk3._V1_.jpg",
+              "width": 1452,
+              "height": 1582
+            }
+          ]
+        },
+        "characters": [
+          "Jules Reyes"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0452860",
+          "display_name": "Rinko Kikuchi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI5NjE0MjcwN15BMl5BanBnXkFtZTYwMDcxNTA1._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Mako Mori"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3557613",
+          "display_name": "Karan Brar",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDNjZDlmYzQtZmQ5Yi00YjYxLTkxMzMtYjI3Zjg4MjNhOTJiXkEyXkFqcGdeQXVyMjE4NjA3Njg@._V1_.jpg",
+              "width": 213,
+              "height": 320
+            }
+          ]
+        },
+        "characters": [
+          "Cadet Suresh"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5454990",
+          "display_name": "Wesley Wong",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjg5Nzc3MzctNjU3Mi00ODkzLWFkZDktOTA4MDViOWFiNjlkXkEyXkFqcGdeQXVyMjI2ODkzODY@._V1_.jpg",
+              "width": 523,
+              "height": 789
+            }
+          ]
+        },
+        "characters": [
+          "Cadet Jinhai"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4854961",
+          "display_name": "Ivanna Sakhno",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODE2NWJiY2QtNmE3Yy00ZjE5LWI1NmYtYmZjMjU0YzY4ZTM4XkEyXkFqcGdeQXVyMTk1MzY4Nzg@._V1_.jpg",
+              "width": 494,
+              "height": 705
+            }
+          ]
+        },
+        "characters": [
+          "Cadet Viktoria"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5018289",
+          "display_name": "Mackenyu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTEwZmMwYWMtZDI4NC00MmIwLWFiMjItOGNhODI2YzI5Njc4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1813,
+              "height": 2266
+            }
+          ]
+        },
+        "characters": [
+          "Cadet Ryoichi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6160509",
+          "display_name": "Lily Ji",
+          "avatars": null
+        },
+        "characters": [
+          "Cadet Meilin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8356373",
+          "display_name": "Shyrley Rodriguez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDlmYjQxMWUtMDY4Zi00OTYyLThjMjMtMDIyNTJlOThhMjhhXkEyXkFqcGdeQXVyMTM1MjYwNzA0._V1_.jpg",
+              "width": 3744,
+              "height": 5176
+            }
+          ]
+        },
+        "characters": [
+          "Cadet Renata"
+        ]
+      }
+    ]
+  }
+}

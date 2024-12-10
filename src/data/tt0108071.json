@@ -1,0 +1,292 @@
+{
+  "title": {
+    "id": "tt0108071",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Secret Garden",
+    "original_title": null,
+    "start_year": 1993,
+    "end_year": null,
+    "runtime_minutes": 101,
+    "plot": "A young, recently-orphaned girl is sent to England after living in India all of her life. Once there, she begins to explore her new, seemingly-isolated surroundings, and its secrets.",
+    "rating": {
+      "aggregate_rating": 7.3,
+      "votes_count": 44532
+    },
+    "genres": [
+      "Drama",
+      "Family",
+      "Fantasy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjgyMGI3OTQtYWFjOS00OGNkLTg4NTktMDI4ZWMwODk5ODU5XkEyXkFqcGc@._V1_.jpg",
+        "width": 794,
+        "height": 1181
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "G"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 74,
+      "review_count": 26
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0002140",
+          "display_name": "Agnieszka Holland",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUzNTQ1MzU2N15BMl5BanBnXkFtZTYwMTE1MTE0._V1_.jpg",
+              "width": 271,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0122364",
+          "display_name": "Frances Hodgson Burnett",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2QyOWQxY2UtYTIzZi00OGFmLTg0Y2MtYTZmOTQ3YWE5MDgzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg",
+              "width": 427,
+              "height": 534
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0003031",
+          "display_name": "Caroline Thompson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA4NzEwNDg5NV5BMl5BanBnXkFtZTcwMDc5ODgwMw@@._V1_.jpg",
+              "width": 2048,
+              "height": 1382
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0531069",
+          "display_name": "Kate Maberly",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTEwODgyNjQ4MjFeQTJeQWpwZ15BbWU4MDY5MzIzNjgx._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mary Lennox"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0699117",
+          "display_name": "Heydon Prowse",
+          "avatars": null
+        },
+        "characters": [
+          "Colin Craven"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0461409",
+          "display_name": "Andrew Knott",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODFjZDFlYzUtYmNhOC00MjYwLTlkNzAtOGQwNzQyMWI2YjA1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 962,
+              "height": 1443
+            }
+          ]
+        },
+        "characters": [
+          "Dickon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001749",
+          "display_name": "Maggie Smith",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA4NzYxNjc5Ml5BMl5BanBnXkFtZTYwMTMzOTg1._V1_.jpg",
+              "width": 270,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Mrs. Medlock"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0189349",
+          "display_name": "Laura Crossley",
+          "avatars": null
+        },
+        "characters": [
+          "Martha"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001487",
+          "display_name": "John Lynch",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE3NTAwODE2NV5BMl5BanBnXkFtZTcwNjA4ODIyOA@@._V1_.jpg",
+              "width": 1471,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Lord Archibald Craven"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0817112",
+          "display_name": "Walter Sparrow",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmUwYzFkNjItNzI2ZC00YmU3LWJhMzMtMDEwZTJiNjgzZGE4XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          ]
+        },
+        "characters": [
+          "Ben Weatherstaff"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001393",
+          "display_name": "Irène Jacob",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM2NTE4OTI2OF5BMl5BanBnXkFtZTcwOTYyNDc3MQ@@._V1_.jpg",
+              "width": 1065,
+              "height": 1536
+            }
+          ]
+        },
+        "characters": [
+          "Mary's Mother",
+          "Lilias Craven"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0048450",
+          "display_name": "Frank Baker",
+          "avatars": null
+        },
+        "characters": [
+          "Government Official"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0384749",
+          "display_name": "Valerie Hill",
+          "avatars": null
+        },
+        "characters": [
+          "Cook"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0681815",
+          "display_name": "Andrea Pickering",
+          "avatars": null
+        },
+        "characters": [
+          "Betty Butterworth"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0604289",
+          "display_name": "Peter Moreton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmZmNzk5ZmEtNGEyZC00NDMxLTg2ZDMtNGNmMWI2MTExOWZjXkEyXkFqcGdeQXVyMzI3MTU0OQ@@._V1_.jpg",
+              "width": 2182,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Will"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0819618",
+          "display_name": "Arthur Spreckley",
+          "avatars": null
+        },
+        "characters": [
+          "John"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0115448",
+          "display_name": "Colin Bruce",
+          "avatars": null
+        },
+        "characters": [
+          "Major Lennox"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0802189",
+          "display_name": "Parsan Singh",
+          "avatars": null
+        },
+        "characters": [
+          "Ayah"
+        ]
+      }
+    ]
+  }
+}

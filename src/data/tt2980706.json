@@ -1,0 +1,335 @@
+{
+  "title": {
+    "id": "tt2980706",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Planes: Fire & Rescue",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 83,
+    "plot": "When Dusty learns that his engine is damaged and he may never race again, he joins a forest fire and rescue unit to be trained as a firefighter, or else his air strip will be shut down.",
+    "rating": {
+      "aggregate_rating": 5.9,
+      "votes_count": 19835
+    },
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Sport"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTcwMjY4NDM4OF5BMl5BanBnXkFtZTgwMDIxNDU2MTE@._V1_.jpg",
+        "width": 1014,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "AU",
+        "name": "Australia"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "IN",
+        "name": "India"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 48,
+      "review_count": 29
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0304432",
+          "display_name": "Bobs Gannaway",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0304432",
+          "display_name": "Bobs Gannaway",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0397377",
+          "display_name": "Jeffrey M. Howard",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0176981",
+          "display_name": "Dane Cook",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMyOTQ2MzUxNF5BMl5BanBnXkFtZTcwMjYyMjYwNw@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Dusty Crophopper"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000438",
+          "display_name": "Ed Harris",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE4NDM4ODc2OV5BMl5BanBnXkFtZTcwNzA5NjQ5MQ@@._V1_.jpg",
+              "width": 289,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Blade Ranger"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0100866",
+          "display_name": "Julie Bowen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIxMjI3ODI5M15BMl5BanBnXkFtZTcwNjIyNTA0NA@@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Lil' Dipper"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0035664",
+          "display_name": "Curtis Armstrong",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzg1NTMyNDI3MV5BMl5BanBnXkFtZTYwNTYxMTkz._V1_.jpg",
+              "width": 279,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Maru"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0383422",
+          "display_name": "John Michael Higgins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMzMTg4MDUyNl5BMl5BanBnXkFtZTcwMjMxMDI3Mg@@._V1_.jpg",
+              "width": 287,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Cad"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001358",
+          "display_name": "Hal Holbrook",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgyNTMwNjE3NV5BMl5BanBnXkFtZTcwNTQzMjc1MQ@@._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Mayday"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0836071",
+          "display_name": "Wes Studi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkzMzcwMTA5N15BMl5BanBnXkFtZTYwMjYxODky._V1_.jpg",
+              "width": 485,
+              "height": 614
+            }
+          ]
+        },
+        "characters": [
+          "Windlifter"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0004951",
+          "display_name": "Brad Garrett",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEwMjYyMjYxNF5BMl5BanBnXkFtZTgwNzE0MDU3ODE@._V1_.jpg",
+              "width": 463,
+              "height": 594
+            }
+          ]
+        },
+        "characters": [
+          "Chug"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000159",
+          "display_name": "Teri Hatcher",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAwODU5ODE3OV5BMl5BanBnXkFtZTcwNjY5MjEyNQ@@._V1_.jpg",
+              "width": 1447,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Dottie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005078",
+          "display_name": "Stacy Keach",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQwMzEwODQ4Nl5BMl5BanBnXkFtZTYwMTA0NTQz._V1_.jpg",
+              "width": 276,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Skipper"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0147825",
+          "display_name": "Cedric The Entertainer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcxODQ1NTU5NV5BMl5BanBnXkFtZTcwNjMwMjY0NA@@._V1_.jpg",
+              "width": 1505,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Leadbottom"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0542706",
+          "display_name": "Danny Mann",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTQ5NmMzNTAtNzBiYS00OTkwLWJkMWQtMjUzNDZjNTQ5Yzg2XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 936,
+              "height": 1374
+            }
+          ]
+        },
+        "characters": [
+          "Sparky"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0179224",
+          "display_name": "Barry Corbin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGE0M2FkNTAtYWE4MS00NmIyLTk0NGYtZmM4MWRjNmFiZTZhXkEyXkFqcGdeQXVyMTI4NTM5MjQ1._V1_.jpg",
+              "width": 3024,
+              "height": 4032
+            }
+          ]
+        },
+        "characters": [
+          "Ol' Jammer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005093",
+          "display_name": "Regina King",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGM1M2I1ZWQtNWVmMC00YTE4LWFiNDEtNWVlN2FmNmU5MjZjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+              "width": 1962,
+              "height": 2944
+            }
+          ]
+        },
+        "characters": [
+          "Dynamite"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0575198",
+          "display_name": "Anne Meara",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkwNTkxNDkyOV5BMl5BanBnXkFtZTcwMTc3MjE3NA@@._V1_.jpg",
+              "width": 1366,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Winnie"
+        ]
+      }
+    ]
+  }
+}

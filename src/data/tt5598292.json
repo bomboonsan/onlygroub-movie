@@ -1,0 +1,311 @@
+{
+  "title": {
+    "id": "tt5598292",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Polaroid",
+    "original_title": null,
+    "start_year": 2019,
+    "end_year": null,
+    "runtime_minutes": 88,
+    "plot": "High school loner Bird Fitcher has no idea what dark secrets are tied to the Polaroid camera she finds. It doesn't take long to discover that those who have their picture taken with it, soon die.",
+    "rating": {
+      "aggregate_rating": 5.2,
+      "votes_count": 17490
+    },
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTU2MDI0NDYxNl5BMl5BanBnXkFtZTgwMDAxOTQxMjI@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "NO",
+        "name": "Norway"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm2209002",
+          "display_name": "Lars Klevberg",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1397455",
+          "display_name": "Blair Butler",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2209002",
+          "display_name": "Lars Klevberg",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm3077071",
+          "display_name": "Kathryn Prescott",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYzODAyNDI5MF5BMl5BanBnXkFtZTgwMzM5MTIyMTI@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Bird Fitcher"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5683678",
+          "display_name": "Tyler Young",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzFhZjJlMmQtMjdhMC00ZGEyLWE5NGYtY2JhMTBhNzcyNjU4XkEyXkFqcGc@._V1_.jpg",
+              "width": 2731,
+              "height": 4096
+            }
+          ]
+        },
+        "characters": [
+          "Connor Bell"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3693092",
+          "display_name": "Samantha Logan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjg2YTBjMzYtZWZhNi00MGVjLTlhNTUtOGY4ZjU4ZGQxYzA3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2400,
+              "height": 3548
+            }
+          ]
+        },
+        "characters": [
+          "Kasey"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3485889",
+          "display_name": "Keenan Tracey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzI5NmQyMDAtODgzOS00ZDkxLWJhMWEtN2U1Yzk5Yzc0YzJhXkEyXkFqcGdeQXVyNjMzODM2MTY@._V1_.jpg",
+              "width": 3840,
+              "height": 5760
+            }
+          ]
+        },
+        "characters": [
+          "Devin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5159424",
+          "display_name": "Priscilla Quintana",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTkwNzM3MzktMWFmYi00MDU2LTg3Y2QtYTBmZTEzMDRiNWY4XkEyXkFqcGdeQXVyNTgwNjQwMjk@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        },
+        "characters": [
+          "Mina"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2306701",
+          "display_name": "Javier Botet",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2EyZTIzYTItYWU3Ni00M2ZmLWE4MDktYWE2NWU4MmFjZTk1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 827,
+              "height": 1165
+            }
+          ]
+        },
+        "characters": [
+          "The Entity"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0683379",
+          "display_name": "Mitch Pileggi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDM5NzM2NzYtMzdlZC00NDc3LTlhMTUtZDIzZjdlYjI5MzJlL2ltYWdlXkEyXkFqcGdeQXVyNzIwNDk0MTY@._V1_.jpg",
+              "width": 419,
+              "height": 347
+            }
+          ]
+        },
+        "characters": [
+          "Sheriff Pembroke"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3968418",
+          "display_name": "Davi Santos",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWU5MmVjZGYtN2EwMi00NGZlLWI4N2MtYjUxODVkZjY1ZWI4XkEyXkFqcGdeQXVyMjkyMTU3Mzk@._V1_.jpg",
+              "width": 853,
+              "height": 1280
+            }
+          ]
+        },
+        "characters": [
+          "Tyler"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3775423",
+          "display_name": "Katie Stevens",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDc1ZGIzODItYjA5MS00ZTdkLWIwMWQtOGQ1ZDIyMDNhZDQyXkEyXkFqcGdeQXVyNDEzNDcwOTY@._V1_.jpg",
+              "width": 3840,
+              "height": 5760
+            }
+          ]
+        },
+        "characters": [
+          "Avery"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0951471",
+          "display_name": "Grace Zabriskie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkxNDg2NTQ2N15BMl5BanBnXkFtZTgwNTAyMDMzMjI@._V1_.jpg",
+              "width": 1977,
+              "height": 1487
+            }
+          ]
+        },
+        "characters": [
+          "Lena Sable"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6663708",
+          "display_name": "Madelaine Petsch",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWEzNzRlMzItN2E4NC00ZGY5LTllN2YtNGIwMzBiNDU0ODc1XkEyXkFqcGdeQXVyMjczNjk3NzY@._V1_.jpg",
+              "width": 1200,
+              "height": 1800
+            }
+          ]
+        },
+        "characters": [
+          "Sarah"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6671114",
+          "display_name": "Erika Prevost",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2ZiYTk4OGQtYjM0NC00Nzc5LTlkZTEtOWIyZTgyODI1NWU3XkEyXkFqcGc@._V1_.jpg",
+              "width": 1050,
+              "height": 1568
+            }
+          ]
+        },
+        "characters": [
+          "Linda"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0531932",
+          "display_name": "Shauna MacDonald",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2VmYzFiYmQtZTllYi00YzBmLTg2NmQtZTY4ZTIzMzYwYzUzXkEyXkFqcGdeQXVyMjEyNDQ2MA@@._V1_.jpg",
+              "width": 2100,
+              "height": 1398
+            }
+          ]
+        },
+        "characters": [
+          "Bird's Mother"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1471851",
+          "display_name": "Rhys Bevan-John",
+          "avatars": null
+        },
+        "characters": [
+          "Roland Joseph Sable"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3199026",
+          "display_name": "Emily Power",
+          "avatars": null
+        },
+        "characters": [
+          "Rebecca Sable"
+        ]
+      }
+    ]
+  }
+}

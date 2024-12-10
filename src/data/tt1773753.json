@@ -1,0 +1,316 @@
+{
+  "title": {
+    "id": "tt1773753",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Mara",
+    "original_title": null,
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 98,
+    "plot": "Police psychologist Kate investigates what appears to be the murder of a husband by his wife, who claims he was the victim of a sleep demon.",
+    "rating": {
+      "aggregate_rating": 5.1,
+      "votes_count": 8922
+    },
+    "genres": [
+      "Crime",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWE0ZjhiNGMtYjA5MS00Y2UxLWE0OTEtYzU0ZDQ5Zjc4MWVkXkEyXkFqcGc@._V1_.jpg",
+        "width": 2500,
+        "height": 3704
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 32,
+      "review_count": 4
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm2013064",
+          "display_name": "Clive Tonge",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWMzMDBiYjYtZDQ5ZS00ZDdmLTljNTMtNDIwYzNlM2JjMjI5XkEyXkFqcGc@._V1_.jpg",
+              "width": 667,
+              "height": 1000
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2013064",
+          "display_name": "Clive Tonge",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWMzMDBiYjYtZDQ5ZS00ZDdmLTljNTMtNDIwYzNlM2JjMjI5XkEyXkFqcGc@._V1_.jpg",
+              "width": 667,
+              "height": 1000
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1491927",
+          "display_name": "Jonathan Frank",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1385871",
+          "display_name": "Olga Kurylenko",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkyMzIwMjY1OF5BMl5BanBnXkFtZTcwNzA3MDkwOQ@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Kate"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0176660",
+          "display_name": "Craig Conway",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmQ1ZjBjNDEtMzE2ZC00ZDNkLTk4YzYtNmRhZmYxMjA0NzE2XkEyXkFqcGdeQXVyMTE3MDMxMzYy._V1_.jpg",
+              "width": 1793,
+              "height": 2690
+            }
+          ]
+        },
+        "characters": [
+          "Dougie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2306701",
+          "display_name": "Javier Botet",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2EyZTIzYTItYWU3Ni00M2ZmLWE4MDktYWE2NWU4MmFjZTk1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 827,
+              "height": 1165
+            }
+          ]
+        },
+        "characters": [
+          "Mara"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1024311",
+          "display_name": "Rosie Fellner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTg4NmIyODctOGZjZS00YTc3LTk5N2UtMjQ3MmNkZDRkM2UwXkEyXkFqcGdeQXVyMTUxNzI5Nzc@._V1_.jpg",
+              "width": 1536,
+              "height": 2295
+            }
+          ]
+        },
+        "characters": [
+          "Helena"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0629634",
+          "display_name": "Lance E. Nichols",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzEwMTcyYzMtM2Q2YS00NzJjLWI4NGUtMWNjZGQzNTdlNDkyXkEyXkFqcGdeQXVyMjI0MzM2Nw@@._V1_.jpg",
+              "width": 319,
+              "height": 450
+            }
+          ]
+        },
+        "characters": [
+          "McCarthy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8133848",
+          "display_name": "Mackenzie Imsand",
+          "avatars": null
+        },
+        "characters": [
+          "Sophie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1418871",
+          "display_name": "Ted Johnson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTZhMDNhM2UtMDVjNS00YWRhLThlZjQtODVjOWU2NDZlNTE4XkEyXkFqcGc@._V1_.jpg",
+              "width": 2400,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Grandpa"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0247153",
+          "display_name": "Mitch Eakins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzQzODg1MWMtNzhiNS00YTk3LWEzNjAtMzAzMjAxOTNlYjc1XkEyXkFqcGdeQXVyNDM0NjAxNzc@._V1_.jpg",
+              "width": 3456,
+              "height": 5184
+            }
+          ]
+        },
+        "characters": [
+          "Ellis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5451383",
+          "display_name": "Melissa Bolona",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTFhMjU2ODktZDg4YS00NDUzLTljOTAtYzQ4ZDAwOTgyZjI5XkEyXkFqcGdeQXVyMzk2NzQ1ODI@._V1_.jpg",
+              "width": 845,
+              "height": 1267
+            }
+          ]
+        },
+        "characters": [
+          "Carly"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6691038",
+          "display_name": "Marcus W. Weathersby",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWIxYWE3ZGEtZjliNy00MTM2LTkyMDgtNmNiZmZkZThlZTM3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 5304,
+              "height": 7952
+            }
+          ]
+        },
+        "characters": [
+          "Saul"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3526615",
+          "display_name": "Dandy Barrett",
+          "avatars": null
+        },
+        "characters": [
+          "Dr. Botet"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4112153",
+          "display_name": "Rebecca Adams",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzU5ZGZkMGEtZmE3Mi00OGU3LTlmZTEtMTE2NDIxYjA4YTgyXkEyXkFqcGdeQXVyNjkwNzM1NjU@._V1_.jpg",
+              "width": 2048,
+              "height": 2882
+            }
+          ]
+        },
+        "characters": [
+          "Nurse 1"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0442107",
+          "display_name": "Charles Lawlor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzU3MGIwYTItZDE4NS00ZDAxLTkyMGUtMjU1NTM4MGYyNTk0XkEyXkFqcGc@._V1_.jpg",
+              "width": 500,
+              "height": 625
+            }
+          ]
+        },
+        "characters": [
+          "Coroner"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8086077",
+          "display_name": "Montré Everett",
+          "avatars": null
+        },
+        "characters": [
+          "Head Orderly"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3626674",
+          "display_name": "Jacob Grodnik",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmNjMjZiZjQtZWUxNC00MzViLTgwZWYtNjY5Y2JhMmIwNTEzXkEyXkFqcGdeQXVyMjIyMzYyNDg@._V1_.jpg",
+              "width": 1360,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Josh"
+        ]
+      }
+    ]
+  }
+}

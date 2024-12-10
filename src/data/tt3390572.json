@@ -1,0 +1,332 @@
+{
+  "title": {
+    "id": "tt3390572",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Haider",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 160,
+    "plot": "A young man returns to Kashmir after his father's disappearance to confront his uncle, whom he suspects of playing a role in his father's fate.",
+    "rating": {
+      "aggregate_rating": 8,
+      "votes_count": 57929
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjA1NTEwMDMxMF5BMl5BanBnXkFtZTgwODkzMzI0MjE@._V1_.jpg",
+        "width": 1108,
+        "height": 1604
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "Not Rated"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "hin",
+        "name": "Hindi"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "IN",
+        "name": "India"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm0080235",
+          "display_name": "Vishal Bhardwaj",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGI0MDU4OTUtNmVjZS00OWE2LWFmNWUtYjk2MGIxYTFjMzZiXkEyXkFqcGdeQXVyMTMxMTIwMTE0._V1_.jpg",
+              "width": 350,
+              "height": 350
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0000636",
+          "display_name": "William Shakespeare",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg5ODgyNDgyNF5BMl5BanBnXkFtZTcwMjEwNTgxOA@@._V1_.jpg",
+              "width": 1461,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm5470025",
+          "display_name": "Basharat Peer",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0080235",
+          "display_name": "Vishal Bhardwaj",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGI0MDU4OTUtNmVjZS00OWE2LWFmNWUtYjk2MGIxYTFjMzZiXkEyXkFqcGdeQXVyMTMxMTIwMTE0._V1_.jpg",
+              "width": 350,
+              "height": 350
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0007102",
+          "display_name": "Tabu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU0ODQ2MjA5NF5BMl5BanBnXkFtZTYwMjczMjA0._V1_.jpg",
+              "width": 274,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Ghazala Meer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1372788",
+          "display_name": "Shahid Kapoor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjZkNjhlNDMtOGE3Yy00OTMxLTkwYzgtZGRiMjk2ZmY5MmQzXkEyXkFqcGdeQXVyMTU0ODI1NTA2._V1_.jpg",
+              "width": 683,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Haider Meer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3601766",
+          "display_name": "Shraddha Kapoor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU1NzU2Nzk0MV5BMl5BanBnXkFtZTgwMzIzMzg4MjE@._V1_.jpg",
+              "width": 1357,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Arshia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1946407",
+          "display_name": "Kay Kay Menon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY4MjgwODk4MF5BMl5BanBnXkFtZTgwNzAxNzE0MjE@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        },
+        "characters": [
+          "Khurram Meer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2368423",
+          "display_name": "Narendra Jha",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWI0YzQxZGEtOGQxNi00YTZmLWJlOTktYmQ5YWU2NjYyNjgyXkEyXkFqcGc@._V1_.jpg",
+              "width": 744,
+              "height": 945
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Hilal Meer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0451425",
+          "display_name": "Kulbhushan Kharbanda",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ2ODU1NDM0MF5BMl5BanBnXkFtZTcwNjIzNTE3Mw@@._V1_.jpg",
+              "width": 1500,
+              "height": 1101
+            }
+          ]
+        },
+        "characters": [
+          "Hussain Meer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1391032",
+          "display_name": "Lalit Parimoo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmFkOTc4MTctMmU4My00NDc3LWFjMWMtNzE5NjUwYTg2ZDYzXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+              "width": 1200,
+              "height": 1500
+            }
+          ]
+        },
+        "characters": [
+          "Pervez Lone"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0896573",
+          "display_name": "Ashish Vidyarthi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzk5Mzc5Y2YtYjJjYy00OGIyLTg4MzctZTMxNDBiYzY2MTcxXkEyXkFqcGdeQXVyNjc0MTQwOTc@._V1_.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          ]
+        },
+        "characters": [
+          "Brigadier T.S Murthy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2085856",
+          "display_name": "Aamir Bashir",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTNmYjM0MjctYTg5Yy00MmVlLWFhNzctYzQ1NGU0YWUzMjNmXkEyXkFqcGdeQXVyMzY5NTI5NDA@._V1_.jpg",
+              "width": 1176,
+              "height": 778
+            }
+          ]
+        },
+        "characters": [
+          "Liyaqat, Arshia's brother"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4444484",
+          "display_name": "Sumit Kaul",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODFhY2I4NmEtMDcwOC00NzUzLWI5YWEtMzdhNWQwMjM0OTc3XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_.jpg",
+              "width": 1440,
+              "height": 1800
+            }
+          ]
+        },
+        "characters": [
+          "(Salman 1) Courtier"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4488932",
+          "display_name": "Rajat Bhagat",
+          "avatars": null
+        },
+        "characters": [
+          "(Salman 2) Courtier"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2586977",
+          "display_name": "Ashwath Bhatt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzM3OTA5MTUtOGE2ZS00NGYyLThkMWMtOTY2ODllYzg1M2YyXkEyXkFqcGdeQXVyNjQ1NTAwNTE@._V1_.jpg",
+              "width": 1000,
+              "height": 677
+            }
+          ]
+        },
+        "characters": [
+          "Zahoor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0451234",
+          "display_name": "Irrfan Khan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDg3NDgxNzY4NF5BMl5BanBnXkFtZTcwODMxODQzMg@@._V1_.jpg",
+              "width": 299,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Roohdaar"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6527505",
+          "display_name": "Anshuman Malhotra",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzhlYjllYjQtMTdkMi00OTVkLWExZTQtNGE5MTUwM2E4OGE4XkEyXkFqcGc@._V1_.jpg",
+              "width": 1929,
+              "height": 3341
+            }
+          ]
+        },
+        "characters": [
+          "Young Haider"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7495518",
+          "display_name": "Lankesh Bhardwaj",
+          "avatars": null
+        },
+        "characters": [
+          "Investing Army Officer-Papa-II"
+        ]
+      }
+    ]
+  }
+}

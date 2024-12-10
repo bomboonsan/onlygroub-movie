@@ -1,0 +1,342 @@
+{
+  "title": {
+    "id": "tt0884732",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Wedding Ringer",
+    "original_title": null,
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 101,
+    "plot": "Two weeks shy of his wedding, a socially awkward guy enters into a charade by hiring the owner of a company that provides best men for grooms in need.",
+    "rating": {
+      "aggregate_rating": 6.6,
+      "votes_count": 80232
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTk3MjQyNTUxNl5BMl5BanBnXkFtZTgwNjM3Mjk1MzE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      },
+      {
+        "code": "ukr",
+        "name": "Ukrainian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 35,
+      "review_count": 27
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1275670",
+          "display_name": "Jeremy Garelick",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzA2MjI5MTc4M15BMl5BanBnXkFtZTgwMTA1MjU0MDE@._V1_.jpg",
+              "width": 801,
+              "height": 1150
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1275670",
+          "display_name": "Jeremy Garelick",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzA2MjI5MTc4M15BMl5BanBnXkFtZTgwMTA1MjU0MDE@._V1_.jpg",
+              "width": 801,
+              "height": 1150
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1191891",
+          "display_name": "Jay Lavender",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0366389",
+          "display_name": "Kevin Hart",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY4OTAxMjkxN15BMl5BanBnXkFtZTgwODg5MzYyMTE@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Jimmy Callahan",
+          "Bic"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1265802",
+          "display_name": "Josh Gad",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzU0MDIxYzktNmZiZC00ODcwLWIyYWMtNzI3MjhlMTA2MzhiXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1118,
+              "height": 1304
+            }
+          ]
+        },
+        "characters": [
+          "Doug Harris"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1649714",
+          "display_name": "Affion Crockett",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEzMDkwMzg4N15BMl5BanBnXkFtZTgwNjI2MjkwODE@._V1_.jpg",
+              "width": 3240,
+              "height": 2160
+            }
+          ]
+        },
+        "characters": [
+          "Reggie",
+          "Drysdale"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0192505",
+          "display_name": "Kaley Cuoco",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjYyYmNlZTMtM2RlZC00YTlhLTk5YzItZTQ4OTA3Y2FkNzFlXkEyXkFqcGdeQXVyOTAzMjY1OTY@._V1_.jpg",
+              "width": 6208,
+              "height": 8280
+            }
+          ]
+        },
+        "characters": [
+          "Gretchen Palmer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0306201",
+          "display_name": "Jorge Garcia",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyNTkxODIxN15BMl5BanBnXkFtZTgwOTU2MDAwMTE@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Lurch",
+          "Garvey"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2872012",
+          "display_name": "Dan Gill",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGU3N2U0YzItYThhYS00MDgzLWJkMjUtOTUwZWIwMDliNzQ5XkEyXkFqcGc@._V1_.jpg",
+              "width": 834,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Bronstein",
+          "Dickerson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1189640",
+          "display_name": "Corey Holcomb",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk0Nzc5MTQ2OV5BMl5BanBnXkFtZTgwODM4NDU5MjE@._V1_.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ]
+        },
+        "characters": [
+          "Otis",
+          "Alzado"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0397432",
+          "display_name": "Ken Howard",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgwOTU1OTY1Ml5BMl5BanBnXkFtZTgwNjA1NjM3OTE@._V1_.jpg",
+              "width": 385,
+              "height": 500
+            }
+          ]
+        },
+        "characters": [
+          "Ed Palmer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5102355",
+          "display_name": "Colin Kane",
+          "avatars": null
+        },
+        "characters": [
+          "Fitzgibbons",
+          "Plunkett"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001458",
+          "display_name": "Cloris Leachman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTEwNTM4NjI4NzleQTJeQWpwZ15BbWU2MDkxMTg0NQ@@._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Grandma Palmer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0507338",
+          "display_name": "Jenifer Lewis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcwNjQwMjUxN15BMl5BanBnXkFtZTYwODU3OTAz._V1_.jpg",
+              "width": 450,
+              "height": 505
+            }
+          ]
+        },
+        "characters": [
+          "Doris Jenkins"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2024927",
+          "display_name": "Alan Ritchson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGI4Y2QzZWEtYmYwMC00MTc1LWI1ZjEtYjMzNzA4MDQ2Yjk0XkEyXkFqcGdeQXVyNzY1NTEzMw@@._V1_.jpg",
+              "width": 6124,
+              "height": 4082
+            }
+          ]
+        },
+        "characters": [
+          "Kip",
+          "Carew"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000211",
+          "display_name": "Mimi Rogers",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc5NDUyNDQ3N15BMl5BanBnXkFtZTcwOTk0MTMwNA@@._V1_.jpg",
+              "width": 301,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Lois Palmer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0847099",
+          "display_name": "Aaron Takahashi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzg3MDc0ODc0OF5BMl5BanBnXkFtZTcwMDI5OTI4NA@@._V1_.jpg",
+              "width": 2000,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Endo",
+          "Rambis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1880888",
+          "display_name": "Olivia Thirlby",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODM3MzA1NDg5MV5BMl5BanBnXkFtZTgwNTMwMjkxNDE@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Alison Palmer"
+        ]
+      }
+    ]
+  }
+}

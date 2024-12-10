@@ -1,0 +1,336 @@
+{
+  "title": {
+    "id": "tt12441478",
+    "type": "tvMovie",
+    "is_adult": false,
+    "primary_title": "Earwig and the Witch",
+    "original_title": "Âya to majo",
+    "start_year": 2020,
+    "end_year": null,
+    "runtime_minutes": 82,
+    "plot": "An orphan girl, Earwig, is adopted by a witch and comes home to a spooky house filled with mystery and magic.",
+    "rating": {
+      "aggregate_rating": 4.7,
+      "votes_count": 5829
+    },
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTIwYmQyNjctNmJhYi00NDg0LWJlYzktNjE0OGE0OTIxNzAzXkEyXkFqcGdeQXVyMTI0NTE1Njg4._V1_.jpg",
+        "width": 440,
+        "height": 660
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "jpn",
+        "name": "Japanese"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "JP",
+        "name": "Japan"
+      }
+    ],
+    "critic_review": {
+      "score": 46,
+      "review_count": 21
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm2066439",
+          "display_name": "Gorô Miyazaki",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2Y1MTBhNjctZDkwYS00NjUwLTkyNzYtYTQ3YTljZWQ3NjhmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+              "width": 6986,
+              "height": 4657
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1168510",
+          "display_name": "Diana Wynne Jones",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2146668",
+          "display_name": "Keiko Niwa",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm9022235",
+          "display_name": "Emi Gunji",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0594503",
+          "display_name": "Hayao Miyazaki",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjcyNjk2OTkwNF5BMl5BanBnXkFtZTcwOTk0MTQ3Mg@@._V1_.jpg",
+              "width": 317,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm10611021",
+          "display_name": "Taylor Henderson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMzMDJkMDctZmEzOC00YThhLTg5NmMtNDg1MDFkZDgwZDFlXkEyXkFqcGdeQXVyMTAxNTY1MjY2._V1_.jpg",
+              "width": 3200,
+              "height": 4800
+            }
+          ]
+        },
+        "characters": [
+          "Earwig"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4992926",
+          "display_name": "Jazmín Abuín",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTRhMzUwMjMtYjBiZS00YTJlLWIzZGYtNmM5MTJhNTBkMTI0XkEyXkFqcGdeQXVyNDc3ODcyOTY@._V1_.jpg",
+              "width": 1439,
+              "height": 1799
+            }
+          ]
+        },
+        "characters": [
+          "Madre de earwig"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1072611",
+          "display_name": "JB Blanc",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGJmOTM5MjQtMWUzOC00NzUxLThmMTctZTc2ZWVlNzkxYjg4XkEyXkFqcGdeQXVyMTM2MzA2NA@@._V1_.jpg",
+              "width": 1510,
+              "height": 2268
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Jenkins"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0111319",
+          "display_name": "Tom Bromhead",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWVhYTFiZGYtOGE1Ni00M2QzLWExOTgtZWUxOGRhY2IzNDY2XkEyXkFqcGdeQXVyMzkxMzc4Mw@@._V1_.jpg",
+              "width": 1200,
+              "height": 1800
+            }
+          ]
+        },
+        "characters": [
+          "Cook"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3368920",
+          "display_name": "Alex Cartañá",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzEwNjQwODU0N15BMl5BanBnXkFtZTgwNDUyNDI0NjE@._V1_.jpg",
+              "width": 750,
+              "height": 563
+            }
+          ]
+        },
+        "characters": [
+          "Assistant Matron"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0650284",
+          "display_name": "Pandora Colin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2FkNjVmMjktMTM5OC00NWJhLWFiZDctN2ExYjRhYTY5NjBlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3794,
+              "height": 4742
+            }
+          ]
+        },
+        "characters": [
+          "Matron"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001290",
+          "display_name": "Richard E. Grant",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc2NzA1NDk1Ml5BMl5BanBnXkFtZTgwMjk2NTA0NjM@._V1_.jpg",
+              "width": 530,
+              "height": 709
+            }
+          ]
+        },
+        "characters": [
+          "The Mandrake"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1204924",
+          "display_name": "Gaku Hamada",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmQ3OWIzNzktYzg0MS00NTc3LTk3OTktODg4ZTY4OGVhNmNkXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 826,
+              "height": 1172
+            }
+          ]
+        },
+        "characters": [
+          "Tômasu"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10691806",
+          "display_name": "Logan Hannan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzhhMjdhNzAtODUyOC00YjQ3LTk3NDItODE4ZDQzNGUwMTAwXkEyXkFqcGc@._V1_.jpg",
+              "width": 2543,
+              "height": 3179
+            }
+          ]
+        },
+        "characters": [
+          "Custard"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4732281",
+          "display_name": "Kokoro Hirasawa",
+          "avatars": null
+        },
+        "characters": [
+          "Âya"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8996837",
+          "display_name": "Summer Jenkins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2U1MTU3NDMtYzVhZC00NWYyLWJkOWYtYWVlOGZkMmQ2MzQ4XkEyXkFqcGc@._V1_.jpg",
+              "width": 2154,
+              "height": 2692
+            }
+          ]
+        },
+        "characters": [
+          "Phyllis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1622694",
+          "display_name": "Eva Kaminsky",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjU1YmY3M2UtZjVhZS00MTc1LWE0ODAtMTMzYmU5NjUxNzZkXkEyXkFqcGdeQXVyOTM3NTE0Nw@@._V1_.jpg",
+              "width": 800,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Assistant Cook"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0551223",
+          "display_name": "Vanessa Marshall",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc5MzcxODc5MF5BMl5BanBnXkFtZTgwMzkzMzM2MjE@._V1_.jpg",
+              "width": 1280,
+              "height": 1920
+            }
+          ]
+        },
+        "characters": [
+          "Bella Yaga"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0612631",
+          "display_name": "Sherina Munaf",
+          "avatars": null
+        },
+        "characters": [
+          "Earwig's Mother"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2527068",
+          "display_name": "Kacey Musgraves",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODRjMDg2ZGQtNzIzMC00NTI3LWJiZGMtYTViMGUwMWJmODYwXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_.jpg",
+              "width": 4050,
+              "height": 5400
+            }
+          ]
+        },
+        "characters": [
+          "Earwig's Mother"
+        ]
+      }
+    ]
+  }
+}

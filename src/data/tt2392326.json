@@ -1,0 +1,268 @@
+{
+  "title": {
+    "id": "tt2392326",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Le Week-End",
+    "original_title": null,
+    "start_year": 2013,
+    "end_year": null,
+    "runtime_minutes": 93,
+    "plot": "A British couple return to Paris many years after their honeymoon there in an attempt to rejuvenate their marriage.",
+    "rating": {
+      "aggregate_rating": 6.4,
+      "votes_count": 8692
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTk3NzAxNTExMF5BMl5BanBnXkFtZTgwMDM0NjYwMTE@._V1_.jpg",
+        "width": 2764,
+        "height": 4096
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "critic_review": {
+      "score": 73,
+      "review_count": 29
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0585011",
+          "display_name": "Roger Michell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc2NDMxNjIwNF5BMl5BanBnXkFtZTYwNzE4NDY2._V1_.jpg",
+              "width": 485,
+              "height": 325
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0475659",
+          "display_name": "Hanif Kureishi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDU1MjU5NmMtOGZiMi00OTlmLWE2OWItYjNjZDhjYmYzM2RjXkEyXkFqcGc@._V1_.jpg",
+              "width": 968,
+              "height": 681
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0242026",
+          "display_name": "Lindsay Duncan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYwNTkxOTQzMV5BMl5BanBnXkFtZTcwODQ3ODIyOA@@._V1_.jpg",
+              "width": 1360,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Meg"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000980",
+          "display_name": "Jim Broadbent",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTY4ODgzMTg3MV5BMl5BanBnXkFtZTYwMDE4NTc0._V1_.jpg",
+              "width": 261,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Nick"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0331868",
+          "display_name": "Igor Gotesman",
+          "avatars": null
+        },
+        "characters": [
+          "Montmartre Receptionist"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6354307",
+          "display_name": "Olivier Audibert",
+          "avatars": null
+        },
+        "characters": [
+          "Taxi Driver"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0404077",
+          "display_name": "Sophie-Charlotte Husson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGU1Njk0ZDQtMGYwNS00N2U1LTk4YTMtZTA2M2YxMzAwNjljXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 472,
+              "height": 591
+            }
+          ]
+        },
+        "characters": [
+          "Plaza Receptionist"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6354308",
+          "display_name": "Etienne Dalibert",
+          "avatars": null
+        },
+        "characters": [
+          "Hotel Porter"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0491133",
+          "display_name": "Mauricette Laurence",
+          "avatars": null
+        },
+        "characters": [
+          "Old Lady in Church"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6354309",
+          "display_name": "Gabriel Mailhebiau",
+          "avatars": null
+        },
+        "characters": [
+          "Chez Dumonet Waiter"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2917346",
+          "display_name": "Violaine Baccon",
+          "avatars": null
+        },
+        "characters": [
+          "Girl on motorbike"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6617077",
+          "display_name": "Damien Favreau",
+          "avatars": null
+        },
+        "characters": [
+          "La Dame de Pic Maitre D."
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000156",
+          "display_name": "Jeff Goldblum",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2ViNDIwNmUtZGQ5Ni00MDYxLWI5YTktNWU1NGRlYWQ1ZDg0XkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_.jpg",
+              "width": 560,
+              "height": 698
+            }
+          ]
+        },
+        "characters": [
+          "Morgan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2829396",
+          "display_name": "Déborah Amsellem",
+          "avatars": null
+        },
+        "characters": [
+          "Hotel Shop Assistant"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2184014",
+          "display_name": "Stéphane De Fraia",
+          "avatars": null
+        },
+        "characters": [
+          "Waiter at Morgan's Apartment"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0064486",
+          "display_name": "Brice Beaugier",
+          "avatars": null
+        },
+        "characters": [
+          "Robert Ertel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0529604",
+          "display_name": "Charlotte Léo",
+          "avatars": null
+        },
+        "characters": [
+          "Dominique Ertel"
+        ]
+      }
+    ]
+  }
+}

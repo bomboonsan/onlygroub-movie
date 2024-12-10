@@ -1,0 +1,332 @@
+{
+  "title": {
+    "id": "tt4786282",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Lights Out",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 81,
+    "plot": "Rebecca must unlock the terror behind her little brother's experiences that once tested her sanity, bringing her face to face with a supernatural spirit attached to their mother.",
+    "rating": {
+      "aggregate_rating": 6.3,
+      "votes_count": 141483
+    },
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BODc1MjAxZGQtYTZhOC00NWI4LTk1M2EtY2RkYjM0YjlhOGNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "width": 3443,
+        "height": 5100
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 58,
+      "review_count": 34
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm2497546",
+          "display_name": "David F. Sandberg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjQ0YjQxMjktMWNmMy00YmE3LTk1MTQtNzdmY2UyNjU0MTZiXkEyXkFqcGdeQXVyNTQyODYzNA@@._V1_.jpg",
+              "width": 2504,
+              "height": 1658
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2104063",
+          "display_name": "Eric Heisserer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUwNjU3NjU1MV5BMl5BanBnXkFtZTcwODc0MjA5Mw@@._V1_.jpg",
+              "width": 312,
+              "height": 396
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2497546",
+          "display_name": "David F. Sandberg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjQ0YjQxMjktMWNmMy00YmE3LTk1MTQtNzdmY2UyNjU0MTZiXkEyXkFqcGdeQXVyNTQyODYzNA@@._V1_.jpg",
+              "width": 2504,
+              "height": 1658
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1954240",
+          "display_name": "Teresa Palmer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWY4OWYxMmYtYWQ1Yy00NzI2LTkxMzktMWViM2JlOGEwNDgwXkEyXkFqcGdeQXVyNDE1NzY2MTI@._V1_.jpg",
+              "width": 2584,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Rebecca"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5145655",
+          "display_name": "Gabriel Bateman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTIzNTkxOTE0N15BMl5BanBnXkFtZTgwOTUwMjM1OTE@._V1_.jpg",
+              "width": 1473,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Martin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2856658",
+          "display_name": "Alexander DiPersia",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDczNzE1ODgtOTJkMS00OTQ3LWI0OGItZDVkOTBiOTdlMDI1XkEyXkFqcGdeQXVyMTg0OTI5MzE@._V1_.jpg",
+              "width": 400,
+              "height": 267
+            }
+          ]
+        },
+        "characters": [
+          "Bret"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0121605",
+          "display_name": "Billy Burke",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDNjNmUzZWQtODZjYi00MGU2LWJhY2YtMjEyYTUyOTI0ZDhkXkEyXkFqcGdeQXVyNTIyMjAwMw@@._V1_.jpg",
+              "width": 541,
+              "height": 763
+            }
+          ]
+        },
+        "characters": [
+          "Paul"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0004742",
+          "display_name": "Maria Bello",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI3NDE3NTAyOF5BMl5BanBnXkFtZTcwNTg0MDEwMg@@._V1_.jpg",
+              "width": 308,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Sophie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2151188",
+          "display_name": "Alicia Vela-Bailey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk5MDY2OTAwNV5BMl5BanBnXkFtZTgwOTM0NzQ2OTE@._V1_.jpg",
+              "width": 446,
+              "height": 625
+            }
+          ]
+        },
+        "characters": [
+          "Diana"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1450877",
+          "display_name": "Andi Osho",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTg1MTc0ZGEtZjU1OS00ZTM2LThmMDMtN2M2NDcyYzQ3NzM3XkEyXkFqcGdeQXVyNzU1MTUzNQ@@._V1_.jpg",
+              "width": 1134,
+              "height": 1417
+            }
+          ]
+        },
+        "characters": [
+          "Emma"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2096119",
+          "display_name": "Rolando Boyce",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmYwZTFhYWQtMTNhOS00OGY2LWFhZjItNGE3ODBjNjI1ODhmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3168,
+              "height": 4752
+            }
+          ]
+        },
+        "characters": [
+          "Officer Brian Andrews"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1078823",
+          "display_name": "Maria Russell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYxNjE5NDM5Nl5BMl5BanBnXkFtZTgwNzAzOTk2MDE@._V1_.jpg",
+              "width": 2832,
+              "height": 4256
+            }
+          ]
+        },
+        "characters": [
+          "Officer Gomez"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0659004",
+          "display_name": "Elizabeth Pan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjExZjIxZDctODkyMS00NDkxLTk4ZjEtMmNhMTc2YjEzYjgzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 456,
+              "height": 406
+            }
+          ]
+        },
+        "characters": [
+          "Nurse"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5519415",
+          "display_name": "Lotta Losten",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjQ0MDZkYjUtZDE1MC00ODVjLTk0NjAtMmE0ZjJhYWY0MTk4XkEyXkFqcGdeQXVyMTc5ODg3MDQ@._V1_.jpg",
+              "width": 2316,
+              "height": 3088
+            }
+          ]
+        },
+        "characters": [
+          "Esther"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6403233",
+          "display_name": "Amiah Miller",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmU4YmZmYjktMjcwMy00NWUwLTlmYTYtZDk3ZTFiNzc4Mzk0XkEyXkFqcGdeQXVyNTE4MDg4NTI@._V1_.jpg",
+              "width": 1970,
+              "height": 2274
+            }
+          ]
+        },
+        "characters": [
+          "Young Rebecca"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4077567",
+          "display_name": "Ava Cantrell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWZjNmFlZDctNDNlZC00ZjIxLWI2OTktN2Q2OTU4MWRiYzcxXkEyXkFqcGc@._V1_CR27,139,661,992_.jpg",
+              "width": 661,
+              "height": 992
+            }
+          ]
+        },
+        "characters": [
+          "Teen Diana"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3014840",
+          "display_name": "Emily Alyn Lind",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmJjNDMyZGQtNjAzYS00OWM4LWIwZGMtN2MyOTE4MGIxM2ZiXkEyXkFqcGdeQXVyMTY0MDIyOQ@@._V1_.jpg",
+              "width": 1222,
+              "height": 1258
+            }
+          ]
+        },
+        "characters": [
+          "Teen Sophie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7401834",
+          "display_name": "Ariel Dupin",
+          "avatars": null
+        },
+        "characters": [
+          "Young Diana"
+        ]
+      }
+    ]
+  }
+}

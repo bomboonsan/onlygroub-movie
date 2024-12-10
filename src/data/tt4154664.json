@@ -1,0 +1,399 @@
+{
+  "title": {
+    "id": "tt4154664",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Captain Marvel",
+    "original_title": null,
+    "start_year": 2019,
+    "end_year": null,
+    "runtime_minutes": 123,
+    "plot": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
+    "rating": {
+      "aggregate_rating": 6.8,
+      "votes_count": 606843
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI@._V1_.jpg",
+        "width": 1688,
+        "height": 2500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "AU",
+        "name": "Australia"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 64,
+      "review_count": 56
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1349818",
+          "display_name": "Anna Boden",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE4NTg5ODE3NV5BMl5BanBnXkFtZTgwMTAwMzU3MzE@._V1_.jpg",
+              "width": 1650,
+              "height": 1100
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0281396",
+          "display_name": "Ryan Fleck",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY2ODQ1NDYxNF5BMl5BanBnXkFtZTgwOTg4MjU3MzE@._V1_.jpg",
+              "width": 1098,
+              "height": 1560
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1349818",
+          "display_name": "Anna Boden",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE4NTg5ODE3NV5BMl5BanBnXkFtZTgwMTAwMzU3MzE@._V1_.jpg",
+              "width": 1650,
+              "height": 1100
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0281396",
+          "display_name": "Ryan Fleck",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY2ODQ1NDYxNF5BMl5BanBnXkFtZTgwOTg4MjU3MzE@._V1_.jpg",
+              "width": 1098,
+              "height": 1560
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm4039044",
+          "display_name": "Geneva Robertson-Dworet",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgyM2M5ZTAtMjZkZS00ZDVjLTk3M2EtZjc2ZDcyMjU1MDJhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1592,
+              "height": 1918
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2270979",
+          "display_name": "Nicole Perlman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU1NjA0NzExMl5BMl5BanBnXkFtZTgwOTg5OTYyMjE@._V1_.jpg",
+              "width": 1380,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0498834",
+          "display_name": "Meg LeFauve",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTk4MjE3ODg1MV5BMl5BanBnXkFtZTgwMDk2MjYwNzE@._V1_.jpg",
+              "width": 183,
+              "height": 275
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0488953",
+          "display_name": "Brie Larson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDE4ZWY1ZTUtYjNhMy00MTQyLWFmMjktNTkyYTFjOGRlNDk0XkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_.jpg",
+              "width": 2400,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Carol Danvers",
+          "Vers",
+          "Captain Marvel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000168",
+          "display_name": "Samuel L. Jackson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ1NTQwMTYxNl5BMl5BanBnXkFtZTYwMjA1MzY1._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Nick Fury"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0578853",
+          "display_name": "Ben Mendelsohn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA3NzcyMDcyMF5BMl5BanBnXkFtZTcwNjQwMTczMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Talos",
+          "Keller"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000179",
+          "display_name": "Jude Law",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMwOTg5NTQ3NV5BMl5BanBnXkFtZTcwNzM3MDAzNQ@@._V1_.jpg",
+              "width": 1457,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Yon-Rogg"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000906",
+          "display_name": "Annette Bening",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc4ODQ1ODM5Ml5BMl5BanBnXkFtZTcwOTU2NDk3OQ@@._V1_.jpg",
+              "width": 683,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Supreme Intelligence",
+          "Dr. Wendy Lawson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005023",
+          "display_name": "Djimon Hounsou",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQ2NTM4MzI4M15BMl5BanBnXkFtZTcwOTkxMjcxNA@@._V1_.jpg",
+              "width": 295,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Korath"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1195855",
+          "display_name": "Lee Pace",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmEzNDA3MDktZDdjMS00YTNjLTg1ZmUtMWIxZGNlMzY3OGU5XkEyXkFqcGdeQXVyMTExNzQ3MzAw._V1_.jpg",
+              "width": 1323,
+              "height": 1626
+            }
+          ]
+        },
+        "characters": [
+          "Ronan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2736476",
+          "display_name": "Lashana Lynch",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI0ZGE0ZTYtYmY1MS00MGU0LWEwMDQtMzYxMDFmMmFjZjUyXkEyXkFqcGdeQXVyMzczOTY5ODk@._V1_.jpg",
+              "width": 942,
+              "height": 995
+            }
+          ]
+        },
+        "characters": [
+          "Maria Rambeau"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2110418",
+          "display_name": "Gemma Chan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjEwZTQ5YWMtNjg4Yy00OGRkLWJjNjctM2MzOWM1MmNiNjQ4XkEyXkFqcGdeQXVyMTE3ODY2Nzk@._V1_.jpg",
+              "width": 1440,
+              "height": 1779
+            }
+          ]
+        },
+        "characters": [
+          "Minn-Erva"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0163988",
+          "display_name": "Clark Gregg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjdmMGRjYTAtYTFkMS00Y2MzLWIyNGUtZmE0MjEzMjI3NDEyXkEyXkFqcGdeQXVyMTMzOTMyOTM4._V1_.jpg",
+              "width": 1024,
+              "height": 684
+            }
+          ]
+        },
+        "characters": [
+          "Agent Coulson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0854815",
+          "display_name": "Rune Temte",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGQ4OTUzYmUtZjQyZS00ZWRhLWJhMzgtNjc0ZTdjZDU0YzlmXkEyXkFqcGdeQXVyNjM4MTMwNg@@._V1_.jpg",
+              "width": 3262,
+              "height": 4970
+            }
+          ]
+        },
+        "characters": [
+          "Bron-Char"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2714417",
+          "display_name": "Algenis Perez Soto",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYyNjA3NTU5OF5BMl5BanBnXkFtZTgwNzU4Mzc1NzM@._V1_.jpg",
+              "width": 1361,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Att-Lass"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5085683",
+          "display_name": "Mckenna Grace",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzI4Y2EzNTEtZWZiZS00NzZmLTlmZWYtNGUwYmE3YjliOWQ5XkEyXkFqcGdeQXVyMzQxNjUxMDE@._V1_.jpg",
+              "width": 1600,
+              "height": 2400
+            }
+          ]
+        },
+        "characters": [
+          "Young Carol (13 Years Old)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7739127",
+          "display_name": "Akira Akbar",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjFjOTg3OWYtMWQ1MS00OTA4LWIxNWQtZTkwNDI2Y2E2ZjQzXkEyXkFqcGdeQXVyMTI2Nzk3NzI4._V1_.jpg",
+              "width": 1080,
+              "height": 1350
+            }
+          ]
+        },
+        "characters": [
+          "Monica Rambeau (11 Years Old)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0536866",
+          "display_name": "Matthew Maher",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDYzNzA5MWMtZTEwZi00NjRjLWJiMDgtMGM1M2M5NThlMjQyXkEyXkFqcGdeQXVyMTIwMzM3NTg@._V1_.jpg",
+              "width": 2400,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Norex"
+        ]
+      }
+    ]
+  }
+}

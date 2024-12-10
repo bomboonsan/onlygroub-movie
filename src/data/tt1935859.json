@@ -1,0 +1,347 @@
+{
+  "title": {
+    "id": "tt1935859",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Miss Peregrine's Home for Peculiar Children",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 127,
+    "plot": "When Jacob (Asa Butterfield) discovers clues to a mystery that stretches across time, he finds Miss Peregrine's Home for Peculiar Children. But the danger deepens after he gets to know the residents and learns about their special powers.",
+    "rating": {
+      "aggregate_rating": 6.7,
+      "votes_count": 188865
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Family",
+      "Fantasy",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTU0Nzc5NzI5NV5BMl5BanBnXkFtZTgwNTk1MDE4MDI@._V1_.jpg",
+        "width": 1600,
+        "height": 2005
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "BE",
+        "name": "Belgium"
+      },
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 57,
+      "review_count": 43
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0000318",
+          "display_name": "Tim Burton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGJmZDUwMzktYmY2MS00M2IwLWIyNmQtYjJhYjc4NjIyZWM1XkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_.jpg",
+              "width": 1107,
+              "height": 1639
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2207353",
+          "display_name": "Ransom Riggs",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg1OTgyMjgxMF5BMl5BanBnXkFtZTcwNTkyMTkzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 596
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0963359",
+          "display_name": "Jane Goldman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ3OTg0NjI1OF5BMl5BanBnXkFtZTcwODQ1MDc0NA@@._V1_.jpg",
+              "width": 1322,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1200692",
+          "display_name": "Eva Green",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ0MDA2ODE2Ml5BMl5BanBnXkFtZTcwMjI0Nzc3Nw@@._V1_.jpg",
+              "width": 1307,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Miss Peregrine"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2633535",
+          "display_name": "Asa Butterfield",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjExYjNjNDktYWM3OS00ZWE0LTljNTktOGQ4OTg1Y2QwZTMzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 3479,
+              "height": 5000
+            }
+          ]
+        },
+        "characters": [
+          "Jake"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000168",
+          "display_name": "Samuel L. Jackson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ1NTQwMTYxNl5BMl5BanBnXkFtZTYwMjA1MzY1._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Barron"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001132",
+          "display_name": "Judi Dench",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTI5NjQ4NDc5NF5BMl5BanBnXkFtZTcwMTc5OTczNw@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Miss Avocet"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000391",
+          "display_name": "Rupert Everett",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODQzMDM2ODE3MV5BMl5BanBnXkFtZTYwMDkxODE2._V1_.jpg",
+              "width": 257,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Ornithologist"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005049",
+          "display_name": "Allison Janney",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAyNjc2NzgxM15BMl5BanBnXkFtZTgwODQyMjM1MjE@._V1_.jpg",
+              "width": 1496,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Golan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1483369",
+          "display_name": "Chris O'Dowd",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ4MTQwNzk5NF5BMl5BanBnXkFtZTgwOTgzMDEwMTE@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Frank"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000654",
+          "display_name": "Terence Stamp",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc0ODc3ODQ4OF5BMl5BanBnXkFtZTcwNzIxNzAyMg@@._V1_.jpg",
+              "width": 284,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Abe"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3480246",
+          "display_name": "Ella Purnell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2UxMTFkNGYtNDUyNy00ZGUzLWE1MzMtM2QxZGRlY2I0MmUyXkEyXkFqcGdeQXVyMTI2Nzk2MjQ1._V1_.jpg",
+              "width": 2000,
+              "height": 1250
+            }
+          ]
+        },
+        "characters": [
+          "Emma"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5843516",
+          "display_name": "Finlay MacMillan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWQ4MjNlYWItMjRmMC00YWViLWI1OWItNzZjNTg0NWE0YjE3XkEyXkFqcGdeQXVyMjQ5MDQ4MjA@._V1_.jpg",
+              "width": 594,
+              "height": 864
+            }
+          ]
+        },
+        "characters": [
+          "Enoch"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6077055",
+          "display_name": "Lauren McCrostie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTZmOGU3OGMtZDg5ZS00NDU3LWI0OTktNDM2YTUxYTc2ZGM2XkEyXkFqcGc@._V1_.jpg",
+              "width": 1361,
+              "height": 2050
+            }
+          ]
+        },
+        "characters": [
+          "Olive"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6166347",
+          "display_name": "Hayden Keeler-Stone",
+          "avatars": null
+        },
+        "characters": [
+          "Horace"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6900036",
+          "display_name": "Georgia Pemberton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzMxYWNmODItYzEzNC00ZjcyLTk2NDctYzZmZDE1ZjI0OTUzXkEyXkFqcGc@._V1_.jpg",
+              "width": 1170,
+              "height": 1758
+            }
+          ]
+        },
+        "characters": [
+          "Fiona"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6057785",
+          "display_name": "Milo Parker",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjI5N2E3ZWQtNDk3YS00NGU5LWJiYWItNjU2NDk4OTIzM2Q1XkEyXkFqcGdeQXVyMTM0NjQyNjQ@._V1_.jpg",
+              "width": 480,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Hugh"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5380206",
+          "display_name": "Raffiella Chapman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjBjNjJmODAtYjIyZS00MmNhLWJmNzYtMDJhNWU0Nzk2MmVlXkEyXkFqcGdeQXVyMzkxNDQ3Mw@@._V1_.jpg",
+              "width": 2400,
+              "height": 3300
+            }
+          ]
+        },
+        "characters": [
+          "Claire"
+        ]
+      }
+    ]
+  }
+}

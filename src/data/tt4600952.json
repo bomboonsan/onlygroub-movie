@@ -1,0 +1,264 @@
+{
+  "title": {
+    "id": "tt4600952",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Guardians",
+    "original_title": "Zashchitniki",
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 89,
+    "plot": "During the Cold War, an organization called \"Patriot\" created a super-hero squad, which includes members of multiple Soviet republics. For years, the heroes had to hide their identities, but in hard times they must show themselves again.",
+    "rating": {
+      "aggregate_rating": 4,
+      "votes_count": 14570
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTIwY2I1NDAtYjJhOS00N2Q4LWE4YjAtZDQ3ZTA4MzcwMzRkL2ltYWdlXkEyXkFqcGdeQXVyNjMxMzM3NDI@._V1_.jpg",
+        "width": 2100,
+        "height": 3000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "Not Rated"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "RU",
+        "name": "Russian Federation"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm3550361",
+          "display_name": "Sarik Andreasyan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjk5NTk3OTkwMl5BMl5BanBnXkFtZTgwNzE4Mzg2MDI@._V1_.jpg",
+              "width": 2165,
+              "height": 3036
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm6947132",
+          "display_name": "Andrey Gavrilov",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm3039952",
+          "display_name": "Anton Pampushnyy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI1ZTAzNzItNjkzNC00MTYyLWFlMzItMDBmYTUzNWFlYjkxXkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_.jpg",
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        "characters": [
+          "Arsus"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3751258",
+          "display_name": "Sanjar Madi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmUyM2Y4OGYtYzRhZS00MDY4LTk2ZjUtOTlmZmNlY2Q2NDg3XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 1200,
+              "height": 713
+            }
+          ]
+        },
+        "characters": [
+          "Khan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5904835",
+          "display_name": "Sebastien Sisak",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTA3MDg0MjQ5OF5BMl5BanBnXkFtZTgwODk0OTIxMDE@._V1_.jpg",
+              "width": 1021,
+              "height": 680
+            }
+          ]
+        },
+        "characters": [
+          "Ler"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6615975",
+          "display_name": "Alina Lanina",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWYxY2MyNjgtNDg3OC00YTQyLThjYTYtNjVjZGExYWU5YzFmXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 620,
+              "height": 848
+            }
+          ]
+        },
+        "characters": [
+          "Kseniya"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6821548",
+          "display_name": "Valeriya Shkirando",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmQ2MTA4ZTYtOWM2Ny00NDI0LThjNzgtYmVmZDNjNWJiYzgxXkEyXkFqcGdeQXVyNjMwOTA1MDM@._V1_.jpg",
+              "width": 2365,
+              "height": 1330
+            }
+          ]
+        },
+        "characters": [
+          "Mayor Elena Larina"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0713614",
+          "display_name": "Vyacheslav Razbegaev",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjg3ZjdjNGYtMDg1Yy00Nzg1LWI1OTEtNTAxODdlOTA5ODZiXkEyXkFqcGc@._V1_.jpg",
+              "width": 1920,
+              "height": 797
+            }
+          ]
+        },
+        "characters": [
+          "General-mayor Nikolay Dolgov"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7594851",
+          "display_name": "Stanislav Shirin",
+          "avatars": null
+        },
+        "characters": [
+          "Avgust Kuratov"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1493246",
+          "display_name": "Aleksandr Komissarov",
+          "avatars": null
+        },
+        "characters": [
+          "Viktor Dobronravov"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7617577",
+          "display_name": "Nikolay Shestak",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzUzYzk5YzQtZTlhNy00OTQyLWIzZDEtNzA2ZDFmOTEwMWVlXkEyXkFqcGc@._V1_.jpg",
+              "width": 3000,
+              "height": 2002
+            }
+          ]
+        },
+        "characters": [
+          "Fyodor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8185077",
+          "display_name": "Elizaveta Polyakova",
+          "avatars": null
+        },
+        "characters": null
+      },
+      {
+        "name": {
+          "id": "nm8921520",
+          "display_name": "Viktor Mishchenchuk",
+          "avatars": null
+        },
+        "characters": null
+      },
+      {
+        "name": {
+          "id": "nm9080028",
+          "display_name": "Polina Polyakova",
+          "avatars": null
+        },
+        "characters": null
+      },
+      {
+        "name": {
+          "id": "nm8921506",
+          "display_name": "Yuriy Pilyugin",
+          "avatars": null
+        },
+        "characters": null
+      },
+      {
+        "name": {
+          "id": "nm7235044",
+          "display_name": "Svetlana Tulskaya",
+          "avatars": null
+        },
+        "characters": null
+      },
+      {
+        "name": {
+          "id": "nm2172420",
+          "display_name": "Andrey Bobrov",
+          "avatars": null
+        },
+        "characters": null
+      }
+    ]
+  }
+}

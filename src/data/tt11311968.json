@@ -1,0 +1,72 @@
+{
+  "title": {
+    "id": "tt11311968",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Sumikko Gurashi the Movie: The Unexpected Picture Book and the Secret Child",
+    "original_title": null,
+    "start_year": 2019,
+    "end_year": null,
+    "runtime_minutes": 65,
+    "plot": "Sumikko and friends discover a pop-out picture book in the basement of Cafe Sumikko, their favorite coffee shop. As they look at the book, the pop-ups suddenly start moving and Sumikko and friends get sucked into the book.",
+    "rating": {
+      "aggregate_rating": 6.8,
+      "votes_count": 227
+    },
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGExYjg2MDctNzBiYS00ODA0LWEwNGYtZWE5ODBhYmQzYTUzXkEyXkFqcGc@._V1_.jpg",
+        "width": 1200,
+        "height": 1696
+      }
+    ],
+    "certificates": null,
+    "spoken_languages": [
+      {
+        "code": "jpn",
+        "name": "Japanese"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "JP",
+        "name": "Japan"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm6088345",
+          "display_name": "Mankyu",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": null,
+    "casts": [
+      {
+        "name": {
+          "id": "nm1585517",
+          "display_name": "Yoshihiko Inohara",
+          "avatars": null
+        },
+        "characters": null
+      },
+      {
+        "name": {
+          "id": "nm0393331",
+          "display_name": "Manami Honjô",
+          "avatars": null
+        },
+        "characters": null
+      }
+    ]
+  }
+}

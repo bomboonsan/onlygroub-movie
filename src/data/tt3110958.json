@@ -1,0 +1,371 @@
+{
+  "title": {
+    "id": "tt3110958",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Now You See Me 2",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 129,
+    "plot": "The Four Horsemen resurface, and are forcibly recruited by a tech genius to pull off their most impossible heist yet.",
+    "rating": {
+      "aggregate_rating": 6.4,
+      "votes_count": 318129
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjhlNDljNTgtZjc4My00NmZmLTk2YzAtYWE5MDYwYjM4MTkzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+        "width": 1972,
+        "height": 2975
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "HK",
+        "name": "Hong Kong (Special Administrative Region of China)"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 46,
+      "review_count": 33
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0160840",
+          "display_name": "Jon M. Chu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDM0NjgyNjkwOV5BMl5BanBnXkFtZTgwNzYzOTMzMDE@._V1_.jpg",
+              "width": 672,
+              "height": 1008
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0004412",
+          "display_name": "Ed Solomon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDYzOTQwMTAwOV5BMl5BanBnXkFtZTcwMDk4Njg5Nw@@._V1_.jpg",
+              "width": 1469,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1095804",
+          "display_name": "Peter Chiarelli",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0945026",
+          "display_name": "Boaz Yakin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE5Nzk1NDUxOV5BMl5BanBnXkFtZTcwODk5MDYyMg@@._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm3242689",
+          "display_name": "Edward Ricourt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWY3NjUwMjgtYzVkYS00YzM0LWI4NGYtNjQxOGIwYzJlYjI4XkEyXkFqcGc@._V1_.jpg",
+              "width": 346,
+              "height": 485
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0251986",
+          "display_name": "Jesse Eisenberg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTE3MzQzODE3OV5BMl5BanBnXkFtZTcwMDE0ODY1NA@@._V1_.jpg",
+              "width": 1445,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "J. Daniel Atlas"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0749263",
+          "display_name": "Mark Ruffalo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWIzZTI1ODUtZTUzMC00NTdiLWFlOTYtZTg4MGZkYmU4YzNlXkEyXkFqcGdeQXVyNTExOTk5Nzg@._V1_.jpg",
+              "width": 4912,
+              "height": 7360
+            }
+          ]
+        },
+        "characters": [
+          "Dylan Rhodes"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000437",
+          "display_name": "Woody Harrelson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU3NDc2ODc4MF5BMl5BanBnXkFtZTcwODk2MzAyMg@@._V1_.jpg",
+              "width": 272,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Merritt McKinney",
+          "Chase McKinney"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2002649",
+          "display_name": "Dave Franco",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzEzMzYzMzYxMV5BMl5BanBnXkFtZTcwNTk2MDg4NQ@@._V1_.jpg",
+              "width": 1357,
+              "height": 1788
+            }
+          ]
+        },
+        "characters": [
+          "Jack Wilder"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0705356",
+          "display_name": "Daniel Radcliffe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmE0NzNiNzQtYTVlYS00MjljLWE4MTgtYzYxNjU2NjZkM2M4XkEyXkFqcGdeQXVyNjY5NDgzNjQ@._V1_.jpg",
+              "width": 760,
+              "height": 1140
+            }
+          ]
+        },
+        "characters": [
+          "Walter Mabry"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0135221",
+          "display_name": "Lizzy Caplan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA1MDgxNDU0Nl5BMl5BanBnXkFtZTgwNjk4NTgwMTE@._V1_.jpg",
+              "width": 960,
+              "height": 1202
+            }
+          ]
+        },
+        "characters": [
+          "Lula"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1727100",
+          "display_name": "Jay Chou",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgwNTEyMzUzMV5BMl5BanBnXkFtZTcwOTY2MDIzNA@@._V1_.jpg",
+              "width": 296,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Li"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005125",
+          "display_name": "Sanaa Lathan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGI2YmNmZWMtMzRkZi00YTFiLWFiZWMtOWE0OTU1YzE1MDk5XkEyXkFqcGdeQXVyMTUzNDk4NjA@._V1_.jpg",
+              "width": 1440,
+              "height": 1665
+            }
+          ]
+        },
+        "characters": [
+          "Deputy Director Natalie Austin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000323",
+          "display_name": "Michael Caine",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAwNzIwNTQ4Ml5BMl5BanBnXkFtZTYwMzE1MTUz._V1_.jpg",
+              "width": 288,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Arthur Tressler"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000151",
+          "display_name": "Morgan Freeman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc0MDMyMzI2OF5BMl5BanBnXkFtZTcwMzM2OTk1MQ@@._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Thaddeus Bradley"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0913175",
+          "display_name": "David Warshofsky",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzVjZDUzMmEtODQ0MS00ZjAzLTliNjAtMjEwMDE2NGIzODljXkEyXkFqcGdeQXVyNDA5MTcxNQ@@._V1_.jpg",
+              "width": 2598,
+              "height": 2387
+            }
+          ]
+        },
+        "characters": [
+          "Agent Cowan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0157796",
+          "display_name": "Tsai Chin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE0NTU3NzgzMV5BMl5BanBnXkFtZTcwOTM4MjQwOA@@._V1_.jpg",
+              "width": 1423,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Bu Bu"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4793189",
+          "display_name": "William Henderson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTNjNWJhMGItM2E0Zi00YTM2LWJmNGQtMjgxMTBmODVhMDFlXkEyXkFqcGc@._V1_.jpg",
+              "width": 6720,
+              "height": 4480
+            }
+          ]
+        },
+        "characters": [
+          "Young Dylan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0481924",
+          "display_name": "Richard Laing",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWI0MjllZmItN2FmZC00YjkxLTkzOTctNGY1NWQ4N2VlY2RjXkEyXkFqcGdeQXVyMjY0MjI2NA@@._V1_.jpg",
+              "width": 2392,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Lionel Shrike"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1631222",
+          "display_name": "Henry Lloyd-Hughes",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDQwNmE4MzctMThmOC00NDU3LWI4MmMtZTA5YmU3ZWYxYmVkXkEyXkFqcGdeQXVyMjYzNzQ2MTQ@._V1_.jpg",
+              "width": 1440,
+              "height": 1800
+            }
+          ]
+        },
+        "characters": [
+          "Allen Scott-Frank"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "title": {
+    "id": "tt1951266",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Hunger Games: Mockingjay - Part 2",
+    "original_title": null,
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 137,
+    "plot": "Katniss and a team of rebels from District 13 prepare for the final battle that will decide the fate of Panem.",
+    "rating": {
+      "aggregate_rating": 6.5,
+      "votes_count": 373956
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjQzNDI2NTU1Ml5BMl5BanBnXkFtZTgwNTAyMDQ5NjE@._V1_.jpg",
+        "width": 1347,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "DE",
+        "name": "Germany"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 65,
+      "review_count": 45
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1349376",
+          "display_name": "Francis Lawrence",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI4Mjc4MTMzNF5BMl5BanBnXkFtZTYwNjkzNzc4._V1_.jpg",
+              "width": 427,
+              "height": 325
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0185976",
+          "display_name": "Peter Craig",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODlmNmZmY2ItYjI3Zi00M2E3LTk5YzEtM2Y1NTkzMTUzOGRmXkEyXkFqcGdeQXVyMTQ1ODI4NzY@._V1_.jpg",
+              "width": 688,
+              "height": 1064
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0834960",
+          "display_name": "Danny Strong",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTExNzI1MTQtZWM5NS00YTdjLWE2ZmItODZiYmFlMjU1M2ZkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 594,
+              "height": 441
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1056741",
+          "display_name": "Suzanne Collins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQyODc5Nzc2MF5BMl5BanBnXkFtZTcwNDAwODgxOA@@._V1_.jpg",
+              "width": 1759,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm2225369",
+          "display_name": "Jennifer Lawrence",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTU3NDE5MDQ4MV5BMl5BanBnXkFtZTgwMzE5ODQ3MDI@._V1_.jpg",
+              "width": 1284,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Katniss Everdeen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1242688",
+          "display_name": "Josh Hutcherson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI4OTk0MjQ1OV5BMl5BanBnXkFtZTcwNTE3NjM3Mw@@._V1_.jpg",
+              "width": 576,
+              "height": 864
+            }
+          ]
+        },
+        "characters": [
+          "Peeta Mellark"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2955013",
+          "display_name": "Liam Hemsworth",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI5NTM1NzYzN15BMl5BanBnXkFtZTcwODYxNTUyMw@@._V1_.jpg",
+              "width": 1230,
+              "height": 1630
+            }
+          ]
+        },
+        "characters": [
+          "Gale Hawthorne"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000437",
+          "display_name": "Woody Harrelson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU3NDc2ODc4MF5BMl5BanBnXkFtZTcwODk2MzAyMg@@._V1_.jpg",
+              "width": 272,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Haymitch Abernathy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000661",
+          "display_name": "Donald Sutherland",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc0MDI1NzcyMl5BMl5BanBnXkFtZTcwOTk0MjQwOQ@@._V1_.jpg",
+              "width": 1698,
+              "height": 2197
+            }
+          ]
+        },
+        "characters": [
+          "President Snow"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000450",
+          "display_name": "Philip Seymour Hoffman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ0NTA1NTg3Ml5BMl5BanBnXkFtZTcwNzkxNzgxNw@@._V1_.jpg",
+              "width": 1483,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Plutarch Heavensbee"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000194",
+          "display_name": "Julianne Moore",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM5NDI1MjE2Ml5BMl5BanBnXkFtZTgwNDE0Nzk0MDE@._V1_.jpg",
+              "width": 596,
+              "height": 827
+            }
+          ]
+        },
+        "characters": [
+          "President Alma Coin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3094377",
+          "display_name": "Willow Shields",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmFiODgyOGEtMGQxZS00ZDA3LThjNGEtMGZiOTY0Nzk5OGY4XkEyXkFqcGdeQXVyMTk3NTE3NzY@._V1_.jpg",
+              "width": 1632,
+              "height": 2448
+            }
+          ]
+        },
+        "characters": [
+          "Primrose Everdeen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3510471",
+          "display_name": "Sam Claflin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI3MDQxNDUwOF5BMl5BanBnXkFtZTgwNjY4NjI3NjE@._V1_.jpg",
+              "width": 800,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Finnick Odair"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0006969",
+          "display_name": "Elizabeth Banks",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2UxNzE4YWMtNDRiMi00MzY1LTkwZjgtNzA0MjA2NTNjZjRmXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+              "width": 2000,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Effie Trinket"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0991810",
+          "display_name": "Mahershala Ali",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZThiZjJjNWYtNGRlYS00NDdkLTk0MTMtYjEwYzM1MDExNTYwXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",
+              "width": 3260,
+              "height": 3569
+            }
+          ]
+        },
+        "characters": [
+          "Boggs"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0540441",
+          "display_name": "Jena Malone",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU0NDM5OTE0N15BMl5BanBnXkFtZTcwMzMzNjM0Nw@@._V1_.jpg",
+              "width": 1662,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Johanna Mason"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0942482",
+          "display_name": "Jeffrey Wright",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI1NDYyNzk4OV5BMl5BanBnXkFtZTgwNDAyMzI1MDI@._V1_.jpg",
+              "width": 3375,
+              "height": 2250
+            }
+          ]
+        },
+        "characters": [
+          "Beetee"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0539155",
+          "display_name": "Paula Malcomson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDA0OWVhOTctYzE5OS00Y2M2LThiMzctMDc0NTdiNjQ2MDA1XkEyXkFqcGdeQXVyODMzMTM1MDc@._V1_.jpg",
+              "width": 435,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Katniss' Mother"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001804",
+          "display_name": "Stanley Tucci",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU1MzE4MjAzMV5BMl5BanBnXkFtZTcwMjA2MTMyMw@@._V1_.jpg",
+              "width": 439,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Caesar Flickerman"
+        ]
+      }
+    ]
+  }
+}

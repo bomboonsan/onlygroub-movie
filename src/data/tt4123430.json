@@ -1,0 +1,328 @@
+{
+  "title": {
+    "id": "tt4123430",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Fantastic Beasts: The Crimes of Grindelwald",
+    "original_title": null,
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 134,
+    "plot": "Gellert Grindelwald plans to raise an army of wizards to rule over non-magical beings. In response, Newt Scamander's former professor, Albus Dumbledore, seeks his help to stop him.",
+    "rating": {
+      "aggregate_rating": 6.5,
+      "votes_count": 305775
+    },
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWVlMDI5N2UtZTIyMC00NjZkLWI5Y2QtODM5NGE5MzA0NmVjXkEyXkFqcGdeQXVyNzU3NjUxMzE@._V1_.jpg",
+        "width": 509,
+        "height": 755
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 52,
+      "review_count": 48
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0946734",
+          "display_name": "David Yates",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY2NTU4NjY4M15BMl5BanBnXkFtZTYwNjIxOTI1._V1_.jpg",
+              "width": 297,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0746830",
+          "display_name": "J.K. Rowling",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg2NzY5NTUxNV5BMl5BanBnXkFtZTcwNTQ2ODgwNA@@._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000136",
+          "display_name": "Johnny Depp",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTBhMTI1NDQtYmU4Mi00MjYyLTk5MjEtZjllMDkxOWY3ZGRhXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg",
+              "width": 1080,
+              "height": 1591
+            }
+          ]
+        },
+        "characters": [
+          "Grindelwald"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2295590",
+          "display_name": "Kevin Guthrie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzg0NjE5MTMxNV5BMl5BanBnXkFtZTgwODY2MzE2MDI@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Abernathy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0252238",
+          "display_name": "Carmen Ejogo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI4NzA5NzI0MV5BMl5BanBnXkFtZTcwNTY3MDY0Ng@@._V1_.jpg",
+              "width": 540,
+              "height": 720
+            }
+          ]
+        },
+        "characters": [
+          "Seraphina Picquery"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0745051",
+          "display_name": "Wolf Roth",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmMxYmMzZTQtODE5Yy00OTNkLWIzYTEtMTgzNzNjNjhkODJiXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ]
+        },
+        "characters": [
+          "Spielman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1519666",
+          "display_name": "Eddie Redmayne",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU0MjEyNzQyM15BMl5BanBnXkFtZTcwMTc4ODUxOQ@@._V1_.jpg",
+              "width": 1366,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Newt Scamander"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2368789",
+          "display_name": "Zoë Kravitz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2NmMWViOTYtOGJhYi00MzU2LWI5ODYtOGJhYzhkMWViODY5XkEyXkFqcGdeQXVyNjk2NTA3MTc@._V1_.jpg",
+              "width": 422,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Leta Lestrange"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4360085",
+          "display_name": "Callum Turner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk4NTA1ODk0MF5BMl5BanBnXkFtZTgwMzkwMTcwOTE@._V1_.jpg",
+              "width": 2000,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Theseus Scamander"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0725701",
+          "display_name": "Derek Riddell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM1NzU2MzEzOV5BMl5BanBnXkFtZTgwMTczMDE5OTE@._V1_.jpg",
+              "width": 782,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Torquil Travers"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0180259",
+          "display_name": "Cornell John",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzg2YjNkNzctOTJhZi00Yjg0LWE4ZjYtODdlYWNmYjRmNTNjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 515,
+              "height": 776
+            }
+          ]
+        },
+        "characters": [
+          "Arnold Guzman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3009232",
+          "display_name": "Ezra Miller",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTQ2YmNlZDEtM2EwNi00N2JhLTk3ZDktMjBmNzYwYWI1OWZmXkEyXkFqcGdeQXVyNjk1MjYyNTA@._V1_.jpg",
+              "width": 1667,
+              "height": 2500
+            }
+          ]
+        },
+        "characters": [
+          "Credence Barebone"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0797614",
+          "display_name": "Ingvar Sigurdsson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDliM2Y0ZGItMmUzYi00OTgyLTgyNWMtNmQ5NDAwMzk2M2FjXkEyXkFqcGdeQXVyNDg2MzE2MTU@._V1_.jpg",
+              "width": 2500,
+              "height": 2500
+            }
+          ]
+        },
+        "characters": [
+          "Grimmson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5304426",
+          "display_name": "Poppy Corby-Tuech",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzUxOGI2N2EtZDJkOS00YzhhLWE1NTItNjhkNGFiMDlmNzAzXkEyXkFqcGdeQXVyMzgwOTUxODU@._V1_.jpg",
+              "width": 2048,
+              "height": 1424
+            }
+          ]
+        },
+        "characters": [
+          "Rosier"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1049273",
+          "display_name": "Andrew Turner",
+          "avatars": null
+        },
+        "characters": [
+          "MacDuff"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3007817",
+          "display_name": "Maja Bloom",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmQwMTE0NDUtOTUyYi00YmRhLWJhZTgtOWFjYzA5ZTM5YmE0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1440,
+              "height": 1799
+            }
+          ]
+        },
+        "characters": [
+          "Carrow"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0574873",
+          "display_name": "Simon Meacock",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjcwOTIzMjA1Ml5BMl5BanBnXkFtZTcwMDk2MDIzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 529
+            }
+          ]
+        },
+        "characters": [
+          "Krafft"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "title": {
+    "id": "tt2752758",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Devil's Due",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 89,
+    "plot": "After a mysterious, lost night on their honeymoon, a newlywed couple finds themselves dealing with an earlier-than-planned pregnancy.",
+    "rating": {
+      "aggregate_rating": 4.2,
+      "votes_count": 17820
+    },
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjVmNTg3MmItZTg0Zi00MDkzLTljN2MtYTg3NzNjZTEzYjVkXkEyXkFqcGc@._V1_.jpg",
+        "width": 870,
+        "height": 1289
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "lat",
+        "name": "Latin"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 34,
+      "review_count": 18
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm2366012",
+          "display_name": "Matt Bettinelli-Olpin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjdkZjFjMDEtNjQ4My00OGMwLWIwNjAtNThiZTUxNjBlODM4XkEyXkFqcGdeQXVyMTk4MTg4MjY@._V1_.jpg",
+              "width": 444,
+              "height": 517
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2419470",
+          "display_name": "Tyler Gillett",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWViMDlhMTQtOWQwYy00M2I2LWFjYTItMGU0ZjY0MWU5NDlhXkEyXkFqcGdeQXVyMTA1ODg2ODc@._V1_.jpg",
+              "width": 1314,
+              "height": 1536
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2303288",
+          "display_name": "Lindsay Devlin",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1935292",
+          "display_name": "Allison Miller",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjM3ZDc5N2MtYTJlOS00YmU2LWI4ZmYtMzFlNjY4NGM5NTRmXkEyXkFqcGdeQXVyMTEzNTE4Mjk0._V1_.jpg",
+              "width": 750,
+              "height": 748
+            }
+          ]
+        },
+        "characters": [
+          "Samantha McCall"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1472917",
+          "display_name": "Zach Gilford",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg1MDc0NjQyMV5BMl5BanBnXkFtZTgwNTkyMTIzMDE@._V1_.jpg",
+              "width": 373,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Zach McCall"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0027402",
+          "display_name": "Sam Anderson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA0OTcwOTc5OF5BMl5BanBnXkFtZTcwNzUyMTk5Nw@@._V1_.jpg",
+              "width": 1656,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Father Thomas"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2244640",
+          "display_name": "Roger Payano",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTlkNzVhNDgtZmRlNS00NzM2LTg2NDAtZmYyOTQ0NThkZWRlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1045,
+              "height": 1107
+            }
+          ]
+        },
+        "characters": [
+          "Cab Driver"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2326075",
+          "display_name": "Vanessa Ray",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTc0MTgxMzYwOF5BMl5BanBnXkFtZTcwNjkyMTEyOA@@._V1_.jpg",
+              "width": 1435,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Suzie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0930061",
+          "display_name": "Bill Martin Williams",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzJjY2ZlM2EtZTdlMC00MjVhLWE0YWQtMjY5M2JjMzI1MzMyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2319,
+              "height": 3125
+            }
+          ]
+        },
+        "characters": [
+          "Ken"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1046808",
+          "display_name": "Geraldine Singer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGZlNjE0ZWMtODNiMC00NmQ3LThjOTktYmRmOGEwZjdiNDA5XkEyXkFqcGdeQXVyMjA5ODA3MTE@._V1_.jpg",
+              "width": 625,
+              "height": 770
+            }
+          ]
+        },
+        "characters": [
+          "Sally"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1632542",
+          "display_name": "Julia Denton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGE3Yjc4Y2EtNGFlNi00ODgwLTk5NWEtODAxMTA4NDc5OTA3XkEyXkFqcGdeQXVyMTkwMTE4NjM@._V1_CR874,0,2183,3275_.jpg",
+              "width": 2183,
+              "height": 3275
+            }
+          ]
+        },
+        "characters": [
+          "Natalie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1240176",
+          "display_name": "Colin Walker",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWVjOGI2ZDYtM2U3NS00MWVkLTlkZmItMTJmYzBlNjNkNGIyXkEyXkFqcGc@._V1_.jpg",
+              "width": 395,
+              "height": 594
+            }
+          ]
+        },
+        "characters": [
+          "Stanley"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4068901",
+          "display_name": "Madison Wolfe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2ZkYjJhY2UtMmYzOC00NDAxLTkwMWUtZTZhNGEyN2EzMWYwXkEyXkFqcGdeQXVyMjQwNjk2NTk@._V1_.jpg",
+              "width": 1050,
+              "height": 1406
+            }
+          ]
+        },
+        "characters": [
+          "Brittany"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6215331",
+          "display_name": "Joshua Shane Brooks",
+          "avatars": null
+        },
+        "characters": [
+          "Braedon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2948025",
+          "display_name": "Aimee Carrero",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjhjYmE4ZjQtNDkyMy00YjVhLWI1ODktNDFhOTJiZDMyYjc5XkEyXkFqcGdeQXVyMTEzODQxMzYz._V1_.jpg",
+              "width": 679,
+              "height": 945
+            }
+          ]
+        },
+        "characters": [
+          "Emily"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0069699",
+          "display_name": "Robert Belushi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODRmOWRlMzQtZDgxOS00ZjEwLWFmNDAtN2Y0MmFlYjVkNDAzXkEyXkFqcGdeQXVyMjUwMDU2MDk@._V1_.jpg",
+              "width": 1200,
+              "height": 1601
+            }
+          ]
+        },
+        "characters": [
+          "Mason"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6215332",
+          "display_name": "DeMaris Gordon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTAyYWVkYjYtOTNmNy00NTE3LTlmOWQtMjVjZTI3N2NkZjM5XkEyXkFqcGc@._V1_.jpg",
+              "width": 340,
+              "height": 478
+            }
+          ]
+        },
+        "characters": [
+          "Psychic"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1251245",
+          "display_name": "Donna Duplantier",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGE4OWU5YjItZmE1Yi00YWI3LWFjY2UtZTE3OGI4YjY4Y2U3XkEyXkFqcGdeQXVyNDg3NTcyNQ@@._V1_.jpg",
+              "width": 2400,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Dr. J. Ludka"
+        ]
+      }
+    ]
+  }
+}

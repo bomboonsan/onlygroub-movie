@@ -1,0 +1,339 @@
+{
+  "title": {
+    "id": "tt5814060",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Nun",
+    "original_title": null,
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 96,
+    "plot": "A priest with a haunted past and a novice on the threshold of her final vows are sent by the Vatican to investigate the death of a young nun in Romania and confront a malevolent force in the form of a demonic nun.",
+    "rating": {
+      "aggregate_rating": 5.3,
+      "votes_count": 170748
+    },
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjM3NzQ5NDcxOF5BMl5BanBnXkFtZTgwNzM4MTQ5NTM@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      },
+      {
+        "code": "lat",
+        "name": "Latin"
+      },
+      {
+        "code": "ron",
+        "name": "Romanian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 46,
+      "review_count": 32
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm2379028",
+          "display_name": "Corin Hardy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDIxYTc4ZDktM2NjNS00YTNiLWI0NmEtNjIzZjE1MmY1MWMwXkEyXkFqcGdeQXVyMzc0Mjg3MDM@._V1_.jpg",
+              "width": 776,
+              "height": 1152
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2477891",
+          "display_name": "Gary Dauberman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcyNDcxNTk4NV5BMl5BanBnXkFtZTgwNTcwODAzNjM@._V1_.jpg",
+              "width": 1593,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1490123",
+          "display_name": "James Wan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY5NzExMTQ5N15BMl5BanBnXkFtZTcwNjY1NDQzOQ@@._V1_.jpg",
+              "width": 1800,
+              "height": 1730
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0065007",
+          "display_name": "Demián Bichir",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIzNDMwMzI3OV5BMl5BanBnXkFtZTgwNTk2NzMyMTE@._V1_.jpg",
+              "width": 451,
+              "height": 594
+            }
+          ]
+        },
+        "characters": [
+          "Father Burke"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3920288",
+          "display_name": "Taissa Farmiga",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzZlN2IyMjMtNTMzZi00NGY2LTkxN2QtNzJhZDAxMjRmY2Y3XkEyXkFqcGdeQXVyNDMxNTQ4ODY@._V1_.jpg",
+              "width": 1024,
+              "height": 682
+            }
+          ]
+        },
+        "characters": [
+          "Sister Irene"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2997552",
+          "display_name": "Jonas Bloquet",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY2MzY1MjIwN15BMl5BanBnXkFtZTgwNTczNDExNDE@._V1_.jpg",
+              "width": 1280,
+              "height": 853
+            }
+          ]
+        },
+        "characters": [
+          "Frenchie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0007491",
+          "display_name": "Bonnie Aarons",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzU0ODdiZjktZjJhYy00YTkzLWJiMjMtZjM5NGExMzFhYTUyXkEyXkFqcGdeQXVyMTc2NTU3OTc@._V1_.jpg",
+              "width": 1470,
+              "height": 2080
+            }
+          ]
+        },
+        "characters": [
+          "The Nun"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2445328",
+          "display_name": "Ingrid Bisu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzRlMWZkNDItZTk3YS00MDM2LWIwMzYtOTkwMTY0YWEzYzM2XkEyXkFqcGdeQXVyOTIzMzc2NQ@@._V1_.jpg",
+              "width": 662,
+              "height": 993
+            }
+          ]
+        },
+        "characters": [
+          "Sister Oana"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0933940",
+          "display_name": "Patrick Wilson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkzNzcxNzcxMF5BMl5BanBnXkFtZTgwOTM1ODUzMTE@._V1_.jpg",
+              "width": 1404,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Ed Warren"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0267812",
+          "display_name": "Vera Farmiga",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIwNTU3NDUyMl5BMl5BanBnXkFtZTgwODEwODg5NDE@._V1_.jpg",
+              "width": 5184,
+              "height": 3456
+            }
+          ]
+        },
+        "characters": [
+          "Lorraine Warren"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000666",
+          "display_name": "Lili Taylor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTAyNzAyMzA1ODZeQTJeQWpwZ15BbWU4MDAzNDQxNjkx._V1_.jpg",
+              "width": 607,
+              "height": 596
+            }
+          ]
+        },
+        "characters": [
+          "Carolyn Perron"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3745225",
+          "display_name": "Charlotte Hope",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTllNWY1ZDUtYTRjYi00ZmEzLTk2ZTctMTk1NzAyMmM0NDY4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1149,
+              "height": 1695
+            }
+          ]
+        },
+        "characters": [
+          "Sister Victoria"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1720203",
+          "display_name": "Sandra Teles",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWI5YTBlNzctZTVmMy00MGYyLWE0YzctNDA0NGRjMWM3MTRjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1597,
+              "height": 2400
+            }
+          ]
+        },
+        "characters": [
+          "Sister Ruth"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5463049",
+          "display_name": "Maria Obretin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ4NjIwMTcwN15BMl5BanBnXkFtZTgwMjM0MzAxNDE@._V1_.jpg",
+              "width": 960,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Sister Abigail"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5153308",
+          "display_name": "August Maturo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDM3NjlmMzYtNTVlOC00OTU3LWJiNzgtMWNlNTJkN2VjMzM2XkEyXkFqcGdeQXVyMzUwMTU4MDE@._V1_.jpg",
+              "width": 2400,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Daniel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9565572",
+          "display_name": "Jack Falk",
+          "avatars": null
+        },
+        "characters": [
+          "Daniel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0311044",
+          "display_name": "Lynnette Gaza",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgxMjQ5MjEwMl5BMl5BanBnXkFtZTYwMjI0NjYy._V1_.jpg",
+              "width": 450,
+              "height": 283
+            }
+          ]
+        },
+        "characters": [
+          "Mother Superior"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0767216",
+          "display_name": "Ani Sava",
+          "avatars": null
+        },
+        "characters": [
+          "Sister Jessica"
+        ]
+      }
+    ]
+  }
+}

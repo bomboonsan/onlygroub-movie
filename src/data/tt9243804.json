@@ -1,0 +1,316 @@
+{
+  "title": {
+    "id": "tt9243804",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Green Knight",
+    "original_title": null,
+    "start_year": 2021,
+    "end_year": null,
+    "runtime_minutes": 130,
+    "plot": "A fantasy retelling of the medieval story of Sir Gawain and the Green Knight.",
+    "rating": {
+      "aggregate_rating": 6.6,
+      "votes_count": 118294
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjMxNTdiNWMtOWY0My00MjM4LTkwNzMtOGI0YThhN2Q4M2I4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "width": 1944,
+        "height": 2880
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "lat",
+        "name": "Latin"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "IE",
+        "name": "Ireland"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 85,
+      "review_count": 56
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1108007",
+          "display_name": "David Lowery",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY1NDU4MjMwOF5BMl5BanBnXkFtZTgwNzYxMDg2OTE@._V1_.jpg",
+              "width": 1418,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1108007",
+          "display_name": "David Lowery",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY1NDU4MjMwOF5BMl5BanBnXkFtZTgwNzYxMDg2OTE@._V1_.jpg",
+              "width": 1418,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm13211290",
+          "display_name": "The Gawain Poet",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm8272760",
+          "display_name": "Anaïs Rizzo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTdjMDJkNjctZTk2Zi00OWJjLTkzNzgtMGQ2MmI0YTEzYmEzXkEyXkFqcGdeQXVyNzUxNDA2MTY@._V1_.jpg",
+              "width": 960,
+              "height": 540
+            }
+          ]
+        },
+        "characters": [
+          "Helen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2208050",
+          "display_name": "Joe Anderson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmU1ZDE5ODQtODZlZC00Yjg3LWFmOGMtNmU0MWZiZTg3ZTkxXkEyXkFqcGdeQXVyMjA2OTI5MjI@._V1_.jpg",
+              "width": 1280,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Paris"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2353862",
+          "display_name": "Dev Patel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjgxMjQwNDc5Nl5BMl5BanBnXkFtZTgwODI5Njk2NDE@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Gawain"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2539953",
+          "display_name": "Alicia Vikander",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzg1MzQyYTktN2U3Ni00ZTQ2LThkMjEtODcxY2UyNmM5ZDBhXkEyXkFqcGdeQXVyMTExNzQ3MzAw._V1_.jpg",
+              "width": 642,
+              "height": 678
+            }
+          ]
+        },
+        "characters": [
+          "Essel",
+          "The Lady"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1440097",
+          "display_name": "Noelle Brown",
+          "avatars": null
+        },
+        "characters": [
+          "Madam"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0002004",
+          "display_name": "Sarita Choudhury",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE1MjIyNzAwOF5BMl5BanBnXkFtZTYwNTMzNzYz._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Mother"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12778428",
+          "display_name": "Nita Mishra",
+          "avatars": null
+        },
+        "characters": [
+          "Older Sister"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11387014",
+          "display_name": "Tara Mae",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODAyYjVmYjctYzY1Ny00ZWM3LWEyNDYtYmUwMGQ4YzhiYzU2XkEyXkFqcGc@._V1_.jpg",
+              "width": 2016,
+              "height": 3024
+            }
+          ]
+        },
+        "characters": [
+          "Middle Sister"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5160752",
+          "display_name": "Atheena Frizzell",
+          "avatars": null
+        },
+        "characters": [
+          "Youngest Sister"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0365317",
+          "display_name": "Sean Harris",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM3NTI1NzI4MF5BMl5BanBnXkFtZTcwODU1MTg4Nw@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "King"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0225483",
+          "display_name": "Kate Dickie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY2NjcxNzA4Ml5BMl5BanBnXkFtZTgwOTA1MDE1NjM@._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Queen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0570375",
+          "display_name": "Chris McHallem",
+          "avatars": null
+        },
+        "characters": [
+          "Lord in Waiting"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0408591",
+          "display_name": "Ralph Ineson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjc1YWU0ODktYTNlYy00YmZmLWI5ZTgtMWU3MGNmMWU5N2E1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1200,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Green Knight"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12778430",
+          "display_name": "Emmet O'Brien",
+          "avatars": null
+        },
+        "characters": [
+          "Magician"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0175796",
+          "display_name": "Brendan Conroy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODEzZmI3ZmYtNjcyYy00MmM3LTliM2ItZWUyZGVkYWMwODc4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2880,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Taverngoer"
+        ]
+      }
+    ]
+  }
+}

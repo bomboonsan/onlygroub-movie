@@ -1,0 +1,366 @@
+{
+  "title": {
+    "id": "tt1300854",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Iron Man 3",
+    "original_title": "Iron Man Three",
+    "start_year": 2013,
+    "end_year": null,
+    "runtime_minutes": 130,
+    "plot": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+    "rating": {
+      "aggregate_rating": 7.1,
+      "votes_count": 900157
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_.jpg",
+        "width": 770,
+        "height": 1100
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 62,
+      "review_count": 44
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0000948",
+          "display_name": "Shane Black",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM2ODI3NzkyNl5BMl5BanBnXkFtZTYwMDQ3OTYz._V1_.jpg",
+              "width": 276,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1510800",
+          "display_name": "Drew Pearce",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjA3MTc1MDA1MF5BMl5BanBnXkFtZTgwNjM1NjE2NTM@._V1_.jpg",
+              "width": 1669,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0000948",
+          "display_name": "Shane Black",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM2ODI3NzkyNl5BMl5BanBnXkFtZTYwMDQ3OTYz._V1_.jpg",
+              "width": 276,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0498278",
+          "display_name": "Stan Lee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk3NDE3Njc5M15BMl5BanBnXkFtZTYwOTY5Nzc1._V1_.jpg",
+              "width": 278,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1411347",
+          "display_name": "Don Heck",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1293367",
+          "display_name": "Larry Lieber",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000375",
+          "display_name": "Robert Downey Jr.",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzg1MTUyNDYxOF5BMl5BanBnXkFtZTgwNTQ4MTE2MjE@._V1_.jpg",
+              "width": 1361,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Tony Stark"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000569",
+          "display_name": "Gwyneth Paltrow",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzIxOTQ1NTU1OV5BMl5BanBnXkFtZTcwMTQ4MDY0Nw@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Pepper Potts"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000332",
+          "display_name": "Don Cheadle",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDMxNDM3MzY5N15BMl5BanBnXkFtZTcwMjkzOTY4MQ@@._V1_.jpg",
+              "width": 313,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Colonel James Rhodes"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001602",
+          "display_name": "Guy Pearce",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgyNzc2NzY3Nl5BMl5BanBnXkFtZTgwNTMzMzAwMjE@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Aldrich Killian"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0356017",
+          "display_name": "Rebecca Hall",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjkzODU4MTQ4OV5BMl5BanBnXkFtZTcwNDU0MTA4NA@@._V1_.jpg",
+              "width": 1538,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Maya Hansen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0269463",
+          "display_name": "Jon Favreau",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjcwNzg4MjktNDNlMC00M2U1LWJmMjgtZTVkMmI4MDI2MTVmXkEyXkFqcGdeQXVyMjI4MDI0NTM@._V1_.jpg",
+              "width": 1000,
+              "height": 1333
+            }
+          ]
+        },
+        "characters": [
+          "Happy Hogan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001426",
+          "display_name": "Ben Kingsley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTU2Njg2NzM4M15BMl5BanBnXkFtZTgwNjYwNjQwMTI@._V1_.jpg",
+              "width": 595,
+              "height": 807
+            }
+          ]
+        },
+        "characters": [
+          "Trevor Slattery"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0197647",
+          "display_name": "James Badge Dale",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIzNzEyMDkwOV5BMl5BanBnXkFtZTcwNDcxOTAyMw@@._V1_.jpg",
+              "width": 318,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Savin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1210895",
+          "display_name": "Stephanie Szostak",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzk5YmYxM2YtNjIxYi00MzY4LWI0ZTQtOWQ5NDcxOGYxYTI5XkEyXkFqcGdeQXVyMzgzMDEyNA@@._V1_.jpg",
+              "width": 2396,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Brandt"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0079273",
+          "display_name": "Paul Bettany",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODRmNzI3MzUtODFiOS00MWMxLWI2MWYtMGMxZjI4Nzc1NDA5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 5048,
+              "height": 3366
+            }
+          ]
+        },
+        "characters": [
+          "Jarvis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0006669",
+          "display_name": "William Sadler",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA1NjU3NDg1MTheQTJeQWpwZ15BbWU2MDI4OTcxMw@@._V1_.jpg",
+              "width": 485,
+              "height": 582
+            }
+          ]
+        },
+        "characters": [
+          "President Ellis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0225460",
+          "display_name": "Dale Dickey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA3MzUxODg2OV5BMl5BanBnXkFtZTYwNzcwNDEz._V1_.jpg",
+              "width": 450,
+              "height": 306
+            }
+          ]
+        },
+        "characters": [
+          "Mrs. Davis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1339223",
+          "display_name": "Ty Simpkins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2IyNDIxODgtOGEzZS00MTc5LTkxZDAtN2QxNjNkNDYyOTZmXkEyXkFqcGdeQXVyMTAxNjMxMjg@._V1_.jpg",
+              "width": 908,
+              "height": 950
+            }
+          ]
+        },
+        "characters": [
+          "Harley Keener"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001208",
+          "display_name": "Miguel Ferrer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ3MTYxNDE2MV5BMl5BanBnXkFtZTYwMTY0MTU3._V1_.jpg",
+              "width": 2008,
+              "height": 2856
+            }
+          ]
+        },
+        "characters": [
+          "Vice President Rodriguez"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1281653",
+          "display_name": "Xueqi Wang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY0MTMwMzQwN15BMl5BanBnXkFtZTYwMTk3NDg2._V1_.jpg",
+              "width": 485,
+              "height": 719
+            }
+          ]
+        },
+        "characters": [
+          "Doctor Wu"
+        ]
+      }
+    ]
+  }
+}

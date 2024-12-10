@@ -1,0 +1,366 @@
+{
+  "title": {
+    "id": "tt3606752",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Cars 3",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 102,
+    "plot": "Lightning McQueen sets out to prove to a new generation of racers that he's still the best race car in the world.",
+    "rating": {
+      "aggregate_rating": 6.7,
+      "votes_count": 122479
+    },
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Sport"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTc0NzU2OTYyN15BMl5BanBnXkFtZTgwMTkwOTg2MTI@._V1_.jpg",
+        "width": 1086,
+        "height": 1609
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "G"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "JP",
+        "name": "Japan"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 59,
+      "review_count": 41
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0270263",
+          "display_name": "Brian Fee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE1MjUyODI1MF5BMl5BanBnXkFtZTgwNzg0NDI5MDI@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0270263",
+          "display_name": "Brian Fee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE1MjUyODI1MF5BMl5BanBnXkFtZTgwNzg0NDI5MDI@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0703078",
+          "display_name": "Ben Queen",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0687937",
+          "display_name": "Eyal Podell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg1OTg5MzUyMl5BMl5BanBnXkFtZTgwNzc4MDQ5NzE@._V1_.jpg",
+              "width": 4016,
+              "height": 5899
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1139293",
+          "display_name": "Jonathon E. Stewart",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTUzMDg3YmQtOGU0MC00YjM3LWE0YzYtYjZmYWQ4MGUzYmMzXkEyXkFqcGdeQXVyMTg1MTczNzI@._V1_.jpg",
+              "width": 1391,
+              "height": 1885
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1195697",
+          "display_name": "Kiel Murray",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0005562",
+          "display_name": "Owen Wilson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgwMzQ4ODYxMV5BMl5BanBnXkFtZTcwNDAwMTc2NQ@@._V1_.jpg",
+              "width": 1285,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Lightning McQueen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2242399",
+          "display_name": "Cristela Alonzo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmIyYjRmZDYtMWQ0Zi00ZWJhLThkNDAtM2U1NTE0NTk1MDY3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_CR712,369,2443,3664_.jpg",
+              "width": 2443,
+              "height": 3664
+            }
+          ]
+        },
+        "characters": [
+          "Cruz Ramirez"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0177933",
+          "display_name": "Chris Cooper",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg5NTgxMzgxNl5BMl5BanBnXkFtZTcwMTAyMjcxNA@@._V1_.jpg",
+              "width": 297,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Smokey"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0277213",
+          "display_name": "Nathan Fillion",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkxODM3ODY2Nl5BMl5BanBnXkFtZTgwMzAyMjU2NzE@._V1_.jpg",
+              "width": 576,
+              "height": 720
+            }
+          ]
+        },
+        "characters": [
+          "Sterling"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1249256",
+          "display_name": "Larry the Cable Guy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY5MjA0MjQ4Ml5BMl5BanBnXkFtZTcwNTIwMTc2NQ@@._V1_.jpg",
+              "width": 1514,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mater"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2309517",
+          "display_name": "Armie Hammer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzI3NTYwMzIxM15BMl5BanBnXkFtZTcwMzI1ODY1NA@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Jackson Storm"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1137136",
+          "display_name": "Ray Magliozzi",
+          "avatars": null
+        },
+        "characters": [
+          "Dusty"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001724",
+          "display_name": "Tony Shalhoub",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE5MTg3MjcxNl5BMl5BanBnXkFtZTcwMTU4MzA1Mw@@._V1_.jpg",
+              "width": 301,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Luigi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001372",
+          "display_name": "Bonnie Hunt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDk3M2Y3ZWUtOTYwOC00MGMyLWJmNzgtZWE5YTFiNjM0YWQwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 3219,
+              "height": 4829
+            }
+          ]
+        },
+        "characters": [
+          "Sally"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0216466",
+          "display_name": "Lea DeLaria",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWJhYTI1MTQtMDAzMC00MmZkLWIzYzEtNjhjMWNhNGI0YTIwXkEyXkFqcGdeQXVyNDQ5Mzg1OTc@._V1_.jpg",
+              "width": 5210,
+              "height": 6385
+            }
+          ]
+        },
+        "characters": [
+          "Miss Fritter"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0913488",
+          "display_name": "Kerry Washington",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUxNzk2OTQzOF5BMl5BanBnXkFtZTcwMTM0NjIwNw@@._V1_.jpg",
+              "width": 1714,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Natalie Certain"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0182471",
+          "display_name": "Bob Costas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjEyNTA5MDg0OV5BMl5BanBnXkFtZTYwNDIxMDQ0._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Bob Cutlass"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0553269",
+          "display_name": "Margo Martindale",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA3MDg3OTE2NF5BMl5BanBnXkFtZTgwMTI5MDg0MDE@._V1_.jpg",
+              "width": 870,
+              "height": 1164
+            }
+          ]
+        },
+        "characters": [
+          "Louise Nash"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1267353",
+          "display_name": "Darrell Waltrip",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzc3Mjc5MDA5NF5BMl5BanBnXkFtZTgwMDE2NzMxOTE@._V1_.jpg",
+              "width": 594,
+              "height": 800
+            }
+          ]
+        },
+        "characters": [
+          "Darrell Cartrip"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0926086",
+          "display_name": "Isiah Whitlock Jr.",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzc5Mzk4OTQ1Nl5BMl5BanBnXkFtZTcwNzgxNTk0Mg@@._V1_.jpg",
+              "width": 403,
+              "height": 545
+            }
+          ]
+        },
+        "characters": [
+          "River Scott"
+        ]
+      }
+    ]
+  }
+}

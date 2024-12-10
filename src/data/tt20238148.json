@@ -1,0 +1,97 @@
+{
+  "title": {
+    "id": "tt20238148",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Haunted Tales",
+    "original_title": null,
+    "start_year": 2021,
+    "end_year": null,
+    "runtime_minutes": 99,
+    "plot": "A lonely cab ride home. A hotel filled with malevolent spirits. Fear lurks around every corner in this anthology of ghost stories.",
+    "rating": {
+      "aggregate_rating": 5,
+      "votes_count": 49
+    },
+    "genres": [
+      "Horror"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmUwYzFhYjUtNjc5ZS00ODIzLWIxZTMtOTM0YzlmZmU4OWJhXkEyXkFqcGc@._V1_.jpg",
+        "width": 900,
+        "height": 1288
+      }
+    ],
+    "certificates": null,
+    "spoken_languages": [
+      {
+        "code": "tha",
+        "name": "Thai"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "TH",
+        "name": "Thailand"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm9470144",
+          "display_name": "Suphakorn Riansuwan",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm9470144",
+          "display_name": "Suphakorn Riansuwan",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm2876934",
+          "display_name": "Arak Amornsupasiri",
+          "avatars": null
+        },
+        "characters": [
+          "Pete (Haunted Car)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9975744",
+          "display_name": "Mark Prin Suparat",
+          "avatars": null
+        },
+        "characters": [
+          "Jess (The Book of Truth)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10019017",
+          "display_name": "Kannarun Wongkajonklai",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDcwM2E2M2YtOWEyZi00MjFiLWE4ZGQtMGRhMTFlOWZlYTY3XkEyXkFqcGc@._V1_.jpg",
+              "width": 1333,
+              "height": 2000
+            }
+          ]
+        },
+        "characters": [
+          "Tiwa (Reborn)"
+        ]
+      }
+    ]
+  }
+}

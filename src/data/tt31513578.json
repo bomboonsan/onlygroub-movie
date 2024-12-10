@@ -1,0 +1,191 @@
+{
+  "title": {
+    "id": "tt31513578",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Death Whisperer 2",
+    "original_title": null,
+    "start_year": 2024,
+    "end_year": null,
+    "runtime_minutes": null,
+    "plot": "In a world shrouded by darkness, a relentless force seeks retribution, undeterred by boundaries or morality",
+    "rating": {
+      "aggregate_rating": 7.2,
+      "votes_count": 176
+    },
+    "genres": [
+      "Action",
+      "Horror"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjg2MWZiYmEtYmE5OS00MGViLWIzMjMtNTY0NmI3Y2VhNWUyXkEyXkFqcGdeQXVyNTkzNjEwMjI@._V1_.jpg",
+        "width": 1080,
+        "height": 1350
+      }
+    ],
+    "certificates": null,
+    "spoken_languages": [
+      {
+        "code": "tha",
+        "name": "Thai"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "TH",
+        "name": "Thailand"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm1981808",
+          "display_name": "Taweewat Wantha",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm14331097",
+          "display_name": "Sorarat Jirabovornwisut",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm14013458",
+          "display_name": "Palapon Pongpat",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm5621397",
+          "display_name": "Nadech Kugimiya",
+          "avatars": null
+        },
+        "characters": [
+          "Yak"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm13780489",
+          "display_name": "Kajbhunditt Jaidee",
+          "avatars": null
+        },
+        "characters": [
+          "Yos"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm15395360",
+          "display_name": "Peerakrit Phacharaboonyakiat",
+          "avatars": null
+        },
+        "characters": [
+          "Yod"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm13969485",
+          "display_name": "Jelilcha Kapaun",
+          "avatars": null
+        },
+        "characters": [
+          "Yat"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm15295786",
+          "display_name": "Rattawadee Wongthong",
+          "avatars": null
+        },
+        "characters": [
+          "Yaem"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm13493425",
+          "display_name": "Nutthatcha Padovan",
+          "avatars": null
+        },
+        "characters": [
+          "Yi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10389492",
+          "display_name": "Thanatsaran Samthonglai",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmVlNjhiY2UtZjRlMS00YWM5LTk5YWEtNzExNmU2MjYwNjYwXkEyXkFqcGdeQXVyNTgzNTM3MzA@._V1_.jpg",
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        "characters": [
+          "Nawin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8528876",
+          "display_name": "Phiravich Attachitsataporn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWNiZWNkNmEtZWFmMy00YmQ0LWE4MWQtZTM1NmUwNmQ0OGQ5XkEyXkFqcGdeQXVyMjMxNTAxNDk@._V1_.jpg",
+              "width": 1323,
+              "height": 1137
+            }
+          ]
+        },
+        "characters": [
+          "Pradit"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9683890",
+          "display_name": "Todsapol Maisuk",
+          "avatars": null
+        },
+        "characters": [
+          "Jirasak"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3620625",
+          "display_name": "Paramej Noiam",
+          "avatars": null
+        },
+        "characters": [
+          "Hang"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1309956",
+          "display_name": "Arisara Wongchalee",
+          "avatars": null
+        },
+        "characters": [
+          "Boonyen"
+        ]
+      }
+    ]
+  }
+}

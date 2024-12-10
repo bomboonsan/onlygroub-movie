@@ -1,0 +1,310 @@
+{
+  "title": {
+    "id": "tt2870756",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Magic in the Moonlight",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 97,
+    "plot": "A romantic comedy about an Englishman brought in to help unmask a possible swindle. Personal and professional complications ensue.",
+    "rating": {
+      "aggregate_rating": 6.5,
+      "votes_count": 70928
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQ3NDY5NjIwN15BMl5BanBnXkFtZTgwNjQ2ODkxMjE@._V1_.jpg",
+        "width": 510,
+        "height": 755
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 54,
+      "review_count": 40
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0000095",
+          "display_name": "Woody Allen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI1MjU3MTI2MF5BMl5BanBnXkFtZTcwMDgxNTE4MQ@@._V1_.jpg",
+              "width": 274,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0000095",
+          "display_name": "Woody Allen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI1MjU3MTI2MF5BMl5BanBnXkFtZTcwMDgxNTE4MQ@@._V1_.jpg",
+              "width": 274,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000147",
+          "display_name": "Colin Firth",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUxMDMwMTI4MF5BMl5BanBnXkFtZTcwMzE2MzQxMw@@._V1_.jpg",
+              "width": 287,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Stanley"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4390920",
+          "display_name": "Antonia Clarke",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmZjMDlhNWEtNDI1ZS00ZWM4LThlYWItODJiNGYxZTdmY2VlXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+              "width": 1800,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Wei Ling Soo's Assistant"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1860270",
+          "display_name": "Natasha Andrews",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmIzYWUyNWMtNmJiNy00YWFlLTg2YzUtMjQ4MGNmNzYxNTFmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "width": 3284,
+              "height": 4926
+            }
+          ]
+        },
+        "characters": [
+          "Wei Ling Soo's Assistant"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2992087",
+          "display_name": "Valérie Beaulieu",
+          "avatars": null
+        },
+        "characters": [
+          "Wei Ling Soo's Assistant"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0938542",
+          "display_name": "Peter Wollasch",
+          "avatars": null
+        },
+        "characters": [
+          "Stage Manager"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0959067",
+          "display_name": "Jürgen Zwingel",
+          "avatars": null
+        },
+        "characters": [
+          "Backstage Fan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0685543",
+          "display_name": "Wolfgang Pissors",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWEzYWY4NTEtZTlhOS00YTkwLTlkMzEtZDc5ZjQyZTE1NjRhXkEyXkFqcGc@._V1_.jpg",
+              "width": 936,
+              "height": 1404
+            }
+          ]
+        },
+        "characters": [
+          "Backstage Fan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1775622",
+          "display_name": "Sébastien Siroux",
+          "avatars": null
+        },
+        "characters": [
+          "Backstage Fan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0564402",
+          "display_name": "Simon McBurney",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAyOTEzOTg2M15BMl5BanBnXkFtZTYwNTU3MTQ1._V1_.jpg",
+              "width": 276,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Howard Burkan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0501602",
+          "display_name": "Ute Lemper",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA5MzgwMzc1OF5BMl5BanBnXkFtZTgwOTkzMjkzNzE@._V1_.jpg",
+              "width": 522,
+              "height": 420
+            }
+          ]
+        },
+        "characters": [
+          "Cabaret Singer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001517",
+          "display_name": "Catherine McCormack",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODQ2MDE4MjIxOV5BMl5BanBnXkFtZTcwMjE4MDcyNA@@._V1_.jpg",
+              "width": 653,
+              "height": 326
+            }
+          ]
+        },
+        "characters": [
+          "Olivia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0040586",
+          "display_name": "Eileen Atkins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg0ODU4MTQ3Ml5BMl5BanBnXkFtZTcwMzg0MzMwMg@@._V1_.jpg",
+              "width": 600,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Aunt Vanessa"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0498713",
+          "display_name": "Erica Leerhsen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAxMDMyNDYxMF5BMl5BanBnXkFtZTYwMTEzNjgy._V1_.jpg",
+              "width": 450,
+              "height": 667
+            }
+          ]
+        },
+        "characters": [
+          "Caroline"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0787892",
+          "display_name": "Jeremy Shamos",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWQ5ZGE4ZTktNjJhYy00ZGM1LTgyNGYtY2JhMjVkMTRlYzViXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 648,
+              "height": 906
+            }
+          ]
+        },
+        "characters": [
+          "George"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0512934",
+          "display_name": "Hamish Linklater",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEwNzE1Mjc1MV5BMl5BanBnXkFtZTgwNTgyMjgyNzE@._V1_.jpg",
+              "width": 1683,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Brice Catledge"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "title": {
+    "id": "tt1959563",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Hitman's Bodyguard",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 118,
+    "plot": "One of the world's top bodyguards gets a new client, a world class hitman who must testify at the International Criminal Court. They must put their differences aside and work together to make it to the trial alive and on time.",
+    "rating": {
+      "aggregate_rating": 6.9,
+      "votes_count": 247351
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTc4NjAxMjU4OV5BMl5BanBnXkFtZTgwNzQyMzIwMjI@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      },
+      {
+        "code": "ita",
+        "name": "Italian"
+      },
+      {
+        "code": "jpn",
+        "name": "Japanese"
+      },
+      {
+        "code": "nld",
+        "name": "Dutch"
+      },
+      {
+        "code": "rus",
+        "name": "Russian"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "BG",
+        "name": "Bulgaria"
+      },
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "HK",
+        "name": "Hong Kong (Special Administrative Region of China)"
+      },
+      {
+        "code": "NL",
+        "name": "Netherlands"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 47,
+      "review_count": 42
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0400850",
+          "display_name": "Patrick Hughes",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2NmM2UzMDctODNjMC00OGE0LWEzN2QtYzk4MDkzOTA1YjAzXkEyXkFqcGdeQXVyMjEwMDA0NA@@._V1_.jpg",
+              "width": 1535,
+              "height": 2302
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm4468296",
+          "display_name": "Tom O'Connor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY4NDQ0MzcxMl5BMl5BanBnXkFtZTgwMTY3NzYwMjI@._V1_.jpg",
+              "width": 1080,
+              "height": 1460
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1392388",
+          "display_name": "Elodie Yung",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjMzOTg4MDM3NF5BMl5BanBnXkFtZTgwMTUzMjM4NDM@._V1_.jpg",
+              "width": 1460,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Amelia Roussel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005351",
+          "display_name": "Ryan Reynolds",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODFmN2VmZmEtYTRjZi00ZjY1LTgxYjQtODMyNDI3ZDk4ZTJiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "width": 2034,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Michael Bryce"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3438661",
+          "display_name": "Tsuwayuki Saotome",
+          "avatars": null
+        },
+        "characters": [
+          "Kurosawa"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9159135",
+          "display_name": "Roy Hill",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzJjYjMxMzQtZmY2Zi00ODg1LWE0NzctYjFhODRhMmJjZTVjXkEyXkFqcGc@._V1_.jpg",
+              "width": 960,
+              "height": 955
+            }
+          ]
+        },
+        "characters": [
+          "Helicopter Pilot",
+          "Newscaster"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001290",
+          "display_name": "Richard E. Grant",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc2NzA1NDk1Ml5BMl5BanBnXkFtZTgwMjk2NTA0NjM@._V1_.jpg",
+              "width": 530,
+              "height": 709
+            }
+          ]
+        },
+        "characters": [
+          "Seifert"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000198",
+          "display_name": "Gary Oldman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc3NTM4MzQ5MV5BMl5BanBnXkFtZTcwOTE4MDczNw@@._V1_.jpg",
+              "width": 1389,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Vladislav Dukhovich"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0356489",
+          "display_name": "Rod Hallett",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTUzYWQ2ZjUtYjNkZi00YTFlLTgxNjYtY2Y2N2M0ZjE2M2YwXkEyXkFqcGdeQXVyODkwNTk2Nw@@._V1_.jpg",
+              "width": 3840,
+              "height": 5760
+            }
+          ]
+        },
+        "characters": [
+          "Professor Asimov"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0464305",
+          "display_name": "Yuri Kolokolnikov",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA0MjQ5MjA5Nl5BMl5BanBnXkFtZTgwMTI2ODA5MzE@._V1_.jpg",
+              "width": 334,
+              "height": 500
+            }
+          ]
+        },
+        "characters": [
+          "Ivan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1454924",
+          "display_name": "Nadia Konakchieva",
+          "avatars": null
+        },
+        "characters": [
+          "Mrs. Asimov"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0831191",
+          "display_name": "Valentin Stojanov",
+          "avatars": null
+        },
+        "characters": [
+          "Petr Asimov Jr."
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3794060",
+          "display_name": "Noortje Herlaar",
+          "avatars": null
+        },
+        "characters": [
+          "ICC Court Clerk"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0322510",
+          "display_name": "Georgie Glen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcxMTgzODEtOGQ1Zi00NjgyLTgzZWUtYTBmZGU5YzRjM2MzXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 933,
+              "height": 1213
+            }
+          ]
+        },
+        "characters": [
+          "ICC Lead Judge"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0330853",
+          "display_name": "Michael Gor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjc5N2IwYTMtODExZi00N2I3LThjYTktYTIwY2ViYmUwNThjXkEyXkFqcGdeQXVyNzExMDA4MTU@._V1_.jpg",
+              "width": 800,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Livitin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0040038",
+          "display_name": "Barry Atsma",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ3ODIwMTc0MF5BMl5BanBnXkFtZTgwODI0NDM2MjE@._V1_.jpg",
+              "width": 2226,
+              "height": 3288
+            }
+          ]
+        },
+        "characters": [
+          "Moreno"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2507332",
+          "display_name": "Ralitsa Vassileva",
+          "avatars": null
+        },
+        "characters": [
+          "Newscaster"
+        ]
+      }
+    ]
+  }
+}

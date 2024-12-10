@@ -1,0 +1,383 @@
+{
+  "title": {
+    "id": "tt1289401",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Ghostbusters",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 117,
+    "plot": "Following a ghost invasion of Manhattan, paranormal enthusiasts Erin Gilbert and Abby Yates, nuclear engineer Jillian Holtzmann, and subway worker Patty Tolan band together to stop the otherworldly threat.",
+    "rating": {
+      "aggregate_rating": 6.8,
+      "votes_count": 246693
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGYzNDM0M2QtZDFkNy00OTI2LWIyNjctNjNhNDM5Zjk3NzU2XkEyXkFqcGdeQXVyNjQ3MDg0MTY@._V1_.jpg",
+        "width": 1383,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "AU",
+        "name": "Australia"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 60,
+      "review_count": 52
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0082450",
+          "display_name": "Paul Feig",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjUyODUyODQzM15BMl5BanBnXkFtZTcwNzM3MjE3NA@@._V1_.jpg",
+              "width": 1430,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1767754",
+          "display_name": "Katie Dippold",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTBmMmIyNzAtOTFmOS00Njc2LWE1ZTEtN2E3ZGNkMGI1NjQzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 656,
+              "height": 644
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0082450",
+          "display_name": "Paul Feig",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjUyODUyODQzM15BMl5BanBnXkFtZTcwNzM3MjE3NA@@._V1_.jpg",
+              "width": 1430,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0718645",
+          "display_name": "Ivan Reitman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc1MDA2NDgwM15BMl5BanBnXkFtZTcwOTA3NjQxMw@@._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0000101",
+          "display_name": "Dan Aykroyd",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI2MDA3NTg0NF5BMl5BanBnXkFtZTYwMzM5ODgz._V1_.jpg",
+              "width": 261,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0000601",
+          "display_name": "Harold Ramis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc5MTAwMzE3NF5BMl5BanBnXkFtZTYwNTg2ODMz._V1_.jpg",
+              "width": 265,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm2046855",
+          "display_name": "Zach Woods",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA3MzQ4MzQ4MV5BMl5BanBnXkFtZTgwOTA2OTQ4NjE@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Tour Guide Garrett"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1325419",
+          "display_name": "Kristen Wiig",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODY0NzMzYTEtOGZmNS00ODJiLWEzYzktY2I4NDI3ODA2ZGRhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 2673,
+              "height": 4010
+            }
+          ]
+        },
+        "characters": [
+          "Erin Gilbert"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000893",
+          "display_name": "Ed Begley Jr.",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2JlYjZkMmQtNjZlZi00NmVjLWE3MWMtMDQ5OTU5OTEwYzk0XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 826,
+              "height": 1232
+            }
+          ]
+        },
+        "characters": [
+          "Ed Mulgrave"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001097",
+          "display_name": "Charles Dance",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzY0Mjg4MzM0Ml5BMl5BanBnXkFtZTcwODc4NTIxNw@@._V1_.jpg",
+              "width": 1529,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Harold Filmore"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2275887",
+          "display_name": "John Milhiser",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTAwOWViZDAtY2IzZS00ODA0LTk1ZDItZmY0OGJhZjgyNTgyXkEyXkFqcGdeQXVyNjI4NDY5MTM@._V1_.jpg",
+              "width": 495,
+              "height": 744
+            }
+          ]
+        },
+        "characters": [
+          "Higgins Student"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2380339",
+          "display_name": "Ben Harris",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjlkYThiYWEtMzU1Yi00Y2Q2LTg0MzctMmVkNGE1ODZkYzRlXkEyXkFqcGdeQXVyMjQ0NTgzMzY@._V1_.jpg",
+              "width": 1877,
+              "height": 2469
+            }
+          ]
+        },
+        "characters": [
+          "Higgins Student"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0565250",
+          "display_name": "Melissa McCarthy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg5NjA3ODkyMl5BMl5BanBnXkFtZTgwNTU4Mzg5NjE@._V1_.jpg",
+              "width": 1608,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Abby Yates"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4175221",
+          "display_name": "Karan Soni",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg0NjQ1MTU1MF5BMl5BanBnXkFtZTgwNTAyMzc1MDE@._V1_.jpg",
+              "width": 1333,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Bennie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0571952",
+          "display_name": "Kate McKinnon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQwMzEwMDQ2NF5BMl5BanBnXkFtZTgwMzU4NTY4NjE@._V1_.jpg",
+              "width": 1417,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Jillian Holtzmann"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1581597",
+          "display_name": "Bess Rous",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzdkMGI0ZjUtYTk1ZS00ZTg0LTkyMTYtNWYzMDMyNjZmNGVhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 4052,
+              "height": 5780
+            }
+          ]
+        },
+        "characters": [
+          "Gertrude Aldridge Ghost"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0383492",
+          "display_name": "Steve Higgins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcwMTgxMDM4NF5BMl5BanBnXkFtZTcwOTU1ODM4OA@@._V1_.jpg",
+              "width": 1562,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Dean"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0428656",
+          "display_name": "Leslie Jones",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk4MTgyMDMzM15BMl5BanBnXkFtZTgwODE1NzczMzE@._V1_.jpg",
+              "width": 3400,
+              "height": 4400
+            }
+          ]
+        },
+        "characters": [
+          "Patty Tolan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2654481",
+          "display_name": "Neil Casey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQzMzQ5NDgzNl5BMl5BanBnXkFtZTgwOTc4MDg5MjE@._V1_.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ]
+        },
+        "characters": [
+          "Rowan North"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0020405",
+          "display_name": "Dave Allen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA3NDAwMjg4NzZeQTJeQWpwZ15BbWU3MDk5NjkzMDg@._V1_.jpg",
+              "width": 1370,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Electrocuted Ghost"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1767754",
+          "display_name": "Katie Dippold",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTBmMmIyNzAtOTFmOS00Njc2LWE1ZTEtN2E3ZGNkMGI1NjQzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 656,
+              "height": 644
+            }
+          ]
+        },
+        "characters": [
+          "Rental Agent"
+        ]
+      }
+    ]
+  }
+}

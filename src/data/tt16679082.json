@@ -1,0 +1,101 @@
+{
+  "title": {
+    "id": "tt16679082",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Ananta (The Eternal)",
+    "original_title": null,
+    "start_year": 2022,
+    "end_year": null,
+    "runtime_minutes": 118,
+    "plot": "At a specific time of day every afternoon, the two cross each other fleetingly on a staircase but they do not exchange any words. A connection between two is suggested but the meetings do not translate into fully expressed relationship.",
+    "rating": {
+      "aggregate_rating": 7,
+      "votes_count": 66
+    },
+    "genres": [
+      "Drama"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTNiYTg2Y2QtYjlhZS00ODkyLWExMGItZGNhNTU1NTc0ZDRhXkEyXkFqcGc@._V1_.jpg",
+        "width": 1422,
+        "height": 2048
+      }
+    ],
+    "certificates": null,
+    "spoken_languages": [
+      {
+        "code": "ben",
+        "name": "Bengali"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "IN",
+        "name": "India"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm6166978",
+          "display_name": "Abhinandan Dutta",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm6166978",
+          "display_name": "Abhinandan Dutta",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm3424482",
+          "display_name": "Anindya Pulak Banerjee",
+          "avatars": null
+        },
+        "characters": null
+      },
+      {
+        "name": {
+          "id": "nm3368782",
+          "display_name": "Ritwick Chakraborty",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDJkMTNjNTUtZTVlMi00YjE1LWJhODMtOTE4MTk5YWQ1NDU4XkEyXkFqcGc@._V1_.jpg",
+              "width": 1024,
+              "height": 768
+            }
+          ]
+        },
+        "characters": [
+          "Shubho"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5632077",
+          "display_name": "Sohini Sarkar",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDJmODFkYzUtZWZlNC00ZDNmLWI4NzMtMmUwYzlkNWIyMzZiXkEyXkFqcGc@._V1_.jpg",
+              "width": 653,
+              "height": 763
+            }
+          ]
+        },
+        "characters": [
+          "Mishtu"
+        ]
+      }
+    ]
+  }
+}

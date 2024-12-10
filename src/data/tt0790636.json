@@ -1,0 +1,318 @@
+{
+  "title": {
+    "id": "tt0790636",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Dallas Buyers Club",
+    "original_title": null,
+    "start_year": 2013,
+    "end_year": null,
+    "runtime_minutes": 117,
+    "plot": "In 1985 Dallas, electrician and hustler Ron Woodroof works around the system to help AIDS patients get the medication they need after he is diagnosed with the disease.",
+    "rating": {
+      "aggregate_rating": 7.9,
+      "votes_count": 519813
+    },
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTYwMTA4MzgyNF5BMl5BanBnXkFtZTgwMjEyMjE0MDE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "jpn",
+        "name": "Japanese"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 77,
+      "review_count": 47
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0885249",
+          "display_name": "Jean-Marc Vallée",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTczNDUyMTg1OV5BMl5BanBnXkFtZTgwODAzOTIxMDE@._V1_.jpg",
+              "width": 520,
+              "height": 690
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1258965",
+          "display_name": "Craig Borten",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2214893",
+          "display_name": "Melisa Wallack",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000190",
+          "display_name": "Matthew McConaughey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg0MDc3ODUwOV5BMl5BanBnXkFtZTcwMTk2NjY4Nw@@._V1_.jpg",
+              "width": 1256,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Ron Woodroof"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0004950",
+          "display_name": "Jennifer Garner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTA4MDgzMTc1Nl5BMl5BanBnXkFtZTcwNjQyMjIwNQ@@._V1_.jpg",
+              "width": 1569,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Eve"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001467",
+          "display_name": "Jared Leto",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTczMjUwNDUzMF5BMl5BanBnXkFtZTgwNDA4OTAzMTE@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Rayon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0641354",
+          "display_name": "Denis O'Hare",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU3NDI2MzIyMV5BMl5BanBnXkFtZTgwMDM3MTc1MDI@._V1_.jpg",
+              "width": 736,
+              "height": 1106
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Sevard"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001872",
+          "display_name": "Steve Zahn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzc0MzcxMDgtMTIzNy00MmZkLTk5Y2EtYWQ1NWYzNDcyOGEzXkEyXkFqcGdeQXVyNjk1MjYyNTA@._V1_.jpg",
+              "width": 684,
+              "height": 908
+            }
+          ]
+        },
+        "characters": [
+          "Tucker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0642259",
+          "display_name": "Michael O'Neill",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTY0OTc1OTE1OV5BMl5BanBnXkFtZTgwMTE3MDkyNzM@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        },
+        "characters": [
+          "Richard Barkley"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1316767",
+          "display_name": "Dallas Roberts",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcyOTIzMjQzN15BMl5BanBnXkFtZTcwOTk4NTc2OQ@@._V1_.jpg",
+              "width": 1280,
+              "height": 828
+            }
+          ]
+        },
+        "characters": [
+          "David Wayne"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001162",
+          "display_name": "Griffin Dunne",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGZlNGJiNWUtNWQ3NS00MjUxLWFjZDYtYWE4MjA1OTRjY2VhXkEyXkFqcGdeQXVyNzgxNzcwOQ@@._V1_.jpg",
+              "width": 6349,
+              "height": 4233
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Vass"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0710271",
+          "display_name": "Kevin Rankin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDczNWZiYzAtY2I4NS00ZDgwLTk0YjItYmU2ZDVhNmM3NjExXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 239,
+              "height": 285
+            }
+          ]
+        },
+        "characters": [
+          "T.J."
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1251245",
+          "display_name": "Donna Duplantier",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGE4OWU5YjItZmE1Yi00YWI3LWFjY2UtZTE3OGI4YjY4Y2U3XkEyXkFqcGdeQXVyNDg3NTcyNQ@@._V1_.jpg",
+              "width": 2400,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Nurse Frazin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0878807",
+          "display_name": "Deneen Tyler",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDk1Yzk4MmItNjgwYS00NTFmLTljMTYtM2VlODYxNDY3MTAzXkEyXkFqcGdeQXVyOTExOTk1NA@@._V1_.jpg",
+              "width": 3744,
+              "height": 5616
+            }
+          ]
+        },
+        "characters": [
+          "Denise"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0263625",
+          "display_name": "JD Evermore",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTc0Yzc2ZjQtYTIwNy00ZmNiLTk1M2YtMjNjOTYyZWNjOTRhXkEyXkFqcGdeQXVyMTE5NDQ1Nw@@._V1_.jpg",
+              "width": 1323,
+              "height": 1806
+            }
+          ]
+        },
+        "characters": [
+          "Clint"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3182681",
+          "display_name": "Ian Casselberry",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWViYmNiYmMtM2U3Yy00MTNmLWJkZDctMTU1NWYxODQ5NzU4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1888,
+              "height": 2837
+            }
+          ]
+        },
+        "characters": [
+          "Hispanic Orderly"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5457886",
+          "display_name": "Noelle Wilcox",
+          "avatars": null
+        },
+        "characters": [
+          "Kelly"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4348361",
+          "display_name": "Bradford Cox",
+          "avatars": null
+        },
+        "characters": [
+          "Sunny"
+        ]
+      }
+    ]
+  }
+}

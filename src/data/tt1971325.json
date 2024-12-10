@@ -1,0 +1,303 @@
+{
+  "title": {
+    "id": "tt1971325",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Automata",
+    "original_title": "Autómata",
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 109,
+    "plot": "Human race is at edge of the end. Robot race is at edge of the beginning.",
+    "rating": {
+      "aggregate_rating": 6,
+      "votes_count": 59419
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzgyMDcyMjMwMV5BMl5BanBnXkFtZTgwNjY5MTA1MjE@._V1_.jpg",
+        "width": 680,
+        "height": 985
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "BG",
+        "name": "Bulgaria"
+      },
+      {
+        "code": "ES",
+        "name": "Spain"
+      }
+    ],
+    "critic_review": {
+      "score": 37,
+      "review_count": 13
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm2688320",
+          "display_name": "Gabe Ibáñez",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2688320",
+          "display_name": "Gabe Ibáñez",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1672020",
+          "display_name": "Igor Legarreta",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1760980",
+          "display_name": "Javier Sánchez Donate",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000104",
+          "display_name": "Antonio Banderas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTQ3NTYyNF5BMl5BanBnXkFtZTcwMTY2NjIzNQ@@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Jacq Vaucan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001518",
+          "display_name": "Dylan McDermott",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEwMjY2NzU4OF5BMl5BanBnXkFtZTcwODg2NDc4Ng@@._V1_.jpg",
+              "width": 1606,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Sean Wallace"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000429",
+          "display_name": "Melanie Griffith",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUwODc4NTgxOV5BMl5BanBnXkFtZTcwNzgyNjY0MQ@@._V1_.jpg",
+              "width": 398,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Duprè"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2171898",
+          "display_name": "Birgitte Hjort Sørensen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkzNTgwNzQ3MV5BMl5BanBnXkFtZTgwMzAyNDc2MDI@._V1_.jpg",
+              "width": 1368,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Rachel Vaucan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001233",
+          "display_name": "Robert Forster",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTYyNzczNDk0N15BMl5BanBnXkFtZTcwNzM4ODQ2NA@@._V1_.jpg",
+              "width": 1506,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Robert Bold"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0570570",
+          "display_name": "Tim McInnerny",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODAwMTc5NjE1NF5BMl5BanBnXkFtZTgwOTY1NTgzNDE@._V1_.jpg",
+              "width": 576,
+              "height": 720
+            }
+          ]
+        },
+        "characters": [
+          "Vernon Conway"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0752379",
+          "display_name": "David Ryall",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY3NjQ2NDUyNF5BMl5BanBnXkFtZTcwODgyOTgxOA@@._V1_.jpg",
+              "width": 1356,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Dominic Hawk"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000849",
+          "display_name": "Javier Bardem",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY1NTc4NTYzMF5BMl5BanBnXkFtZTcwNDIwOTY1NA@@._V1_.jpg",
+              "width": 1370,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Blue Robot"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6952275",
+          "display_name": "Boris Kabakchiev",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAyNzM1Nzk3M15BMl5BanBnXkFtZTgwMjIzODQ5MjI@._V1_.jpg",
+              "width": 2048,
+              "height": 1366
+            }
+          ]
+        },
+        "characters": [
+          "Boy #3"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1747887",
+          "display_name": "Lyubomir Neikov",
+          "avatars": null
+        },
+        "characters": [
+          "Poot"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6952276",
+          "display_name": "Krasimir Kutsurapov",
+          "avatars": null
+        },
+        "characters": [
+          "Palance"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6952277",
+          "display_name": "Anton Lamrev",
+          "avatars": null
+        },
+        "characters": [
+          "Unknown Boy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0813893",
+          "display_name": "Geraldine Somerville",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEzNjk5MjA3NF5BMl5BanBnXkFtZTcwMjUxNTY5OA@@._V1_.jpg",
+              "width": 960,
+              "height": 1280
+            }
+          ]
+        },
+        "characters": [
+          "Samantha"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1017533",
+          "display_name": "Harry Anichkin",
+          "avatars": null
+        },
+        "characters": [
+          "Clift"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1169343",
+          "display_name": "Stanislav Pishtalov",
+          "avatars": null
+        },
+        "characters": [
+          "Lance"
+        ]
+      }
+    ]
+  }
+}

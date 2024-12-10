@@ -1,0 +1,346 @@
+{
+  "title": {
+    "id": "tt2510894",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Hotel Transylvania 2",
+    "original_title": null,
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 89,
+    "plot": "Dracula and his friends try to bring out the monster in his half human, half vampire grandson in order to keep Mavis from leaving the hotel.",
+    "rating": {
+      "aggregate_rating": 6.6,
+      "votes_count": 143307
+    },
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGVhZWM0YTEtM2YxYy00YWUzLWI1YWQtNjk5ZTRhNTJmM2VhXkEyXkFqcGdeQXVyNTk1MTAyODc@._V1_.jpg",
+        "width": 509,
+        "height": 755
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 44,
+      "review_count": 24
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0850733",
+          "display_name": "Genndy Tartakovsky",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkxOTgwNjY5N15BMl5BanBnXkFtZTcwNjExMjAyOA@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0806912",
+          "display_name": "Robert Smigel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjVhZjk2MjgtNGQ0Ny00MDc0LTg2MzAtOGQwZmQzNDQzOGNmXkEyXkFqcGdeQXVyODQ1MDU0OA@@._V1_.jpg",
+              "width": 481,
+              "height": 596
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0001191",
+          "display_name": "Adam Sandler",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQyNzM2MjM1Ml5BMl5BanBnXkFtZTcwMDE5NjI3Mg@@._V1_.jpg",
+              "width": 288,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0244110",
+          "display_name": "Todd Durham",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0001191",
+          "display_name": "Adam Sandler",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQyNzM2MjM1Ml5BMl5BanBnXkFtZTcwMDE5NjI3Mg@@._V1_.jpg",
+              "width": 288,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Dracula"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1676221",
+          "display_name": "Andy Samberg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDg3NDk3ODI0Ml5BMl5BanBnXkFtZTgwOTE3MTE4NTM@._V1_.jpg",
+              "width": 1481,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Jonathan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1411125",
+          "display_name": "Selena Gomez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAwNTE2MDMyMl5BMl5BanBnXkFtZTgwMjAyODM3MTI@._V1_.jpg",
+              "width": 1535,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mavis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0416673",
+          "display_name": "Kevin James",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyMTU1ODU4Ml5BMl5BanBnXkFtZTcwNDQ0NTY5NQ@@._V1_.jpg",
+              "width": 1485,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Frankenstein"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000114",
+          "display_name": "Steve Buscemi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODc0NTU3NDA4M15BMl5BanBnXkFtZTcwNDkxNzQxNA@@._V1_.jpg",
+              "width": 299,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Wayne"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005450",
+          "display_name": "David Spade",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTUxNzcwMDgtNzljYS00MmNkLWE1OWYtZGNkOTQxNTdjZDIwXkEyXkFqcGdeQXVyMjM0OTE3NjM@._V1_.jpg",
+              "width": 1050,
+              "height": 1170
+            }
+          ]
+        },
+        "characters": [
+          "Griffin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1221047",
+          "display_name": "Keegan-Michael Key",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmI1MDdjZTAtMzBiMy00M2Q2LTk5YjAtOWJkMGYwODE2OGViXkEyXkFqcGdeQXVyNzMxMTU2Mg@@._V1_.jpg",
+              "width": 243,
+              "height": 320
+            }
+          ]
+        },
+        "characters": [
+          "Murray"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6239143",
+          "display_name": "Asher Blinkoff",
+          "avatars": null
+        },
+        "characters": [
+          "Dennis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000376",
+          "display_name": "Fran Drescher",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2I4YWExZjEtNTJjYi00Y2IzLThkMDMtYWIxZGNmZmZmMmU4XkEyXkFqcGdeQXVyNTU5ODYzOTY@._V1_.jpg",
+              "width": 4032,
+              "height": 6048
+            }
+          ]
+        },
+        "characters": [
+          "Eunice"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0788340",
+          "display_name": "Molly Shannon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDk3MDMyMDQ5MV5BMl5BanBnXkFtZTcwNTc5Mzk0Mw@@._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Wanda"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005259",
+          "display_name": "Megan Mullally",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ4ODA3NjUyMF5BMl5BanBnXkFtZTcwNzUyMjk0Mg@@._V1_.jpg",
+              "width": 283,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Grandma Linda"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0644406",
+          "display_name": "Nick Offerman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYzMjY2ODkxMV5BMl5BanBnXkFtZTgwMjQxMDA5MTE@._V1_.jpg",
+              "width": 1060,
+              "height": 1590
+            }
+          ]
+        },
+        "characters": [
+          "Grandpa Mike"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001022",
+          "display_name": "Dana Carvey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAyNTE5NTQ5OF5BMl5BanBnXkFtZTcwOTkzNDgwMw@@._V1_.jpg",
+              "width": 1673,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Dana"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1443527",
+          "display_name": "Rob Riggle",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA4MDc5MzI5N15BMl5BanBnXkFtZTgwMDMzODc3NjE@._V1_.jpg",
+              "width": 250,
+              "height": 250
+            }
+          ]
+        },
+        "characters": [
+          "Bela"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000316",
+          "display_name": "Mel Brooks",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU2MzI5NjA1NV5BMl5BanBnXkFtZTgwMjEyNjQ0MTI@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Vlad"
+        ]
+      }
+    ]
+  }
+}

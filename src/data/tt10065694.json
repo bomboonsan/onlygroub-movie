@@ -1,0 +1,338 @@
+{
+  "title": {
+    "id": "tt10065694",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Antebellum",
+    "original_title": null,
+    "start_year": 2020,
+    "end_year": null,
+    "runtime_minutes": 105,
+    "plot": "Successful author Veronica Henley finds herself trapped in a horrifying reality and must uncover the mind-bending mystery before it's too late.",
+    "rating": {
+      "aggregate_rating": 5.8,
+      "votes_count": 29844
+    },
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjU1MDQ1ZDAtMDY0Ny00NzNjLWI0MjktZGQ4ZTQyMmNlYTkxXkEyXkFqcGc@._V1_.jpg",
+        "width": 5400,
+        "height": 8000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 43,
+      "review_count": 40
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm4680113",
+          "display_name": "Gerard Bush",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWIyOGFmZDItZGZkMy00ZDc2LWI1ZDEtMjkyNmI0ZGE2NzY3XkEyXkFqcGc@._V1_.jpg",
+              "width": 6000,
+              "height": 4000
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm7896794",
+          "display_name": "Christopher Renz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2U1YjFiODktOGFkMi00OGY2LWFhMjEtMmE0MmM1NDRkY2Q3XkEyXkFqcGc@._V1_.jpg",
+              "width": 2000,
+              "height": 3000
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm4680113",
+          "display_name": "Gerard Bush",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWIyOGFmZDItZGZkMy00ZDc2LWI1ZDEtMjkyNmI0ZGE2NzY3XkEyXkFqcGc@._V1_.jpg",
+              "width": 6000,
+              "height": 4000
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm7896794",
+          "display_name": "Christopher Renz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2U1YjFiODktOGFkMi00OGY2LWFhMjEtMmE0MmM1NDRkY2Q3XkEyXkFqcGc@._V1_.jpg",
+              "width": 2000,
+              "height": 3000
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm4959292",
+          "display_name": "Arabella Landrum",
+          "avatars": null
+        },
+        "characters": [
+          "Little Blonde Girl"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0540441",
+          "display_name": "Jena Malone",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU0NDM5OTE0N15BMl5BanBnXkFtZTcwMzMzNjM0Nw@@._V1_.jpg",
+              "width": 1662,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Elizabeth"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1441925",
+          "display_name": "Eric Lange",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTEwZTA1ZjktNDQyMC00NjY3LWI1ODMtMzdmYzk5NWY1ZTMwXkEyXkFqcGdeQXVyMjE1ODY3Ng@@._V1_.jpg",
+              "width": 2436,
+              "height": 3609
+            }
+          ]
+        },
+        "characters": [
+          "Him",
+          "Senator Denton"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1847117",
+          "display_name": "Janelle Monáe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTEyMDA1MzE0NjdeQTJeQWpwZ15BbWU3MDM0NzA4MDQ@._V1_.jpg",
+              "width": 311,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Veronica",
+          "Eden"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2475161",
+          "display_name": "Tongayi Chirisa",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODY4NWE2NmUtZTU5OS00YzVkLWJjZDQtNjY2YzAwMDUzMmU2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "width": 3000,
+              "height": 2000
+            }
+          ]
+        },
+        "characters": [
+          "Eli",
+          "Professor Tarasai"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9475514",
+          "display_name": "Achok Majak",
+          "avatars": null
+        },
+        "characters": [
+          "Amara (Ghanian Queen)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1658935",
+          "display_name": "Jack Huston",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmJhNzYzNzgtMzUwYS00ZDUzLWJmODItYzRhMTlmMzVjNjkwXkEyXkFqcGdeQXVyMjEwOTk0MTk@._V1_.jpg",
+              "width": 815,
+              "height": 859
+            }
+          ]
+        },
+        "characters": [
+          "Captain Jasper"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4169922",
+          "display_name": "Kiersey Clemons",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNThiZmVjNGYtNzc4OS00MWVhLWEyMzEtY2EwMTczNzgxZDU3XkEyXkFqcGdeQXVyMTAwODc0ODA2._V1_.jpg",
+              "width": 2459,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Julia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3958642",
+          "display_name": "T.C. Matherne",
+          "avatars": null
+        },
+        "characters": [
+          "Purcell"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7075019",
+          "display_name": "Robert Aramayo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzgyNmQ4ZDctMWQ3Mi00ZWE3LWExNWItNWFkNWRkNmJjOGZkXkEyXkFqcGdeQXVyMTI2Nzk2ODk3._V1_.jpg",
+              "width": 1108,
+              "height": 1241
+            }
+          ]
+        },
+        "characters": [
+          "Daniel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2544884",
+          "display_name": "Marque Richardson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjgwY2ZkMmEtMTlmYS00ZDQ1LWFiYWUtNjA3NTgyOTQ2ODc4XkEyXkFqcGdeQXVyMjM2NzA5NTE@._V1_.jpg",
+              "width": 2240,
+              "height": 3360
+            }
+          ]
+        },
+        "characters": [
+          "Nick"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11152084",
+          "display_name": "London Boyce",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTkyM2E2NzAtNjY0OC00Y2U5LWJkYjQtNzYyY2VlOWFhZTMyXkEyXkFqcGc@._V1_.jpg",
+              "width": 720,
+              "height": 1080
+            }
+          ]
+        },
+        "characters": [
+          "Kennedi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0387900",
+          "display_name": "Bernard Hocke",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDdjOWEyNWItYTAxMi00NWNhLTk5NGYtMGZkY2VjYTUwMGE2XkEyXkFqcGdeQXVyOTY3OTQ5ODI@._V1_.jpg",
+              "width": 3280,
+              "height": 4100
+            }
+          ]
+        },
+        "characters": [
+          "Talking Head"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3137677",
+          "display_name": "Dayna Schaaf",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2M2NzNlNmEtNzA0ZS00YjA0LTk5N2YtNDIyMmYxMTBjZmMxXkEyXkFqcGc@._V1_.jpg",
+              "width": 3619,
+              "height": 5094
+            }
+          ]
+        },
+        "characters": [
+          "Yoga Instructor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2829737",
+          "display_name": "Gabourey Sidibe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc5MTY4NDQwMl5BMl5BanBnXkFtZTcwNDQxNTE0Ng@@._V1_.jpg",
+              "width": 1769,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Dawn"
+        ]
+      }
+    ]
+  }
+}

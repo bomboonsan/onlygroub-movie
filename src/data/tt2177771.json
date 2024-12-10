@@ -1,0 +1,373 @@
+{
+  "title": {
+    "id": "tt2177771",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Monuments Men",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 118,
+    "plot": "An unlikely World War II platoon is tasked to rescue art masterpieces from German thieves and return them to their owners.",
+    "rating": {
+      "aggregate_rating": 6.1,
+      "votes_count": 141370
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "War"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjMxMjk4NTM1M15BMl5BanBnXkFtZTgwNjg0MjQ3MDE@._V1_.jpg",
+        "width": 2025,
+        "height": 3000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      },
+      {
+        "code": "nld",
+        "name": "Dutch"
+      },
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "DE",
+        "name": "Germany"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 52,
+      "review_count": 43
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0000123",
+          "display_name": "George Clooney",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEyMTEyOTQ0MV5BMl5BanBnXkFtZTcwNzU3NTMzNw@@._V1_.jpg",
+              "width": 1507,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0000123",
+          "display_name": "George Clooney",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEyMTEyOTQ0MV5BMl5BanBnXkFtZTcwNzU3NTMzNw@@._V1_.jpg",
+              "width": 1507,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0381416",
+          "display_name": "Grant Heslov",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQzNjQ3MjI3N15BMl5BanBnXkFtZTYwODE4NDQ1._V1_.jpg",
+              "width": 265,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2603459",
+          "display_name": "Robert M. Edsel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzA5MTczOTE1NV5BMl5BanBnXkFtZTgwODUxNTk5MDE@._V1_.jpg",
+              "width": 557,
+              "height": 716
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm4007817",
+          "display_name": "Bret Witter",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000123",
+          "display_name": "George Clooney",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEyMTEyOTQ0MV5BMl5BanBnXkFtZTcwNzU3NTMzNw@@._V1_.jpg",
+              "width": 1507,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Frank Stokes"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000354",
+          "display_name": "Matt Damon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM0NzYzNDgxMl5BMl5BanBnXkFtZTcwMDg2MTMyMw@@._V1_.jpg",
+              "width": 447,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "James Granger"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000195",
+          "display_name": "Bill Murray",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ1OTM0MjEwOF5BMl5BanBnXkFtZTYwNTQwNzI1._V1_.jpg",
+              "width": 274,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Richard Campbell"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000949",
+          "display_name": "Cate Blanchett",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc1MDI0MDg1NV5BMl5BanBnXkFtZTgwMDM3OTAzMTE@._V1_.jpg",
+              "width": 1419,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Claire Simone"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000422",
+          "display_name": "John Goodman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTk1MzAzMDUxMF5BMl5BanBnXkFtZTgwODgyMTQxNjM@._V1_.jpg",
+              "width": 1535,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Walter Garfield"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0241121",
+          "display_name": "Jean Dujardin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzExNjY1OTU5OF5BMl5BanBnXkFtZTgwMTc3OTc3NjE@._V1_.jpg",
+              "width": 1309,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Jean Claude Clermont"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0095017",
+          "display_name": "Hugh Bonneville",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWQ2YzI3ZmUtZmMyYi00Y2E0LTg4NzctZmFiOGE3YTY5NWMzXkEyXkFqcGdeQXVyNzg1NTQ5NDM@._V1_.jpg",
+              "width": 4237,
+              "height": 5296
+            }
+          ]
+        },
+        "characters": [
+          "Donald Jeffries"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000837",
+          "display_name": "Bob Balaban",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI4ODkzNTMxNF5BMl5BanBnXkFtZTcwNzk5ODk4Mw@@._V1_.jpg",
+              "width": 330,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Preston Savitz"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0503059",
+          "display_name": "Dimitri Leonidas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTYzZDVhZTItNTdjYS00NWUzLWJhY2YtYWQ0OTRlOTBlNjhjXkEyXkFqcGc@._V1_.jpg",
+              "width": 1080,
+              "height": 898
+            }
+          ]
+        },
+        "characters": [
+          "Sam Epstein"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0230649",
+          "display_name": "Justus von Dohnányi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTE0MWVhN2ItYjA1Mi00YWI4LTk2N2ItMDkwYjA5YjUxMWE3XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 675,
+              "height": 743
+            }
+          ]
+        },
+        "characters": [
+          "Viktor Stahl"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0359675",
+          "display_name": "Holger Handtke",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWQwN2FiMGQtMGQzNC00NmNlLWE1N2MtYTc5NGM2MDVlZmJjXkEyXkFqcGc@._V1_.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ]
+        },
+        "characters": [
+          "Colonel Wegner"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0389331",
+          "display_name": "Michael Hofland",
+          "avatars": null
+        },
+        "characters": [
+          "Priest (Claude)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1707712",
+          "display_name": "Zachary Baharov",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZThmNmU1M2QtMjQyMi00ZWFlLTg1NDItYWE5MThmNGRiMGU4XkEyXkFqcGdeQXVyODI2NDkxMDQ@._V1_.jpg",
+              "width": 480,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Commander Elya"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0104710",
+          "display_name": "Michael Brandner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmM2MjQ1YTQtYTlhMi00OTU0LTlhOTYtZTFiYTA3YTY0YmZmXkEyXkFqcGc@._V1_.jpg",
+              "width": 683,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Dentist"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1486831",
+          "display_name": "Sam Hazeldine",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDljNjkwNmYtODY1NS00NzczLTkyZTUtNzkxZWM4NjEyZmU0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 372,
+              "height": 493
+            }
+          ]
+        },
+        "characters": [
+          "Colonel Langton"
+        ]
+      }
+    ]
+  }
+}

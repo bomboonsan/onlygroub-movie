@@ -1,0 +1,336 @@
+{
+  "title": {
+    "id": "tt3661394",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The One and Only Ivan",
+    "original_title": null,
+    "start_year": 2020,
+    "end_year": null,
+    "runtime_minutes": 95,
+    "plot": "A gorilla named Ivan tries to piece together his past with the help of an elephant named Ruby as they hatch a plan to escape from captivity.",
+    "rating": {
+      "aggregate_rating": 6.6,
+      "votes_count": 13456
+    },
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Family",
+      "Fantasy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWY3OTNhNWUtMDk2My00ZGVhLWE5ODQtM2NkOTZiMWM2MGY2XkEyXkFqcGdeQXVyNjMwMzc3MjE@._V1_.jpg",
+        "width": 4168,
+        "height": 6176
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 58,
+      "review_count": 25
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm4824763",
+          "display_name": "Thea Sharrock",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjUyNmI3NzktMDU3MS00M2FlLTlmM2EtMWU0MGQyMzA5YzllXkEyXkFqcGdeQXVyNjc1MTk2NzM@._V1_.jpg",
+              "width": 750,
+              "height": 1334
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0925234",
+          "display_name": "Mike White",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk1ODQ4Nzk5N15BMl5BanBnXkFtZTcwNDAwMTYyMg@@._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1184333",
+          "display_name": "Katherine Applegate",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0005377",
+          "display_name": "Sam Rockwell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc2NTM3MzE5NF5BMl5BanBnXkFtZTcwMjg4NDMwNA@@._V1_.jpg",
+              "width": 281,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Ivan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0186505",
+          "display_name": "Bryan Cranston",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA2NjEyMTY4MTVeQTJeQWpwZ15BbWU3MDQ5NDAzNDc@._V1_.jpg",
+              "width": 1369,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mack"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5623883",
+          "display_name": "Phillipa Soo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjM0MmQ1NzMtMzNkMi00YjFkLWJmZWQtNmJhY2VkODIwYzFlXkEyXkFqcGdeQXVyNTA5OTkyNDI@._V1_.jpg",
+              "width": 4160,
+              "height": 5536
+            }
+          ]
+        },
+        "characters": [
+          "Thelma"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0451193",
+          "display_name": "Chaka Khan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYzNDMyOTc3MV5BMl5BanBnXkFtZTcwMTc2MDQ3NA@@._V1_.jpg",
+              "width": 1716,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Henrietta"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0925234",
+          "display_name": "Mike White",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk1ODQ4Nzk5N15BMl5BanBnXkFtZTcwNDAwMTYyMg@@._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Frankie",
+          "Passing Driver"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3236733",
+          "display_name": "Ron Funches",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzhiYzBiOTEtM2FiMC00NDA1LTlkYmMtYzM0ODk4ZDUwZGQ0XkEyXkFqcGdeQXVyMjAzODc2NTI@._V1_.jpg",
+              "width": 3356,
+              "height": 4475
+            }
+          ]
+        },
+        "characters": [
+          "Murphy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001401",
+          "display_name": "Angelina Jolie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODg3MzYwMjE4N15BMl5BanBnXkFtZTcwMjU5NzAzNw@@._V1_.jpg",
+              "width": 1665,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Stella"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000545",
+          "display_name": "Helen Mirren",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA4MzY2ODU2MV5BMl5BanBnXkFtZTcwOTQ3ODY4OQ@@._V1_.jpg",
+              "width": 1617,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Snickers"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000362",
+          "display_name": "Danny DeVito",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTE5MjM5MzM3M15BMl5BanBnXkFtZTYwOTEzOTY0._V1_.jpg",
+              "width": 286,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Bob"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7567556",
+          "display_name": "Ariana Greenblatt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWRmMzVhZTgtZGY5Mi00MjE2LWI4ZGItNjEwYTU2NzYyOWI5XkEyXkFqcGdeQXVyNDM1NjQzOQ@@._V1_.jpg",
+              "width": 3845,
+              "height": 4894
+            }
+          ]
+        },
+        "characters": [
+          "Julia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1913125",
+          "display_name": "Ramón Rodríguez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg2NjM2MTMxM15BMl5BanBnXkFtZTgwMTUxOTU3MjE@._V1_.jpg",
+              "width": 6144,
+              "height": 4096
+            }
+          ]
+        },
+        "characters": [
+          "George"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2748661",
+          "display_name": "Owain Arthur",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzIwMDQ0NzktOTRhNi00NDEzLWI3NWQtYTU3ZmY3YjJjNjk3XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+              "width": 4912,
+              "height": 7360
+            }
+          ]
+        },
+        "characters": [
+          "Castello"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1813205",
+          "display_name": "Kevin Mathurin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDNiMDYxZWQtYzUyYi00NjA4LWIyZmUtMzY0ZTBlY2E1NWMxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2150,
+              "height": 2687
+            }
+          ]
+        },
+        "characters": [
+          "Mike"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7737419",
+          "display_name": "Brooklynn Prince",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzExODhhNzQtNDEwZi00MTc3LWFhOTctNGU4ZTM5Y2JjOWM2XkEyXkFqcGdeQXVyMTI2Nzk2MjQ1._V1_.jpg",
+              "width": 1024,
+              "height": 1535
+            }
+          ]
+        },
+        "characters": [
+          "Ruby"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1089207",
+          "display_name": "Hannah Bourne",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWRhNDMwMjQtZjRkOS00MDk0LTk1ZjMtMGJiMTdlZTEzYTJhXkEyXkFqcGc@._V1_.jpg",
+              "width": 3620,
+              "height": 4525
+            }
+          ]
+        },
+        "characters": [
+          "Helen"
+        ]
+      }
+    ]
+  }
+}

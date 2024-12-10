@@ -1,0 +1,335 @@
+{
+  "title": {
+    "id": "tt0775440",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Cell",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 98,
+    "plot": "When a mysterious cell phone signal causes apocalyptic chaos, an artist is determined to reunite with his young son in New England.",
+    "rating": {
+      "aggregate_rating": 4.4,
+      "votes_count": 30717
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTEzNTQ2OTYxMjheQTJeQWpwZ15BbWU4MDc0OTkzNzgx._V1_.jpg",
+        "width": 413,
+        "height": 612
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 38,
+      "review_count": 15
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0931095",
+          "display_name": "Tod Williams",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI4MTE5Njk0NF5BMl5BanBnXkFtZTYwNTU1NjY3._V1_.jpg",
+              "width": 485,
+              "height": 325
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0000175",
+          "display_name": "Stephen King",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA2ODIxNDM4Nl5BMl5BanBnXkFtZTYwMjkzMzU1._V1_.jpg",
+              "width": 257,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2085654",
+          "display_name": "Adam Alleca",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000131",
+          "display_name": "John Cusack",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODQ4ZjU4NWItM2RlMS00OWY3LWJhZjAtYmQ3NjRiMzA5YjdjXkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_.jpg",
+              "width": 1200,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Clay Riddell"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000168",
+          "display_name": "Samuel L. Jackson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ1NTQwMTYxNl5BMl5BanBnXkFtZTYwMjA1MzY1._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Tom McCourt"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2265157",
+          "display_name": "Isabelle Fuhrman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGRjZmY1YzMtODM4MS00NjE3LWJjZDYtMTA2MGI1YzczYTAxXkEyXkFqcGdeQXVyMTA1NjEwMTM@._V1_.jpg",
+              "width": 690,
+              "height": 915
+            }
+          ]
+        },
+        "characters": [
+          "Alice Waxman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4148246",
+          "display_name": "Clark Sarullo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTFhNjI0ODUtM2RlNi00NjdkLThlYjUtOTllZDA0MmViZTZkXkEyXkFqcGc@._V1_.jpg",
+              "width": 3438,
+              "height": 4297
+            }
+          ]
+        },
+        "characters": [
+          "Sharon Riddell"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6243766",
+          "display_name": "Ethan Andrew Casto",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg2NzIwMDkzNl5BMl5BanBnXkFtZTgwMTMyOTQzNzE@._V1_.jpg",
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        "characters": [
+          "Johnny Riddell"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4977122",
+          "display_name": "Owen Teague",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmExOWFmNWUtZjRkMi00ZGMyLWIyMjMtODdiY2E3NDExYTEzXkEyXkFqcGdeQXVyMzMzMDMzODQ@._V1_.jpg",
+              "width": 1224,
+              "height": 1837
+            }
+          ]
+        },
+        "characters": [
+          "Jordan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005078",
+          "display_name": "Stacy Keach",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQwMzEwODQ4Nl5BMl5BanBnXkFtZTYwMTA0NTQz._V1_.jpg",
+              "width": 276,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Charles Ardai"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2282254",
+          "display_name": "Joshua Mikel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGIyMzcwYWUtOWNiYS00YTI1LTg1Y2YtNjY3ODU4MTYxYTczXkEyXkFqcGdeQXVyMjQwNTc4MTk@._V1_.jpg",
+              "width": 5304,
+              "height": 7952
+            }
+          ]
+        },
+        "characters": [
+          "Raggedy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0721593",
+          "display_name": "Anthony Reynolds",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWFmM2NhNjUtOTVkYS00NGM5LTk2MDAtMDNlNDg5YWY0MWM0XkEyXkFqcGdeQXVyMjMwMDU0MA@@._V1_.jpg",
+              "width": 1770,
+              "height": 2266
+            }
+          ]
+        },
+        "characters": [
+          "Ray"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3178503",
+          "display_name": "Erin Elizabeth Burns",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGE5MWIyOGMtYzVkNi00MDQyLWI1ZjAtODBhZDM5NmQ4NDM0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 8272,
+              "height": 6200
+            }
+          ]
+        },
+        "characters": [
+          "Denise"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2216707",
+          "display_name": "Jeff Hallman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTYwY2Q1M2UtYzliMC00Zjk2LTk4NDUtMTM2MzdjYmEyN2M2XkEyXkFqcGc@._V1_CR0,1,1999,2999_.jpg",
+              "width": 1999,
+              "height": 2999
+            }
+          ]
+        },
+        "characters": [
+          "Hog Tied Man"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0039327",
+          "display_name": "Mark Ashworth",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzkxZDE0MWYtNzU4NS00OGNlLTgyMjgtMzI4ZmM0ODU4YzIxXkEyXkFqcGdeQXVyMTk2NzQ1NjY@._V1_.jpg",
+              "width": 4480,
+              "height": 6720
+            }
+          ]
+        },
+        "characters": [
+          "Bartender"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0280409",
+          "display_name": "Wilbur Fitzgerald",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2QyZDI5YWEtYjU5Yy00ZmE1LTliNjgtMzM5OTY1MmU4ZWVjXkEyXkFqcGdeQXVyMTU5NTU2Mw@@._V1_.jpg",
+              "width": 2565,
+              "height": 3854
+            }
+          ]
+        },
+        "characters": [
+          "Geoff"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0245696",
+          "display_name": "Catherine Dyer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA0ODg0NTQzMF5BMl5BanBnXkFtZTgwMTIxODc1MzI@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Sally"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0593301",
+          "display_name": "E. Roger Mitchell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA2MDgzMzcyOF5BMl5BanBnXkFtZTcwMDkyNTAzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 664
+            }
+          ]
+        },
+        "characters": [
+          "Roscoe"
+        ]
+      }
+    ]
+  }
+}

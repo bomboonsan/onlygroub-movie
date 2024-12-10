@@ -1,0 +1,331 @@
+{
+  "title": {
+    "id": "tt5439796",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Logan Lucky",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 118,
+    "plot": "Two brothers attempt to pull off a heist during a NASCAR race in North Carolina.",
+    "rating": {
+      "aggregate_rating": 7,
+      "votes_count": 162305
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTYyODg0NDU1OV5BMl5BanBnXkFtZTgwNjcxMzU0MjI@._V1_.jpg",
+        "width": 675,
+        "height": 1000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CN",
+        "name": "China"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 78,
+      "review_count": 51
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0001752",
+          "display_name": "Steven Soderbergh",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQwMjE3ODU1NV5BMl5BanBnXkFtZTYwMzc3MDIz._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0039583",
+          "display_name": "Jules Asner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg2MjEzNjA5N15BMl5BanBnXkFtZTYwNDAyOTI1._V1_.jpg",
+              "width": 268,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm5008863",
+          "display_name": "Farrah Mackenzie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTFjNTM2NWYtNGY2MC00ZDY1LWFmMjgtM2NkODNlYzMyYWU1XkEyXkFqcGdeQXVyNDczMzcwNzc@._V1_.jpg",
+              "width": 2400,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Sadie Logan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1475594",
+          "display_name": "Channing Tatum",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTc2NTEwNV5BMl5BanBnXkFtZTgwNDgxMjMxNjE@._V1_.jpg",
+              "width": 1093,
+              "height": 1044
+            }
+          ]
+        },
+        "characters": [
+          "Jimmy Logan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0641389",
+          "display_name": "Jim O'Heir",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTk3NTgwODc5Nl5BMl5BanBnXkFtZTcwMjczNTEzNQ@@._V1_.jpg",
+              "width": 479,
+              "height": 720
+            }
+          ]
+        },
+        "characters": [
+          "Cal"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2142336",
+          "display_name": "Riley Keough",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY2Nzc1ODkzMF5BMl5BanBnXkFtZTgwMDUwNjE5MDI@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mellie Logan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0465572",
+          "display_name": "Rebecca Koon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWJjZDk5ZGItOWEyYy00Y2UwLWFhMzEtYjI5ODRjN2QyMDExXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_.jpg",
+              "width": 697,
+              "height": 412
+            }
+          ]
+        },
+        "characters": [
+          "Purple Lady"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005017",
+          "display_name": "Katie Holmes",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTA2NjY5OTkzNl5BMl5BanBnXkFtZTcwMDE2NTkxNA@@._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Bobbie Jo Chapman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8529555",
+          "display_name": "Boden Johnston",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjdmNTdkMmMtZDU0NC00NzA4LThhODUtOTA4MDY5YWYxNGUyXkEyXkFqcGdeQXVyNjkzOTMzNTU@._V1_.jpg",
+              "width": 3000,
+              "height": 3300
+            }
+          ]
+        },
+        "characters": [
+          "Dylan Chapman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8529562",
+          "display_name": "Sutton Johnston",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmQ0Y2EwNzYtYjExMC00M2YwLThkOTEtNThkNDU1MWNmNmMyXkEyXkFqcGdeQXVyNjkzOTI5NzU@._V1_.jpg",
+              "width": 3439,
+              "height": 5158
+            }
+          ]
+        },
+        "characters": [
+          "Levi Chapman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0219292",
+          "display_name": "David Denman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTQ4OTQyN2EtNDJmMC00NzJhLWExMTYtODk5NmFmNDczNWJjXkEyXkFqcGdeQXVyMjE5OTM0Ng@@._V1_.jpg",
+              "width": 3984,
+              "height": 5976
+            }
+          ]
+        },
+        "characters": [
+          "Moody Chapman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0355155",
+          "display_name": "Charles Halford",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTllMTJiYTAtY2U4Zi00MzJjLTk3YWYtNjUwN2ZlZTMxYzBhXkEyXkFqcGdeQXVyMTgwMzYxMDE@._V1_.jpg",
+              "width": 3000,
+              "height": 4280
+            }
+          ]
+        },
+        "characters": [
+          "Earl"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3485845",
+          "display_name": "Adam Driver",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYThiYmU0ODAtNjZkMC00OTBiLWE5NzgtMDY3YjMwYTg5NWJjXkEyXkFqcGdeQXVyMTUwOTY2MDYx._V1_.jpg",
+              "width": 1068,
+              "height": 1388
+            }
+          ]
+        },
+        "characters": [
+          "Clyde Logan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0532235",
+          "display_name": "Seth MacFarlane",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgyNDk3OTI2NF5BMl5BanBnXkFtZTcwMDA4NjU5OA@@._V1_.jpg",
+              "width": 1391,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Max Chilblain"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6464801",
+          "display_name": "Alex Ross",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODMxMWIwMWQtOWJkMS00MjJiLWE5MjYtMjgwYTg5NDhjN2FkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 8256,
+              "height": 5504
+            }
+          ]
+        },
+        "characters": [
+          "Max's Non-Tourage #1"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1794323",
+          "display_name": "Tom Archdeacon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDAwNmY3NTQtY2NhNy00YzEyLThlMDYtYjUyOWY0Mjc0OWI1XkEyXkFqcGc@._V1_.jpg",
+              "width": 1769,
+              "height": 2049
+            }
+          ]
+        },
+        "characters": [
+          "Max's Non-Tourage #2"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5069627",
+          "display_name": "Eric Perez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjZiYWQyNDgtODFmOC00ZjZkLWE5NjMtMWY3NTM5M2ZlNzQxXkEyXkFqcGc@._V1_CR311,0,3331,4996_.jpg",
+              "width": 3331,
+              "height": 4996
+            }
+          ]
+        },
+        "characters": [
+          "Construction Worker"
+        ]
+      }
+    ]
+  }
+}

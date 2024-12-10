@@ -1,0 +1,352 @@
+{
+  "title": {
+    "id": "tt2076298",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Ip Man 4: The Finale",
+    "original_title": "Yip Man 4",
+    "start_year": 2019,
+    "end_year": null,
+    "runtime_minutes": 107,
+    "plot": "The Kung Fu master travels to the U.S. where his student has upset the local martial arts community by opening a Wing Chun school.",
+    "rating": {
+      "aggregate_rating": 7,
+      "votes_count": 36778
+    },
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGVjMDEzNjMtMWJmMy00NDdjLWFkMzItOTBhZTE3OWU0YmM4XkEyXkFqcGc@._V1_.jpg",
+        "width": 2764,
+        "height": 4096
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "Not Rated"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CN",
+        "name": "China"
+      },
+      {
+        "code": "HK",
+        "name": "Hong Kong (Special Administrative Region of China)"
+      }
+    ],
+    "critic_review": {
+      "score": 62,
+      "review_count": 11
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0948159",
+          "display_name": "Wilson Yip",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWE4YmFlMjEtYmEzNi00NjYwLTlmNzgtN2VmOWZiNGZmYTIxXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
+              "width": 631,
+              "height": 631
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2774833",
+          "display_name": "Edmond Wong",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0297946",
+          "display_name": "Hiroshi Fukazawa",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDk3ZTc5ZDEtNWFjMS00YjgzLTg0ZGMtNDk4ZGE5NzE1ZjYwXkEyXkFqcGdeQXVyNzczMzU1NzQ@._V1_.jpg",
+              "width": 1200,
+              "height": 1600
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm5335213",
+          "display_name": "Tai-Lee Chan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzc5ZDllOTEtYTZlMS00ZTg1LWEzMDctYzZmYjY5YjljMmFjXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 277,
+              "height": 417
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm4183613",
+          "display_name": "Lai-Yin Leung",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0947447",
+          "display_name": "Donnie Yen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGU0ZjFjZGMtZGU4My00ZmRmLTk2Y2EtOWNlZjhhZmE2MjIwXkEyXkFqcGdeQXVyMTA2MDIzMDE5._V1_.jpg",
+              "width": 1500,
+              "height": 2111
+            }
+          ]
+        },
+        "characters": [
+          "Ip Man"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0012078",
+          "display_name": "Scott Adkins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjM2MWU1YTEtNDExYS00NWVmLTkzZmQtYTg2ZDI5N2M3ZTE0XkEyXkFqcGdeQXVyMTA2NjI0MQ@@._V1_.jpg",
+              "width": 1920,
+              "height": 2772
+            }
+          ]
+        },
+        "characters": [
+          "Barton Geddes"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2185928",
+          "display_name": "Danny Kwok-Kwan Chan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjRiYzU5MzctZjY0My00ZTIyLWI3MzctNGNkOWRmMDliNjlhXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 864,
+              "height": 964
+            }
+          ]
+        },
+        "characters": [
+          "Bruce Lee"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1488865",
+          "display_name": "Vanness Wu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIzNzgzNzI4NF5BMl5BanBnXkFtZTgwNzg2NTU1NjE@._V1_.jpg",
+              "width": 500,
+              "height": 761
+            }
+          ]
+        },
+        "characters": [
+          "Hartman Wu"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6252151",
+          "display_name": "Jim Liu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjViMmRjZDQtMmQzNC00YjdmLTkzNWMtOTc5ZDhkOWVkZjE1XkEyXkFqcGdeQXVyNjE4NDQzODY@._V1_.jpg",
+              "width": 2981,
+              "height": 3677
+            }
+          ]
+        },
+        "characters": [
+          "Ming"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0155587",
+          "display_name": "Kent Cheng",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI4OWNhNzctN2Q1My00ZTg0LTg2OWItMjUxNmM1ZDVlYzg3XkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 600,
+              "height": 860
+            }
+          ]
+        },
+        "characters": [
+          "Bob"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0974597",
+          "display_name": "Yue Wu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzJkZTgwMDQtNjA2Zi00NTcwLWEzNzEtNTUyMWYxZWUzOGZiXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 437,
+              "height": 550
+            }
+          ]
+        },
+        "characters": [
+          "Wan Zong Hua"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2350173",
+          "display_name": "Ka-nin Ngo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDBjZmFkNzMtNGYxZi00YjlkLTk0MDYtMGFiMmFmYjllM2Y3XkEyXkFqcGc@._V1_.jpg",
+              "width": 364,
+              "height": 463
+            }
+          ]
+        },
+        "characters": [
+          "Leung Kan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6722260",
+          "display_name": "Adrian Wheeler",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWU2MDAzYzItZTRhMC00YjIwLWExZmEtYjQ5ODdmZTZlYjdlXkEyXkFqcGc@._V1_.jpg",
+              "width": 2000,
+              "height": 3005
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Wight"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4992120",
+          "display_name": "Chris Collins",
+          "avatars": null
+        },
+        "characters": [
+          "Colin Frater"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11220338",
+          "display_name": "Vanda Margraf",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDMzNGYxOGQtZDNjMC00NGU1LWEwOTAtYWFmMzE3YjliOTVkXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 578,
+              "height": 877
+            }
+          ]
+        },
+        "characters": [
+          "Wan Yonah"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3511937",
+          "display_name": "Nicola Stuart-Hill",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzBhNjU0MjYtYzgxOC00YjBlLWI2NjYtYWVkOTk5YjQ0OGIzXkEyXkFqcGdeQXVyMzA0MjgyOTY@._V1_.jpg",
+              "width": 2124,
+              "height": 2630
+            }
+          ]
+        },
+        "characters": [
+          "Gabrielle Cox"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10421057",
+          "display_name": "Nicolò Novek",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODFjZjc2ZjAtZThhOC00Mzc4LTk0OGMtZTg3MThiNWIwOTNkXkEyXkFqcGc@._V1_.jpg",
+              "width": 1620,
+              "height": 1080
+            }
+          ]
+        },
+        "characters": [
+          "INS Officer Walters"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9170188",
+          "display_name": "Grace Englert",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODdlNGE2YTItYTZhZS00MDRiLWFmZmItYWI2MzA1OWM1NDcwXkEyXkFqcGdeQXVyNzk0NjAyOTI@._V1_.jpg",
+              "width": 3752,
+              "height": 4690
+            }
+          ]
+        },
+        "characters": [
+          "Becky"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2490656",
+          "display_name": "John F. Cruz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjM0ZmVlNDItZWFmMS00N2Q5LTg2M2ItMjhjMzNkMTBjOWVkXkEyXkFqcGc@._V1_.jpg",
+              "width": 483,
+              "height": 734
+            }
+          ]
+        },
+        "characters": [
+          "General Armstrong"
+        ]
+      }
+    ]
+  }
+}

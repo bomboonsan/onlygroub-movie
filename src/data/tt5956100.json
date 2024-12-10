@@ -1,0 +1,356 @@
+{
+  "title": {
+    "id": "tt5956100",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Tiger Zinda Hai",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 161,
+    "plot": "Inspired by real events, Tiger Zinda Hai is a sequel to the blockbuster Ek Tha Tiger, and an espionage action drama that follows a daring rescue mission in Iraq.",
+    "rating": {
+      "aggregate_rating": 5.9,
+      "votes_count": 33785
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2NkNjJiMzktZjhlOS00YmI3LWI3YjYtYTE1YzAyNzRmOGE0XkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_.jpg",
+        "width": 300,
+        "height": 400
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "Not Rated"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "hin",
+        "name": "Hindi"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "IN",
+        "name": "India"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm1804614",
+          "display_name": "Ali Abbas Zafar",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA1MDg5Nzg5MV5BMl5BanBnXkFtZTgwODE0NTE0NDM@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm16033966",
+          "display_name": "Md Minhaj Miah",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2QxYWFlMzEtOTE4Zi00NmJiLTg1YjctNzNiMDYzNTU4YjA4XkEyXkFqcGc@._V1_.jpg",
+              "width": 3435,
+              "height": 4806
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1305877",
+          "display_name": "Neelesh Misra",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1804614",
+          "display_name": "Ali Abbas Zafar",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA1MDg5Nzg5MV5BMl5BanBnXkFtZTgwODE0NTE0NDM@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0159147",
+          "display_name": "Aditya Chopra",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTlhNGVlNWQtMzkwNi00Y2E2LTgyMDctYjJmZTA2MDFjODdmXkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_.jpg",
+              "width": 974,
+              "height": 1500
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0006795",
+          "display_name": "Salman Khan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMwNTIxODg0OF5BMl5BanBnXkFtZTgwODg2NzM0OTE@._V1_.jpg",
+              "width": 1523,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Tiger",
+          "Avinash Singh Rathore"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1229940",
+          "display_name": "Katrina Kaif",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI0Nzc4OTE0NV5BMl5BanBnXkFtZTgwOTczODgyNDM@._V1_.jpg",
+              "width": 1520,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Zoya"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0712546",
+          "display_name": "Paresh Rawal",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI4Mjg2MjgxMV5BMl5BanBnXkFtZTgwNDYyMTIzOTE@._V1_.jpg",
+              "width": 2048,
+              "height": 1353
+            }
+          ]
+        },
+        "characters": [
+          "Theuban",
+          "Firdaus"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0451383",
+          "display_name": "Mukesh Khanna",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYwNTk2MTk4MF5BMl5BanBnXkFtZTgwODQ1ODA0OTE@._V1_.jpg",
+              "width": 2048,
+              "height": 1334
+            }
+          ]
+        },
+        "characters": [
+          "Mann"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1122912",
+          "display_name": "Kumud Mishra",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWY2YTdhY2QtMzMxMS00MjNhLTgxYmQtMjM2OGM4MjczNzBmXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 674,
+              "height": 818
+            }
+          ]
+        },
+        "characters": [
+          "Rakesh"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5947725",
+          "display_name": "Anupriya Goenka",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOThkNTAzNzItMjViZi00YmNiLWFiYmYtNjBmYmYyODcyYWI4XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_.jpg",
+              "width": 1366,
+              "height": 648
+            }
+          ]
+        },
+        "characters": [
+          "Poorna"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3881720",
+          "display_name": "Kashmira Irani",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTNmZDM4ODQtYzIxZC00YTUyLWE3NmEtMDNkYTIyYmVkNzVkXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_.jpg",
+              "width": 1120,
+              "height": 1440
+            }
+          ]
+        },
+        "characters": [
+          "Sana"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1167594",
+          "display_name": "Nawab Shah",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGY4ZDQ4ZjAtYzNjMy00ZDNhLWI0NGQtMmJlMTU5OTdkNzQ0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+              "width": 1920,
+              "height": 816
+            }
+          ]
+        },
+        "characters": [
+          "Pawan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1979275",
+          "display_name": "Angad Bedi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjI0ZDgyYmMtZTg4Yy00NDc5LWFkZTMtYTdkNTZlZDQzODQ2XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+              "width": 1600,
+              "height": 2190
+            }
+          ]
+        },
+        "characters": [
+          "Namit"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0439784",
+          "display_name": "Girish Karnad",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkyNDk3MjEzN15BMl5BanBnXkFtZTYwOTQyODEz._V1_.jpg",
+              "width": 450,
+              "height": 545
+            }
+          ]
+        },
+        "characters": [
+          "Shenoy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8277952",
+          "display_name": "Anant Vidhaat",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzRmMzUyMmMtMGViNC00NzAwLWJhNTAtYjlmNmY0YTA2YzJiXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_.jpg",
+              "width": 853,
+              "height": 1280
+            }
+          ]
+        },
+        "characters": [
+          "Karan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6421646",
+          "display_name": "Paresh Pahuja",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjZjYzhkYjItMzgyYS00M2VjLWE4ODEtNzM4OWIzNzFmYzBmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1116,
+              "height": 1766
+            }
+          ]
+        },
+        "characters": [
+          "Azaan Akbar"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7926775",
+          "display_name": "Khalida Jan",
+          "avatars": null
+        },
+        "characters": [
+          "Naghma"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8024961",
+          "display_name": "Vibhoutee Sharma",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjAzZjUyY2MtMWYzZi00OTIxLThkZGMtNTlhOGQzYjcyYzQzXkEyXkFqcGc@._V1_.jpg",
+              "width": 960,
+              "height": 960
+            }
+          ]
+        },
+        "characters": [
+          "Jiya"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1173297",
+          "display_name": "Ryan Sturz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWFhZTdkM2MtOTU3My00NTEyLTgzOGQtNTVkZGQxYjk2OTZkXkEyXkFqcGdeQXVyMjcwMzQ0NTM@._V1_.jpg",
+              "width": 2600,
+              "height": 3900
+            }
+          ]
+        },
+        "characters": [
+          "White Sam"
+        ]
+      }
+    ]
+  }
+}

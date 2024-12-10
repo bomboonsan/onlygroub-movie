@@ -1,0 +1,341 @@
+{
+  "title": {
+    "id": "tt1987680",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Upside",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 126,
+    "plot": "A comedic look at the relationship between a wealthy man with quadriplegia and an unemployed man with a criminal record who's hired to help him.",
+    "rating": {
+      "aggregate_rating": 7,
+      "votes_count": 63655
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzY3NzYyNjI0N15BMl5BanBnXkFtZTgwNjYzMDc0NjM@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "ita",
+        "name": "Italian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 46,
+      "review_count": 40
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1139726",
+          "display_name": "Neil Burger",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE3NDc5NjAwN15BMl5BanBnXkFtZTYwNDIzODg2._V1_.jpg",
+              "width": 485,
+              "height": 314
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1768281",
+          "display_name": "Jon Hartmere",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0865918",
+          "display_name": "Éric Toledano",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY4OTQzNjAwMl5BMl5BanBnXkFtZTcwMDU3NTg2OA@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0619923",
+          "display_name": "Olivier Nakache",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI4MzIxMTQ1MV5BMl5BanBnXkFtZTcwNDk4NzgxOA@@._V1_.jpg",
+              "width": 1430,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0366389",
+          "display_name": "Kevin Hart",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY4OTAxMjkxN15BMl5BanBnXkFtZTgwODg5MzYyMTE@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Dell Scott"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0186505",
+          "display_name": "Bryan Cranston",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA2NjEyMTY4MTVeQTJeQWpwZ15BbWU3MDQ5NDAzNDc@._V1_.jpg",
+              "width": 1369,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Philip Lacasse"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000173",
+          "display_name": "Nicole Kidman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk1MjM5NDg4MF5BMl5BanBnXkFtZTcwNDg1OTQ4Nw@@._V1_.jpg",
+              "width": 1404,
+              "height": 1902
+            }
+          ]
+        },
+        "characters": [
+          "Yvonne Pendleton"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3813115",
+          "display_name": "Aja Naomi King",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2VkMjFkZGYtY2VhOS00YTJlLWJlNDYtMjljOWQ5ZWNmM2U0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1067,
+              "height": 1600
+            }
+          ]
+        },
+        "characters": [
+          "Latrice"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8091769",
+          "display_name": "Jahi Di'Allo Winston",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWY3MmEwYzAtYzg5Yi00NjMyLTliZjUtNTE1NmE1NmJlNmNlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 5184,
+              "height": 3456
+            }
+          ]
+        },
+        "characters": [
+          "Anthony"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3017448",
+          "display_name": "Genevieve Angelson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjQ3OWU1NjctZmJmZS00NzA5LWJlNzctZGNhMjY5YmI0OWZmXkEyXkFqcGdeQXVyMTQwMzQ4NzM@._V1_.jpg",
+              "width": 1310,
+              "height": 3069
+            }
+          ]
+        },
+        "characters": [
+          "Jenny"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0267042",
+          "display_name": "Golshifteh Farahani",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA5MDAwMDUzNV5BMl5BanBnXkFtZTgwMjQ4NDE2MDE@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Maggie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0004883",
+          "display_name": "Tate Donovan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU4NjQ4MDg1Ml5BMl5BanBnXkFtZTgwODYyNzU4MDI@._V1_.jpg",
+              "width": 4800,
+              "height": 3206
+            }
+          ]
+        },
+        "characters": [
+          "Carter"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000523",
+          "display_name": "Julianna Margulies",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MTgxOTgxMl5BMl5BanBnXkFtZTgwMzIxOTAwMDE@._V1_.jpg",
+              "width": 600,
+              "height": 800
+            }
+          ]
+        },
+        "characters": [
+          "Lily"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0767929",
+          "display_name": "Suzanne Savoy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGIwOGI2ODEtZjlkMC00MjI3LWFkYjUtZDkwZGQxNGFkOTJlXkEyXkFqcGdeQXVyMTIzOTg4OTc@._V1_.jpg",
+              "width": 577,
+              "height": 773
+            }
+          ]
+        },
+        "characters": [
+          "Charlotte"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0703727",
+          "display_name": "Michael Quinlan",
+          "avatars": null
+        },
+        "characters": [
+          "Jack"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0313734",
+          "display_name": "James Georgiades",
+          "avatars": null
+        },
+        "characters": [
+          "Police Sergeant"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7708788",
+          "display_name": "Rachel Christopher",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTA1NTg4OGUtOWNlZS00M2Q3LWE5ZmQtNmMyYzA0NWIyODg2XkEyXkFqcGc@._V1_.jpg",
+              "width": 5616,
+              "height": 3744
+            }
+          ]
+        },
+        "characters": [
+          "Police Officer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3605070",
+          "display_name": "Diego Aguirre",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWRmY2M4ZmUtZTRmMC00N2VmLTlmOWMtMDBjZDVlNWY2MzFjXkEyXkFqcGc@._V1_.jpg",
+              "width": 2625,
+              "height": 1830
+            }
+          ]
+        },
+        "characters": [
+          "Arresting Officer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2708472",
+          "display_name": "Fernando Mateo Jr.",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWM5MWFlZDQtYzZlOS00NGVjLWFiYmMtZGUzNWMyYTU1YmY5XkEyXkFqcGc@._V1_.jpg",
+              "width": 750,
+              "height": 1000
+            }
+          ]
+        },
+        "characters": [
+          "Rookie Matteo"
+        ]
+      }
+    ]
+  }
+}

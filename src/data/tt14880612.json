@@ -1,0 +1,148 @@
+{
+  "title": {
+    "id": "tt14880612",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Blackpink: The Movie",
+    "original_title": null,
+    "start_year": 2021,
+    "end_year": null,
+    "runtime_minutes": 100,
+    "plot": "Commemorating the fifth anniversary of the debut of the South Korean girl group BLACKPINK featuring interviews with the four members: Jisoo, Jennie, Rosé, and Lisa, and live performances from \"The Show\" and \"In Your Area World Tour\".",
+    "rating": {
+      "aggregate_rating": 6.8,
+      "votes_count": 1613
+    },
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzRmZjBlYmItN2Q1Mi00ZjczLTkzZDMtOGE3MDVmZjAzMTczXkEyXkFqcGc@._V1_.jpg",
+        "width": 2859,
+        "height": 4096
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "TV-G"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "kor",
+        "name": "Korean"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "KR",
+        "name": "Republic of Korea"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm4101822",
+          "display_name": "Su Yee Jung",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm12675888",
+          "display_name": "Oh Yoon-Dong",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm12796378",
+          "display_name": "Chung Justine",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm12796379",
+          "display_name": "Lee Mizi",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm9653960",
+          "display_name": "Blackpink",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzZkN2U0MzktZTkyOC00YzY2LWE3ODQtOGMxNWM5M2NiOTY2XkEyXkFqcGc@._V1_.jpg",
+              "width": 750,
+              "height": 934
+            }
+          ]
+        },
+        "characters": [
+          "BLACKPINK"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3055341",
+          "display_name": "Jennie Kim",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGVjYTU2NjUtMmE3OS00YTlhLWFjYjEtZTA1ZTEwZDkyZTMyXkEyXkFqcGdeQXVyMTI0MDI3NzEw._V1_.jpg",
+              "width": 1334,
+              "height": 750
+            }
+          ]
+        },
+        "characters": [
+          "Jennie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8707186",
+          "display_name": "Lalisa Manoban",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYThmOTNkMjAtZmQ0NS00ZTYyLTk2MjYtOGY1NWU5ZDA4OTMxXkEyXkFqcGc@._V1_.jpg",
+              "width": 1334,
+              "height": 750
+            }
+          ]
+        },
+        "characters": [
+          "Lisa"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7986558",
+          "display_name": "Rosé",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjBiZmNmOGItNThjNi00NDRmLWJmOWYtNzI5ZDYwMjQ3NTk2XkEyXkFqcGc@._V1_.jpg",
+              "width": 750,
+              "height": 929
+            }
+          ]
+        },
+        "characters": [
+          "Rosé"
+        ]
+      }
+    ]
+  }
+}

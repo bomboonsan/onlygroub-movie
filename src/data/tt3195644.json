@@ -1,0 +1,334 @@
+{
+  "title": {
+    "id": "tt3195644",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Insidious: Chapter 3",
+    "original_title": null,
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 97,
+    "plot": "A prequel set before the haunting of the Lambert family that reveals how gifted psychic Elise Rainier reluctantly agrees to use her ability to contact the dead in order to help a teenage girl who has been targeted by a dangerous supernatural entity.",
+    "rating": {
+      "aggregate_rating": 6.1,
+      "votes_count": 118738
+    },
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTUwNDU4NjE1N15BMl5BanBnXkFtZTgwOTc0MzA5NDE@._V1_.jpg",
+        "width": 2025,
+        "height": 3000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 52,
+      "review_count": 26
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1191481",
+          "display_name": "Leigh Whannell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkyMzA3OTI0Ml5BMl5BanBnXkFtZTcwNDUzMTEzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 540
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1191481",
+          "display_name": "Leigh Whannell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkyMzA3OTI0Ml5BMl5BanBnXkFtZTcwNDUzMTEzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 540
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000551",
+          "display_name": "Dermot Mulroney",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzM2ODM3NTc3NF5BMl5BanBnXkFtZTYwOTYwMzM0._V1_.jpg",
+              "width": 325,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Sean Brenner"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2640887",
+          "display_name": "Stefanie Scott",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2NlY2RkNDEtNzljZC00MTYyLThhNjMtZDM3YWUxMjFhYzFhXkEyXkFqcGdeQXVyMTQxMTI5NDk@._V1_.jpg",
+              "width": 1117,
+              "height": 1676
+            }
+          ]
+        },
+        "characters": [
+          "Quinn Brenner"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0760151",
+          "display_name": "Angus Sampson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWM4ODUyZWYtYmM5MC00MjBkLWJiMGMtNGRiODRkZTFlNTQ2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 218,
+              "height": 293
+            }
+          ]
+        },
+        "characters": [
+          "Tucker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1191481",
+          "display_name": "Leigh Whannell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkyMzA3OTI0Ml5BMl5BanBnXkFtZTcwNDUzMTEzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 540
+            }
+          ]
+        },
+        "characters": [
+          "Specs"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005417",
+          "display_name": "Lin Shaye",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk2NDM2MDk4N15BMl5BanBnXkFtZTgwMzYwMTE5NTE@._V1_.jpg",
+              "width": 2048,
+              "height": 1579
+            }
+          ]
+        },
+        "characters": [
+          "Elise Rainier"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3131124",
+          "display_name": "Tate Berney",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjNmMjg4MjUtMTBlYy00ZGY0LWEzMDQtYzMyNTUzZDY4MTE2XkEyXkFqcGdeQXVyMjAyMjA0MTc@._V1_.jpg",
+              "width": 1284,
+              "height": 1746
+            }
+          ]
+        },
+        "characters": [
+          "Alex Brenner"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0533197",
+          "display_name": "Michael Reid MacKay",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkyMjYzNjI1M15BMl5BanBnXkFtZTcwNzE0MDA3OQ@@._V1_.jpg",
+              "width": 1280,
+              "height": 1920
+            }
+          ]
+        },
+        "characters": [
+          "The Man Who Can't Breathe"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0183548",
+          "display_name": "Steve Coulter",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODQ4YTg1OWYtZTNlZC00ZDUzLThiN2ItM2Y2MmQ1ZWVlYTNlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2709,
+              "height": 3075
+            }
+          ]
+        },
+        "characters": [
+          "Carl"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3072243",
+          "display_name": "Hayley Kiyoko",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODYyMDc3OTUzOF5BMl5BanBnXkFtZTgwMjcyNTUxNzE@._V1_.jpg",
+              "width": 576,
+              "height": 864
+            }
+          ]
+        },
+        "characters": [
+          "Maggie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1151458",
+          "display_name": "Corbett Tuck",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM5MDMxOTE5OF5BMl5BanBnXkFtZTcwNDY5MTIzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 691
+            }
+          ]
+        },
+        "characters": [
+          "Danielle"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0280600",
+          "display_name": "Tom Fitzpatrick",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM0MjMxNzIwOV5BMl5BanBnXkFtZTcwOTIyMDEzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 630
+            }
+          ]
+        },
+        "characters": [
+          "Bride in Black"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0303132",
+          "display_name": "Tom Gallop",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTIyZWMxMTktZTZhMC00N2I4LTlmN2UtMDBmM2FmMmJkZjFjXkEyXkFqcGdeQXVyODA2MjEyODc@._V1_.jpg",
+              "width": 1900,
+              "height": 2850
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Henderson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0688432",
+          "display_name": "Jeris Poindexter",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU4MDE1OTk0NF5BMl5BanBnXkFtZTcwNDc0MzIzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 587
+            }
+          ]
+        },
+        "characters": [
+          "Harry"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0444185",
+          "display_name": "Ele Keats",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2Q0MTRjMjAtMjY4Yy00MjA0LWFhNTEtMDQ5YjU3Njg2ZjBmXkEyXkFqcGdeQXVyODg3OTQ2NTQ@._V1_.jpg",
+              "width": 2400,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Lilith Brenner"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0032399",
+          "display_name": "Phyllis Applegate",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDhiZTljYmItZjQ0OS00YTIyLWJmNjctMzQxYTE5YTU0NTVhXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_.jpg",
+              "width": 4500,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Grace"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "title": {
+    "id": "tt11650736",
+    "type": "tvSeries",
+    "is_adult": false,
+    "primary_title": "The Prince",
+    "original_title": null,
+    "start_year": 2021,
+    "end_year": 2021,
+    "runtime_minutes": 14,
+    "plot": "Animated series takes a satirical look at the life of young Prince George from his time at home in the palace to primary school with commoners.",
+    "rating": {
+      "aggregate_rating": 5.7,
+      "votes_count": 3255
+    },
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BOThhNWZhZDUtOWZmMC00ODkzLWE3NWUtMWY3YmFiNmRhYTI0XkEyXkFqcGc@._V1_.jpg",
+        "width": 1013,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "TV-MA"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm3462332",
+          "display_name": "Jack Perkins",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2694573",
+          "display_name": "Neil Graf",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1630626",
+          "display_name": "Paul Scarlata",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1723707",
+          "display_name": "Marius Alecse",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0553631",
+          "display_name": "Max Martinez",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm10777173",
+          "display_name": "Alain Bala",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0417505",
+          "display_name": "Gary Janetti",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWE1MDE1ZjItNjZhYy00NDFlLTg3ZTYtMzc3NGQyZGZjMDEyXkEyXkFqcGdeQXVyMTExNzQ3MzAw._V1_.jpg",
+              "width": 1332,
+              "height": 2000
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm13022358",
+          "display_name": "Tom McDonald",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0089217",
+          "display_name": "Orlando Bloom",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE1MDkxMjQ3NV5BMl5BanBnXkFtZTcwMzQ3Mjc4MQ@@._V1_.jpg",
+              "width": 291,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Prince Harry"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001086",
+          "display_name": "Alan Cumming",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg4MjM0NDI5M15BMl5BanBnXkFtZTcwNDg1ODE0Mw@@._V1_.jpg",
+              "width": 298,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Owen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0209428",
+          "display_name": "Frances de la Tour",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE4NTc2Mjk5N15BMl5BanBnXkFtZTcwODMzOTkwNw@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Queen Elizabeth"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0417505",
+          "display_name": "Gary Janetti",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWE1MDE1ZjItNjZhYy00NDFlLTg3ZTYtMzc3NGQyZGZjMDEyXkEyXkFqcGdeQXVyMTExNzQ3MzAw._V1_.jpg",
+              "width": 1332,
+              "height": 2000
+            }
+          ]
+        },
+        "characters": [
+          "Prince George"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0700577",
+          "display_name": "Lucy Punch",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTE5MDk1MDQ4MV5BMl5BanBnXkFtZTYwOTg5OTY1._V1_.jpg",
+              "width": 257,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Kate Middleton"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3568698",
+          "display_name": "Dola Rashad",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTU2OTM5ZGItZTBjYS00YTlmLWI0MjItZjUzZDg5MjAzYjMxXkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_.jpg",
+              "width": 900,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Meghan Markle"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3701064",
+          "display_name": "Iwan Rheon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIxNjI3NDkwNV5BMl5BanBnXkFtZTcwMDY2NTIwNw@@._V1_.jpg",
+              "width": 1419,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Prince William"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1405398",
+          "display_name": "Dan Stevens",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY0NTY5OTI2MF5BMl5BanBnXkFtZTgwNDkzMzIxMzE@._V1_.jpg",
+              "width": 428,
+              "height": 594
+            }
+          ]
+        },
+        "characters": [
+          "Prince Charles",
+          "Prince Philip"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3849842",
+          "display_name": "Sophie Turner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM5Mjg4MDQ3MF5BMl5BanBnXkFtZTgwMDA2MjkxMjI@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Princess Charlotte"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1154650",
+          "display_name": "Samuel Barnett",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWExYzhmZGEtNjFhMy00MDAwLTllNGUtMDNlNjA3NDhiODdlXkEyXkFqcGdeQXVyMjMzNDU1MTA@._V1_.jpg",
+              "width": 750,
+              "height": 1125
+            }
+          ]
+        },
+        "characters": [
+          "Douglas",
+          "Sebastian"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0223527",
+          "display_name": "Sacha Dhawan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2UwZWIzMjQtNGMwYi00MjU4LWFkNDEtMDQzMDM1ZmE2OGI0XkEyXkFqcGdeQXVyNjQ1NzQ2OQ@@._V1_.jpg",
+              "width": 4380,
+              "height": 6570
+            }
+          ]
+        },
+        "characters": [
+          "Teddy",
+          "Dinesh"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2167957",
+          "display_name": "Paul Anderson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTEwMzIwNTQ2NDVeQTJeQWpwZ15BbWU4MDgxMDk4MzQz._V1_.jpg",
+              "width": 1360,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Prince Louis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10181207",
+          "display_name": "Matty McCabe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWU5NGM4MmEtZmUyZC00ZjIzLThmMjAtMmE1MDI2ZDg4YWEzXkEyXkFqcGdeQXVyNzI2MTQ5OTQ@._V1_.jpg",
+              "width": 1066,
+              "height": 1600
+            }
+          ]
+        },
+        "characters": null
+      },
+      {
+        "name": {
+          "id": "nm0005362",
+          "display_name": "Lisa Rinna",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI3MDU4MDkyMF5BMl5BanBnXkFtZTgwOTkyMTkxNDE@._V1_.jpg",
+              "width": 480,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Lisa Rinna"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3520933",
+          "display_name": "Ukweli Roach",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWRhYTE4ZDMtNTNmMS00MmNlLWJjNzQtNTIxNmM1M2QwNDhiXkEyXkFqcGdeQXVyNDQ0MTgzMTM@._V1_.jpg",
+              "width": 4480,
+              "height": 6720
+            }
+          ]
+        },
+        "characters": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "title": {
+    "id": "tt5498354",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Horizon Line",
+    "original_title": null,
+    "start_year": 2020,
+    "end_year": null,
+    "runtime_minutes": 92,
+    "plot": "A couple flying on a small plane to attend a tropical island wedding must fight for their lives after their pilot suffers a heart attack.",
+    "rating": {
+      "aggregate_rating": 4.8,
+      "votes_count": 11394
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTE1YjYwZmItYWEzMS00MGM3LTlhYTQtOWIyM2Y1MmUzNzUyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "width": 4050,
+        "height": 6000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "SE",
+        "name": "Sweden"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm0545729",
+          "display_name": "Mikael Marcimain",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTA5MjliNzMtYmQzYi00MjU1LWEwODItZjUyZTM0NWM1ODQyXkEyXkFqcGc@._V1_.jpg",
+              "width": 1510,
+              "height": 1530
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1061091",
+          "display_name": "Josh Campbell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA0NzM5NDM2Nl5BMl5BanBnXkFtZTgwOTg5OTgyODE@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1173295",
+          "display_name": "Matt Stuecken",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm4129745",
+          "display_name": "Allison Williams",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjkwZTZjZjItNTNiNy00MGUxLWEzYWYtYmUxNjE0NWVhYWFlXkEyXkFqcGdeQXVyNjg2NzQzMDE@._V1_.jpg",
+              "width": 2618,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Sara"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4101853",
+          "display_name": "Alexander Dreymon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGUxYmJmNjQtNWVmMy00ZWIzLWE1NzUtZTg3ZWEwN2NmMThjXkEyXkFqcGdeQXVyMTI2Nzk2MjQ1._V1_.jpg",
+              "width": 481,
+              "height": 641
+            }
+          ]
+        },
+        "characters": [
+          "Jackson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0202966",
+          "display_name": "Keith David",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI5OTU4ODI1MF5BMl5BanBnXkFtZTcwMjU1NjkyNA@@._V1_.jpg",
+              "width": 318,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Freddy Wyman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4929530",
+          "display_name": "Pearl Mackie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDZlZGMwYmItNDAwNS00ZGFiLTg4YjYtYzhkNTU4Yzk0MDg0XkEyXkFqcGdeQXVyMjM2MjQ4MzA@._V1_.jpg",
+              "width": 620,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Pascale"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2238584",
+          "display_name": "Jumayn Hunter",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjQ1MDc3Njc0OV5BMl5BanBnXkFtZTgwMjY2NjM4MTE@._V1_.jpg",
+              "width": 7360,
+              "height": 4912
+            }
+          ]
+        },
+        "characters": [
+          "Samuel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9662264",
+          "display_name": "Privilege Magezi",
+          "avatars": null
+        },
+        "characters": [
+          "Solomon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11859194",
+          "display_name": "Stephano Honore",
+          "avatars": null
+        },
+        "characters": [
+          "Solomon's Friend"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11859195",
+          "display_name": "Brendon Pirogue",
+          "avatars": null
+        },
+        "characters": [
+          "Solomon's Friend"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11859196",
+          "display_name": "Christian Louis",
+          "avatars": null
+        },
+        "characters": [
+          "Solomon's Friend"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11859197",
+          "display_name": "Denis Allehany",
+          "avatars": null
+        },
+        "characters": [
+          "Solomon's Friend"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10187596",
+          "display_name": "Amanda Khan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWI0NmJiM2UtNjMzNi00MmY0LWJmNDQtNmNkNzFlMzYwYWYyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 960,
+              "height": 1440
+            }
+          ]
+        },
+        "characters": [
+          "Nadia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9980895",
+          "display_name": "Anouchka Massoudy",
+          "avatars": null
+        },
+        "characters": [
+          "Theresa"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12226157",
+          "display_name": "Kate Shepherd",
+          "avatars": null
+        },
+        "characters": [
+          "Leah"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11859198",
+          "display_name": "Daisy Yip Tong",
+          "avatars": null
+        },
+        "characters": [
+          "Grace"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11859199",
+          "display_name": "Henri St Mart",
+          "avatars": null
+        },
+        "characters": [
+          "Rescue Fisherman"
+        ]
+      }
+    ]
+  }
+}

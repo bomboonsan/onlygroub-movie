@@ -1,0 +1,326 @@
+{
+  "title": {
+    "id": "tt4701660",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Mermaid",
+    "original_title": "Mei ren yu",
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 94,
+    "plot": "Shan, a mermaid, is sent to assassinate Xuan, a developer who threatens the ecosystem of her race, but ends up falling in love with him instead.",
+    "rating": {
+      "aggregate_rating": 6.2,
+      "votes_count": 10183
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzQzZGQxZTUtZWZhMC00ODE0LWI3N2EtOThiOTg0ZDYxYjEwXkEyXkFqcGdeQXVyNjU0NzY4ODU@._V1_.jpg",
+        "width": 1000,
+        "height": 1397
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": null,
+    "origin_countries": [
+      {
+        "code": "CN",
+        "name": "China"
+      }
+    ],
+    "critic_review": {
+      "score": 69,
+      "review_count": 16
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0159507",
+          "display_name": "Stephen Chow",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk0MzgyNTMyN15BMl5BanBnXkFtZTcwNTgwMzgyMQ@@._V1_.jpg",
+              "width": 187,
+              "height": 254
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0150916",
+          "display_name": "Hing-Ka Chan",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0159507",
+          "display_name": "Stephen Chow",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk0MzgyNTMyN15BMl5BanBnXkFtZTcwNTgwMzgyMQ@@._V1_.jpg",
+              "width": 187,
+              "height": 254
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1385080",
+          "display_name": "Chi-Keung Fung",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm5650996",
+          "display_name": "Miu-Kei Ho",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0465033",
+          "display_name": "Ivy Kong",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm2874732",
+          "display_name": "Chao Deng",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjlmNzVjMTUtMTRkNi00NWM4LWEzZTUtN2Y0MDc1YWNjZmFkXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 1380,
+              "height": 920
+            }
+          ]
+        },
+        "characters": [
+          "Liu Xuan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3881333",
+          "display_name": "Show Lo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTI3YTgxNmEtNTQ5Yy00ZjQ0LWFmYWUtZDU3MDcxMjdlOTc4XkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 917,
+              "height": 768
+            }
+          ]
+        },
+        "characters": [
+          "Octopus"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2514879",
+          "display_name": "Yuqi Zhang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTI2ZjU0NzEtZmFjZi00NGQ3LWJmY2QtNzIzNWUwN2IzY2Y1L2ltYWdlXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 852,
+              "height": 1244
+            }
+          ]
+        },
+        "characters": [
+          "Li Ruolan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7467125",
+          "display_name": "Yun Lin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGRhN2EzNjYtZGFjNi00NGM2LWIyZWUtYWUxNjNhMjY4NWNjXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 620,
+              "height": 856
+            }
+          ]
+        },
+        "characters": [
+          "Shan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0007139",
+          "display_name": "Hark Tsui",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzAzMzg0OTc3NV5BMl5BanBnXkFtZTcwNzI4OTI4OQ@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Uncle Rich"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3491286",
+          "display_name": "Zhang Wen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2NhNmYyNTItZWM0Yy00YzBkLTk1ZTYtZDgxMGE1MDgyZWU1XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 652,
+              "height": 846
+            }
+          ]
+        },
+        "characters": [
+          "Constable Mr. Mo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6806246",
+          "display_name": "Kris Wu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU4NzEwNzUzN15BMl5BanBnXkFtZTgwNDAzMTE0NDE@._V1_.jpg",
+              "width": 5184,
+              "height": 3456
+            }
+          ]
+        },
+        "characters": [
+          "Long Jianfei"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7914475",
+          "display_name": "Sheung-ching Lee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM1NzI4OTA0MF5BMl5BanBnXkFtZTcwNzg5OTc1MQ@@._V1_.jpg",
+              "width": 485,
+              "height": 262
+            }
+          ]
+        },
+        "characters": [
+          "Constable Mr. Shi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5533999",
+          "display_name": "Zhengyu Lu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM5ZmQwZTItNWM2MC00YjllLWI2NGMtODU0YTEzODViYWJhXkEyXkFqcGc@._V1_.jpg",
+              "width": 604,
+              "height": 852
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Liao"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1787710",
+          "display_name": "Chi Ling Chiu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI4NTUxMzA2MF5BMl5BanBnXkFtZTYwMDgzNTE3._V1_.jpg",
+              "width": 485,
+              "height": 314
+            }
+          ]
+        },
+        "characters": [
+          "Mermaid Long"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7914478",
+          "display_name": "Mei'e Zhang",
+          "avatars": null
+        },
+        "characters": [
+          "Mermaid"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6624684",
+          "display_name": "Linah Matsuoka",
+          "avatars": null
+        },
+        "characters": [
+          "George's Assistant"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8294405",
+          "display_name": "Barbie Liu",
+          "avatars": null
+        },
+        "characters": [
+          "Mermaid"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8300345",
+          "display_name": "Xu Zhen-zhen",
+          "avatars": null
+        },
+        "characters": [
+          "George's Assistant"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7403141",
+          "display_name": "White-K",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM4MGZhZjMtYWEwOS00ZGI2LThmYWYtYWRhNGFjMmRkMzk3XkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 449,
+              "height": 633
+            }
+          ]
+        },
+        "characters": [
+          "Museum Visitor"
+        ]
+      }
+    ]
+  }
+}

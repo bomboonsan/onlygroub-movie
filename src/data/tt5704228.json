@@ -1,0 +1,316 @@
+{
+  "title": {
+    "id": "tt5704228",
+    "type": "tvSeries",
+    "is_adult": false,
+    "primary_title": "Ode to Joy",
+    "original_title": "Huan le song",
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 40,
+    "plot": "A Chinese drama about five women who live on the 22nd floor of an apartment complex in Shanghai called Ode To Joy. Andy (Tao Liu) is an incredibly successful though somewhat antisocial and reclusive businesswoman who moved to Shanghai from New York in order to find her long-lost brother. Qu Xiaoxiao (Ziwen Wang) is a somewhat spoiled girl from a wealthy family and 25-year-old woman just starting her career. Fang Shengmei (Xin Jiang) a stylish HR executive in a multinational corporation trying to shed her poor upbringing and make her way in the big city. Qiu Yingying (Zi Yang) is a small town girl trying to learn how life in the city works and one of the youngest of the five women. Guan Ju'er (Xin Qiao) A very studious young woman who is just graduated from college and completing an internship at a multinational corporation. Each has something they can learn from the others and these women develop strong friendships that they come to depend on.",
+    "rating": {
+      "aggregate_rating": 7.1,
+      "votes_count": 371
+    },
+    "genres": [
+      "Drama"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWQzMjhiMDMtODZkMC00OWNlLWEwMWQtMGE5NDE5NGYyMjcxXkEyXkFqcGc@._V1_.jpg",
+        "width": 2160,
+        "height": 3840
+      }
+    ],
+    "certificates": null,
+    "spoken_languages": [
+      {
+        "code": "zho",
+        "name": "Chinese"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CN",
+        "name": "China"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm8128391",
+          "display_name": "Chuanhe Jian",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm7626260",
+          "display_name": "Kaizhou Zhang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDcwNzUzM2ItNWFmMS00YjAyLThlMjYtNjQ1NzU5M2VjZTY0XkEyXkFqcGc@._V1_.jpg",
+              "width": 579,
+              "height": 753
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm3288798",
+          "display_name": "Sheng Kong",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm8128396",
+          "display_name": "Ane",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm8128397",
+          "display_name": "Zitan Yuan",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1703537",
+          "display_name": "Tao Liu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmU0YWEyOTgtNGU3OS00MzU1LTkzY2ItMTA1NDQzNzg4YTE5XkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 550,
+              "height": 733
+            }
+          ]
+        },
+        "characters": [
+          "Andy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2422449",
+          "display_name": "Ziwen Wang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTAwZDMxMjAtMzk3YS00NmJjLWJmMTYtZjhmNDVmNjExNTYwXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 784,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Qu Xiaoxiao"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5018998",
+          "display_name": "Xin Jiang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTFiNWNlODItYTVmMC00N2Y1LWFmYjYtMTRmZmJiNTdjMTZkXkEyXkFqcGdeQXVyNDg5Mzk5Mg@@._V1_.jpg",
+              "width": 500,
+              "height": 366
+            }
+          ]
+        },
+        "characters": [
+          "Fan Shengmei"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7768896",
+          "display_name": "Xin Qiao",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWI2YzYzMzAtMzcxMi00NDA1LWExZTgtZWQ3OGUyZWFlMGU5XkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 514,
+              "height": 720
+            }
+          ]
+        },
+        "characters": [
+          "Guan Ju'er"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4429082",
+          "display_name": "Zi Yang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmVmMzM2YzktZjk1YS00MDA2LTkzMGMtZjNmNjUwYWMxODlmXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 950,
+              "height": 1276
+            }
+          ]
+        },
+        "characters": [
+          "Qiu Yingying"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8128392",
+          "display_name": "Lu Zhang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTFjMTc5NTYtOTQwMC00NmJiLWFlMGQtYzliN2ZlYmNiNzk3XkEyXkFqcGc@._V1_.jpg",
+              "width": 3840,
+              "height": 5760
+            }
+          ]
+        },
+        "characters": [
+          "Wang Baichuan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3073218",
+          "display_name": "Kai Wang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTVjYThkMzctMTc5Yi00ZWExLThiZmEtZDc3NzBlZTYwM2E2L2ltYWdlXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 550,
+              "height": 686
+            }
+          ]
+        },
+        "characters": [
+          "Zhao Qiping"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3330632",
+          "display_name": "Shuo Yang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODJkYTc0N2ItNmNmNS00NTdkLTlkMjYtYmQ2ZjE3OTVlNGY4XkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 575,
+              "height": 863
+            }
+          ]
+        },
+        "characters": [
+          "Bao Yifan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8128395",
+          "display_name": "Haochen Wu",
+          "avatars": null
+        },
+        "characters": [
+          "Ying Qin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3288625",
+          "display_name": "Dong Jin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGMxZTEzMjItZDQ3MS00ZTUwLWFkNzctNGNhMWRlMzU2ZDNjXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 400,
+              "height": 540
+            }
+          ]
+        },
+        "characters": [
+          "Tan Zongming"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3422245",
+          "display_name": "Feng Zu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTUwYmMyZjQtZDY5Zi00MjYyLThjYjEtYmYxZDg5NDA3YTJlXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 400,
+              "height": 557
+            }
+          ]
+        },
+        "characters": [
+          "Wei Wei"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7091019",
+          "display_name": "Allen Deng",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDQzMzRmZjgtMzdjZC00N2VkLTg1OGQtYWZjMjQyZGUyMmNjXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 1514,
+              "height": 2113
+            }
+          ]
+        },
+        "characters": [
+          "Xie Tong"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4707826",
+          "display_name": "Yongquan Wang",
+          "avatars": null
+        },
+        "characters": [
+          "Qu's father"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4240886",
+          "display_name": "Xiaoran Guo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzNmMWU1MTItOWU4NC00Y2YwLWIzMTItODdiNjhiN2ZkNjA3XkEyXkFqcGc@._V1_.jpg",
+              "width": 512,
+              "height": 768
+            }
+          ]
+        },
+        "characters": [
+          "Qu Lianjie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1956636",
+          "display_name": "Yongdai Ding",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTVhMjk4MTUtZGI4MS00MzM0LWFkNjYtZWY0MGFhNzBjNzdiXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 600,
+              "height": 900
+            }
+          ]
+        },
+        "characters": [
+          "Wei Guoqiang"
+        ]
+      }
+    ]
+  }
+}

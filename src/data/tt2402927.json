@@ -1,0 +1,344 @@
+{
+  "title": {
+    "id": "tt2402927",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Carol",
+    "original_title": null,
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 118,
+    "plot": "An aspiring photographer develops an intimate relationship with an older woman in 1950s New York.",
+    "rating": {
+      "aggregate_rating": 7.2,
+      "votes_count": 142940
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTczNTQ4OTEyNV5BMl5BanBnXkFtZTgwNDgyMDI3NjE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "AU",
+        "name": "Australia"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 94,
+      "review_count": 45
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0001331",
+          "display_name": "Todd Haynes",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTQ5Njk0MDU1MF5BMl5BanBnXkFtZTcwMTQ1MzA2MQ@@._V1_.jpg",
+              "width": 273,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0619507",
+          "display_name": "Phyllis Nagy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDYzMzg5MzQyOV5BMl5BanBnXkFtZTgwNjMxODYxODE@._V1_.jpg",
+              "width": 1450,
+              "height": 1962
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0383604",
+          "display_name": "Patricia Highsmith",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjk3NTA5NWUtNzM2MS00MzQzLWE1M2EtMDMzNTNhZDdiMDY2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg",
+              "width": 941,
+              "height": 1200
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000949",
+          "display_name": "Cate Blanchett",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc1MDI0MDg1NV5BMl5BanBnXkFtZTgwMDM3OTAzMTE@._V1_.jpg",
+              "width": 1419,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Carol Aird"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1913734",
+          "display_name": "Rooney Mara",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM2NDE3MDk1OF5BMl5BanBnXkFtZTcwNjI1MDY0Nw@@._V1_.jpg",
+              "width": 1411,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Therese Belivet"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0151419",
+          "display_name": "Kyle Chandler",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTM5NDM4ODg3MV5BMl5BanBnXkFtZTcwNTA3MTk3Mw@@._V1_.jpg",
+              "width": 1391,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Harge Aird"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005299",
+          "display_name": "Sarah Paulson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUzMTA3NjM4MV5BMl5BanBnXkFtZTcwNjk1NTAyMg@@._V1_.jpg",
+              "width": 260,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Abby Gerhard"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3821405",
+          "display_name": "Jake Lacy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDA2ODk3YjItMjY4OC00YTk5LWE4ZjYtZTUzMWE4MTg5YTZlXkEyXkFqcGdeQXVyMTI2Nzk2MjQ1._V1_.jpg",
+              "width": 880,
+              "height": 880
+            }
+          ]
+        },
+        "characters": [
+          "Richard Semco"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1910274",
+          "display_name": "John Magaro",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2JhODMwZDAtMjE5OC00MzgzLWE5OTYtMGJmMmM0Nzk5NDMxXkEyXkFqcGdeQXVyNjAwNDMzMTU@._V1_.jpg",
+              "width": 628,
+              "height": 1059
+            }
+          ]
+        },
+        "characters": [
+          "Dannie McElroy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5754425",
+          "display_name": "Cory Michael Smith",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM2NzY4NzgzOF5BMl5BanBnXkFtZTgwNDU2NzAzMDI@._V1_.jpg",
+              "width": 1300,
+              "height": 1812
+            }
+          ]
+        },
+        "characters": [
+          "Tommy Tucker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0189755",
+          "display_name": "Kevin Crowley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTU1YmQwMTktNDE0My00ODg3LWI2ZDItNWJkNWNhODIwNTUzXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 714,
+              "height": 1000
+            }
+          ]
+        },
+        "characters": [
+          "Fred Haymes"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6412766",
+          "display_name": "Nik Pajic",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjFkZWQwNjctZGVmMS00MWExLWE4NGUtZTk0Y2U1YzIwZmUyXkEyXkFqcGc@._V1_.jpg",
+              "width": 1281,
+              "height": 1739
+            }
+          ]
+        },
+        "characters": [
+          "Phil McElroy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1247855",
+          "display_name": "Carrie Brownstein",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDk3MjQ0MzM0N15BMl5BanBnXkFtZTcwMzQzMjYzNA@@._V1_.jpg",
+              "width": 1501,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Genevieve Cantrell"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6394509",
+          "display_name": "Trent Rowland",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjE1N2JkYjAtOWIxNi00ODk4LThhNDYtMzExMmJiNmQ3MzVkXkEyXkFqcGc@._V1_.jpg",
+              "width": 3456,
+              "height": 5184
+            }
+          ]
+        },
+        "characters": [
+          "Jack Taft"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7456838",
+          "display_name": "Sadie Heim",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzk5NTkxMzctOTA2NC00N2E5LWIzMzktMjk4NWZhMzk2ZjA3XkEyXkFqcGc@._V1_.jpg",
+              "width": 1050,
+              "height": 1575
+            }
+          ]
+        },
+        "characters": [
+          "Rindy Aird"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7441180",
+          "display_name": "Kk Heim",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzI0OWU4NGUtZmEyMy00YTNlLTkyY2MtODIwMjIxZjEwMTg0XkEyXkFqcGc@._V1_.jpg",
+              "width": 1050,
+              "height": 1470
+            }
+          ]
+        },
+        "characters": [
+          "Rindy Aird"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1019450",
+          "display_name": "Amy Warner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTUyODRmYmYtOTM3Yi00OGM5LTlkNTgtMzA0NWY3MTg5ZTNkXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+              "width": 784,
+              "height": 1183
+            }
+          ]
+        },
+        "characters": [
+          "Jennifer Aird"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0359798",
+          "display_name": "Michael Haney",
+          "avatars": null
+        },
+        "characters": [
+          "John Aird"
+        ]
+      }
+    ]
+  }
+}

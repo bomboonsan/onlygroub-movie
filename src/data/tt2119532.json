@@ -1,0 +1,314 @@
+{
+  "title": {
+    "id": "tt2119532",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Hacksaw Ridge",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 139,
+    "plot": "World War II American Army Medic Desmond T. Doss, serving during the Battle of Okinawa, refuses to kill people and becomes the first man in American history to receive the Medal of Honor without firing a shot.",
+    "rating": {
+      "aggregate_rating": 8.1,
+      "votes_count": 587120
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_.jpg",
+        "width": 971,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "jpn",
+        "name": "Japanese"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 71,
+      "review_count": 47
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0000154",
+          "display_name": "Mel Gibson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_.jpg",
+              "width": 291,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0770938",
+          "display_name": "Robert Schenkkan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDIyY2I2Y2YtMDZkYi00YjhkLWI2NmQtYjMzMTVhMWI2NWI1XkEyXkFqcGdeQXVyMTMxMTIwMTE0._V1_.jpg",
+              "width": 500,
+              "height": 749
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0460795",
+          "display_name": "Andrew Knight",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1940449",
+          "display_name": "Andrew Garfield",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE2MjI2OTk1OV5BMl5BanBnXkFtZTgwNTY1NzM4MDI@._V1_.jpg",
+              "width": 1391,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Desmond Doss"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1372922",
+          "display_name": "Richard Pyros",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzI3MTEzODg3MV5BMl5BanBnXkFtZTgwNjEwMzg0ODE@._V1_.jpg",
+              "width": 2191,
+              "height": 2536
+            }
+          ]
+        },
+        "characters": [
+          "Teach"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5681790",
+          "display_name": "Jacob Warner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDcyZWI5YmYtYThjZi00MzEzLWI4YjctZGY4ZjBhMTRhOTc2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 634,
+              "height": 951
+            }
+          ]
+        },
+        "characters": [
+          "James Pinnick"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5490799",
+          "display_name": "Milo Gibson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGY1MjQ0NTctODk1Ni00MjAwLTgxNDMtOTFhMWZiNWZiZjc0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 950,
+              "height": 1424
+            }
+          ]
+        },
+        "characters": [
+          "Lucky Ford"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7779500",
+          "display_name": "Darcy Bryce",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDE2MWJlMDItZThhMC00MjBhLTgwOGItNWRmYWY5Y2JiNWM5XkEyXkFqcGdeQXVyMTQ5OTUxNjM4._V1_.jpg",
+              "width": 1912,
+              "height": 2867
+            }
+          ]
+        },
+        "characters": [
+          "Young Desmond"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7737266",
+          "display_name": "Roman Guerriero",
+          "avatars": null
+        },
+        "characters": [
+          "Young 'Hal' Doss"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0525281",
+          "display_name": "James Lugton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTNmN2NmYzgtYjBjNS00ZmQ1LWExMWMtNjAzNTFlZjNlOWRhXkEyXkFqcGdeQXVyMTczNjUwNTMw._V1_.jpg",
+              "width": 4344,
+              "height": 6516
+            }
+          ]
+        },
+        "characters": [
+          "Hiker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4443845",
+          "display_name": "Kasia Stelmach",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWZiYzkwOTMtZWZiYy00ZjZhLWFjMzMtYTRiZGNiMjI2OTFiXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3072,
+              "height": 4608
+            }
+          ]
+        },
+        "characters": [
+          "Hiker's Friend"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0915989",
+          "display_name": "Hugo Weaving",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAxMzAyNDQyMF5BMl5BanBnXkFtZTcwOTM4ODcxMw@@._V1_.jpg",
+              "width": 281,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Tom Doss"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0341737",
+          "display_name": "Rachel Griffiths",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI3OTQzNzA0M15BMl5BanBnXkFtZTcwNTQ0ODkyMg@@._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Bertha Doss"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4430335",
+          "display_name": "Jarin Towney",
+          "avatars": null
+        },
+        "characters": [
+          "Teenage Boy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0568958",
+          "display_name": "Tim McGarry",
+          "avatars": null
+        },
+        "characters": [
+          "Local Man"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0178833",
+          "display_name": "Tyler Coppin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmI5M2I3OTYtMDc5NS00NGQ5LWI3ZjctNDEyN2JiNWZkZmZmXkEyXkFqcGc@._V1_.jpg",
+              "width": 847,
+              "height": 1270
+            }
+          ]
+        },
+        "characters": [
+          "Lynchburg Doctor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1954240",
+          "display_name": "Teresa Palmer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWY4OWYxMmYtYWQ1Yy00NzI2LTkxMzktMWViM2JlOGEwNDgwXkEyXkFqcGdeQXVyNDE1NzY2MTI@._V1_.jpg",
+              "width": 2584,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Dorothy Schutte"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7335084",
+          "display_name": "Richard Platt",
+          "avatars": null
+        },
+        "characters": [
+          "Flirting Hospital Soldier"
+        ]
+      }
+    ]
+  }
+}

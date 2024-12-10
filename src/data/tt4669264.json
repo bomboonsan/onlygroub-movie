@@ -1,0 +1,283 @@
+{
+  "title": {
+    "id": "tt4669264",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Beirut",
+    "original_title": null,
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 109,
+    "plot": "Caught in the crossfires of civil war, CIA operatives must send a former U.S. diplomat to negotiate for the life of a friend he left behind.",
+    "rating": {
+      "aggregate_rating": 6.5,
+      "votes_count": 24707
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTk1ZDRjNzctZjYzYy00NmIyLWFkNGYtYWQwODg4YzQwZjZiXkEyXkFqcGc@._V1_.jpg",
+        "width": 4050,
+        "height": 6000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 69,
+      "review_count": 31
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0026442",
+          "display_name": "Brad Anderson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY3ODMyMDYxMV5BMl5BanBnXkFtZTcwNzkyNjY3MQ@@._V1_.jpg",
+              "width": 600,
+              "height": 399
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0006904",
+          "display_name": "Tony Gilroy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA3NDEzODY0OV5BMl5BanBnXkFtZTcwODA0Mjc1MQ@@._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0358316",
+          "display_name": "Jon Hamm",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzg0MzA4MTY5M15BMl5BanBnXkFtZTcwODg2MTIwOQ@@._V1_.jpg",
+              "width": 1411,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mason Skiles"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0693288",
+          "display_name": "Jay Potter",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODU3MzgwZmEtMDQyMS00M2VjLThhZDEtMzZhNzZiM2MxMzMxXkEyXkFqcGdeQXVyMjA2Njg3MTI@._V1_.jpg",
+              "width": 2000,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Congressman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1338428",
+          "display_name": "Khalid Benchagra",
+          "avatars": null
+        },
+        "characters": [
+          "Nadim"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9966942",
+          "display_name": "Ania Josse",
+          "avatars": null
+        },
+        "characters": [
+          "Partygoer #1"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9966943",
+          "display_name": "Angus John Crisford Pritchard-Gordon",
+          "avatars": null
+        },
+        "characters": [
+          "Partygoer #2"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7514607",
+          "display_name": "Yoav Sadian",
+          "avatars": null
+        },
+        "characters": [
+          "Karim (13 Years Old)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1871951",
+          "display_name": "Leïla Bekhti",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg0NzI1Mzc0OF5BMl5BanBnXkFtZTcwODU0NzU0Nw@@._V1_.jpg",
+              "width": 1366,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Nadia Skiles"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0281448",
+          "display_name": "Kate Fleetwood",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTkxM2EyMDktODY4Mi00MWFkLThmNmUtYzljMjNlMDFiZWIwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 5760,
+              "height": 3840
+            }
+          ]
+        },
+        "characters": [
+          "Alice Riley"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0671032",
+          "display_name": "Mark Pellegrino",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY5MDc0Mjg4N15BMl5BanBnXkFtZTcwOTMyNTUyMQ@@._V1_.jpg",
+              "width": 229,
+              "height": 317
+            }
+          ]
+        },
+        "characters": [
+          "Cal Riley"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3697747",
+          "display_name": "Abdeslam Bounouacha",
+          "avatars": null
+        },
+        "characters": [
+          "Partygoer #3"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0830479",
+          "display_name": "Colin Stinton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgxNDEzMzgwMl5BMl5BanBnXkFtZTYwMDYxOTgy._V1_.jpg",
+              "width": 450,
+              "height": 569
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Jones"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2663049",
+          "display_name": "Mustapha Touki",
+          "avatars": null
+        },
+        "characters": [
+          "Gunman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3049930",
+          "display_name": "Youssef El Hibaqui",
+          "avatars": null
+        },
+        "characters": [
+          "Gunman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7273663",
+          "display_name": "Aziz Attougui",
+          "avatars": null
+        },
+        "characters": [
+          "Gunman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6140312",
+          "display_name": "Hichame Ouraqa",
+          "avatars": null
+        },
+        "characters": [
+          "Abu Rajal"
+        ]
+      }
+    ]
+  }
+}

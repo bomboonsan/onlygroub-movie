@@ -1,0 +1,357 @@
+{
+  "title": {
+    "id": "tt1392190",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Mad Max: Fury Road",
+    "original_title": null,
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 120,
+    "plot": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper and a drifter named Max.",
+    "rating": {
+      "aggregate_rating": 8.1,
+      "votes_count": 1072796
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "width": 675,
+        "height": 1000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "AU",
+        "name": "Australia"
+      }
+    ],
+    "critic_review": {
+      "score": 90,
+      "review_count": 51
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0004306",
+          "display_name": "George Miller",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ5NTYwMjcyMF5BMl5BanBnXkFtZTYwMDQ0MjQz._V1_.jpg",
+              "width": 298,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0004306",
+          "display_name": "George Miller",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ5NTYwMjcyMF5BMl5BanBnXkFtZTYwMDQ0MjQz._V1_.jpg",
+              "width": 298,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0565068",
+          "display_name": "Brendan McCarthy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWU5NWNjM2ItZjQ0NS00OGIxLThkZWUtYjZhOTYyMmU2OGIwXkEyXkFqcGdeQXVyNzY1ODU1OTk@._V1_.jpg",
+              "width": 472,
+              "height": 640
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0490147",
+          "display_name": "Nick Lathouris",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTYyMzNhNTUtOWIxMy00MjZlLTk3MmMtMzk2MzNjYjUxMTBkXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 678,
+              "height": 678
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0362766",
+          "display_name": "Tom Hardy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ3ODEyNjA4Nl5BMl5BanBnXkFtZTgwMTE4ODMyMjE@._V1_.jpg",
+              "width": 1366,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Max Rockatansky"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000234",
+          "display_name": "Charlize Theron",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk5Mzc4ODU0Ml5BMl5BanBnXkFtZTcwNjU1NTI0Mw@@._V1_.jpg",
+              "width": 300,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Imperator Furiosa"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0396558",
+          "display_name": "Nicholas Hoult",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUxMTYxNzMzNF5BMl5BanBnXkFtZTcwMTU0NTcxOQ@@._V1_.jpg",
+              "width": 1427,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Nux"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0117412",
+          "display_name": "Hugh Keays-Byrne",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcyMDczOTMzNF5BMl5BanBnXkFtZTcwODcyNDE3OA@@._V1_.jpg",
+              "width": 1024,
+              "height": 1536
+            }
+          ]
+        },
+        "characters": [
+          "Immortan Joe"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2890541",
+          "display_name": "Josh Helman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTllMmUwNGYtYzFkNy00YWFjLWFlNmYtZGFmY2EzYWRkMzVjXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+              "width": 1920,
+              "height": 800
+            }
+          ]
+        },
+        "characters": [
+          "Slit"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0428923",
+          "display_name": "Nathan Jones",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzE2MTZmOGYtOTgzMi00OTNlLTlhMmUtNTZlODA0M2RmODgxXkEyXkFqcGdeQXVyMTAwNTEwNTE4._V1_.jpg",
+              "width": 883,
+              "height": 883
+            }
+          ]
+        },
+        "characters": [
+          "Rictus Erectus"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2368789",
+          "display_name": "Zoë Kravitz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2NmMWViOTYtOGJhYi00MzU2LWI5ODYtOGJhYzhkMWViODY5XkEyXkFqcGdeQXVyNjk2NTA3MTc@._V1_.jpg",
+              "width": 422,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Toast the Knowing"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2492819",
+          "display_name": "Rosie Huntington-Whiteley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM1Nzg4Nzc2NV5BMl5BanBnXkFtZTcwODI2NDY3NQ@@._V1_.jpg",
+              "width": 1389,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "The Splendid Angharad"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2142336",
+          "display_name": "Riley Keough",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY2Nzc1ODkzMF5BMl5BanBnXkFtZTgwMDUwNjE5MDI@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Capable"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3880181",
+          "display_name": "Abbey Lee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGU2MzlmNWUtNDQ1Yy00NDRmLWI2NTgtMDhmYTdmNjg1ZWZmXkEyXkFqcGdeQXVyNDgxNjEwOTE@._V1_.jpg",
+              "width": 922,
+              "height": 1152
+            }
+          ]
+        },
+        "characters": [
+          "The Dag"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5196907",
+          "display_name": "Courtney Eaton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTc1MTk0YTYtMjY2ZS00ZmY3LTk3NDctMjMzYzM3ZmYwNzllXkEyXkFqcGdeQXVyODcyNzI0OTE@._V1_.jpg",
+              "width": 370,
+              "height": 555
+            }
+          ]
+        },
+        "characters": [
+          "Cheedo the Fragile"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0397398",
+          "display_name": "John Howard",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWM5MWUyMTUtYjUxMi00MjNlLWIwMWEtY2ZhM2VhZWMxYzE2XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ]
+        },
+        "characters": [
+          "The People Eater"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0141885",
+          "display_name": "Richard Carter",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzA4MzM4NDU1MV5BMl5BanBnXkFtZTcwNDMwMTQwOA@@._V1_.jpg",
+              "width": 1352,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "The Bullet Farmer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5208473",
+          "display_name": "Iota",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzQ3MTk3ODEwMV5BMl5BanBnXkFtZTcwNzAwOTM0OQ@@._V1_.jpg",
+              "width": 2048,
+              "height": 1136
+            }
+          ]
+        },
+        "characters": [
+          "The Doof Warrior"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0760151",
+          "display_name": "Angus Sampson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWM4ODUyZWYtYmM5MC00MjBkLWJiMGMtNGRiODRkZTFlNTQ2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 218,
+              "height": 293
+            }
+          ]
+        },
+        "characters": [
+          "The Organic Mechanic"
+        ]
+      }
+    ]
+  }
+}

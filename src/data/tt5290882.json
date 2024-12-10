@@ -1,0 +1,326 @@
+{
+  "title": {
+    "id": "tt5290882",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Detective Chinatown",
+    "original_title": "Tang ren jie tan an",
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 136,
+    "plot": "After being rejected from the police academy, a mild-mannered young man travels to Bangkok where he and an energetic distant relative must solve a murder case.",
+    "rating": {
+      "aggregate_rating": 6.6,
+      "votes_count": 3546
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Mystery"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGZmYzNiNjktZjdmNS00Y2VmLWJlMGEtOTIxNjE1ZTNhYTI4XkEyXkFqcGc@._V1_.jpg",
+        "width": 428,
+        "height": 600
+      }
+    ],
+    "certificates": null,
+    "spoken_languages": [
+      {
+        "code": "tha",
+        "name": "Thai"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CN",
+        "name": "China"
+      },
+      {
+        "code": "HK",
+        "name": "Hong Kong (Special Administrative Region of China)"
+      },
+      {
+        "code": "MY",
+        "name": "Malaysia"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm2268805",
+          "display_name": "Sicheng Chen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGNkNjZlZGUtMDVjYi00MWMwLWE4N2UtNjJlODMxZmNjOTRjXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 921,
+              "height": 1317
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm11736472",
+          "display_name": "He Bai",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2268805",
+          "display_name": "Sicheng Chen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGNkNjZlZGUtMDVjYi00MWMwLWE4N2UtNjJlODMxZmNjOTRjXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 921,
+              "height": 1317
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm8291251",
+          "display_name": "Jiake Cheng",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm7605200",
+          "display_name": "Kai Liu",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1316170",
+          "display_name": "Baoqiang Wang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ4NzU3NTY3N15BMl5BanBnXkFtZTcwMDc2MjM1OQ@@._V1_.jpg",
+              "width": 1331,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Tang Ren"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7807568",
+          "display_name": "Haoran Liu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzcwMjYxYzMtM2M5OC00N2MyLTgzMGQtMmRiOWNiOTUxNWJmXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 360,
+              "height": 480
+            }
+          ]
+        },
+        "characters": [
+          "Qin Feng"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4369305",
+          "display_name": "He Chen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjcyOTI3ZTItNDQxMC00ODI0LWEzMTQtMzY5Njc5MzE0MDEyXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 520,
+              "height": 690
+            }
+          ]
+        },
+        "characters": [
+          "Huang Landeng"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4405625",
+          "display_name": "Liya Tong",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM3Njk1NDI4Nl5BMl5BanBnXkFtZTgwOTAwNjY4MzE@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        },
+        "characters": [
+          "Xiang"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4763789",
+          "display_name": "Yang Xiao",
+          "avatars": null
+        },
+        "characters": [
+          "Kon Tai"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3370295",
+          "display_name": "Shenyang Xiao",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYxOTI3MDk4NV5BMl5BanBnXkFtZTcwMzk1MDg1Mw@@._V1_.jpg",
+              "width": 2048,
+              "height": 1332
+            }
+          ]
+        },
+        "characters": [
+          "Bei Ge"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0659041",
+          "display_name": "Yueming Pan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzI2MGUxM2ItZDU2My00NWRlLThjZGMtZGQ3ZmE5NjE5ZGE4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDg5Mzk5Mg@@._V1_.jpg",
+              "width": 359,
+              "height": 550
+            }
+          ]
+        },
+        "characters": [
+          "Lee"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5958776",
+          "display_name": "Marc Ma",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWMyMGNlY2QtM2ZlMi00NDhkLTgyNWMtNjliYzE3YTBiMWMwXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 279,
+              "height": 366
+            }
+          ]
+        },
+        "characters": [
+          "Tony"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3639973",
+          "display_name": "Yingjun Zhao",
+          "avatars": null
+        },
+        "characters": [
+          "Vietnamese"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3988282",
+          "display_name": "Zifeng Zhang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2VhZWQ4MGEtMTI0My00Mjk4LWEyYjYtNDY4NmVlZmUzODM4XkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 950,
+              "height": 1425
+            }
+          ]
+        },
+        "characters": [
+          "Snow"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5607516",
+          "display_name": "Ping Sang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTFlNjkwMzktMjkyYy00NTMzLTkzZTUtZDdhYTY3NzVkZTFhXkEyXkFqcGc@._V1_.jpg",
+              "width": 454,
+              "height": 649
+            }
+          ]
+        },
+        "characters": [
+          "King Kong"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0423084",
+          "display_name": "Shih-Chieh King",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmIzZDAxZDEtNjgzNy00YjU5LWIyOTEtYWNiNjcxN2RhMTg4XkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 533,
+              "height": 689
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Yan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3934959",
+          "display_name": "Da Peng",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGFkOWRlMGEtYjQ1YS00N2E3LWJiODYtMzg3N2MzNjMyNDI0XkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 1200,
+              "height": 1600
+            }
+          ]
+        },
+        "characters": [
+          "Police Male Interviewer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3590261",
+          "display_name": "Guoqiang Zhang",
+          "avatars": null
+        },
+        "characters": [
+          "The Qin Feng's Father"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5328316",
+          "display_name": "Qing Ye",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGExNzc4YTItNzk0My00NmVjLTljMDMtZmZhNDhjMzVhY2E3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 500,
+              "height": 678
+            }
+          ]
+        },
+        "characters": [
+          "Bride"
+        ]
+      }
+    ]
+  }
+}

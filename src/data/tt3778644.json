@@ -1,0 +1,352 @@
+{
+  "title": {
+    "id": "tt3778644",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Solo: A Star Wars Story",
+    "original_title": null,
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 135,
+    "plot": "Board the Millennium Falcon and journey to a galaxy far, far away in an epic action-adventure that will set the course of one of the Star Wars saga's most unlikely heroes.",
+    "rating": {
+      "aggregate_rating": 6.9,
+      "votes_count": 375572
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTM2NTI3NTc3Nl5BMl5BanBnXkFtZTgwNzM1OTQyNTM@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 62,
+      "review_count": 54
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0000165",
+          "display_name": "Ron Howard",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkzMDczMjUxNF5BMl5BanBnXkFtZTcwODY1Njk5Mg@@._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0440459",
+          "display_name": "Jonathan Kasdan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjk4NDEwNTIzNl5BMl5BanBnXkFtZTcwNzgxNTMyNw@@._V1_.jpg",
+              "width": 2048,
+              "height": 1362
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0001410",
+          "display_name": "Lawrence Kasdan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM3MTQ1NDg2OF5BMl5BanBnXkFtZTYwNjc0NDEz._V1_.jpg",
+              "width": 450,
+              "height": 637
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0000184",
+          "display_name": "George Lucas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA0Mjc0NzExNzBeQTJeQWpwZ15BbWU3MDEzMzQ3MDI@._V1_.jpg",
+              "width": 271,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm2403277",
+          "display_name": "Alden Ehrenreich",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjY5ODY0MDE5Nl5BMl5BanBnXkFtZTgwODg2NDM4ODE@._V1_.jpg",
+              "width": 1024,
+              "height": 1535
+            }
+          ]
+        },
+        "characters": [
+          "Han Solo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6934058",
+          "display_name": "Joonas Suotamo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE4ODQyMzE4MF5BMl5BanBnXkFtZTgwOTkzMTYzNDM@._V1_.jpg",
+              "width": 1387,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Chewbacca"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000437",
+          "display_name": "Woody Harrelson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU3NDc2ODc4MF5BMl5BanBnXkFtZTcwODk2MzAyMg@@._V1_.jpg",
+              "width": 272,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Beckett"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3592338",
+          "display_name": "Emilia Clarke",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjg3OTg4MDczMl5BMl5BanBnXkFtZTgwODc0NzUwNjE@._V1_.jpg",
+              "width": 929,
+              "height": 1394
+            }
+          ]
+        },
+        "characters": [
+          "Qi'ra"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2255973",
+          "display_name": "Donald Glover",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzUxNTU5ODkxNl5BMl5BanBnXkFtZTgwOTIyNjc5MDI@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Lando Calrissian"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0628601",
+          "display_name": "Thandiwe Newton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjMzNTAxNDUwNV5BMl5BanBnXkFtZTcwMjMyNjI5MQ@@._V1_.jpg",
+              "width": 308,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Val"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3564817",
+          "display_name": "Phoebe Waller-Bridge",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQxNzYxODg4NF5BMl5BanBnXkFtZTgwNzE1NzYzMjI@._V1_.jpg",
+              "width": 1323,
+              "height": 1838
+            }
+          ]
+        },
+        "characters": [
+          "L3-37"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0079273",
+          "display_name": "Paul Bettany",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODRmNzI3MzUtODFiOS00MWMxLWI2MWYtMGMxZjI4Nzc1NDA5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 5048,
+              "height": 3366
+            }
+          ]
+        },
+        "characters": [
+          "Dryden Vos"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0269463",
+          "display_name": "Jon Favreau",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjcwNzg4MjktNDNlMC00M2U1LWJmMjgtZTVkMmI4MDI2MTVmXkEyXkFqcGdeQXVyMjI4MDI0NTM@._V1_.jpg",
+              "width": 1000,
+              "height": 1333
+            }
+          ]
+        },
+        "characters": [
+          "Rio Durant"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7210986",
+          "display_name": "Erin Kellyman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcwMzAxMTgwOF5BMl5BanBnXkFtZTgwMzEyOTA2NTM@._V1_.jpg",
+              "width": 1766,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Enfys Nest"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001373",
+          "display_name": "Linda Hunt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM0NDg4MzMzNV5BMl5BanBnXkFtZTcwOTUwMTc4Mg@@._V1_.jpg",
+              "width": 381,
+              "height": 500
+            }
+          ]
+        },
+        "characters": [
+          "Lady Proxima"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2498053",
+          "display_name": "Ian Kenny",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc4NDdiNWItMGRmYi00YzY5LTlmODQtZGM1NmM4Y2RmZmU0XkEyXkFqcGdeQXVyMjEwMjYzNDA@._V1_.jpg",
+              "width": 5000,
+              "height": 3333
+            }
+          ]
+        },
+        "characters": [
+          "Rebolt"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1732270",
+          "display_name": "John Tui",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDhiMzM1OGItZTU3Yi00MzliLWE1ODEtNDdmOWQ3MDEzN2I4XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 4000,
+              "height": 2667
+            }
+          ]
+        },
+        "characters": [
+          "Korso"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0290693",
+          "display_name": "Anna Francolini",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDBhN2M1ZDItNDkwNi00ZGJhLTgzNGEtZjllMmM1NWU0YzVhXkEyXkFqcGdeQXVyODIwMTUyNw@@._V1_.jpg",
+              "width": 4000,
+              "height": 5000
+            }
+          ]
+        },
+        "characters": [
+          "Imperial Emigration Officer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0940100",
+          "display_name": "Andrew Woodall",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAwNzczNDI5M15BMl5BanBnXkFtZTcwMzY1NjUzOA@@._V1_.jpg",
+              "width": 629,
+              "height": 971
+            }
+          ]
+        },
+        "characters": [
+          "Imperial Recruitment Officer"
+        ]
+      }
+    ]
+  }
+}

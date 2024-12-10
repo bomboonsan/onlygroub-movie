@@ -1,0 +1,347 @@
+{
+  "title": {
+    "id": "tt5164432",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Love, Simon",
+    "original_title": null,
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 110,
+    "plot": "Simon Spier keeps a huge secret from his family, his friends and all of his classmates: he's gay. When that secret is threatened, Simon must face everyone and come to terms with his identity.",
+    "rating": {
+      "aggregate_rating": 7.5,
+      "votes_count": 126038
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTMyZDdiMzUtZjcxNS00Mjc3LTljY2UtYjI4YmY5NzJlYjc1XkEyXkFqcGdeQXVyMTA5OTkwNTc@._V1_.jpg",
+        "width": 2000,
+        "height": 2954
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 72,
+      "review_count": 38
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0075528",
+          "display_name": "Greg Berlanti",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMwOTc4MDAyMF5BMl5BanBnXkFtZTcwNTY5MTY4NA@@._V1_.jpg",
+              "width": 1600,
+              "height": 1067
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm7698350",
+          "display_name": "Becky Albertalli",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0074165",
+          "display_name": "Elizabeth Berger",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm4170842",
+          "display_name": "Isaac Aptaker",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDgzNjdmYzItOWM0Zi00YjllLWE3NTUtMjI2MTM2ZjJhZjlhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 217,
+              "height": 276
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm3538718",
+          "display_name": "Nick Robinson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzViMjQ4NzQtZDBhNC00ZTlhLTk4NzktYTYyYzE4NjFiZjQ1XkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_.jpg",
+              "width": 2000,
+              "height": 2500
+            }
+          ]
+        },
+        "characters": [
+          "Simon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0004950",
+          "display_name": "Jennifer Garner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTA4MDgzMTc1Nl5BMl5BanBnXkFtZTcwNjQyMjIwNQ@@._V1_.jpg",
+              "width": 1569,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Emily"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0241049",
+          "display_name": "Josh Duhamel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE3MDUyNjM1N15BMl5BanBnXkFtZTcwMDc3NDY2Mg@@._V1_.jpg",
+              "width": 293,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Jack"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7692698",
+          "display_name": "Katherine Langford",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTZmMGQ3NDgtODNkNy00ZGEwLWExNWYtMDQ5MjM0NzlhMDQ0XkEyXkFqcGdeQXVyNjM0NjkwNTI@._V1_.jpg",
+              "width": 666,
+              "height": 894
+            }
+          ]
+        },
+        "characters": [
+          "Leah"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3381295",
+          "display_name": "Alexandra Shipp",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzUxOWUwYWItMzIzNS00YTQ3LWJhZGYtYTJkNGZlZjEzMmIwXkEyXkFqcGdeQXVyMTI4MDM5MzYw._V1_.jpg",
+              "width": 4838,
+              "height": 6048
+            }
+          ]
+        },
+        "characters": [
+          "Abby"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2383250",
+          "display_name": "Logan Miller",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmFmN2Q1NGUtY2VlNC00NGMxLTkxOTctMjk1OTQ5MzFkYjJkXkEyXkFqcGdeQXVyMTQwMDQwNjY@._V1_.jpg",
+              "width": 1228,
+              "height": 1814
+            }
+          ]
+        },
+        "characters": [
+          "Martin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2920533",
+          "display_name": "Keiynan Lonsdale",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDgxYTU1N2EtMTQ5MC00N2VlLTkwNDMtMDk5YzJmMjAwZGRlXkEyXkFqcGdeQXVyMjc3NzE4OTQ@._V1_.jpg",
+              "width": 2845,
+              "height": 3938
+            }
+          ]
+        },
+        "characters": [
+          "Bram"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7449863",
+          "display_name": "Jorge Lendeborg Jr.",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTUwOTM5ODM4Nl5BMl5BanBnXkFtZTgwOTQ2NDM5NjM@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Nick"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5145057",
+          "display_name": "Talitha Eliana Bateman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDQ3ZTM1ODQtMTg0MS00YmIyLWFkMjMtZjAxM2M1ZGJkMzBkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1125,
+              "height": 1693
+            }
+          ]
+        },
+        "characters": [
+          "Nora"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0355024",
+          "display_name": "Tony Hale",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGE2YWM1MjQtODBlMS00ZjVmLTg2YzEtZjk0ZDdmMjRlMDRhXkEyXkFqcGdeQXVyMTI2Nzk2ODk3._V1_.jpg",
+              "width": 1071,
+              "height": 1053
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Worth"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5625020",
+          "display_name": "Natasha Rothwell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODIyY2I4MTEtNjRjZi00MDI2LThiYzQtYTcxM2YzZWQ0OWUzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 400,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Ms. Albright"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1851028",
+          "display_name": "Miles Heizer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMyMTk4NTg1MF5BMl5BanBnXkFtZTgwNzU2ODI3NTM@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Cal"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2239942",
+          "display_name": "Joey Pollari",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTQ2ZWEyYTYtY2ZlZC00N2EwLWI1ZTgtN2Y3NTczMmIwMjZmXkEyXkFqcGdeQXVyMTA2MzQyODg@._V1_.jpg",
+              "width": 1361,
+              "height": 2050
+            }
+          ]
+        },
+        "characters": [
+          "Lyle"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5045626",
+          "display_name": "Clark Moore",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODg4ZGIzNTAtZWVmOS00OGZjLThjMjctYWUzYjFkMmQ4MmI1XkEyXkFqcGc@._V1_.jpg",
+              "width": 3902,
+              "height": 4877
+            }
+          ]
+        },
+        "characters": [
+          "Ethan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6481846",
+          "display_name": "Drew Starkey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWQwOTVkZTUtNTQ1MC00MGIxLWI5ZWMtOWIzNjVlZmJlYTljXkEyXkFqcGdeQXVyNjk0NjY1ODk@._V1_.jpg",
+              "width": 3264,
+              "height": 4928
+            }
+          ]
+        },
+        "characters": [
+          "Garrett"
+        ]
+      }
+    ]
+  }
+}

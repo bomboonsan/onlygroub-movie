@@ -1,0 +1,280 @@
+{
+  "title": {
+    "id": "tt3767372",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Piku",
+    "original_title": null,
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 123,
+    "plot": "A quirky comedy about the relationship between a daughter and her aging father, whose eccentricities drive everyone crazy.",
+    "rating": {
+      "aggregate_rating": 7.6,
+      "votes_count": 34068
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTUwOTMxNjc2OV5BMl5BanBnXkFtZTgwODQ4OTMxNTE@._V1_.jpg",
+        "width": 1125,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "Not Rated"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "hin",
+        "name": "Hindi"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "IN",
+        "name": "India"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm1999473",
+          "display_name": "Shoojit Sircar",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWFlZDBhZWItZTI0OS00YTJlLTkzMGMtMjU0MzI5OWY2OTE4XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 708,
+              "height": 909
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm4962323",
+          "display_name": "Juhi Chaturvedi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDVhN2IxZWItNTgxYi00OGU2LWEyZjUtN2UzMWRjMDA0OWExXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_.jpg",
+              "width": 500,
+              "height": 753
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm2138653",
+          "display_name": "Deepika Padukone",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGFlYzAyYjgtNzRjNS00NmE4LTliOGYtYzBkYzU5MzRhMDM0XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 672,
+              "height": 1008
+            }
+          ]
+        },
+        "characters": [
+          "Piku Banerjee"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000821",
+          "display_name": "Amitabh Bachchan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTk1OTUxMzIzMV5BMl5BanBnXkFtZTcwMzMxMjI0Nw@@._V1_.jpg",
+              "width": 1491,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Bhaskor Banerjee"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0451234",
+          "display_name": "Irrfan Khan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDg3NDgxNzY4NF5BMl5BanBnXkFtZTcwODMxODQzMg@@._V1_.jpg",
+              "width": 299,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Rana"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0154139",
+          "display_name": "Moushumi Chatterjee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmQ0NGFjODgtODdkNC00YzEzLTkxNzgtNmQ3NWUxMGEzZGU5XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+              "width": 1600,
+              "height": 2335
+            }
+          ]
+        },
+        "characters": [
+          "Chhobi Maashi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0944834",
+          "display_name": "Raghubir Yadav",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTIzOWZhMjctNTBkMi00YTc0LThhOGYtMDFlZmI4ZmNkZTZiXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 528,
+              "height": 754
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Srivastava"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1702868",
+          "display_name": "Jisshu Sengupta",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTkzM2UyYjMtOGU3ZS00YWVlLWFkYzctODVjYjZlOWFjNDhmXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+              "width": 1600,
+              "height": 2287
+            }
+          ]
+        },
+        "characters": [
+          "Syed"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7464979",
+          "display_name": "Balendar Singh",
+          "avatars": null
+        },
+        "characters": [
+          "Budhan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5000540",
+          "display_name": "Swaroopa Ghosh",
+          "avatars": null
+        },
+        "characters": [
+          "Moni Kaki"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7602180",
+          "display_name": "Sajal Bhattacharya",
+          "avatars": null
+        },
+        "characters": [
+          "Binod Kaka"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7602181",
+          "display_name": "Rupsa Banerjee",
+          "avatars": null
+        },
+        "characters": [
+          "Eisha"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3464457",
+          "display_name": "Nutan Surya",
+          "avatars": null
+        },
+        "characters": [
+          "Sansaari (Rana's Mother)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4114810",
+          "display_name": "Prerna Chawla",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzExOGZkNTUtZWRjMC00Nzg0LWJiOTYtNTdkZmY3ZDdiNDBhXkEyXkFqcGc@._V1_.jpg",
+              "width": 1078,
+              "height": 1345
+            }
+          ]
+        },
+        "characters": [
+          "Ritu"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7602183",
+          "display_name": "Aniruddha Roy Chowdhury",
+          "avatars": null
+        },
+        "characters": [
+          "Nobendu"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0154119",
+          "display_name": "Bishwadeep Chatterjee",
+          "avatars": null
+        },
+        "characters": [
+          "Tapo Mesho"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0244865",
+          "display_name": "Avijit Dutt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjlhNjFiNzUtZTkxNy00ZTE1LWJhMGUtNDNlNWNkOGI3ZTRmXkEyXkFqcGdeQXVyMjQ2MDI5ODE@._V1_.jpg",
+              "width": 338,
+              "height": 311
+            }
+          ]
+        },
+        "characters": [
+          "Bodo Mesho"
+        ]
+      }
+    ]
+  }
+}

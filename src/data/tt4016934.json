@@ -1,0 +1,302 @@
+{
+  "title": {
+    "id": "tt4016934",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Handmaiden",
+    "original_title": "Ah-ga-ssi",
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 145,
+    "plot": "A woman is hired as a handmaiden to a Japanese heiress, but secretly she is involved in a plot to defraud her.",
+    "rating": {
+      "aggregate_rating": 8.1,
+      "votes_count": 173181
+    },
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDJhYTk2MTctZmVmOS00OTViLTgxNjQtMzQxOTRiMDdmNGRjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "width": 4927,
+        "height": 7087
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "Not Rated"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "jpn",
+        "name": "Japanese"
+      },
+      {
+        "code": "kor",
+        "name": "Korean"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "KR",
+        "name": "Republic of Korea"
+      }
+    ],
+    "critic_review": {
+      "score": 85,
+      "review_count": 40
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0661791",
+          "display_name": "Park Chan-wook",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgyODk3MTU5OV5BMl5BanBnXkFtZTcwMTc3NjcyMQ@@._V1_.jpg",
+              "width": 250,
+              "height": 326
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1258797",
+          "display_name": "Sarah Waters",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1941029",
+          "display_name": "Chung Seo-kyung",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2ZiOTVhNjQtZmI5ZS00MzVlLWIxMGItZTA5MmU1ZTllODVmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+              "width": 365,
+              "height": 550
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0661791",
+          "display_name": "Park Chan-wook",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgyODk3MTU5OV5BMl5BanBnXkFtZTcwMTc3NjcyMQ@@._V1_.jpg",
+              "width": 250,
+              "height": 326
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm3892241",
+          "display_name": "Kim Tae-ri",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDcwMWYzZWMtNTY3NC00MjA1LTg5OTAtN2E1YzdmNzE0MTA4XkEyXkFqcGdeQXVyNzY1ODU1OTk@._V1_.jpg",
+              "width": 2675,
+              "height": 3648
+            }
+          ]
+        },
+        "characters": [
+          "Sook-Hee"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1079857",
+          "display_name": "Lee Yong-nyeo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDQ0NzM0MTctYzc4Yy00ZTA0LTk0NmUtNTMwN2U1ODk4NDhhXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+              "width": 426,
+              "height": 579
+            }
+          ]
+        },
+        "characters": [
+          "Bok-soon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8621196",
+          "display_name": "Yoo Min-chae",
+          "avatars": null
+        },
+        "characters": [
+          "Ggeut-dan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6771561",
+          "display_name": "Lee Dong-hwi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjY0MmRjNjMtYWNhYS00NTBlLTkwZjktYmE5NTgxMGJiZmYwXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+              "width": 1600,
+              "height": 1999
+            }
+          ]
+        },
+        "characters": [
+          "Goo-gai"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1390122",
+          "display_name": "Kim Hae-sook",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmNmYTI4NWItM2ZlNC00NjVhLTljNjItOTI5YjA0MGE3MWU4XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+              "width": 540,
+              "height": 810
+            }
+          ]
+        },
+        "characters": [
+          "Miss Sasaki"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1195119",
+          "display_name": "Kim Min-hee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAyNzI3MjU3OF5BMl5BanBnXkFtZTgwMjgwMTEyMjE@._V1_.jpg",
+              "width": 2303,
+              "height": 1535
+            }
+          ]
+        },
+        "characters": [
+          "Lady Hideko"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1978402",
+          "display_name": "Ha Jung-woo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc4NTYwMTAxNF5BMl5BanBnXkFtZTcwNTQ2Mzc3NA@@._V1_.jpg",
+              "width": 1374,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Count Fujiwara"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8621199",
+          "display_name": "Lee Kyu-jung",
+          "avatars": null
+        },
+        "characters": [
+          "Maid 1"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7955709",
+          "display_name": "Kim Si-eun",
+          "avatars": null
+        },
+        "characters": [
+          "Maid 2"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8621200",
+          "display_name": "Ha Si-yeon",
+          "avatars": null
+        },
+        "characters": [
+          "Maid 3"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1133320",
+          "display_name": "Rina Takagi",
+          "avatars": null
+        },
+        "characters": [
+          "Hideko's Mother"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2437361",
+          "display_name": "Cho Jin-woong",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg2MjUxMzExMF5BMl5BanBnXkFtZTgwMTgyMjE5ODE@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Uncle Kouzuki"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3796951",
+          "display_name": "Won Geun-hee",
+          "avatars": null
+        },
+        "characters": [
+          "Butler"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8129612",
+          "display_name": "Kim Jong-dae",
+          "avatars": null
+        },
+        "characters": [
+          "Mansion Driver"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12214775",
+          "display_name": "Jang Han-sun",
+          "avatars": null
+        },
+        "characters": [
+          "Kouzuki Porter"
+        ]
+      }
+    ]
+  }
+}

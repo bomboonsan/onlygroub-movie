@@ -1,0 +1,289 @@
+{
+  "title": {
+    "id": "tt4034354",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Swiss Army Man",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 97,
+    "plot": "A hopeless man stranded on a deserted island befriends a dead body, and together they go on a surreal journey to get home.",
+    "rating": {
+      "aggregate_rating": 6.9,
+      "votes_count": 134134
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTk0OTEyMjM1OF5BMl5BanBnXkFtZTgwMzMzODM4ODE@._V1_.jpg",
+        "width": 1000,
+        "height": 1481
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 64,
+      "review_count": 36
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm3453283",
+          "display_name": "Daniel Kwan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjJiZjk1YzAtNGI1Ny00MWE5LWFkMGMtOGRmY2FlNDg4Zjg2XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 1020,
+              "height": 1372
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm3215397",
+          "display_name": "Daniel Scheinert",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDg5ZWFmMDYtNTZlNC00NTE4LWFjNDEtNmQ4NjliNzc3ODE5XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 964,
+              "height": 1308
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm3215397",
+          "display_name": "Daniel Scheinert",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDg5ZWFmMDYtNTZlNC00NTE4LWFjNDEtNmQ4NjliNzc3ODE5XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 964,
+              "height": 1308
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm3453283",
+          "display_name": "Daniel Kwan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjJiZjk1YzAtNGI1Ny00MWE5LWFkMGMtOGRmY2FlNDg4Zjg2XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 1020,
+              "height": 1372
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0200452",
+          "display_name": "Paul Dano",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMwMzE1OTc0OF5BMl5BanBnXkFtZTcwMDU2NTg0Nw@@._V1_.jpg",
+              "width": 1484,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Hank"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0705356",
+          "display_name": "Daniel Radcliffe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmE0NzNiNzQtYTVlYS00MjljLWE4MTgtYzYxNjU2NjZkM2M4XkEyXkFqcGdeQXVyNjY5NDgzNjQ@._V1_.jpg",
+              "width": 760,
+              "height": 1140
+            }
+          ]
+        },
+        "characters": [
+          "Manny"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0935541",
+          "display_name": "Mary Elizabeth Winstead",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGNhZDVjM2MtMGQ2Mi00ZjRmLWJkZDUtYmMzOWZjMWFmNGUxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "width": 2912,
+              "height": 4240
+            }
+          ]
+        },
+        "characters": [
+          "Sarah"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7708571",
+          "display_name": "Antonia Ribero",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzcwN2FjYWEtMjQ1My00MTNmLThhZTEtZjZjMDQ1OTEyZmVmXkEyXkFqcGc@._V1_.jpg",
+              "width": 1280,
+              "height": 546
+            }
+          ]
+        },
+        "characters": [
+          "Crissie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2361928",
+          "display_name": "Timothy Eulich",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2RlMTU1MjMtN2FkZS00NjYxLWI3OGUtMzk0ZjBhYThjMGRlXkEyXkFqcGdeQXVyNzQ4MTI3Mg@@._V1_.jpg",
+              "width": 954,
+              "height": 974
+            }
+          ]
+        },
+        "characters": [
+          "Preston"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0343478",
+          "display_name": "Richard Gross",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc5OTQ1MTIwNF5BMl5BanBnXkFtZTcwNjI0MDkyMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 677
+            }
+          ]
+        },
+        "characters": [
+          "Hank's Dad"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0144554",
+          "display_name": "Marika Casteel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI5NTQ0MzYxN15BMl5BanBnXkFtZTcwNjc0ODEzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 691
+            }
+          ]
+        },
+        "characters": [
+          "Reporter"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7874447",
+          "display_name": "Andy Hull",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjMzNDNkNjEtMTNkMC00Mzc1LThkNDUtYzFiZTEyYzQ1YmI3XkEyXkFqcGc@._V1_.jpg",
+              "width": 648,
+              "height": 432
+            }
+          ]
+        },
+        "characters": [
+          "Cameraman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7656390",
+          "display_name": "Aaron Marshall",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmQ3ZWNlMWQtNzhlOS00MmUzLTk0OTAtOTM4YTAwM2Q3NjRmXkEyXkFqcGc@._V1_.jpg",
+              "width": 1080,
+              "height": 1375
+            }
+          ]
+        },
+        "characters": [
+          "Officer #1"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1503403",
+          "display_name": "Shane Carruth",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzU5MTYwNTg5NV5BMl5BanBnXkFtZTYwMzkxNTUz._V1_.jpg",
+              "width": 400,
+              "height": 367
+            }
+          ]
+        },
+        "characters": [
+          "Coroner"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2076536",
+          "display_name": "Jess Harbeck",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmU4OTRiNzMtMzBhNy00ZGE0LTk2MjctNjEzNDgxZmVkMjNhXkEyXkFqcGc@._V1_.jpg",
+              "width": 3338,
+              "height": 4172
+            }
+          ]
+        },
+        "characters": [
+          "Officer #2"
+        ]
+      }
+    ]
+  }
+}

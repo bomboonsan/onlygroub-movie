@@ -1,0 +1,347 @@
+{
+  "title": {
+    "id": "tt1321510",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "In the Heights",
+    "original_title": null,
+    "start_year": 2021,
+    "end_year": null,
+    "runtime_minutes": 143,
+    "plot": "In Washington Heights, a sympathetic New York bodega owner saves every penny every day as he imagines and sings about a better life.",
+    "rating": {
+      "aggregate_rating": 7.3,
+      "votes_count": 51629
+    },
+    "genres": [
+      "Drama",
+      "Musical",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzM1ZDY0YTktZTYzZi00MjZjLTllMDMtMmNlMmM5NmY4ZjllXkEyXkFqcGdeQXVyMTA1OTcyNDQ4._V1_.jpg",
+        "width": 2025,
+        "height": 3000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "heb",
+        "name": "Hebrew"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 84,
+      "review_count": 55
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0160840",
+          "display_name": "Jon M. Chu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDM0NjgyNjkwOV5BMl5BanBnXkFtZTgwNzYzOTMzMDE@._V1_.jpg",
+              "width": 672,
+              "height": 1008
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm3730005",
+          "display_name": "Quiara Alegría Hudes",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg0ODg1ZjQtOTk3Yy00YzMzLWI5YWYtZDI0MTllYmRiZWNmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "width": 1996,
+              "height": 3000
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0592135",
+          "display_name": "Lin-Manuel Miranda",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU0MDM2Mzg0OV5BMl5BanBnXkFtZTgwMjA1MDE2MDI@._V1_.jpg",
+              "width": 1335,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm6588867",
+          "display_name": "Anthony Ramos",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmM5YjA4ZDktM2I1NC00ZWRhLThjMzItZGZhNTRlMTdkZGVkXkEyXkFqcGdeQXVyNTkyMTE5Nzg@._V1_.jpg",
+              "width": 730,
+              "height": 1104
+            }
+          ]
+        },
+        "characters": [
+          "Usnavi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4574440",
+          "display_name": "Melissa Barrera",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjg4OTgxMTctZDI0MC00ODY4LWEzNmItZjAwNjQ0NGQ1NDQxXkEyXkFqcGdeQXVyNzYyMTMyODk@._V1_.jpg",
+              "width": 1200,
+              "height": 1735
+            }
+          ]
+        },
+        "characters": [
+          "Vanessa"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6051155",
+          "display_name": "Leslie Grace",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDY4NTBlZDItYTY4NC00NzU3LWFkNDAtZTY0MDQ5M2I5Y2RkXkEyXkFqcGdeQXVyMTA2MDY0MTE2._V1_.jpg",
+              "width": 5464,
+              "height": 8192
+            }
+          ]
+        },
+        "characters": [
+          "Nina Rosario"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3659660",
+          "display_name": "Corey Hawkins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzRkZDVlOWUtNzk4Zi00Y2I2LWI4NjctODg1ZDA0OTEyOTNmXkEyXkFqcGdeQXVyMjQxMzY5NzE@._V1_.jpg",
+              "width": 600,
+              "height": 900
+            }
+          ]
+        },
+        "characters": [
+          "Benny"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0580646",
+          "display_name": "Olga Merediz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWZlZTM3YmItZDQzOS00NzZjLWE5YTktOGJlNDkwNjZiMzlmXkEyXkFqcGdeQXVyMDU1MzE2MA@@._V1_.jpg",
+              "width": 425,
+              "height": 648
+            }
+          ]
+        },
+        "characters": [
+          "Abuela Claudia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001751",
+          "display_name": "Jimmy Smits",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmM4NzEyNjMtMzg3YS00Y2U1LTljNmEtZmVkMWFlZmQxNWIzXkEyXkFqcGdeQXVyOTU0MzA3MA@@._V1_.jpg",
+              "width": 2700,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Kevin Rosario"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7820636",
+          "display_name": "Gregory Diaz IV",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2U0ZWMyMDgtNjgxMS00MzNiLThiZWUtNWMwYjU2ZDRmMzc5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3600,
+              "height": 2400
+            }
+          ]
+        },
+        "characters": [
+          "Sonny"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0748189",
+          "display_name": "Daphne Rubin-Vega",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2E2MmE0NzQtYTk2My00NjEwLTg4Y2QtMTcwYWQ0NDk2MTE0XkEyXkFqcGdeQXVyNTQ4MjgxMzU@._V1_.jpg",
+              "width": 2000,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Daniela"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3715867",
+          "display_name": "Stephanie Beatriz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2Y3YWFkNGMtNjA3OS00ZTVhLTk0NDItODVkMmUxNTI1NTQ3XkEyXkFqcGdeQXVyMjMyOTczMTk@._V1_.jpg",
+              "width": 520,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Carla"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4745601",
+          "display_name": "Dascha Polanco",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI1NTU0Njg2Nl5BMl5BanBnXkFtZTgwMjA1MjkxNzE@._V1_.jpg",
+              "width": 7360,
+              "height": 4912
+            }
+          ]
+        },
+        "characters": [
+          "Cuca"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3475180",
+          "display_name": "Noah Catala",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTIwOWM4YjktNTE4NS00NWU3LWFiMWItMjg0YTdjYzE5MGY5XkEyXkFqcGdeQXVyODQxMDcxODA@._V1_.jpg",
+              "width": 2905,
+              "height": 2823
+            }
+          ]
+        },
+        "characters": [
+          "Graffiti Pete"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0592135",
+          "display_name": "Lin-Manuel Miranda",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU0MDM2Mzg0OV5BMl5BanBnXkFtZTgwMjA1MDE2MDI@._V1_.jpg",
+              "width": 1335,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Piragüero"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0351202",
+          "display_name": "Mateo Gómez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2NiNWJjNTUtNGZkYS00YzQ5LTk4MDgtMWJmOTU1MGNlNDQ2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3648,
+              "height": 5472
+            }
+          ]
+        },
+        "characters": [
+          "Alejandro"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0004711",
+          "display_name": "Marc Anthony",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjExMzIwMTYwN15BMl5BanBnXkFtZTYwMTIwNTQ0._V1_.jpg",
+              "width": 310,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Gapo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0656300",
+          "display_name": "Patrick Page",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjI5ODc5MzUtZThiMy00ZmY0LTk5YTYtZTFkZjMyZTkzYTExXkEyXkFqcGdeQXVyMTIwMTYyNDE@._V1_.jpg",
+              "width": 3600,
+              "height": 2400
+            }
+          ]
+        },
+        "characters": [
+          "Pike Phillips"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "title": {
+    "id": "tt7126948",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Wonder Woman 1984",
+    "original_title": null,
+    "start_year": 2020,
+    "end_year": null,
+    "runtime_minutes": 151,
+    "plot": "Diana must contend with a work colleague, and with a businessman whose desire for extreme wealth sends the world down a path of destruction, after an ancient artifact that grants wishes goes missing.",
+    "rating": {
+      "aggregate_rating": 5.4,
+      "votes_count": 292067
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTlhNzJjYzYtNGU3My00ZDI5LTgzZDUtYzllYjU1ZmU0YTgwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+        "width": 2764,
+        "height": 4096
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 60,
+      "review_count": 58
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0420941",
+          "display_name": "Patty Jenkins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg4NDA4NTQ5MF5BMl5BanBnXkFtZTgwOTA0Nzc0MzE@._V1_.jpg",
+              "width": 480,
+              "height": 535
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0420941",
+          "display_name": "Patty Jenkins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg4NDA4NTQ5MF5BMl5BanBnXkFtZTgwOTA0Nzc0MzE@._V1_.jpg",
+              "width": 480,
+              "height": 535
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0424315",
+          "display_name": "Geoff Johns",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MjUyMDUxOF5BMl5BanBnXkFtZTgwMjAxNTkzODE@._V1_.jpg",
+              "width": 1430,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1709264",
+          "display_name": "Dave Callaham",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTgwODBmZTItMGZmYi00MWY2LTllZjMtZDc4YjM0NzRmMjNhXkEyXkFqcGdeQXVyNDEzMDkzOQ@@._V1_.jpg",
+              "width": 986,
+              "height": 1276
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0551376",
+          "display_name": "William Moulton Marston",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTBjZjY4ODMtZWU2MS00YjBhLTg1MDUtMjk2OWU4MTM5MjFkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+              "width": 427,
+              "height": 580
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm2933757",
+          "display_name": "Gal Gadot",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzgxYTA2OTUtYmE0ZC00ZTc0LWJjY2QtOTIzMTJhNGUyZjBlXkEyXkFqcGdeQXVyMTg4NDI0NDM@._V1_.jpg",
+              "width": 1170,
+              "height": 1461
+            }
+          ]
+        },
+        "characters": [
+          "Diana Prince"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1517976",
+          "display_name": "Chris Pine",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM4OTQ4NTU3NV5BMl5BanBnXkFtZTcwNjEwNDU0OQ@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Steve Trevor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1325419",
+          "display_name": "Kristen Wiig",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODY0NzMzYTEtOGZmNS00ODJiLWEzYzktY2I4NDI3ODA2ZGRhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 2673,
+              "height": 4010
+            }
+          ]
+        },
+        "characters": [
+          "Barbara Minerva"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0050959",
+          "display_name": "Pedro Pascal",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGNlYTVlYTMtMjRhMC00YjY5LTkwMzMtZDE4MWQzMzgwYmUzXkEyXkFqcGdeQXVyMjI0OTExNzk@._V1_.jpg",
+              "width": 1104,
+              "height": 1354
+            }
+          ]
+        },
+        "characters": [
+          "Maxwell Lord"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000705",
+          "display_name": "Robin Wright",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU0NTc4MzEyOV5BMl5BanBnXkFtZTcwODY0ODkzMQ@@._V1_.jpg",
+              "width": 280,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Antiope"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001567",
+          "display_name": "Connie Nielsen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzZiYTQ4YTAtMzRkMi00ZDZlLWFkZWItNGI2ZTIyODRiYTc4XkEyXkFqcGdeQXVyMjUzMjc2MjE@._V1_.jpg",
+              "width": 1350,
+              "height": 1800
+            }
+          ]
+        },
+        "characters": [
+          "Hippolyta"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8412222",
+          "display_name": "Lilly Aspell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmFkMjc3M2EtNzNjNi00OWEyLWIxYWItNmM1OTVmM2YxNTU2XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 2549,
+              "height": 1059
+            }
+          ]
+        },
+        "characters": [
+          "Young Diana"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0906756",
+          "display_name": "Amr Waked",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTBiMzE1NWYtOWE3MS00MDAzLWI2NjAtN2ZiYjVhMTM1OGQwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3506,
+              "height": 4894
+            }
+          ]
+        },
+        "characters": [
+          "Emir Said Bin Abydos"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1119340",
+          "display_name": "Kristoffer Polaha",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTAyMTU3NjktODM2MC00NDkzLWExNjYtYmFkNTk1NGI4ZmFkXkEyXkFqcGdeQXVyMTkzNzg3MTA@._V1_.jpg",
+              "width": 767,
+              "height": 767
+            }
+          ]
+        },
+        "characters": [
+          "Handsome Man"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5625020",
+          "display_name": "Natasha Rothwell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODIyY2I4MTEtNjRjZi00MDI2LThiYzQtYTcxM2YzZWQ0OWUzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 400,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Carol (Co-Worker)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2201027",
+          "display_name": "Ravi Patel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc5NzM5MDA1N15BMl5BanBnXkFtZTcwMjAwNjM5NA@@._V1_.jpg",
+              "width": 1483,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Babajide"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0183122",
+          "display_name": "Oliver Cotton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg1ODYxMjg2OV5BMl5BanBnXkFtZTgwODA5MTIwMTE@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        },
+        "characters": [
+          "Simon Stagg"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8598537",
+          "display_name": "Lucian Perez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGU0ZThjMDUtMWM0ZS00ZjI1LTkxN2UtMzVmMDgyOTczNzJkXkEyXkFqcGc@._V1_.jpg",
+              "width": 2832,
+              "height": 4256
+            }
+          ]
+        },
+        "characters": [
+          "Alistair"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3538539",
+          "display_name": "Gabriella Wilde",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmJkMTc2NzgtMThkYi00MzBlLTk2MDAtYzA1YjQ4ZjBmNTE3XkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_.jpg",
+              "width": 4000,
+              "height": 5000
+            }
+          ]
+        },
+        "characters": [
+          "Raquel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0950515",
+          "display_name": "Kelvin Yu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDRlYjQ0YzYtZjExNy00ZjUzLTkzNjItYTZhZWNlOTQyYjFkXkEyXkFqcGdeQXVyNTEyODI3Nw@@._V1_.jpg",
+              "width": 2808,
+              "height": 4212
+            }
+          ]
+        },
+        "characters": [
+          "Jake"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "title": {
+    "id": "tt8385148",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Hitman's Wife's Bodyguard",
+    "original_title": null,
+    "start_year": 2021,
+    "end_year": null,
+    "runtime_minutes": 100,
+    "plot": "The bodyguard, Michael Bryce, continues his friendship with assassin, Darius Kincaid, as they try to save Darius' wife Sonia.",
+    "rating": {
+      "aggregate_rating": 6.1,
+      "votes_count": 107884
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Romance",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGQ2MGQ1ZGQtOTY4MS00ZDA5LWE5YmUtMGE0YTE2YTZiODZkXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg",
+        "width": 1728,
+        "height": 2664
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "jpn",
+        "name": "Japanese"
+      },
+      {
+        "code": "rus",
+        "name": "Russian"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "BG",
+        "name": "Bulgaria"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "SE",
+        "name": "Sweden"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 32,
+      "review_count": 36
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0400850",
+          "display_name": "Patrick Hughes",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2NmM2UzMDctODNjMC00OGE0LWEzN2QtYzk4MDkzOTA1YjAzXkEyXkFqcGdeQXVyMjEwMDA0NA@@._V1_.jpg",
+              "width": 1535,
+              "height": 2302
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm4468296",
+          "display_name": "Tom O'Connor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY4NDQ0MzcxMl5BMl5BanBnXkFtZTgwMTY3NzYwMjI@._V1_.jpg",
+              "width": 1080,
+              "height": 1460
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm5024076",
+          "display_name": "Phillip Murphy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODEwNjY2MGMtNzI2ZC00NDhhLWFmNjQtNzk3OTJhNzIxYmVlXkEyXkFqcGdeQXVyMzQ4OTE4OTA@._V1_.jpg",
+              "width": 740,
+              "height": 637
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm4364857",
+          "display_name": "Brandon Murphy",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0005351",
+          "display_name": "Ryan Reynolds",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODFmN2VmZmEtYTRjZi00ZjY1LTgxYjQtODMyNDI3ZDk4ZTJiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "width": 2034,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Michael Bryce"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000168",
+          "display_name": "Samuel L. Jackson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ1NTQwMTYxNl5BMl5BanBnXkFtZTYwMjA1MzY1._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Darius Kincaid"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000161",
+          "display_name": "Salma Hayek",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzkyMTk2NzM2Ml5BMl5BanBnXkFtZTcwNDQ4MjYzMg@@._V1_.jpg",
+              "width": 283,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Sonia Kincaid"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0328751",
+          "display_name": "Caroline Goodall",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTU2MDE0NzMxOV5BMl5BanBnXkFtZTcwNjE2OTg1OA@@._V1_.jpg",
+              "width": 2400,
+              "height": 3300
+            }
+          ]
+        },
+        "characters": [
+          "Crowley"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0296410",
+          "display_name": "Rebecca Front",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2FlMmM3NGEtNTBjNi00NGQ4LWI5ODEtYTExZjI1NTJjMzYzXkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_.jpg",
+              "width": 1353,
+              "height": 756
+            }
+          ]
+        },
+        "characters": [
+          "Therapist"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1720237",
+          "display_name": "Gabriella Wright",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE2MzMxZDgtM2M1NC00NWQxLWI2NzEtY2VlNzBlMWNmMWQ5XkEyXkFqcGdeQXVyMjUyNzAyMzY@._V1_.jpg",
+              "width": 828,
+              "height": 1118
+            }
+          ]
+        },
+        "characters": [
+          "Veronika"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8205905",
+          "display_name": "Alice McMillan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzU4NWZmM2QtZmRlZC00ODdlLWFlMTktNWU4ZDA1YTBjZThhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2000,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Ailso"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4238783",
+          "display_name": "Kristofer Kamiyasu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjg5NWNkNzMtMjgzYi00NWU3LWEzNTQtNDBiOWM1ZGJkNjQyXkEyXkFqcGdeQXVyNjAxODY3ODc@._V1_.jpg",
+              "width": 1575,
+              "height": 1968
+            }
+          ]
+        },
+        "characters": [
+          "Zento"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000198",
+          "display_name": "Gary Oldman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc3NTM4MzQ5MV5BMl5BanBnXkFtZTcwOTE4MDczNw@@._V1_.jpg",
+              "width": 1389,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Vladislav Dukhovic"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2584392",
+          "display_name": "Tom Hopper",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGQ1NjI3ODYtZGFmNy00MmM0LWEwMTEtN2MxYjc5OGFiNTIyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1910,
+              "height": 2279
+            }
+          ]
+        },
+        "characters": [
+          "Magnusson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0728682",
+          "display_name": "Blake Ritson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTc0ODk3Mzg4OF5BMl5BanBnXkFtZTcwMzIyNzgzOQ@@._V1_.jpg",
+              "width": 2334,
+              "height": 3500
+            }
+          ]
+        },
+        "characters": [
+          "Gunther"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001290",
+          "display_name": "Richard E. Grant",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc2NzA1NDk1Ml5BMl5BanBnXkFtZTgwMjk2NTA0NjM@._V1_.jpg",
+              "width": 530,
+              "height": 709
+            }
+          ]
+        },
+        "characters": [
+          "Seifert"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0991334",
+          "display_name": "Stewart Alexander",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWQyN2Y2MmItMmY5Yy00MGNjLThhYjUtYWMxMmEzNTNiMmFjXkEyXkFqcGc@._V1_.jpg",
+              "width": 2503,
+              "height": 3129
+            }
+          ]
+        },
+        "characters": [
+          "Awards Presenter"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000104",
+          "display_name": "Antonio Banderas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTQ3NTYyNF5BMl5BanBnXkFtZTcwMTY2NjIzNQ@@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Aristotles Papadopolous"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3438661",
+          "display_name": "Tsuwayuki Saotome",
+          "avatars": null
+        },
+        "characters": [
+          "Kurosawa"
+        ]
+      }
+    ]
+  }
+}

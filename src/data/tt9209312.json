@@ -1,0 +1,298 @@
+{
+  "title": {
+    "id": "tt9209312",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Mermaid in Paris",
+    "original_title": "Une sirène à Paris",
+    "start_year": 2020,
+    "end_year": null,
+    "runtime_minutes": 102,
+    "plot": "A man rescues a mermaid in Paris and slowly falls in love with her.",
+    "rating": {
+      "aggregate_rating": 5.7,
+      "votes_count": 1044
+    },
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjE5ODRlNTItNTMzZS00ODYyLTk3MWYtZTkzN2ZiNDkxYzRlXkEyXkFqcGdeQXVyNTcyMjMxMDA@._V1_.jpg",
+        "width": 423,
+        "height": 574
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "Not Rated"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "FR",
+        "name": "France"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm0540962",
+          "display_name": "Mathias Malzieu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM1MDEwNTA3NF5BMl5BanBnXkFtZTgwODE4MDAwOTE@._V1_.jpg",
+              "width": 421,
+              "height": 416
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm5073004",
+          "display_name": "Stéphane Landowski",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0540962",
+          "display_name": "Mathias Malzieu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM1MDEwNTA3NF5BMl5BanBnXkFtZTgwODE4MDAwOTE@._V1_.jpg",
+              "width": 421,
+              "height": 416
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0245164",
+          "display_name": "Nicolas Duvauchelle",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM0NjUzMDAwNV5BMl5BanBnXkFtZTcwMDg4NTUzOA@@._V1_.jpg",
+              "width": 1578,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Gaspard"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6725563",
+          "display_name": "Marilyn Lima",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc0NjEzMjg2OF5BMl5BanBnXkFtZTgwOTA5NzYwOTE@._V1_.jpg",
+              "width": 2048,
+              "height": 907
+            }
+          ]
+        },
+        "characters": [
+          "Lula"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0658041",
+          "display_name": "Rossy de Palma",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg3Nzg0ODUwM15BMl5BanBnXkFtZTcwMjc2NjIzNQ@@._V1_.jpg",
+              "width": 1419,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Rossy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001409",
+          "display_name": "Tchéky Karyo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTEyMzc5NWQtNjUyYi00MGQ3LTlhNDgtOWQzNjc2MTNhNGI5XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_.jpg",
+              "width": 1856,
+              "height": 2000
+            }
+          ]
+        },
+        "characters": [
+          "Camille"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001960",
+          "display_name": "Romane Bohringer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE0MjA4NzQwM15BMl5BanBnXkFtZTYwMTg0ODgz._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Milena"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1119022",
+          "display_name": "Alexis Michalik",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDA3YzMyNmUtMzUyZS00MDBjLWJkMTgtYjcxY2I1OGRkMzYxXkEyXkFqcGc@._V1_.jpg",
+              "width": 967,
+              "height": 1428
+            }
+          ]
+        },
+        "characters": [
+          "Victor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0667416",
+          "display_name": "Rodolphe Pauly",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzZhNTg2MTAtYmFlNi00NjQ5LWIxYmQtZjM3M2UwNjM2ZTFkXkEyXkFqcGdeQXVyMTY3NTY5OTcx._V1_.jpg",
+              "width": 573,
+              "height": 863
+            }
+          ]
+        },
+        "characters": [
+          "Henri"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4178963",
+          "display_name": "Lola Bessis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGU0ZDRlMzUtMmI4Zi00YTEyLWE2ZTUtYTk2ODJhMzMxM2IwXkEyXkFqcGc@._V1_.jpg",
+              "width": 662,
+              "height": 997
+            }
+          ]
+        },
+        "characters": [
+          "La pin-up"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6296590",
+          "display_name": "Nicolas Avinée",
+          "avatars": null
+        },
+        "characters": [
+          "Le biologiste"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5286974",
+          "display_name": "Jeanne Arènes",
+          "avatars": null
+        },
+        "characters": [
+          "La secrétaire"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0880503",
+          "display_name": "Nicolas Ullmann",
+          "avatars": null
+        },
+        "characters": [
+          "Client zazou"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0593865",
+          "display_name": "Labina Mitevska",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmIxNDM4ODQtNDMwNS00MjE5LThmYWItMzk4OGU2NTMyYjgwXkEyXkFqcGc@._V1_.jpg",
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        "characters": [
+          "L'urgentiste"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1734380",
+          "display_name": "Cali",
+          "avatars": null
+        },
+        "characters": [
+          "Le chef des pompiers"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm14486596",
+          "display_name": "Shinae An",
+          "avatars": null
+        },
+        "characters": [
+          "Membre des Barberettes"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm14486597",
+          "display_name": "Kyeongseon Lee",
+          "avatars": null
+        },
+        "characters": [
+          "Membre des Barberettes"
+        ]
+      }
+    ]
+  }
+}

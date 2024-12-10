@@ -1,0 +1,358 @@
+{
+  "title": {
+    "id": "tt0120667",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Fantastic Four",
+    "original_title": null,
+    "start_year": 2005,
+    "end_year": null,
+    "runtime_minutes": 106,
+    "plot": "A group of astronauts gain superpowers after a cosmic radiation exposure and must use them to oppose the plans of their enemy, Doctor Victor Von Doom.",
+    "rating": {
+      "aggregate_rating": 5.7,
+      "votes_count": 342220
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWU1ZjFjMTctYjA5ZC00YTBkLTkzZjUtZWEyMjgxY2MxYWM4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "width": 800,
+        "height": 1185
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "DE",
+        "name": "Germany"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 40,
+      "review_count": 35
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1103162",
+          "display_name": "Tim Story",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk3MzUyMDI3M15BMl5BanBnXkFtZTcwNTcwOTgzNw@@._V1_.jpg",
+              "width": 1168,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0004111",
+          "display_name": "Mark Frost",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2RmYTdlZTMtMmE4Mi00MjY4LWE4NzQtNWE4ZTgyZjI2OTdmXkEyXkFqcGdeQXVyMzQ3Nzk5MTU@._V1_.jpg",
+              "width": 1019,
+              "height": 1494
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0289833",
+          "display_name": "Michael France",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0498278",
+          "display_name": "Stan Lee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk3NDE3Njc5M15BMl5BanBnXkFtZTYwOTY5Nzc1._V1_.jpg",
+              "width": 278,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0456158",
+          "display_name": "Jack Kirby",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjY5MTkyNDctMTc1Zi00NTcwLWEzZWYtOWVjZjRkMzIxMmI3XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 921,
+              "height": 1128
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0344435",
+          "display_name": "Ioan Gruffudd",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDcxYzQ0NTgtMWUyYy00ZWUxLTljYzctYTIxMGMzOTg2ZjRkXkEyXkFqcGdeQXVyMTY5MDIxNDE@._V1_.jpg",
+              "width": 2700,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Reed Richards"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0004695",
+          "display_name": "Jessica Alba",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODYxNzE4OTk5Nl5BMl5BanBnXkFtZTcwODYyMDYzMw@@._V1_.jpg",
+              "width": 301,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Sue Storm"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0262635",
+          "display_name": "Chris Evans",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU2NTg1OTQzMF5BMl5BanBnXkFtZTcwNjIyMjkyMg@@._V1_.jpg",
+              "width": 285,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Johnny Storm"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0004821",
+          "display_name": "Michael Chiklis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjYzNGU2NGMtYjMzYS00YjQ4LThiODQtZjliZjhiMGVmN2IyXkEyXkFqcGdeQXVyOTYxOTcxOQ@@._V1_.jpg",
+              "width": 576,
+              "height": 720
+            }
+          ]
+        },
+        "characters": [
+          "Ben Grimm"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0573037",
+          "display_name": "Julian McMahon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI3Mzc2ODEyMF5BMl5BanBnXkFtZTYwODkwNTA0._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Victor Von Doom"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0512934",
+          "display_name": "Hamish Linklater",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEwNzE1Mjc1MV5BMl5BanBnXkFtZTgwNTgyMjgyNzE@._V1_.jpg",
+              "width": 1683,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Leonard"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0913488",
+          "display_name": "Kerry Washington",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUxNzk2OTQzOF5BMl5BanBnXkFtZTcwMTM0NjIwNw@@._V1_.jpg",
+              "width": 1714,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Alicia Masters"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0390229",
+          "display_name": "Laurie Holden",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWU5YWE5OGEtYjU2OC00ZDI5LWFkYzYtOWFlZjE0MjJhMmU3XkEyXkFqcGdeQXVyMTkzNTk3NTY@._V1_.jpg",
+              "width": 1536,
+              "height": 2212
+            }
+          ]
+        },
+        "characters": [
+          "Debbie McIlvane"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0662189",
+          "display_name": "David Parker",
+          "avatars": null
+        },
+        "characters": [
+          "Ernie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0574081",
+          "display_name": "Kevin McNulty",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjcyMTQ1M2YtMzljMS00ZWRlLWEwMGUtNGZlMmUwY2EwM2UwXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        "characters": [
+          "Jimmy O'Hoolihan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1172764",
+          "display_name": "Maria Menounos",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGZiOWEwNjEtMGJmOC00Zjk1LTk0ZmUtYTUzYWJmNjZmYzg3XkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_.jpg",
+              "width": 874,
+              "height": 932
+            }
+          ]
+        },
+        "characters": [
+          "Sexy Nurse"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0465959",
+          "display_name": "Michael Kopsa",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDc5M2VhODAtNzhjZi00Mjk5LWIwOWYtNzEyZjE0NGJkMzllXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 1256,
+              "height": 1332
+            }
+          ]
+        },
+        "characters": [
+          "Ned Cecil"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0014803",
+          "display_name": "Andrew Airlie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUzNTk1MzI4MV5BMl5BanBnXkFtZTgwNjg5NjQzNzE@._V1_.jpg",
+              "width": 1937,
+              "height": 2585
+            }
+          ]
+        },
+        "characters": [
+          "Compound Doctor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1370984",
+          "display_name": "Pascale Hutton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE3NTkyMTMxNF5BMl5BanBnXkFtZTcwNDMwNzg5OA@@._V1_.jpg",
+              "width": 3347,
+              "height": 3456
+            }
+          ]
+        },
+        "characters": [
+          "Nightclub Girlfriend"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0336632",
+          "display_name": "G. Michael Gray",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTE5OTg1MDMwNl5BMl5BanBnXkFtZTgwNTIyMTY4ODE@._V1_.jpg",
+              "width": 520,
+              "height": 650
+            }
+          ]
+        },
+        "characters": [
+          "Nightclub Boyfriend"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "title": {
+    "id": "tt0022100",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "M",
+    "original_title": "M - Eine Stadt sucht einen Mörder",
+    "start_year": 1931,
+    "end_year": null,
+    "runtime_minutes": 99,
+    "plot": "When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.",
+    "rating": {
+      "aggregate_rating": 8.3,
+      "votes_count": 168953
+    },
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_.jpg",
+        "width": 666,
+        "height": 1000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "Passed"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "deu",
+        "name": "German"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "DE",
+        "name": "Germany"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm0000485",
+          "display_name": "Fritz Lang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzU2ODY0NzkwNF5BMl5BanBnXkFtZTgwNDI0MTE5MTE@._V1_.jpg",
+              "width": 398,
+              "height": 475
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0902376",
+          "display_name": "Thea von Harbou",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmQxOWYyY2EtMWViNi00YTIwLWEwNDctZDk1ODlkZmZkNDA1XkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg",
+              "width": 700,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0000485",
+          "display_name": "Fritz Lang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzU2ODY0NzkwNF5BMl5BanBnXkFtZTgwNDI0MTE5MTE@._V1_.jpg",
+              "width": 398,
+              "height": 475
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0414825",
+          "display_name": "Egon Jacobsohn",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000048",
+          "display_name": "Peter Lorre",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI2MzM0ODQwOV5BMl5BanBnXkFtZTYwMjYwNjI2._V1_.jpg",
+              "width": 304,
+              "height": 450
+            }
+          ]
+        },
+        "characters": [
+          "Hans Beckert"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0927145",
+          "display_name": "Ellen Widmann",
+          "avatars": null
+        },
+        "characters": [
+          "Frau Beckmann"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0484737",
+          "display_name": "Inge Landgut",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDEyNTg4ODA0M15BMl5BanBnXkFtZTgwNzY1MTEwMzE@._V1_.jpg",
+              "width": 795,
+              "height": 1000
+            }
+          ]
+        },
+        "characters": [
+          "Elsie Beckmann"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0921532",
+          "display_name": "Otto Wernicke",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEwMDQ4MTgzMl5BMl5BanBnXkFtZTgwNzIzNzExMzE@._V1_.jpg",
+              "width": 736,
+              "height": 1000
+            }
+          ]
+        },
+        "characters": [
+          "Inspector Karl Lohmann"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0519765",
+          "display_name": "Theodor Loos",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmZhYWVkYzgtMTBkYi00OWFlLWI3ZjAtN2E5N2VmZDEyNWNjXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+              "width": 780,
+              "height": 955
+            }
+          ]
+        },
+        "characters": [
+          "Inspector Groeber"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0345073",
+          "display_name": "Gustaf Gründgens",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTc1NjM2ODkwNV5BMl5BanBnXkFtZTgwOTg1MTA5MTE@._V1_.jpg",
+              "width": 1024,
+              "height": 768
+            }
+          ]
+        },
+        "characters": [
+          "Schränker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0323479",
+          "display_name": "Friedrich Gnaß",
+          "avatars": null
+        },
+        "characters": [
+          "Franz"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0643997",
+          "display_name": "Fritz Odemar",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTE1NDFiNjEtZGNkOS00YzJkLTk3ZTgtN2U0Yzg2NDM2ZGU0XkEyXkFqcGdeQXVyNTUyMTMyMDg@._V1_.jpg",
+              "width": 363,
+              "height": 526
+            }
+          ]
+        },
+        "characters": [
+          "The Cheater"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0447349",
+          "display_name": "Paul Kemp",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWIzMTQxMzEtZWE2OS00YmZhLTliNjgtMzk0YzlmMWFmNjVlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+              "width": 620,
+              "height": 860
+            }
+          ]
+        },
+        "characters": [
+          "Pickpocket with Six Watches"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0003586",
+          "display_name": "Theo Lingen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDA1OWY1NzEtYmZlZS00NThlLThkNjgtODUyNzg4YjYzYTIyXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+              "width": 537,
+              "height": 751
+            }
+          ]
+        },
+        "characters": [
+          "Bauernfänger"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0090104",
+          "display_name": "Rudolf Blümner",
+          "avatars": null
+        },
+        "characters": [
+          "Beckert's Defender"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0313308",
+          "display_name": "Georg John",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDZjNzZlYTQtMTk5Mi00NWJmLTgyMGUtNjFjN2FjMTQ2YzRmXkEyXkFqcGc@._V1_.jpg",
+              "width": 402,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Blind Panhandler"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0825461",
+          "display_name": "Franz Stein",
+          "avatars": null
+        },
+        "characters": [
+          "Minister"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0821504",
+          "display_name": "Ernst Stahl-Nachbaur",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTQzZWUwMmQtYjc0OC00Y2E3LWJmNWQtNGFhY2JhNWZmZTlmXkEyXkFqcGc@._V1_.jpg",
+              "width": 368,
+              "height": 580
+            }
+          ]
+        },
+        "characters": [
+          "Police Chief"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0081499",
+          "display_name": "Gerhard Bienert",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmEwMjU0YmMtMDVmNi00ZTljLTk2YjgtNmQwMmExOGViNWVkXkEyXkFqcGc@._V1_.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ]
+        },
+        "characters": [
+          "Criminal Secretary"
+        ]
+      }
+    ]
+  }
+}

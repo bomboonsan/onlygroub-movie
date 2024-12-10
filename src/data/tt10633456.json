@@ -1,0 +1,328 @@
+{
+  "title": {
+    "id": "tt10633456",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Minari",
+    "original_title": null,
+    "start_year": 2020,
+    "end_year": null,
+    "runtime_minutes": 115,
+    "plot": "A Korean American family moves to an Arkansas farm in search of its own American dream. Amidst the challenges of new life in the strange and rugged Ozarks, they discover the undeniable resilience of family and what really makes a home.",
+    "rating": {
+      "aggregate_rating": 7.4,
+      "votes_count": 97333
+    },
+    "genres": [
+      "Drama"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWEzOTNjNDgtZDhhYS00ODAxLWIzNGMtYjU3OGZhYmI3ZDU4XkEyXkFqcGdeQXVyMTAzNjk5MDI4._V1_.jpg",
+        "width": 3500,
+        "height": 5069
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "kor",
+        "name": "Korean"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 89,
+      "review_count": 49
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1818032",
+          "display_name": "Lee Isaac Chung",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGIzMGJhYmQtZDYwYy00OWVmLWFiMGMtNzEwMDk1NTNhOTRhXkEyXkFqcGdeQXVyNzY1ODU1OTk@._V1_.jpg",
+              "width": 2137,
+              "height": 3000
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1818032",
+          "display_name": "Lee Isaac Chung",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGIzMGJhYmQtZDYwYy00OWVmLWFiMGMtNzEwMDk1NTNhOTRhXkEyXkFqcGdeQXVyNzY1ODU1OTk@._V1_.jpg",
+              "width": 2137,
+              "height": 3000
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm10910136",
+          "display_name": "Alan Kim",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTBjNTBkNzAtZTBjYy00ZjM5LWFjODUtMjNkZGM1ODQ1Y2Y3XkEyXkFqcGdeQXVyMzc0MDAxNDQ@._V1_.jpg",
+              "width": 750,
+              "height": 500
+            }
+          ]
+        },
+        "characters": [
+          "David"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3680658",
+          "display_name": "Han Ye-ri",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg5MTczNDIwMF5BMl5BanBnXkFtZTgwNjA5ODI3MDE@._V1_.jpg",
+              "width": 1920,
+              "height": 1280
+            }
+          ]
+        },
+        "characters": [
+          "Monica"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10942337",
+          "display_name": "Noel Cho",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjdlMzk0ODUtMzJmMy00ODcxLWE0MWYtZTI3NTA5YTRlZGYxXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+              "width": 460,
+              "height": 690
+            }
+          ]
+        },
+        "characters": [
+          "Anne"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3081796",
+          "display_name": "Steven Yeun",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjE4YmU2MTItMjE0ZC00Y2YxLWJkYWMtOTNiMTc0MDFjNjJlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 660,
+              "height": 918
+            }
+          ]
+        },
+        "characters": [
+          "Jacob"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0184981",
+          "display_name": "Darryl Cox",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDYxZDgzOWItZWNkOS00NTNhLWIzOWItYmNlMTNkN2E0ZmMyXkEyXkFqcGdeQXVyMTEwOTU5MQ@@._V1_.jpg",
+              "width": 2640,
+              "height": 3960
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Harlan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8081725",
+          "display_name": "Esther Moon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGVhZmJkYTktMmI3Yi00OGY3LWE3ZGQtYjE3MDQ2ODFlNzk5XkEyXkFqcGdeQXVyNjY1MjczODk@._V1_.jpg",
+              "width": 2700,
+              "height": 4050
+            }
+          ]
+        },
+        "characters": [
+          "Mrs. Oh"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2026324",
+          "display_name": "Ben Hall",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDZlNjlkODUtZTlhZC00MmNmLWEwYjAtOTliYTk4OWVlMTQ3XkEyXkFqcGdeQXVyMTY2MDgyMDE@._V1_.jpg",
+              "width": 3280,
+              "height": 4154
+            }
+          ]
+        },
+        "characters": [
+          "Dowsing Dan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1387487",
+          "display_name": "Eric Starkey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWUxYTBkMDctOTRkZC00MTBkLWIzMDYtMTEzZTYyMGQzNjgzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2592,
+              "height": 3585
+            }
+          ]
+        },
+        "characters": [
+          "Randy Boomer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001599",
+          "display_name": "Will Patton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTIyOTEzNzMxMV5BMl5BanBnXkFtZTYwNTk2Njc3._V1_.jpg",
+              "width": 443,
+              "height": 666
+            }
+          ]
+        },
+        "characters": [
+          "Paul"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0950926",
+          "display_name": "Youn Yuh-jung",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcyMDI1NDk4NV5BMl5BanBnXkFtZTcwNzM2Mzc3NA@@._V1_.jpg",
+              "width": 1251,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Soonja"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10397406",
+          "display_name": "Jacob M Wade",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjRjMjI4NTEtN2VhOS00NmQwLWIwYTMtZjYxYTE3MWI1NWUzXkEyXkFqcGdeQXVyMjY4MDAzMjE@._V1_.jpg",
+              "width": 465,
+              "height": 697
+            }
+          ]
+        },
+        "characters": [
+          "Johnnie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0521728",
+          "display_name": "James Carroll",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTBjZTFlMTgtOTM4MC00MTM3LWJjNzctODhhZDBlMDY1MGEyXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 1184,
+              "height": 888
+            }
+          ]
+        },
+        "characters": [
+          "Brother Roy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2830632",
+          "display_name": "Jenny Phagan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjNhMzI1YzAtMTA2ZS00NGY2LWJjNzItNTllYTcwY2E0NTEzXkEyXkFqcGdeQXVyMTYwMTU2MjQ@._V1_.jpg",
+              "width": 3153,
+              "height": 4724
+            }
+          ]
+        },
+        "characters": [
+          "Bonnie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0662669",
+          "display_name": "Tina Parker",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2ViNmM2NWEtZTQ0Ny00NDNhLWEzODktODVkYmJhMTIyYTQ0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1200,
+              "height": 1500
+            }
+          ]
+        },
+        "characters": [
+          "Debbie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7132227",
+          "display_name": "Chloe Lee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzZjYmRjNGMtZDk1ZC00YTVjLWFiZmEtMGNiZjM0MGNkMTRiXkEyXkFqcGdeQXVyNTg4NjY3NTE@._V1_.jpg",
+              "width": 512,
+              "height": 768
+            }
+          ]
+        },
+        "characters": [
+          "June"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "title": {
+    "id": "tt2013293",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Wind Rises",
+    "original_title": "Kaze tachinu",
+    "start_year": 2013,
+    "end_year": null,
+    "runtime_minutes": 126,
+    "plot": "Jiro Horikoshi studies assiduously to fulfill his aim of becoming an aeronautical engineer. As WWII begins, fighter aircraft designed by him end up getting used by the Japanese Empire against its foes.",
+    "rating": {
+      "aggregate_rating": 7.8,
+      "votes_count": 99002
+    },
+    "genres": [
+      "Animation",
+      "Biography",
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTU4NDg0MzkzNV5BMl5BanBnXkFtZTgwODA3Mzc1MDE@._V1_.jpg",
+        "width": 1080,
+        "height": 1600
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      },
+      {
+        "code": "ita",
+        "name": "Italian"
+      },
+      {
+        "code": "jpn",
+        "name": "Japanese"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "JP",
+        "name": "Japan"
+      }
+    ],
+    "critic_review": {
+      "score": 83,
+      "review_count": 41
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0594503",
+          "display_name": "Hayao Miyazaki",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjcyNjk2OTkwNF5BMl5BanBnXkFtZTcwOTk0MTQ3Mg@@._V1_.jpg",
+              "width": 317,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0594503",
+          "display_name": "Hayao Miyazaki",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjcyNjk2OTkwNF5BMl5BanBnXkFtZTcwOTk0MTQ3Mg@@._V1_.jpg",
+              "width": 317,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0030417",
+          "display_name": "Hideaki Anno",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjUxZDQ4ZWItYTFiMS00MTdhLWI5YTEtZjViMjM1NDFiZDVkXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 1000,
+              "height": 1500
+            }
+          ]
+        },
+        "characters": [
+          "Jirô Horikoshi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0632689",
+          "display_name": "Hidetoshi Nishijima",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjY1MGNjODUtMTE4NS00YWJjLTk2ZmUtM2IwYjE4MTVjMTBlXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+              "width": 1280,
+              "height": 809
+            }
+          ]
+        },
+        "characters": [
+          "Honjô"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3768523",
+          "display_name": "Miori Takimoto",
+          "avatars": null
+        },
+        "characters": [
+          "Naoko Satomi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0632761",
+          "display_name": "Masahiko Nishimura",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGNjNTBhMDktYmYzNC00MWU4LWE0ZjQtZmM0ZWFlNWI1MzU5XkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 300,
+              "height": 446
+            }
+          ]
+        },
+        "characters": [
+          "Kurokawa"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1334850",
+          "display_name": "Mansai Nomura",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmU3ZDlmMjgtZDEzYi00MDA3LWIxMWItMWU2Njc2YjgyZjIxXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg",
+              "width": 1867,
+              "height": 1025
+            }
+          ]
+        },
+        "characters": [
+          "Giovanni Battista Caproni"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0475165",
+          "display_name": "Jun Kunimura",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2FiMTc3NWMtNDlkMy00MWZkLTg5YzYtMjYyYzliYmEyZmEwXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+              "width": 1003,
+              "height": 1500
+            }
+          ]
+        },
+        "characters": [
+          "Hattori"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1541331",
+          "display_name": "Mirai Shida",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUzNDUyODk2Nl5BMl5BanBnXkFtZTcwOTEzMjIxMw@@._V1_.jpg",
+              "width": 212,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Kayo Horikoshi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1297907",
+          "display_name": "Stephen Alpert",
+          "avatars": null
+        },
+        "characters": [
+          "Castorp"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0652718",
+          "display_name": "Shinobu Ôtake",
+          "avatars": null
+        },
+        "characters": [
+          "Kurokawa's Wife"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0443559",
+          "display_name": "Morio Kazama",
+          "avatars": null
+        },
+        "characters": [
+          "Satomi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0847580",
+          "display_name": "Keiko Takeshita",
+          "avatars": null
+        },
+        "characters": [
+          "Jirô's Mother"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0330687",
+          "display_name": "Joseph Gordon-Levitt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY3NTk0NDI3Ml5BMl5BanBnXkFtZTgwNDA3NjY0MjE@._V1_.jpg",
+              "width": 1421,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Jirô Horikoshi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1024677",
+          "display_name": "John Krasinski",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc3MzY3MjQ3OV5BMl5BanBnXkFtZTcwODI3NjQxMw@@._V1_.jpg",
+              "width": 287,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Honjô"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1289434",
+          "display_name": "Emily Blunt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUxNDY4MTMzM15BMl5BanBnXkFtZTcwMjg5NzM2Ng@@._V1_.jpg",
+              "width": 1272,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Nahoko Satomi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001737",
+          "display_name": "Martin Short",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY1MDIyMDY1N15BMl5BanBnXkFtZTgwNzMzMDE5NTE@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Kurokawa"
+        ]
+      }
+    ]
+  }
+}

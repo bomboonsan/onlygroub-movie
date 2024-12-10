@@ -1,0 +1,343 @@
+{
+  "title": {
+    "id": "tt3569230",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Legend",
+    "original_title": null,
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 132,
+    "plot": "Identical twin gangsters Ronald and Reginald Kray terrorize London during the 1960s.",
+    "rating": {
+      "aggregate_rating": 6.9,
+      "votes_count": 202761
+    },
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjE0MjkyODQ3NF5BMl5BanBnXkFtZTgwNDM1OTk1NjE@._V1_.jpg",
+        "width": 1426,
+        "height": 2100
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 55,
+      "review_count": 31
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0001338",
+          "display_name": "Brian Helgeland",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcyOTAyNTE5N15BMl5BanBnXkFtZTgwMTA1NjcwODE@._V1_.jpg",
+              "width": 307,
+              "height": 496
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0001338",
+          "display_name": "Brian Helgeland",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcyOTAyNTE5N15BMl5BanBnXkFtZTgwMTA1NjcwODE@._V1_.jpg",
+              "width": 307,
+              "height": 496
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0669301",
+          "display_name": "John Pearson",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm2167957",
+          "display_name": "Paul Anderson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTEwMzIwNTQ2NDVeQTJeQWpwZ15BbWU4MDgxMDk4MzQz._V1_.jpg",
+              "width": 1360,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Albert Donoghue"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0362766",
+          "display_name": "Tom Hardy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ3ODEyNjA4Nl5BMl5BanBnXkFtZTgwMTE4ODMyMjE@._V1_.jpg",
+              "width": 1366,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Reggie Kray",
+          "Ron Kray"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001172",
+          "display_name": "Christopher Eccleston",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjIyNjNiYjgtNGE1Mi00YmM4LWI3M2YtODlmYjI0NjM3NGRhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "width": 6000,
+              "height": 4000
+            }
+          ]
+        },
+        "characters": [
+          "Nipper Read"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5980553",
+          "display_name": "Joshua Hill",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWVkYmU2NjktMmE5NS00ZDNiLWFmZDYtYjMyYmFlMmFiNWNmXkEyXkFqcGdeQXVyMTAyMzc4NzY5._V1_.jpg",
+              "width": 2400,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Constable Scott"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0115161",
+          "display_name": "Emily Browning",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTFmYzYxNzUtMmNhNy00OTNjLTgzOTUtYjIyOTI1NDQzYTVjXkEyXkFqcGdeQXVyMjAyMzA0MTk@._V1_.jpg",
+              "width": 1170,
+              "height": 1438
+            }
+          ]
+        },
+        "characters": [
+          "Frances Shea"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2959880",
+          "display_name": "Colin Morgan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2FjOGRmZDctZDdlOC00MzMwLThkOTctMmFjZjE2MDdkMjdkXkEyXkFqcGdeQXVyNjc2MjY5NDI@._V1_.jpg",
+              "width": 656,
+              "height": 803
+            }
+          ]
+        },
+        "characters": [
+          "Frank Shea"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001216",
+          "display_name": "Tara Fitzgerald",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkxNjQyNjEwMV5BMl5BanBnXkFtZTYwODMyOTI3._V1_.jpg",
+              "width": 360,
+              "height": 480
+            }
+          ]
+        },
+        "characters": [
+          "Mrs Shea"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0268297",
+          "display_name": "Nicholas Farrell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg2MDk5MjA3MV5BMl5BanBnXkFtZTYwOTIxNDc2._V1_.jpg",
+              "width": 485,
+              "height": 322
+            }
+          ]
+        },
+        "characters": [
+          "Dr Humphries"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0283912",
+          "display_name": "Adam Fogerty",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjkyMzcwNmYtZjU5YS00MTVjLWJhYjYtODJhMzdjZTk3M2Q5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1408,
+              "height": 1878
+            }
+          ]
+        },
+        "characters": [
+          "Pat Connolly"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0706842",
+          "display_name": "Mel Raido",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTRmOWZhYjMtNjMxMS00OTIyLWIxNzctODBmNDRkYzdiMDg4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 4160,
+              "height": 6015
+            }
+          ]
+        },
+        "characters": [
+          "Ian Barrie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4704973",
+          "display_name": "Major.",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTVlYzU1ZGQtZTNiNS00M2Y5LTg4OTctMzlkZTJjMDg3MDA0XkEyXkFqcGc@._V1_.jpg",
+              "width": 1493,
+              "height": 2240
+            }
+          ]
+        },
+        "characters": [
+          "The Double R Club Singer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6351089",
+          "display_name": "Millie Brady",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGEyY2ZjMTQtY2NiYi00YWM5LThlMzEtN2FkZmRiOGQ1NDgwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1200,
+              "height": 1782
+            }
+          ]
+        },
+        "characters": [
+          "Joan Collins"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4415419",
+          "display_name": "Chris Mason",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODkzOTI1Y2ItYjk5Mi00ZDQ4LTk0NzQtZjI4YWJmZmJkNTk1XkEyXkFqcGdeQXVyNjE3MzQ4OQ@@._V1_.jpg",
+              "width": 1602,
+              "height": 1066
+            }
+          ]
+        },
+        "characters": [
+          "Ronnie Hart"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1883730",
+          "display_name": "Stephen Thompson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg2Nzc4ODY1N15BMl5BanBnXkFtZTcwOTE2NDU1OQ@@._V1_.jpg",
+              "width": 2048,
+              "height": 1291
+            }
+          ]
+        },
+        "characters": [
+          "Ronnie Bender"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0819874",
+          "display_name": "Sam Spruell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzY5MDg2ODkyNV5BMl5BanBnXkFtZTgwOTA3NTgyNjM@._V1_.jpg",
+              "width": 1521,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Jack McVitie"
+        ]
+      }
+    ]
+  }
+}

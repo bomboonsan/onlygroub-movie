@@ -1,0 +1,338 @@
+{
+  "title": {
+    "id": "tt1487931",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Khumba",
+    "original_title": null,
+    "start_year": 2013,
+    "end_year": null,
+    "runtime_minutes": 85,
+    "plot": "Rejected by his superstitious herd, a half-striped zebra embarks on a daring quest to earn his stripes but finds the courage and self-acceptance to save all the animals of the Great Karoo.",
+    "rating": {
+      "aggregate_rating": 5.6,
+      "votes_count": 6483
+    },
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQyNTgzODU1N15BMl5BanBnXkFtZTgwMjg4NjQxMDE@._V1_.jpg",
+        "width": 2416,
+        "height": 3543
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "Not Rated"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "ZA",
+        "name": "South Africa"
+      }
+    ],
+    "critic_review": {
+      "score": 40,
+      "review_count": 6
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1950075",
+          "display_name": "Anthony Silverston",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm3567652",
+          "display_name": "Raffaella Delle Donne",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1950075",
+          "display_name": "Anthony Silverston",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0731271",
+          "display_name": "Jonathan Roberts",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0221133",
+          "display_name": "Mike de Seve",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2260826",
+          "display_name": "Joe Vitale",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1545471",
+          "display_name": "Jake T. Austin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI1MzlkZjYtYjdkYi00ZmMxLWI3MjYtYzMwYmFmYTBkNmEzXkEyXkFqcGdeQXVyOTU0MjQ3Mzc@._V1_.jpg",
+              "width": 2832,
+              "height": 3848
+            }
+          ]
+        },
+        "characters": [
+          "Khumba"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0722376",
+          "display_name": "Adrian Rhodes",
+          "avatars": null
+        },
+        "characters": [
+          "Mantis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0726184",
+          "display_name": "Sam Riegel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTY2NDMyMGEtNWRhNy00YTdhLWI5ZWQtYTFiNzc4YWQwNzY4XkEyXkFqcGdeQXVyMjQyMTIwMTc@._V1_.jpg",
+              "width": 884,
+              "height": 2009
+            }
+          ]
+        },
+        "characters": [
+          "Jock"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0745310",
+          "display_name": "Bryce Papenbrook",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGE2MWNmYzAtNzllMy00NTk0LTk2ZjItYjcxNTE1OTNlNWJkXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 712,
+              "height": 958
+            }
+          ]
+        },
+        "characters": [
+          "Zebra #1"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1984458",
+          "display_name": "Devon Graye",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGI4ZWVjYTQtNmVjOS00OGE0LWE0NmEtMGEyYmIyZjU1Njc0XkEyXkFqcGdeQXVyODQ5ODg3NTI@._V1_.jpg",
+              "width": 639,
+              "height": 922
+            }
+          ]
+        },
+        "characters": [
+          "Zebra #2"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0851113",
+          "display_name": "Catherine Tate",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA5ODgzNzU4NV5BMl5BanBnXkFtZTcwODY0MTE0Nw@@._V1_.jpg",
+              "width": 400,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Nora"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0689168",
+          "display_name": "Alexander Polinsky",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDZmYmEwYTUtZDRkNC00NTQyLTg5OTEtNDg2MjEzMjQ3YTZjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2534,
+              "height": 3328
+            }
+          ]
+        },
+        "characters": [
+          "Nigel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0254862",
+          "display_name": "Greg Ellis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc5MTE3OTQ1M15BMl5BanBnXkFtZTYwOTU0NDEz._V1_.jpg",
+              "width": 450,
+              "height": 563
+            }
+          ]
+        },
+        "characters": [
+          "Thabo",
+          "Elder 1"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000401",
+          "display_name": "Laurence Fishburne",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc0NjczNDc1MV5BMl5BanBnXkFtZTYwMDU0Mjg1._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Seko"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4013413",
+          "display_name": "Joey Richter",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2RhOGNjZWMtNWUwZC00MjBjLTkwN2EtZDc5NzAzZDU3Y2I2XkEyXkFqcGdeQXVyNTI1NzU3NjY@._V1_.jpg",
+              "width": 1728,
+              "height": 2592
+            }
+          ]
+        },
+        "characters": [
+          "Themba"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0741242",
+          "display_name": "Anika Noni Rose",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQ4MzQyODI4Nl5BMl5BanBnXkFtZTgwMDk0ODgyMTI@._V1_.jpg",
+              "width": 1462,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Lungisa"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0506439",
+          "display_name": "Hope Levy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTcyODk0N2UtYTBkYS00YzZmLWJjZWQtMWE0OWU0ZTE5ZDg4XkEyXkFqcGdeQXVyMTk5MjU4NDQ@._V1_.jpg",
+              "width": 2721,
+              "height": 3658
+            }
+          ]
+        },
+        "characters": [
+          "Cheerleader Zebra #2"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0187570",
+          "display_name": "Kat Cressida",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzdlMTZmN2QtZWQyYy00NDNhLTllNWMtNWM0MjljZjAyZWIwXkEyXkFqcGc@._V1_.jpg",
+              "width": 720,
+              "height": 1073
+            }
+          ]
+        },
+        "characters": [
+          "Cheerleader Zebra #1"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1315809",
+          "display_name": "Stephanie Sheh",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmZkNjEyODUtZGE2Zi00ZjE0LWIyNzctNDQ3NTdhNmQ2YzhlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1993,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Cheerleader Zebra #3"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0893965",
+          "display_name": "Ben Vereen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk5NjMwNzA5MF5BMl5BanBnXkFtZTYwNTI0Mjky._V1_.jpg",
+              "width": 300,
+              "height": 446
+            }
+          ]
+        },
+        "characters": [
+          "Mkhulu"
+        ]
+      }
+    ]
+  }
+}

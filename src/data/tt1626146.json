@@ -1,0 +1,371 @@
+{
+  "title": {
+    "id": "tt1626146",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Hector and the Search for Happiness",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 114,
+    "plot": "A psychiatrist searches the globe to find the secret of happiness.",
+    "rating": {
+      "aggregate_rating": 6.9,
+      "votes_count": 50525
+    },
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTAzNTIyNDYzNV5BMl5BanBnXkFtZTgwNDg1NjYyMjE@._V1_.jpg",
+        "width": 2025,
+        "height": 3000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "DE",
+        "name": "Germany"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      },
+      {
+        "code": "ZA",
+        "name": "South Africa"
+      }
+    ],
+    "critic_review": {
+      "score": 29,
+      "review_count": 28
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0155093",
+          "display_name": "Peter Chelsom",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY1MjMwMzE3NV5BMl5BanBnXkFtZTgwMTg3Nzk2MTE@._V1_.jpg",
+              "width": 2698,
+              "height": 3191
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0374842",
+          "display_name": "Maria von Heland",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0155093",
+          "display_name": "Peter Chelsom",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY1MjMwMzE3NV5BMl5BanBnXkFtZTgwMTg3Nzk2MTE@._V1_.jpg",
+              "width": 2698,
+              "height": 3191
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2186632",
+          "display_name": "Tinker Lindsay",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYxODI4NjQ4Ml5BMl5BanBnXkFyZXN1bWU@._V1_.jpg",
+              "width": 960,
+              "height": 1274
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1910008",
+          "display_name": "François Lelord",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0670408",
+          "display_name": "Simon Pegg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzMwODE1NjA3OV5BMl5BanBnXkFtZTgwNTY5MzM2OTE@._V1_.jpg",
+              "width": 427,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Hector"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0683253",
+          "display_name": "Rosamund Pike",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDQ5MDIyMjg3NV5BMl5BanBnXkFtZTgwOTU2NTE0NDM@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Clara"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0643322",
+          "display_name": "Tracy-Ann Oberman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjFkZTkzMTgtZDI0NC00YTM0LWI0NzAtMzhlNzY5YmJmNGI5XkEyXkFqcGdeQXVyMTI4NzU5NDE2._V1_.jpg",
+              "width": 549,
+              "height": 787
+            }
+          ]
+        },
+        "characters": [
+          "Pathetic Jane"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000606",
+          "display_name": "Jean Reno",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgzNjA1MjY2M15BMl5BanBnXkFtZTYwMjgzOTk0._V1_.jpg",
+              "width": 261,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Diego Baresco"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0274704",
+          "display_name": "Veronica Ferres",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDBiYTIyMGQtMDZlZi00MmM4LWIxNzEtZTFmMGMyMDA1OTRiXkEyXkFqcGdeQXVyMzQ2NzI2NTY@._V1_.jpg",
+              "width": 1335,
+              "height": 2000
+            }
+          ]
+        },
+        "characters": [
+          "Anjali"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0040038",
+          "display_name": "Barry Atsma",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ3ODIwMTc0MF5BMl5BanBnXkFtZTgwODI0NDM2MjE@._V1_.jpg",
+              "width": 2226,
+              "height": 3288
+            }
+          ]
+        },
+        "characters": [
+          "Michael"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4388384",
+          "display_name": "Ming Zhao",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTFiMTM5YTAtNzk5NS00YTM3LWEyYzktZWY4YzYwODY3ZjQ4XkEyXkFqcGc@._V1_.jpg",
+              "width": 1284,
+              "height": 1977
+            }
+          ]
+        },
+        "characters": [
+          "Ying Li"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0407033",
+          "display_name": "Togo Igawa",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ4NjE0MzAxOF5BMl5BanBnXkFtZTcwMjIwMDg4NQ@@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        },
+        "characters": [
+          "Old Monk"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001626",
+          "display_name": "Christopher Plummer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU5MzQ5MDY3NF5BMl5BanBnXkFtZTcwNzMxOTU5Ng@@._V1_.jpg",
+              "width": 1435,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Professor Coreman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0284782",
+          "display_name": "Bruce Fontaine",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2E3NzkxNzctYTRmZS00MDE1LWJlNmMtMjkwYzJiNjJkODRlXkEyXkFqcGdeQXVyNTY3MDE2OA@@._V1_.jpg",
+              "width": 584,
+              "height": 747
+            }
+          ]
+        },
+        "characters": [
+          "Malcolm"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0929814",
+          "display_name": "Chad Willett",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODU2M2Q5N2QtOWZjZi00N2Q5LTg0OGQtNTFkOWZhNWUzMGJhXkEyXkFqcGdeQXVyNDExNjc1MQ@@._V1_.jpg",
+              "width": 1663,
+              "height": 936
+            }
+          ]
+        },
+        "characters": [
+          "Alan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0191259",
+          "display_name": "Bernard Cuffling",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTVhZDE2ZGYtZTdkYy00NTg0LThkNTctZmUyNGI4NDFiYTZjXkEyXkFqcGc@._V1_.jpg",
+              "width": 4701,
+              "height": 5876
+            }
+          ]
+        },
+        "characters": [
+          "Professor Niedorf"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3240434",
+          "display_name": "Jakob Davies",
+          "avatars": null
+        },
+        "characters": [
+          "Young Hector"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0310240",
+          "display_name": "Chris Gauthier",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg2NGQxZWEtMTA3My00YjU2LThmNjAtZjA2YmY5MWQ1ZjY3XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 738,
+              "height": 1107
+            }
+          ]
+        },
+        "characters": [
+          "Roger"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0316932",
+          "display_name": "Dean Paul Gibson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTVlYjkzNDctNzFlYS00ZmRhLTkxZjktODlkY2NiMTQwYjg2XkEyXkFqcGdeQXVyMTU0OTg0Njkx._V1_.jpg",
+              "width": 4682,
+              "height": 7024
+            }
+          ]
+        },
+        "characters": [
+          "Joyless Husband"
+        ]
+      }
+    ]
+  }
+}

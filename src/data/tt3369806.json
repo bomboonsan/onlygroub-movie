@@ -1,0 +1,335 @@
+{
+  "title": {
+    "id": "tt3369806",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Max",
+    "original_title": null,
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 111,
+    "plot": "A military dog that helped American Marines in Afghanistan returns to the United States and is adopted by his handler's family after suffering a traumatic experience.",
+    "rating": {
+      "aggregate_rating": 6.6,
+      "votes_count": 28280
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Family",
+      "War"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjA2Nzk0NzIyN15BMl5BanBnXkFtZTgwMjEyNTE5NDE@._V1_.jpg",
+        "width": 711,
+        "height": 1060
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 47,
+      "review_count": 25
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0945026",
+          "display_name": "Boaz Yakin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE5Nzk1NDUxOV5BMl5BanBnXkFtZTcwODk5MDYyMg@@._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0945026",
+          "display_name": "Boaz Yakin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE5Nzk1NDUxOV5BMl5BanBnXkFtZTcwODk5MDYyMg@@._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0504802",
+          "display_name": "Sheldon Lettich",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzU4Mzg4NTQwMl5BMl5BanBnXkFtZTgwNTI2NTcwNjE@._V1_.jpg",
+              "width": 1652,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0002006",
+          "display_name": "Thomas Haden Church",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjkxNDQ1MzIxM15BMl5BanBnXkFtZTcwMjA1MTA4Mg@@._V1_.jpg",
+              "width": 274,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Ray Wincott"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5946818",
+          "display_name": "Josh Wiggins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTEyNjg2Mzc1MV5BMl5BanBnXkFtZTgwMDc3NjY2MzI@._V1_.jpg",
+              "width": 359,
+              "height": 366
+            }
+          ]
+        },
+        "characters": [
+          "Justin Wincott"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3312554",
+          "display_name": "Luke Kleintank",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzk2MDY1NDM0Nl5BMl5BanBnXkFtZTgwOTk3NTgxNzE@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Tyler Harne"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0334179",
+          "display_name": "Lauren Graham",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc4OTQ0NTExMV5BMl5BanBnXkFtZTYwMDkyNDQz._V1_.jpg",
+              "width": 272,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Pamela Wincott"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2064412",
+          "display_name": "Robbie Amell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE2OTMyMDM2Ml5BMl5BanBnXkFtZTgwNDAyMjU4NzE@._V1_.jpg",
+              "width": 353,
+              "height": 500
+            }
+          ]
+        },
+        "characters": [
+          "Kyle Wincott"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6581649",
+          "display_name": "Mia Xitlali",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk5Mzc0NzEzOV5BMl5BanBnXkFtZTgwODE2NTcwNjE@._V1_.jpg",
+              "width": 1478,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Carmen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2454022",
+          "display_name": "Dejon LaQuake",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzJlY2RkMDctNTkwNS00ZTFjLWJmMTQtMmJhMzRmNzg5NmY4XkEyXkFqcGc@._V1_.jpg",
+              "width": 2688,
+              "height": 4032
+            }
+          ]
+        },
+        "characters": [
+          "Chuy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0379596",
+          "display_name": "Jay Hernandez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDcyMjY4NDc5N15BMl5BanBnXkFtZTgwOTc1MTU5NTM@._V1_.jpg",
+              "width": 1310,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Sergeant Reyes"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3791144",
+          "display_name": "Owen Harn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTA5MDY0OGUtZTAyZS00NDI3LWExYmQtODhmZjczZjBlMmU1XkEyXkFqcGdeQXVyMjE0MDM1NTY@._V1_.jpg",
+              "width": 1664,
+              "height": 2496
+            }
+          ]
+        },
+        "characters": [
+          "Deputy Stack"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1928515",
+          "display_name": "J.J. Soria",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWRhNGM1NTAtOWRlOS00Yzc2LTkwNDQtMzBlMTljM2ZjNDAyXkEyXkFqcGdeQXVyMTI2NjExMDgy._V1_.jpg",
+              "width": 3467,
+              "height": 5200
+            }
+          ]
+        },
+        "characters": [
+          "Emilio"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0063629",
+          "display_name": "Raymond W. Beal",
+          "avatars": null
+        },
+        "characters": [
+          "Animal Control Handler #1",
+          "Marine"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1598758",
+          "display_name": "Edgar Arreola",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTVkOThmYTctYmE1OS00MGUwLWFkMDEtYzljMjYyOGQ2MjgxXkEyXkFqcGc@._V1_.jpg",
+              "width": 3007,
+              "height": 4126
+            }
+          ]
+        },
+        "characters": [
+          "Cartel Leader"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1151921",
+          "display_name": "Jason Davis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWU3N2YwNjQtNmQxOC00NjQ5LTlmMWMtOTY5NmQ0NTY1MWQ0XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 1280,
+              "height": 536
+            }
+          ]
+        },
+        "characters": [
+          "Police Officer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0123148",
+          "display_name": "Pete Burris",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDdhY2JkYTYtMzM5ZC00NzJjLWJhYTctYjc3ZDcyZTZkNzdkXkEyXkFqcGc@._V1_.jpg",
+              "width": 1334,
+              "height": 750
+            }
+          ]
+        },
+        "characters": [
+          "S-2 Major"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4266079",
+          "display_name": "Miles Mussenden",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDlkMzNiMjctY2QwMy00M2FlLWI2ZmEtNzUwNjM5MTZhZmRjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 892,
+              "height": 778
+            }
+          ]
+        },
+        "characters": [
+          "Captain"
+        ]
+      }
+    ]
+  }
+}

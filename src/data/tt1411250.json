@@ -1,0 +1,339 @@
+{
+  "title": {
+    "id": "tt1411250",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Riddick",
+    "original_title": null,
+    "start_year": 2013,
+    "end_year": null,
+    "runtime_minutes": 119,
+    "plot": "Left for dead on a sun-scorched planet, Riddick finds himself up against an alien race of predators. Activating an emergency beacon alerts two ships: one carrying a new breed of mercenary, the other captained by a man from Riddick's past.",
+    "rating": {
+      "aggregate_rating": 6.4,
+      "votes_count": 176852
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTk5NzYwMzQ4MV5BMl5BanBnXkFtZTcwMjE5MTI1OQ@@._V1_.jpg",
+        "width": 1125,
+        "height": 1667
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 49,
+      "review_count": 35
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0878638",
+          "display_name": "David Twohy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDE0MjhlNjQtNWFjNy00NGE1LThmYzgtOGFkODcyNGQyNWRlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 827,
+              "height": 1007
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0878638",
+          "display_name": "David Twohy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDE0MjhlNjQtNWFjNy00NGE1LThmYzgtOGFkODcyNGQyNWRlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 827,
+              "height": 1007
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0923646",
+          "display_name": "Jim Wheat",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0003117",
+          "display_name": "Ken Wheat",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0004874",
+          "display_name": "Vin Diesel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjExNzA4MDYxN15BMl5BanBnXkFtZTcwOTI1MDAxOQ@@._V1_.jpg",
+              "width": 1477,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Riddick"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0003244",
+          "display_name": "Jordi Mollà",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmJlYzM3OTctYjQ0My00MTE4LTg4NDAtNzkwYmMyOTRmOTc2XkEyXkFqcGdeQXVyMTM4NTk0MTk@._V1_.jpg",
+              "width": 4320,
+              "height": 5591
+            }
+          ]
+        },
+        "characters": [
+          "Santana"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2506835",
+          "display_name": "Matt Nable",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzMzZmNkZjItNWQyYi00NzU0LWJhOTMtYTY4M2VlYjJiZjNlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 904,
+              "height": 1130
+            }
+          ]
+        },
+        "characters": [
+          "Boss Johns"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0755267",
+          "display_name": "Katee Sackhoff",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc4MTAxMDMxMV5BMl5BanBnXkFtZTgwMTYxNjE5MDI@._V1_.jpg",
+              "width": 1537,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Dahl"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1176985",
+          "display_name": "Dave Bautista",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTZkYzU0ZGUtZTk1MC00MzJjLWFmMzItY2M0ODY1ZmI2OGQ0XkEyXkFqcGdeQXVyMjI0MjgwNjc@._V1_.jpg",
+              "width": 1000,
+              "height": 562
+            }
+          ]
+        },
+        "characters": [
+          "Diaz"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0940158",
+          "display_name": "Bokeem Woodbine",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODY0MjQ0MDQyNl5BMl5BanBnXkFtZTgwMTgxNzQxNjM@._V1_.jpg",
+              "width": 172,
+              "height": 258
+            }
+          ]
+        },
+        "characters": [
+          "Moss"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0874232",
+          "display_name": "Raoul Max Trujillo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzIzYWJjNzYtNmUwMi00NTJmLTlkNjItMzM5M2U1YzkzNWFjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 3091,
+              "height": 4000
+            }
+          ]
+        },
+        "characters": [
+          "Lockspur"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1074355",
+          "display_name": "Conrad Pla",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM0OTc0MDU3M15BMl5BanBnXkFtZTYwNTcwMDgy._V1_.jpg",
+              "width": 450,
+              "height": 300
+            }
+          ]
+        },
+        "characters": [
+          "Vargas"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0087245",
+          "display_name": "Danny Blanco Hall",
+          "avatars": null
+        },
+        "characters": [
+          "Falco"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0199139",
+          "display_name": "Noah Dalton Danby",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDlhMWFiZjEtZjNjMC00NWQwLTk2YWQtYmZkNjkzZjBlZjYxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1283,
+              "height": 854
+            }
+          ]
+        },
+        "characters": [
+          "Nunez"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0621034",
+          "display_name": "Neil Napier",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzg0Mjc5NjQ4NF5BMl5BanBnXkFtZTgwNjM5NzgxNzE@._V1_.jpg",
+              "width": 1800,
+              "height": 1185
+            }
+          ]
+        },
+        "characters": [
+          "Rubio"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1289173",
+          "display_name": "Nolan Gerard Funk",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzk3NjhkZGQtMDkzNy00NzI4LTlkYzgtYmE2MTUxMDUwYTMxXkEyXkFqcGdeQXVyMTMxNjQ2NjA@._V1_.jpg",
+              "width": 1120,
+              "height": 1410
+            }
+          ]
+        },
+        "characters": [
+          "Luna"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0881631",
+          "display_name": "Karl Urban",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjExMjQ2MDk4OF5BMl5BanBnXkFtZTcwNDQ3MzQ1MQ@@._V1_.jpg",
+              "width": 333,
+              "height": 500
+            }
+          ]
+        },
+        "characters": [
+          "Vaako"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0032001",
+          "display_name": "Andreas Apergis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkzMjc5MTQ1N15BMl5BanBnXkFtZTgwMjczMjIyMjE@._V1_.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ]
+        },
+        "characters": [
+          "Krone"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2778747",
+          "display_name": "Keri Hilson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA4MTM3MDE4Nl5BMl5BanBnXkFtZTcwNTU1NDg1OA@@._V1_.jpg",
+              "width": 1360,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Santana's Prisoner"
+        ]
+      }
+    ]
+  }
+}

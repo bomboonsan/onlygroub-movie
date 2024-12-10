@@ -1,0 +1,329 @@
+{
+  "title": {
+    "id": "tt6513656",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Escape Plan 2: Hades",
+    "original_title": null,
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 96,
+    "plot": "Years after he fought his way out of an inescapable prison, Ray Breslin has organized a new top-notch security force. But when one of his team members goes missing, Breslin must return to the hell he once escaped from.",
+    "rating": {
+      "aggregate_rating": 3.9,
+      "votes_count": 35333
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTJhZDVhNTItMzY5ZC00MmRmLWFkYWMtMzIzNzc4MDQwYTc2XkEyXkFqcGdeQXVyODM4ODUxMTU@._V1_.jpg",
+        "width": 472,
+        "height": 707
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "zho",
+        "name": "Chinese"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CN",
+        "name": "China"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm1921345",
+          "display_name": "Steven C. Miller",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWJmY2Q0ZmUtOTI3NC00NzdiLThlMjItN2MxMDYwMDdmYmUyXkEyXkFqcGdeQXVyMTg5NzEyMDA@._V1_.jpg",
+              "width": 3597,
+              "height": 3594
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1974016",
+          "display_name": "Miles Chapman",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000230",
+          "display_name": "Sylvester Stallone",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGU0Y2JiMGEtYzc0Ni00MDIwLTgxZGYtOWE2ZDMzYWQ5MjI0XkEyXkFqcGdeQXVyMTI3NjAxODc0._V1_.jpg",
+              "width": 1079,
+              "height": 1216
+            }
+          ]
+        },
+        "characters": [
+          "Ray Breslin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1176985",
+          "display_name": "Dave Bautista",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTZkYzU0ZGUtZTk1MC00MzJjLWFmMzItY2M0ODY1ZmI2OGQ0XkEyXkFqcGdeQXVyMjI0MjgwNjc@._V1_.jpg",
+              "width": 1000,
+              "height": 562
+            }
+          ]
+        },
+        "characters": [
+          "Trent DeRosa"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2119781",
+          "display_name": "Xiaoming Huang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDU2MzA5ODQ2NV5BMl5BanBnXkFtZTgwMjE4OTE0MzE@._V1_.jpg",
+              "width": 2880,
+              "height": 1920
+            }
+          ]
+        },
+        "characters": [
+          "Shu Ren"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0582462",
+          "display_name": "Jesse Metcalfe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTI3NTQ0NTY1Ml5BMl5BanBnXkFtZTgwMDEwNTIwNzE@._V1_.jpg",
+              "width": 775,
+              "height": 775
+            }
+          ]
+        },
+        "characters": [
+          "Luke Graves"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1265067",
+          "display_name": "50 Cent",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjY0NTc2NTAxNV5BMl5BanBnXkFtZTgwMjYwMDMzNjE@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Hush"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1434871",
+          "display_name": "Wes Chatham",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGRlMWNkMWUtYzdiYS00ZWU2LWI5YzYtZjNlNDc0MmQyZGUxXkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_.jpg",
+              "width": 568,
+              "height": 698
+            }
+          ]
+        },
+        "characters": [
+          "Jaspar Kimbral"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3247936",
+          "display_name": "Chen Tang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTRkMTAxMGEtZTkwNS00NThmLThmNmMtODdjYjFjMTVmNmJkXkEyXkFqcGdeQXVyMjM2NTIxNTk@._V1_.jpg",
+              "width": 1080,
+              "height": 1440
+            }
+          ]
+        },
+        "characters": [
+          "Yusheng Ma"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4054786",
+          "display_name": "Tyron Woodley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWQ2ODlmMDgtNTkzMC00ZGQ1LWE3MjItOTFhNjM5MjllN2ExXkEyXkFqcGdeQXVyMTk4MDgwNA@@._V1_.jpg",
+              "width": 460,
+              "height": 700
+            }
+          ]
+        },
+        "characters": [
+          "Akala"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1476806",
+          "display_name": "Tyler Jon Olson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTRmMGUwMTUtYjUyNy00ZjMwLTkwMzYtM2FiMDg2YTdlMjU3XkEyXkFqcGc@._V1_.jpg",
+              "width": 2045,
+              "height": 2556
+            }
+          ]
+        },
+        "characters": [
+          "Moe"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0920038",
+          "display_name": "Titus Welliver",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY0OTA0Mzg3N15BMl5BanBnXkFtZTcwNDExMzc0Mw@@._V1_.jpg",
+              "width": 319,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Gregor Faust"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6125709",
+          "display_name": "Shea Buckner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTVmOTAwZmEtZDFlMy00MGNkLWIyODUtNDZiMmIyNDAzNWMzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2933,
+              "height": 4400
+            }
+          ]
+        },
+        "characters": [
+          "Larry"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0454809",
+          "display_name": "Jaime King",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjRhNTVkN2UtODNmOC00ZDljLWI3ZjQtZDA4OWY5MDY1YTZlXkEyXkFqcGdeQXVyMTU1MjM3ODgw._V1_.jpg",
+              "width": 720,
+              "height": 720
+            }
+          ]
+        },
+        "characters": [
+          "Abigail Ross"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1055590",
+          "display_name": "Lydia Hull",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzM2NGI1ZWQtZWUwZS00OGJmLWExNmMtOTdhYTEyMmVhNjUwXkEyXkFqcGdeQXVyMTA2NjY2NzQ0._V1_.jpg",
+              "width": 358,
+              "height": 544
+            }
+          ]
+        },
+        "characters": [
+          "Jules"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0960770",
+          "display_name": "Ashley Cusato",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTgwZjBiMmMtNjE0NC00MzkzLTlhYWYtOTg5ODY5YTUwYzQxXkEyXkFqcGc@._V1_.jpg",
+              "width": 1905,
+              "height": 1571
+            }
+          ]
+        },
+        "characters": [
+          "Mary"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8244512",
+          "display_name": "Yifan Luo",
+          "avatars": null
+        },
+        "characters": [
+          "Red"
+        ]
+      }
+    ]
+  }
+}

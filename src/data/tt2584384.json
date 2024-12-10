@@ -1,0 +1,343 @@
+{
+  "title": {
+    "id": "tt2584384",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Jojo Rabbit",
+    "original_title": null,
+    "start_year": 2019,
+    "end_year": null,
+    "runtime_minutes": 108,
+    "plot": "A young German boy in the Hitler Youth whose hero and imaginary friend is the country's dictator is shocked to discover that his mother is hiding a Jewish girl in their home.",
+    "rating": {
+      "aggregate_rating": 7.9,
+      "votes_count": 442087
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "War"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmFmNmUyMjYtZTFjNS00OWQyLThhZmMtMGZkYTQ3YjY0ZDQ1XkEyXkFqcGc@._V1_.jpg",
+        "width": 1334,
+        "height": 2000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CZ",
+        "name": "Czechia"
+      },
+      {
+        "code": "DE",
+        "name": "Germany"
+      },
+      {
+        "code": "NZ",
+        "name": "New Zealand"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 58,
+      "review_count": 57
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0169806",
+          "display_name": "Taika Waititi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzk4MDIzNjcwNV5BMl5BanBnXkFtZTgwMTIyMjgwNDI@._V1_.jpg",
+              "width": 1638,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm9862836",
+          "display_name": "Christine Leunens",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0169806",
+          "display_name": "Taika Waititi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzk4MDIzNjcwNV5BMl5BanBnXkFtZTgwMTIyMjgwNDI@._V1_.jpg",
+              "width": 1638,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm9877392",
+          "display_name": "Roman Griffin Davis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmY1YmNkZmYtNDYxNS00MjZhLWEyNzctNGI1NjdjNDEwMDM1XkEyXkFqcGdeQXVyODk0NTg3MDk@._V1_.jpg",
+              "width": 3024,
+              "height": 4032
+            }
+          ]
+        },
+        "characters": [
+          "Jojo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5057169",
+          "display_name": "Thomasin McKenzie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWRlYTk0YjAtMDNkNy00ZDlmLTk4NzktOWJiYWFmNzcyY2Y0XkEyXkFqcGdeQXVyOTE0NjgwMjY@._V1_.jpg",
+              "width": 1382,
+              "height": 2000
+            }
+          ]
+        },
+        "characters": [
+          "Elsa"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0424060",
+          "display_name": "Scarlett Johansson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM3OTUwMDYwNl5BMl5BanBnXkFtZTcwNTUyNzc3Nw@@._V1_.jpg",
+              "width": 1689,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Rosie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0169806",
+          "display_name": "Taika Waititi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzk4MDIzNjcwNV5BMl5BanBnXkFtZTgwMTIyMjgwNDI@._V1_.jpg",
+              "width": 1638,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Adolf"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005377",
+          "display_name": "Sam Rockwell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc2NTM3MzE5NF5BMl5BanBnXkFtZTcwMjg4NDMwNA@@._V1_.jpg",
+              "width": 281,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Captain Klenzendorf"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2313103",
+          "display_name": "Rebel Wilson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjJhYTdhZmMtZmRhOS00YjJiLThkYjItMjljNzhhNjVmNjQwXkEyXkFqcGdeQXVyMTQzMjYyODY@._V1_.jpg",
+              "width": 3490,
+              "height": 2280
+            }
+          ]
+        },
+        "characters": [
+          "Fraulein Rahm"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0654295",
+          "display_name": "Alfie Allen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWQyMjA2MzctY2Q1Mi00MWQzLWEwYTUtYTQ3NmY2NTQwNTlmXkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_.jpg",
+              "width": 643,
+              "height": 856
+            }
+          ]
+        },
+        "characters": [
+          "Finkel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0580351",
+          "display_name": "Stephen Merchant",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkyNzIwNjcxNV5BMl5BanBnXkFtZTcwOTQzMDQ1NA@@._V1_.jpg",
+              "width": 1603,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Deertz"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9987228",
+          "display_name": "Archie Yates",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmIxNWZiYmUtYTE1NS00OWVjLTkwMDUtNWY2NmViNTc1YmVkXkEyXkFqcGdeQXVyODk5NTkzODI@._V1_.jpg",
+              "width": 3163,
+              "height": 3954
+            }
+          ]
+        },
+        "characters": [
+          "Yorki"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2554070",
+          "display_name": "Luke Brandon Field",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTA4MGNiMDItYjhjMy00ZjRhLWIyODQtYTc0YmEyMzFhM2Y2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 750,
+              "height": 1334
+            }
+          ]
+        },
+        "characters": [
+          "Christoph"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10128406",
+          "display_name": "Sam Haygarth",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTlkMTNkNDMtYmUyZC00MzM5LWJmYTctMjA3MjUyZDRlMmZhXkEyXkFqcGdeQXVyMTM5NTQwODEz._V1_.jpg",
+              "width": 1600,
+              "height": 2000
+            }
+          ]
+        },
+        "characters": [
+          "Hans"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5695737",
+          "display_name": "Stanislav Callas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzRmOGZlNmMtMzRlZi00ODE3LTg4YzktZGQwMWQzZGIxZmIxXkEyXkFqcGc@._V1_.jpg",
+              "width": 1994,
+              "height": 3545
+            }
+          ]
+        },
+        "characters": [
+          "Russian Soldier"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5265332",
+          "display_name": "Joe Weintraub",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWMzZGZmN2MtMjllMi00MGU0LTk5NmYtNzEwOWIyOTE2YmIxXkEyXkFqcGdeQXVyMzU3OTY1MjQ@._V1_.jpg",
+              "width": 1889,
+              "height": 2892
+            }
+          ]
+        },
+        "characters": [
+          "Herr Junker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1340370",
+          "display_name": "Brian Caspe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWQ4MGMyYmEtNGMxMi00Mzc5LTlhM2YtNmRhZWRkYmQ0MjI4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1600,
+              "height": 2000
+            }
+          ]
+        },
+        "characters": [
+          "Herr Mueller"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1336334",
+          "display_name": "Gabriel Andrews",
+          "avatars": null
+        },
+        "characters": [
+          "Herr Klum"
+        ]
+      }
+    ]
+  }
+}

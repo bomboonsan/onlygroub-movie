@@ -1,0 +1,330 @@
+{
+  "title": {
+    "id": "tt4731136",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "A Cure for Wellness",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 146,
+    "plot": "An ambitious young executive is sent to retrieve his company's CEO from an idyllic but mysterious \"wellness center\" at a remote location in the Swiss Alps, but soon suspects that the spa's treatments are not what they seem.",
+    "rating": {
+      "aggregate_rating": 6.4,
+      "votes_count": 109759
+    },
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTg5Njg1MzIwNl5BMl5BanBnXkFtZTgwNDU1NjczMDI@._V1_.jpg",
+        "width": 4050,
+        "height": 6000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "DE",
+        "name": "Germany"
+      },
+      {
+        "code": "LU",
+        "name": "Luxembourg"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 47,
+      "review_count": 40
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0893659",
+          "display_name": "Gore Verbinski",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTIxNzc0NDI5OV5BMl5BanBnXkFtZTcwNDgyMTY0Nw@@._V1_.jpg",
+              "width": 2048,
+              "height": 1546
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1244808",
+          "display_name": "Justin Haythe",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0893659",
+          "display_name": "Gore Verbinski",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTIxNzc0NDI5OV5BMl5BanBnXkFtZTcwNDgyMTY0Nw@@._V1_.jpg",
+              "width": 2048,
+              "height": 1546
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm2851530",
+          "display_name": "Dane DeHaan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUzOTgwNjg0OV5BMl5BanBnXkFtZTgwNTgyMTA1NjE@._V1_.jpg",
+              "width": 2978,
+              "height": 4474
+            }
+          ]
+        },
+        "characters": [
+          "Lockhart"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005042",
+          "display_name": "Jason Isaacs",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGM3MWZmZWYtYjgxNi00NGU1LThlMjUtMWVkY2FmZGE5Y2VjXkEyXkFqcGdeQXVyMzE4ODAxMA@@._V1_.jpg",
+              "width": 1120,
+              "height": 1680
+            }
+          ]
+        },
+        "characters": [
+          "Volmer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5301405",
+          "display_name": "Mia Goth",
+          "avatars": null
+        },
+        "characters": [
+          "Hannah"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2166477",
+          "display_name": "Ivo Nandi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA1MjM3NDkyMDVeQTJeQWpwZ15BbWU3MDAwMDY5NTc@._V1_.jpg",
+              "width": 2394,
+              "height": 3518
+            }
+          ]
+        },
+        "characters": [
+          "Enrico"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0771621",
+          "display_name": "Adrian Schiller",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTM0ZmU3ODMtOGU5Zi00YWEyLWJjYTktOTFmZTg0ZGJiZjFiXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 520,
+              "height": 705
+            }
+          ]
+        },
+        "characters": [
+          "Deputy Director"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0408309",
+          "display_name": "Celia Imrie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGFiNTNmNTQtODVjZS00YTQ0LWJmZjMtMWFmZTdjNWY0MGEyXkEyXkFqcGdeQXVyNTQ0NDA1OTA@._V1_.jpg",
+              "width": 2214,
+              "height": 2846
+            }
+          ]
+        },
+        "characters": [
+          "Victoria Watkins"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0342881",
+          "display_name": "Harry Groener",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgxODY1MTcyMV5BMl5BanBnXkFtZTYwODAwNTA1._V1_.jpg",
+              "width": 259,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Pembroke"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0635962",
+          "display_name": "Tomas Norström",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzAxMDVjOWItMWFjNS00ZjE0LWI5ZWEtM2NjZDRkYjgwNjkxXkEyXkFqcGc@._V1_.jpg",
+              "width": 900,
+              "height": 1350
+            }
+          ]
+        },
+        "characters": [
+          "Frank Hill"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0541612",
+          "display_name": "Ashok Mandanna",
+          "avatars": null
+        },
+        "characters": [
+          "Ron Nair"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0470886",
+          "display_name": "Magnus Krepper",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWVmY2EyNDktMzA0ZS00NTI4LTgwNGUtZWY3ZjJmNTkzNWE0XkEyXkFqcGdeQXVyMjExMDE1MzQ@._V1_.jpg",
+              "width": 1085,
+              "height": 814
+            }
+          ]
+        },
+        "characters": [
+          "Pieter the Vet"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0070802",
+          "display_name": "Peter Benedict",
+          "avatars": null
+        },
+        "characters": [
+          "Constable"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0579159",
+          "display_name": "Michael Mendl",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjExMjI5OTI5Ml5BMl5BanBnXkFtZTgwNTU1OTgyNDM@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        },
+        "characters": [
+          "Bartender"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0824353",
+          "display_name": "Maggie Steed",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzg4MzA4ZjEtNDgzMC00ZmRkLThkMzMtY2Q5MjA5ZjY3MDExXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 872,
+              "height": 1055
+            }
+          ]
+        },
+        "characters": [
+          "Mrs. Abramov"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0943005",
+          "display_name": "Craig Wroe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjYwZWZiZjAtZDI3MS00ZDI5LWJhZTQtMzc3ZDg5NzdmZGRhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3565,
+              "height": 2465
+            }
+          ]
+        },
+        "characters": [
+          "Morris"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0083969",
+          "display_name": "David Bishins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWFiYzQ0OTAtNmMxMi00NzUwLTg2OGQtZTUzMmNjNzY4YTJhXkEyXkFqcGc@._V1_.jpg",
+              "width": 580,
+              "height": 386
+            }
+          ]
+        },
+        "characters": [
+          "Hank Green"
+        ]
+      }
+    ]
+  }
+}

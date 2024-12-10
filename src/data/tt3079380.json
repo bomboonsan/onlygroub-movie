@@ -1,0 +1,341 @@
+{
+  "title": {
+    "id": "tt3079380",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Spy",
+    "original_title": null,
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 120,
+    "plot": "A desk-bound CIA analyst volunteers to go undercover to infiltrate the world of a deadly arms dealer and prevent diabolical global disaster.",
+    "rating": {
+      "aggregate_rating": 7,
+      "votes_count": 259039
+    },
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjI5OTQ0MDQxM15BMl5BanBnXkFtZTgwMzcwNjMyNTE@._V1_.jpg",
+        "width": 2025,
+        "height": 3000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "bul",
+        "name": "Bulgarian"
+      },
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      },
+      {
+        "code": "hun",
+        "name": "Hungarian"
+      },
+      {
+        "code": "ita",
+        "name": "Italian"
+      },
+      {
+        "code": "jpn",
+        "name": "Japanese"
+      },
+      {
+        "code": "ukr",
+        "name": "Ukrainian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 75,
+      "review_count": 40
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0082450",
+          "display_name": "Paul Feig",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjUyODUyODQzM15BMl5BanBnXkFtZTcwNzM3MjE3NA@@._V1_.jpg",
+              "width": 1430,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0082450",
+          "display_name": "Paul Feig",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjUyODUyODQzM15BMl5BanBnXkFtZTcwNzM3MjE3NA@@._V1_.jpg",
+              "width": 1430,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000179",
+          "display_name": "Jude Law",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMwOTg5NTQ3NV5BMl5BanBnXkFtZTcwNzM3MDAzNQ@@._V1_.jpg",
+              "width": 1457,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Bradley Fine"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0712562",
+          "display_name": "Raad Rawi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkzMzM0OTYxM15BMl5BanBnXkFtZTcwNzY1NTgyNA@@._V1_.jpg",
+              "width": 3744,
+              "height": 5616
+            }
+          ]
+        },
+        "characters": [
+          "Tihomir Boyanov"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0565250",
+          "display_name": "Melissa McCarthy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg5NjA3ODkyMl5BMl5BanBnXkFtZTgwNTU4Mzg5NjE@._V1_.jpg",
+              "width": 1608,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Susan Cooper"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0149560",
+          "display_name": "Jessica Chaffin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA3OTI2NzA2MjNeQTJeQWpwZ15BbWU3MDU1MjIzOTI@._V1_.jpg",
+              "width": 533,
+              "height": 800
+            }
+          ]
+        },
+        "characters": [
+          "Sharon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1635000",
+          "display_name": "Miranda Hart",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzY1NzQwMDk5N15BMl5BanBnXkFtZTgwODgyNDE3NTE@._V1_.jpg",
+              "width": 1297,
+              "height": 1946
+            }
+          ]
+        },
+        "characters": [
+          "Nancy B. Artingstall"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3931538",
+          "display_name": "Sam Richardson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjczMmViNzQtZTgwMy00MzYxLWE1MWQtZjc4ZGI4MDI2NzE0XkEyXkFqcGdeQXVyMzEyNzUwNTc@._V1_.jpg",
+              "width": 390,
+              "height": 385
+            }
+          ]
+        },
+        "characters": [
+          "John"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1767754",
+          "display_name": "Katie Dippold",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTBmMmIyNzAtOTFmOS00Njc2LWE1ZTEtN2E3ZGNkMGI1NjQzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 656,
+              "height": 644
+            }
+          ]
+        },
+        "characters": [
+          "Katherine"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7356001",
+          "display_name": "Jaime Pacheco",
+          "avatars": null
+        },
+        "characters": [
+          "Jaime the Gardener"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2158037",
+          "display_name": "Romain Apelbaum",
+          "avatars": null
+        },
+        "characters": [
+          "DC French Waiter"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005049",
+          "display_name": "Allison Janney",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAyNjc2NzgxM15BMl5BanBnXkFtZTgwODQyMjM1MjE@._V1_.jpg",
+              "width": 1496,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Elaine Crocker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0126284",
+          "display_name": "Rose Byrne",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc0MDA2Njc0OF5BMl5BanBnXkFtZTcwNzc3NDU3Mw@@._V1_.jpg",
+              "width": 289,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Rayna Boyanov"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0104114",
+          "display_name": "Richard Brake",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDA5OTk0ZTAtNmRhOC00MGI2LWI5YmMtMDM1NTY3YzgzYThkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 5081,
+              "height": 4358
+            }
+          ]
+        },
+        "characters": [
+          "Solsa Dudaev"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0052446",
+          "display_name": "Steve Bannos",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjc2N2Q4NDItOGVmZS00Y2M0LWIxZjEtZDE4YmQxMTNiMTJmXkEyXkFqcGdeQXVyMTQzMzY0Mw@@._V1_.jpg",
+              "width": 800,
+              "height": 1172
+            }
+          ]
+        },
+        "characters": [
+          "Alan the Bartender"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1072555",
+          "display_name": "Morena Baccarin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmU5Yjk4OTItMjMzZS00MTYzLWI1ZDktYWM4YWM2NTM2YzMzXkEyXkFqcGdeQXVyMzY2OTA2MzM@._V1_.jpg",
+              "width": 960,
+              "height": 1280
+            }
+          ]
+        },
+        "characters": [
+          "Karen Walker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005458",
+          "display_name": "Jason Statham",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzk2MDkwOV5BMl5BanBnXkFtZTcwMDAxODQwMg@@._V1_.jpg",
+              "width": 263,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Rick Ford"
+        ]
+      }
+    ]
+  }
+}

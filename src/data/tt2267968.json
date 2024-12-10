@@ -1,0 +1,368 @@
+{
+  "title": {
+    "id": "tt2267968",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Kung Fu Panda 3",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 95,
+    "plot": "Continuing his \"legendary adventures of awesomeness\", Po must face two hugely epic, but different threats: one supernatural and the other a little closer to home.",
+    "rating": {
+      "aggregate_rating": 7.1,
+      "votes_count": 189862
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTUyNzgxNjg2M15BMl5BanBnXkFtZTgwMTY1NDI1NjE@._V1_.jpg",
+        "width": 660,
+        "height": 978
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CN",
+        "name": "China"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 66,
+      "review_count": 34
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1868917",
+          "display_name": "Alessandro Carloni",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGQ1MzE0ODgtZDk3OS00ZDlmLWI4MzgtMzE5YTAwMTkxOWZjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 449,
+              "height": 458
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0950775",
+          "display_name": "Jennifer Yuh Nelson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY4MzYyNDY4NF5BMl5BanBnXkFtZTcwMzIwNzkyMg@@._V1_.jpg",
+              "width": 1257,
+              "height": 1086
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0008743",
+          "display_name": "Jonathan Aibel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAzNDI0MTAzOV5BMl5BanBnXkFtZTcwOTMwNzkyMg@@._V1_.jpg",
+              "width": 1184,
+              "height": 1083
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0074184",
+          "display_name": "Glenn Berger",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0717550",
+          "display_name": "Ethan Reiff",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0903456",
+          "display_name": "Cyrus Voris",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0085312",
+          "display_name": "Jack Black",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTFiMWNlNmItMDRiYy00NzA4LWE5YjItZmViNWQ2NzhhOWZlXkEyXkFqcGdeQXVyMTA2Mjc5ODMy._V1_.jpg",
+              "width": 750,
+              "height": 963
+            }
+          ]
+        },
+        "characters": [
+          "Po"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0186505",
+          "display_name": "Bryan Cranston",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA2NjEyMTY4MTVeQTJeQWpwZ15BbWU3MDQ5NDAzNDc@._V1_.jpg",
+              "width": 1369,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Li"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000163",
+          "display_name": "Dustin Hoffman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc3NzU0ODczMF5BMl5BanBnXkFtZTcwODEyMDY5Mg@@._V1_.jpg",
+              "width": 298,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Shifu"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001401",
+          "display_name": "Angelina Jolie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODg3MzYwMjE4N15BMl5BanBnXkFtZTcwMjU5NzAzNw@@._V1_.jpg",
+              "width": 1665,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Tigress"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0799777",
+          "display_name": "J.K. Simmons",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzg2NTI5NzQ1MV5BMl5BanBnXkFtZTgwNjI1NDEwMDI@._V1_.jpg",
+              "width": 1679,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Kai"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000329",
+          "display_name": "Jackie Chan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk4MDM0MDUzM15BMl5BanBnXkFtZTcwOTI4MzU1Mw@@._V1_.jpg",
+              "width": 288,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Monkey"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0736622",
+          "display_name": "Seth Rogen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWI2NzQ0MzQtYTYxNi00ZTQxLWE3ZjUtNTg1MTE0YzJlOWZjXkEyXkFqcGdeQXVyMTMyNzI3NzIy._V1_.jpg",
+              "width": 2600,
+              "height": 3900
+            }
+          ]
+        },
+        "characters": [
+          "Mantis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005154",
+          "display_name": "Lucy Liu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTgxODE0MjI5Ml5BMl5BanBnXkFtZTcwMjkxMzMzMg@@._V1_.jpg",
+              "width": 282,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Viper"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0189144",
+          "display_name": "David Cross",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMzMzgwOTI1N15BMl5BanBnXkFtZTcwNTg5ODk2Mw@@._V1_.jpg",
+              "width": 375,
+              "height": 500
+            }
+          ]
+        },
+        "characters": [
+          "Crane"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005028",
+          "display_name": "Kate Hudson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA1NTk0MjMyOTFeQTJeQWpwZ15BbWU3MDA4NzEzMTM@._V1_.jpg",
+              "width": 301,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Mei Mei"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0393222",
+          "display_name": "James Hong",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM0MTQxOTA4MF5BMl5BanBnXkFtZTgwODE1OTcyMjE@._V1_.jpg",
+              "width": 3840,
+              "height": 2560
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Ping"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0453641",
+          "display_name": "Randall Duk Kim",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTIwMjY3ODY5M15BMl5BanBnXkFyZXN1bWU@._V1_.jpg",
+              "width": 1820,
+              "height": 1461
+            }
+          ]
+        },
+        "characters": [
+          "Oogway"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3241020",
+          "display_name": "Steele Gagnon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTdhODA4N2UtODY5NS00MDE3LThlZTktZjA3ZTVlMjc4MDUzXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+              "width": 2406,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Bao"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4477006",
+          "display_name": "Liam Knight",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWM5ODMyZTYtZTg5Zi00YzZhLTljNTEtMWU5OWI4MTQ4MzA0XkEyXkFqcGc@._V1_.jpg",
+              "width": 757,
+              "height": 1310
+            }
+          ]
+        },
+        "characters": [
+          "Lei Lei"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001431",
+          "display_name": "Wayne Knight",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjM1N2MwY2ItMzRmMi00Nzc4LWEzOGEtZTdlZWI4OGQxYjdiXkEyXkFqcGdeQXVyNTUwNzA4Mw@@._V1_.jpg",
+              "width": 960,
+              "height": 721
+            }
+          ]
+        },
+        "characters": [
+          "Big Fun",
+          "Hom-Lee"
+        ]
+      }
+    ]
+  }
+}

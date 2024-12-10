@@ -1,0 +1,335 @@
+{
+  "title": {
+    "id": "tt8521718",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The United States vs. Billie Holiday",
+    "original_title": null,
+    "start_year": 2021,
+    "end_year": null,
+    "runtime_minutes": 126,
+    "plot": "Follows Holiday during her career as she is targeted by the Federal Department of Narcotics with an undercover sting operation led by black Federal Agent Jimmy Fletcher, with whom she has a tumultuous affair.",
+    "rating": {
+      "aggregate_rating": 6.3,
+      "votes_count": 14687
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2FjZDU0MGMtZDkxMi00M2VmLTkyNDQtNTFjYjIzYzMxMjgwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "width": 8100,
+        "height": 12000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "ita",
+        "name": "Italian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 52,
+      "review_count": 43
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0200005",
+          "display_name": "Lee Daniels",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ4MTg5Nzc1Ml5BMl5BanBnXkFtZTcwODQyODcyMg@@._V1_.jpg",
+              "width": 475,
+              "height": 480
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0663016",
+          "display_name": "Suzan-Lori Parks",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg3Njc3NDYwMl5BMl5BanBnXkFtZTgwMzg4NTYyNzM@._V1_.jpg",
+              "width": 1471,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2228635",
+          "display_name": "Johann Hari",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm7363531",
+          "display_name": "Andra Day",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTk5ZDNkMjUtMjY0NC00NWI5LTk1ODEtNWE0ODJiNGNkM2MxXkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_.jpg",
+              "width": 2560,
+              "height": 1767
+            }
+          ]
+        },
+        "characters": [
+          "Billie Holiday"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0430074",
+          "display_name": "Leslie Jordan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM1NTc5ODUxN15BMl5BanBnXkFtZTcwMTU0NzYyNg@@._V1_.jpg",
+              "width": 1391,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Reginald Lord Devine"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5851871",
+          "display_name": "Miss Lawrence",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjc2ZmYxZGQtZDM2My00Y2VhLWI3ZDAtYWU2NjllNzZlZWM5XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",
+              "width": 4652,
+              "height": 6979
+            }
+          ]
+        },
+        "characters": [
+          "Miss Freddy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005169",
+          "display_name": "Natasha Lyonne",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTEyMzc2MTE2MzheQTJeQWpwZ15BbWU4MDUwNTY0ODYx._V1_.jpg",
+              "width": 1360,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Tallulah Bankhead"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5218990",
+          "display_name": "Trevante Rhodes",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzAwNDEyNTc3MV5BMl5BanBnXkFtZTgwNTEzMzc1MTI@._V1_.jpg",
+              "width": 1367,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Jimmy Fletcher"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1428452",
+          "display_name": "Dusan Dukic",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDc4MjA2NjI0MF5BMl5BanBnXkFtZTgwNzM4MDk3NzE@._V1_.jpg",
+              "width": 777,
+              "height": 1080
+            }
+          ]
+        },
+        "characters": [
+          "Joe Glaser"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0367510",
+          "display_name": "Erik LaRay Harvey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODU5ODA1NTQzM15BMl5BanBnXkFtZTgwNDc1NzU0MDI@._V1_.jpg",
+              "width": 1638,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "James Monroe"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5007768",
+          "display_name": "Da'Vine Joy Randolph",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODA1ZGYxMDAtN2FjMS00YTk1LTg2MWYtZDQ4NWI0YTM5NWI1XkEyXkFqcGdeQXVyMTI2Nzk2MjQ1._V1_.jpg",
+              "width": 399,
+              "height": 300
+            }
+          ]
+        },
+        "characters": [
+          "Roslyn"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1027941",
+          "display_name": "Koumba Ball",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWMyZDExMzgtOGQwMC00NzliLTk5ZjMtOWU0ZDljMzBhY2UzXkEyXkFqcGc@._V1_.jpg",
+              "width": 375,
+              "height": 561
+            }
+          ]
+        },
+        "characters": [
+          "Lucille"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9174338",
+          "display_name": "Kate MacLellan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTdlYWE5MmEtN2I3Yi00NTE4LWFkYzYtMzE4NjMxOGNiMGYyXkEyXkFqcGdeQXVyNjc1ODk2MzA@._V1_.jpg",
+              "width": 427,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Working Class Woman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0814326",
+          "display_name": "Kwasi Songui",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUzMDg5NjQ1Nl5BMl5BanBnXkFtZTcwMzUzMzIzOA@@._V1_.jpg",
+              "width": 1473,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Working Class Man"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0502180",
+          "display_name": "Adriane Lenox",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMzMTU3Nzk2Nl5BMl5BanBnXkFtZTcwNDI4MzA1Mw@@._V1_.jpg",
+              "width": 285,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Mrs. Fletcher"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6215784",
+          "display_name": "Letitia Brookes",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTVlZjhlODktZmYxZS00ODkyLWJhNGItMTJiZWRhMDNmNDQ4XkEyXkFqcGdeQXVyNzgwMTMzNDQ@._V1_.jpg",
+              "width": 2038,
+              "height": 2935
+            }
+          ]
+        },
+        "characters": [
+          "Velva"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1927701",
+          "display_name": "Tyler James Williams",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODYzNTQyMDk3N15BMl5BanBnXkFtZTgwMDEwMDIxNzM@._V1_.jpg",
+              "width": 1546,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Lester Young"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0931912",
+          "display_name": "Warren 'Slim' Williams",
+          "avatars": null
+        },
+        "characters": [
+          "Bobby Tucker"
+        ]
+      }
+    ]
+  }
+}

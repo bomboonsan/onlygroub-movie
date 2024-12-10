@@ -1,0 +1,353 @@
+{
+  "title": {
+    "id": "tt2620590",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Leatherface",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 90,
+    "plot": "A teenage Leatherface escapes from a mental hospital with three other inmates, kidnapping a young nurse and taking her on a road trip from hell, while being pursued by a lawman out for revenge.",
+    "rating": {
+      "aggregate_rating": 5,
+      "votes_count": 27889
+    },
+    "genres": [
+      "Crime",
+      "Horror",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjEyMDE1MzE1NF5BMl5BanBnXkFtZTgwMzcwNTU1MzI@._V1_.jpg",
+        "width": 1012,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 40,
+      "review_count": 12
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm2376614",
+          "display_name": "Alexandre Bustillo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTczZTQyMjYtY2ZmMS00OWJlLWE2MGQtY2QzYTgyYmM4NTM1XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
+              "width": 1200,
+              "height": 795
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2377660",
+          "display_name": "Julien Maury",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjY4ZDU0MzUtODU0ZS00NjcxLWE3MmEtZDhhNWY5NWNhZjM3XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
+              "width": 1200,
+              "height": 795
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm3466037",
+          "display_name": "Seth M. Sherwood",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWU0ODQ3OGQtNmFlNS00ZmE2LWJkYTItNzIwZDBjZTkwMzE5XkEyXkFqcGdeQXVyNTI4NDE5MTM@._V1_.jpg",
+              "width": 903,
+              "height": 903
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0001361",
+          "display_name": "Tobe Hooper",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM0NzgyOTczMV5BMl5BanBnXkFtZTYwOTU2Nzcz._V1_.jpg",
+              "width": 262,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0377066",
+          "display_name": "Kim Henkel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDM0ODM3MjA3NV5BMl5BanBnXkFtZTcwOTI3NjIzMQ@@._V1_.jpg",
+              "width": 304,
+              "height": 393
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0001151",
+          "display_name": "Stephen Dorff",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA5MzY3NjcyN15BMl5BanBnXkFtZTcwNjEzMzEwNA@@._V1_.jpg",
+              "width": 277,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Hal Hartman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000666",
+          "display_name": "Lili Taylor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTAyNzAyMzA1ODZeQTJeQWpwZ15BbWU4MDAzNDQxNjkx._V1_.jpg",
+              "width": 607,
+              "height": 596
+            }
+          ]
+        },
+        "characters": [
+          "Verna"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5307635",
+          "display_name": "Sam Strike",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjZlM2VkMjctMTU5MS00MDJmLWFiMDItOTlmYzE3NGViNThmXkEyXkFqcGdeQXVyNDk2Njc4NDk@._V1_.jpg",
+              "width": 3237,
+              "height": 4249
+            }
+          ]
+        },
+        "characters": [
+          "Jackson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7149890",
+          "display_name": "Vanessa Grasse",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWFiMmNkZTUtYTk2MC00M2RiLTkxNmQtNWE2Yjg3NzZhOGU4XkEyXkFqcGc@._V1_.jpg",
+              "width": 4747,
+              "height": 7113
+            }
+          ]
+        },
+        "characters": [
+          "Lizzy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3645691",
+          "display_name": "Finn Jones",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTkxNDc2NDg4M15BMl5BanBnXkFtZTgwNTAxMDY3MTI@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Deputy Sorells"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4744043",
+          "display_name": "Sam Coleman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjJlYTQyY2MtZDA5NC00M2VkLThlOWYtOGE1YjkxMDkxYzFiXkEyXkFqcGc@._V1_.jpg",
+              "width": 4800,
+              "height": 3840
+            }
+          ]
+        },
+        "characters": [
+          "Bud"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7289044",
+          "display_name": "Jessica Madsen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzY2NTg3YWUtODRmYS00ZTY5LWI4YjctZWUwY2I1Y2Y5MGY4XkEyXkFqcGdeQXVyNTQ4OTM2Njk@._V1_.jpg",
+              "width": 2448,
+              "height": 1632
+            }
+          ]
+        },
+        "characters": [
+          "Clarice"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5914751",
+          "display_name": "James Bloor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2I2NTBjMzAtYjA3MC00ZmMxLWExNGEtN2ZjZGE1ZjJjMGQ0XkEyXkFqcGdeQXVyMTA0NDQwNzA2._V1_.jpg",
+              "width": 2624,
+              "height": 3936
+            }
+          ]
+        },
+        "characters": [
+          "Ike"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0011478",
+          "display_name": "Christopher Adamson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTAwMDAyNTc2ODleQTJeQWpwZ15BbWU3MDk5NTQ0MDg@._V1_.jpg",
+              "width": 1419,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Lang"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2817670",
+          "display_name": "Dimo Alexiev",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGJmN2FmYzctZGNmMC00MDBjLTgzNWUtZWVmZjAxMzg1ZmFhXkEyXkFqcGdeQXVyMjk0ODc3NzQ@._V1_.jpg",
+              "width": 6240,
+              "height": 4160
+            }
+          ]
+        },
+        "characters": [
+          "Drayton"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7724402",
+          "display_name": "Nathan Cooper",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWY1OTYwYTUtZjZmNC00YTI1LThiMDctNzAwMzIyZDk2YTIyXkEyXkFqcGdeQXVyNjM0MDQ5OTI@._V1_.jpg",
+              "width": 3778,
+              "height": 5678
+            }
+          ]
+        },
+        "characters": [
+          "Farnsworth"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1854392",
+          "display_name": "Dejan Angelov",
+          "avatars": null
+        },
+        "characters": [
+          "Nubbins"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6952275",
+          "display_name": "Boris Kabakchiev",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAyNzM1Nzk3M15BMl5BanBnXkFtZTgwMjIzODQ5MjI@._V1_.jpg",
+              "width": 2048,
+              "height": 1366
+            }
+          ]
+        },
+        "characters": [
+          "Young Jed"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5189714",
+          "display_name": "Lorina Kamburova",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2ZlZDZlOGMtZGE5MC00ZTI2LWIyMTItZGFlZGUyZjllYzk5XkEyXkFqcGdeQXVyNDE3OTczOTA@._V1_.jpg",
+              "width": 424,
+              "height": 530
+            }
+          ]
+        },
+        "characters": [
+          "Betty"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5691704",
+          "display_name": "Hristo Milev",
+          "avatars": null
+        },
+        "characters": [
+          "Young Nubbins"
+        ]
+      }
+    ]
+  }
+}

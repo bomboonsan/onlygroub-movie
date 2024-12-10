@@ -1,0 +1,307 @@
+{
+  "title": {
+    "id": "tt7784604",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Hereditary",
+    "original_title": null,
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 127,
+    "plot": "A grieving family is haunted by tragic and disturbing occurrences.",
+    "rating": {
+      "aggregate_rating": 7.3,
+      "votes_count": 370404
+    },
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTU5MDg3OGItZWQ1Ny00ZGVmLTg2YTUtMzBkYzQ1YWIwZjlhXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_.jpg",
+        "width": 2025,
+        "height": 3000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 87,
+      "review_count": 49
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm4170048",
+          "display_name": "Ari Aster",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTEyNzE1MTU0ODNeQTJeQWpwZ15BbWU4MDUwMjIyNjUz._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm4170048",
+          "display_name": "Ari Aster",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTEyNzE1MTU0ODNeQTJeQWpwZ15BbWU4MDUwMjIyNjUz._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1842974",
+          "display_name": "Alex Wolff",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTdiNzc5NmQtM2ZlNS00MTAxLTg2YzAtYzU0NjBjM2JkZDA1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2240,
+              "height": 3360
+            }
+          ]
+        },
+        "characters": [
+          "Peter"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000321",
+          "display_name": "Gabriel Byrne",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAxMzE1ODA1Ml5BMl5BanBnXkFtZTcwODY3MjU5MQ@@._V1_.jpg",
+              "width": 318,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Steve"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001057",
+          "display_name": "Toni Collette",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODYzOTE3ODc1Ml5BMl5BanBnXkFtZTgwODYwMjE4NTM@._V1_.jpg",
+              "width": 503,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Annie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8412536",
+          "display_name": "Milly Shapiro",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzc5NzljMjAtZjVhNS00M2Q0LWE4NDctZDQ3NzY3YzgzN2VkXkEyXkFqcGdeQXVyODQ4NjkzNjQ@._V1_.jpg",
+              "width": 3996,
+              "height": 4746
+            }
+          ]
+        },
+        "characters": [
+          "Charlie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0838647",
+          "display_name": "Christy Summerhays",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2JiMjc1NDQtMWU5OC00ZDQ0LTg5ZWEtZmZkZTZhN2QwM2M4XkEyXkFqcGdeQXVyMTI1MTM4MDY5._V1_.jpg",
+              "width": 5616,
+              "height": 3744
+            }
+          ]
+        },
+        "characters": [
+          "Charlie's Teacher"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0526218",
+          "display_name": "Morgan Lund",
+          "avatars": null
+        },
+        "characters": [
+          "Mr. Davies"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5533830",
+          "display_name": "Mallory Bechtel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGU4OWJhOTQtMThiYy00ZGMxLWJlN2UtYzY0ZmI1NzAzZmMyXkEyXkFqcGdeQXVyNDExMTIyMDY@._V1_.jpg",
+              "width": 720,
+              "height": 900
+            }
+          ]
+        },
+        "characters": [
+          "Bridget"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8346433",
+          "display_name": "Jake Brown",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjIxOTViZGItYjY5ZS00OTI3LTgzNzUtYzljYmUwODYyNzdiXkEyXkFqcGdeQXVyNTM3MDY5MDU@._V1_.jpg",
+              "width": 4000,
+              "height": 6000
+            }
+          ]
+        },
+        "characters": [
+          "Brendan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9889944",
+          "display_name": "Harrison Nell",
+          "avatars": null
+        },
+        "characters": [
+          "Student #1"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6861218",
+          "display_name": "BriAnn Rachele",
+          "avatars": null
+        },
+        "characters": [
+          "Student #2"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3918838",
+          "display_name": "Heidi Méndez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWFjYjgyMDMtODlmZS00ZWMzLWE1MDAtMWMzOTFiODA3NDg3XkEyXkFqcGdeQXVyNjM5NjI4Mzg@._V1_.jpg",
+              "width": 1685,
+              "height": 2527
+            }
+          ]
+        },
+        "characters": [
+          "Spanish Speaking Woman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4767701",
+          "display_name": "Moises L. Tovar",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmE2YTUxOWYtZTczMi00NjlhLWFjNDQtYjZhZjJjM2NlYTFiXkEyXkFqcGdeQXVyMzE1ODQwMDM@._V1_.jpg",
+              "width": 2400,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Translator"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2326393",
+          "display_name": "Jarrod Phillips",
+          "avatars": null
+        },
+        "characters": [
+          "Group Leader"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0235652",
+          "display_name": "Ann Dowd",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIwMTc0NzA0OV5BMl5BanBnXkFtZTcwMDIwMjk4OA@@._V1_.jpg",
+              "width": 1558,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Joan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2171921",
+          "display_name": "Brock McKinney",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzIyMWFhNDEtOGQyYy00OTM5LTlkNDUtZWFlNjQ4ODZjNjEzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 5613,
+              "height": 3742
+            }
+          ]
+        },
+        "characters": [
+          "Aaron"
+        ]
+      }
+    ]
+  }
+}

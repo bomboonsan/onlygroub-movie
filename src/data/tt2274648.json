@@ -1,0 +1,228 @@
+{
+  "title": {
+    "id": "tt2274648",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Hellboy",
+    "original_title": null,
+    "start_year": 2019,
+    "end_year": null,
+    "runtime_minutes": 120,
+    "plot": "Caught between the worlds of the supernatural and human, Hellboy battles an ancient sorceress bent on revenge.",
+    "rating": {
+      "aggregate_rating": 5.3,
+      "votes_count": 99041
+    },
+    "genres": null,
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BODdkMDQzMzItZDc4YS00OGM4LTkxNTQtNjUzNzU0ZmJkMWY2XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg",
+        "width": 4050,
+        "height": 6000
+      }
+    ],
+    "certificates": null,
+    "spoken_languages": null,
+    "origin_countries": null,
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm0551076",
+          "display_name": "Neil Marshall",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjQ5MjAyMDgtYzAwNi00OTE2LTk1MWYtOWJjYTc0NDkwYzg4XkEyXkFqcGdeQXVyMjA0ODMwOQ@@._V1_.jpg",
+              "width": 2316,
+              "height": 3088
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1184676",
+          "display_name": "Andrew Cosby",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTIyZGI3ZTYtN2U4Yi00NzEwLWI4ZDYtZjc0ZjE4ODBkOGE4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1536,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0586005",
+          "display_name": "Mike Mignola",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTUwMDEyOTIzNV5BMl5BanBnXkFtZTgwMTIwOTg0NjM@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm4440305",
+          "display_name": "Mark Stanley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDhmMjFmYTAtNGFmOC00YWQwLTk1NWQtODZlMDNiZDFkZTg2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2196,
+              "height": 3300
+            }
+          ]
+        },
+        "characters": [
+          "Arthur"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2244852",
+          "display_name": "Brian Gleeson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWI0Y2JhZDgtYjk0Yi00Mjk4LWJiM2ItODQ1OTg4M2EyOTJmXkEyXkFqcGdeQXVyMzI3NjQ4MzI@._V1_.jpg",
+              "width": 440,
+              "height": 704
+            }
+          ]
+        },
+        "characters": [
+          "Merlin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10604409",
+          "display_name": "Nadya Keranova",
+          "avatars": null
+        },
+        "characters": [
+          "Sister"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9407212",
+          "display_name": "Maria Tepavicharova",
+          "avatars": null
+        },
+        "characters": [
+          "Sister"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4005373",
+          "display_name": "Ana Tabakova",
+          "avatars": null
+        },
+        "characters": [
+          "Sister"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000170",
+          "display_name": "Milla Jovovich",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzA1Nzc4NjYwNV5BMl5BanBnXkFtZTcwNjA2NjY1Mg@@._V1_.jpg",
+              "width": 1687,
+              "height": 2134
+            }
+          ]
+        },
+        "characters": [
+          "Nimue",
+          "The Blood Queen"
+        ]
+      },
+      {
+        "name": null,
+        "characters": [
+          "Ganeida"
+        ]
+      },
+      {
+        "name": null,
+        "characters": [
+          "Priest"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0574534",
+          "display_name": "Ian McShane",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjg5NDg3OTQtYzMyYS00YjhhLTk2NmEtZTExNGViYTczZTU2XkEyXkFqcGdeQXVyMTU1MTU2MDI@._V1_.jpg",
+              "width": 3580,
+              "height": 4774
+            }
+          ]
+        },
+        "characters": [
+          "Professor Broom"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1092086",
+          "display_name": "David Harbour",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTc5ODUzMDAtZGFhZS00NmExLTlhYWYtZDY0NGI2MGMwYTIzXkEyXkFqcGdeQXVyODY0MzQyODc@._V1_.jpg",
+              "width": 2087,
+              "height": 2593
+            }
+          ]
+        },
+        "characters": [
+          "Hellboy"
+        ]
+      },
+      {
+        "name": null,
+        "characters": [
+          "Esteban Ruiz",
+          "Camazotz"
+        ]
+      },
+      {
+        "name": null,
+        "characters": [
+          "Referee"
+        ]
+      },
+      {
+        "name": null,
+        "characters": [
+          "Agent Madison"
+        ]
+      },
+      {
+        "name": null,
+        "characters": [
+          "Agent Strode"
+        ]
+      },
+      {
+        "name": null,
+        "characters": [
+          "Butler"
+        ]
+      }
+    ]
+  }
+}

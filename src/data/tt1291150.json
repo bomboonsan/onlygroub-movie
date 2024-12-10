@@ -1,0 +1,373 @@
+{
+  "title": {
+    "id": "tt1291150",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Teenage Mutant Ninja Turtles",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 101,
+    "plot": "When a kingpin threatens New York City, a group of mutated turtle warriors must emerge from the shadows to protect their home.",
+    "rating": {
+      "aggregate_rating": 5.8,
+      "votes_count": 220116
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Crime",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjUzODQ5MDY5NV5BMl5BanBnXkFtZTgwOTc1NzcyMjE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "jpn",
+        "name": "Japanese"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 31,
+      "review_count": 33
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0509448",
+          "display_name": "Jonathan Liebesman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ0OTkyNDU2Ml5BMl5BanBnXkFtZTgwMDA0NTczMjE@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0032227",
+          "display_name": "Josh Appelbaum",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0625858",
+          "display_name": "André Nemec",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MjY1MDI1N15BMl5BanBnXkFtZTgwNjk3NzIyNDE@._V1_.jpg",
+              "width": 1586,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2489193",
+          "display_name": "Evan Daugherty",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA4MDI5MjQyNV5BMl5BanBnXkFtZTcwODA0Mjc4Nw@@._V1_.jpg",
+              "width": 1336,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0481990",
+          "display_name": "Peter Laird",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0247653",
+          "display_name": "Kevin Eastman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjA3NzE3OTg5M15BMl5BanBnXkFtZTgwMDkzNjgyMjE@._V1_.jpg",
+              "width": 984,
+              "height": 1444
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1083271",
+          "display_name": "Megan Fox",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc5MjgyMzk4NF5BMl5BanBnXkFtZTcwODk2OTM4Mg@@._V1_.jpg",
+              "width": 280,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "April O'Neil"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0004715",
+          "display_name": "Will Arnett",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTgxNDdlYjAtNGQzZC00ODJlLTliYjYtYTk0ZDE4YTBmYmM0XkEyXkFqcGdeQXVyNDc1NDA0NA@@._V1_.jpg",
+              "width": 612,
+              "height": 792
+            }
+          ]
+        },
+        "characters": [
+          "Vern Fenwick"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001209",
+          "display_name": "William Fichtner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmM2Yzc1MDEtMjg5NC00NDU4LTg0Y2MtOTExMjgyZDgyZGVjXkEyXkFqcGdeQXVyNDI5Mzk0MjM@._V1_.jpg",
+              "width": 480,
+              "height": 580
+            }
+          ]
+        },
+        "characters": [
+          "Eric Sacks"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2024927",
+          "display_name": "Alan Ritchson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGI4Y2QzZWEtYmYwMC00MTc1LWI1ZjEtYjMzNzA4MDQ2Yjk0XkEyXkFqcGdeQXVyNzY1NTEzMw@@._V1_.jpg",
+              "width": 6124,
+              "height": 4082
+            }
+          ]
+        },
+        "characters": [
+          "Raphael"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0279720",
+          "display_name": "Noel Fisher",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcyMTc3NzQ2OV5BMl5BanBnXkFtZTcwNjAxNzExOA@@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Michelangelo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5293935",
+          "display_name": "Pete Ploszek",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2M1ZjNiYzItZmE2NC00MTlkLWFmZGEtNmFjNDFmNTI1YWQ1XkEyXkFqcGdeQXVyMzczOTk5OTI@._V1_.jpg",
+              "width": 2378,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Leonardo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0424216",
+          "display_name": "Johnny Knoxville",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTE5Mjk5OTMxMV5BMl5BanBnXkFtZTYwODMyNDE0._V1_.jpg",
+              "width": 292,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Leonardo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0397386",
+          "display_name": "Jeremy Howard",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDNjMWExYWYtZWY3Mi00NjBhLTllY2YtN2Q1OGI1N2E2ODZhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2000,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Donatello"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0940173",
+          "display_name": "Danny Woodburn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk0OGI5NTctOTAyNC00YWVjLWFlMzMtYzEyOWJiOWNmNmQ0XkEyXkFqcGdeQXVyMjU5NDQ2NQ@@._V1_.jpg",
+              "width": 4032,
+              "height": 3024
+            }
+          ]
+        },
+        "characters": [
+          "Splinter"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001724",
+          "display_name": "Tony Shalhoub",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE5MTg3MjcxNl5BMl5BanBnXkFtZTcwMTU4MzA1Mw@@._V1_.jpg",
+              "width": 301,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Splinter"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0556070",
+          "display_name": "Tohoru Masamune",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmVlMWVhYzktODE1Ny00YWYzLTlhOGYtNTZlZmNkMTJiMDAyXkEyXkFqcGdeQXVyNDAxMDUxOA@@._V1_.jpg",
+              "width": 433,
+              "height": 650
+            }
+          ]
+        },
+        "characters": [
+          "Shredder"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000155",
+          "display_name": "Whoopi Goldberg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE4ODgzNjQwOV5BMl5BanBnXkFtZTYwNzczNzc0._V1_.jpg",
+              "width": 260,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Bernadette Thompson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0634176",
+          "display_name": "Minae Noji",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg0MzcwMDIyMV5BMl5BanBnXkFtZTgwMzIyMDA0MjE@._V1_.jpg",
+              "width": 348,
+              "height": 525
+            }
+          ]
+        },
+        "characters": [
+          "Karai"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2212031",
+          "display_name": "Abby Elliott",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA5Mzg4MzU2MTdeQTJeQWpwZ15BbWU4MDM3MzIxNjQz._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Taylor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0556831",
+          "display_name": "Madison Mason",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkwMTM1NTIzNl5BMl5BanBnXkFtZTYwNDE0ODAz._V1_.jpg",
+              "width": 450,
+              "height": 609
+            }
+          ]
+        },
+        "characters": [
+          "Councilman"
+        ]
+      }
+    ]
+  }
+}

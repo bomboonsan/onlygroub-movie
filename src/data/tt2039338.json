@@ -1,0 +1,345 @@
+{
+  "title": {
+    "id": "tt2039338",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Flatliners",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 109,
+    "plot": "Five medical students, obsessed by what lies beyond the confines of life, embark on a daring experiment: by stopping their hearts for short periods, each triggers a near-death experience - giving them a firsthand account of the afterlife.",
+    "rating": {
+      "aggregate_rating": 5.2,
+      "votes_count": 51012
+    },
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTExMTk2ODk0NDNeQTJeQWpwZ15BbWU4MDMxNTExNjIy._V1_.jpg",
+        "width": 632,
+        "height": 960
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 27,
+      "review_count": 20
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0649117",
+          "display_name": "Niels Arden Oplev",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI1NDA2MzA5Nl5BMl5BanBnXkFtZTcwMDQ3OTk1Mg@@._V1_.jpg",
+              "width": 400,
+              "height": 600
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0276823",
+          "display_name": "Peter Filardi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGM0MWJhODQtMjUxMS00ZGNjLThkZGItYmJkNDAyM2MxZTczXkEyXkFqcGc@._V1_.jpg",
+              "width": 4176,
+              "height": 2784
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1618286",
+          "display_name": "Ben Ripley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzg1Mjc2MjE3OV5BMl5BanBnXkFtZTcwNTA5MTM4NA@@._V1_.jpg",
+              "width": 1374,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0680983",
+          "display_name": "Elliot Page",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmNhZmFjM2ItNTlkNi00ZTQ4LTk3NzYtYTgwNTJiMTg4OWQzXkEyXkFqcGdeQXVyMTM1MjAxMDc3._V1_.jpg",
+              "width": 480,
+              "height": 633
+            }
+          ]
+        },
+        "characters": [
+          "Courtney"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0526019",
+          "display_name": "Diego Luna",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTE0MjI2NDczMl5BMl5BanBnXkFtZTcwMTgwMDgyMg@@._V1_.jpg",
+              "width": 276,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Ray"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2400045",
+          "display_name": "Nina Dobrev",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzliNzA0OTktMTE3Ny00OWY2LTllY2ItY2UwZmI2OGRmYTI2XkEyXkFqcGdeQXVyMTM5NDMzMjY@._V1_.jpg",
+              "width": 1080,
+              "height": 1620
+            }
+          ]
+        },
+        "characters": [
+          "Marlo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3584268",
+          "display_name": "James Norton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjc2Mzg5MjgxNF5BMl5BanBnXkFtZTgwODY4MDA1MDE@._V1_.jpg",
+              "width": 413,
+              "height": 594
+            }
+          ]
+        },
+        "characters": [
+          "Jamie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4169922",
+          "display_name": "Kiersey Clemons",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNThiZmVjNGYtNzc4OS00MWVhLWEyMzEtY2EwMTczNzgxZDU3XkEyXkFqcGdeQXVyMTAwODc0ODA2._V1_.jpg",
+              "width": 2459,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Sophia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000662",
+          "display_name": "Kiefer Sutherland",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQ1MjI5ODI3Nl5BMl5BanBnXkFtZTcwNTQzOTM0Mw@@._V1_.jpg",
+              "width": 289,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Barry Wolfson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6490912",
+          "display_name": "Madison Brydges",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTUzNGE1MjktYjE1Yy00ZGVjLWI0MWUtZjkxNTA2N2ExMzZlXkEyXkFqcGc@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Tessa"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7207638",
+          "display_name": "Jacob Soley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDk0MDhlNzYtMjU3Zi00YjJiLWJhMzgtZDQ2NDQ3YmY0NjRkXkEyXkFqcGdeQXVyNjE0MTA3MzA@._V1_.jpg",
+              "width": 3200,
+              "height": 3200
+            }
+          ]
+        },
+        "characters": [
+          "Alex"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2535625",
+          "display_name": "Anna Arden",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWVkZDI3YjYtYzBmZS00ZDMzLThjMjgtZTBlN2M2M2Y5OTMyXkEyXkFqcGc@._V1_.jpg",
+              "width": 2640,
+              "height": 1100
+            }
+          ]
+        },
+        "characters": [
+          "Alicia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3426045",
+          "display_name": "Miguel Anthony",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODdlZWE4NGEtMzEyYi00ZTcyLTk1N2UtNDE2MTI3MzhhNjNhXkEyXkFqcGc@._V1_.jpg",
+              "width": 480,
+              "height": 639
+            }
+          ]
+        },
+        "characters": [
+          "Cyrus Gudgeon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1518789",
+          "display_name": "Jenny Raven",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmUwNDZkODEtYWFkZS00OWRkLTkwZjMtYmRlM2FlMTkwNTgwXkEyXkFqcGdeQXVyMjcxMTE2Mw@@._V1_.jpg",
+              "width": 4480,
+              "height": 6720
+            }
+          ]
+        },
+        "characters": [
+          "Irina Wong"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2155525",
+          "display_name": "Beau Mirchoff",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGE2ZjAzY2MtM2ViNi00YmI0LWE1ZWUtZDcyYmZkZjQxNmQ5XkEyXkFqcGdeQXVyNzQ5NzYyNw@@._V1_.jpg",
+              "width": 600,
+              "height": 939
+            }
+          ]
+        },
+        "characters": [
+          "Brad Mauser"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2217206",
+          "display_name": "Charlotte McKinney",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM5NzU5MDM5NF5BMl5BanBnXkFtZTgwMTE1ODYxMzI@._V1_.jpg",
+              "width": 1334,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Girl on Bicycle"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0733185",
+          "display_name": "Wendy Raquel Robinson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDc2MTkwOTgxNV5BMl5BanBnXkFtZTYwNjIwNjky._V1_.jpg",
+              "width": 450,
+              "height": 677
+            }
+          ]
+        },
+        "characters": [
+          "Sophia's Mother"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0125847",
+          "display_name": "Steve Byers",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTFkMDkwODMtYTQ0NS00OThkLTlkMTYtODU3NDVhYjFkZjk5XkEyXkFqcGdeQXVyMTA0MTc3OTk@._V1_.jpg",
+              "width": 4606,
+              "height": 3409
+            }
+          ]
+        },
+        "characters": [
+          "Marlo's Brother"
+        ]
+      }
+    ]
+  }
+}

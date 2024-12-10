@@ -1,0 +1,325 @@
+{
+  "title": {
+    "id": "tt4536768",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Osiris Child",
+    "original_title": "Science Fiction Volume One: The Osiris Child",
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 95,
+    "plot": "Set in the future in a time of interplanetary colonization, an unlikely pair race against an impending global crisis and are confronted by the monsters that live inside us all.",
+    "rating": {
+      "aggregate_rating": 5.5,
+      "votes_count": 9248
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGM4NzM3YzMtNTU4ZS00ZmY2LThlYWUtZWFmZGVmM2M2ZDBiXkEyXkFqcGc@._V1_.jpg",
+        "width": 1600,
+        "height": 2374
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "Not Rated"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "AU",
+        "name": "Australia"
+      }
+    ],
+    "critic_review": {
+      "score": 55,
+      "review_count": 5
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm2325065",
+          "display_name": "Shane Abbess",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzcxMDFhZWItYmY4NS00YjZmLWFhY2QtYTdlMjBkMjMzNTAzXkEyXkFqcGc@._V1_.jpg",
+              "width": 2444,
+              "height": 1667
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2325065",
+          "display_name": "Shane Abbess",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzcxMDFhZWItYmY4NS00YjZmLWFhY2QtYTdlMjBkMjMzNTAzXkEyXkFqcGc@._V1_.jpg",
+              "width": 2444,
+              "height": 1667
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2380520",
+          "display_name": "Brian Cachia",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDJkYzNmMTgtNjZlZC00OGJmLTkwMTgtZjcyMzMxNDM5OTkyXkEyXkFqcGc@._V1_.jpg",
+              "width": 1592,
+              "height": 1364
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1553725",
+          "display_name": "Kellan Lutz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDA2NDhhYTgtMzRlYy00NzgzLTkzMzUtYWEyZjc3MWJmMWMyXkEyXkFqcGdeQXVyODA4MTI0NDc@._V1_.jpg",
+              "width": 1400,
+              "height": 2100
+            }
+          ]
+        },
+        "characters": [
+          "Sy Lombrok"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0534205",
+          "display_name": "Daniel MacPherson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzJiYTExMTktMWI0My00ZjlmLThjZTAtZDhlMTAwMzczZWQ3XkEyXkFqcGdeQXVyMTg2OTUzNTQ@._V1_.jpg",
+              "width": 2040,
+              "height": 1778
+            }
+          ]
+        },
+        "characters": [
+          "Lt. Kane Sommerville"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1456970",
+          "display_name": "Isabel Lucas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTQwM2IyZDEtNzEwNi00MjFiLThkMzItZWU2MzM2OTk4NDhmXkEyXkFqcGdeQXVyMTI3NDE2MzY@._V1_.jpg",
+              "width": 2676,
+              "height": 1784
+            }
+          ]
+        },
+        "characters": [
+          "Gyp"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1047329",
+          "display_name": "Luke Ford",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA4NzU2NzgzOV5BMl5BanBnXkFtZTcwNjU5MzE4MQ@@._V1_.jpg",
+              "width": 277,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Bill"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0341737",
+          "display_name": "Rachel Griffiths",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI3OTQzNzA0M15BMl5BanBnXkFtZTcwNTQ0ODkyMg@@._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "General Lynex"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0607325",
+          "display_name": "Temuera Morrison",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmIyNDQwODMtMTI4Yy00ZTY5LWEyZmYtNTQ0NGUzMjdhMGJiXkEyXkFqcGdeQXVyMTE0MzYxMjM5._V1_.jpg",
+              "width": 902,
+              "height": 998
+            }
+          ]
+        },
+        "characters": [
+          "Warden Mourdain"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1248409",
+          "display_name": "Bren Foster",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ1MzQ4OTg0M15BMl5BanBnXkFtZTcwNDYxMDgxNw@@._V1_.jpg",
+              "width": 2048,
+              "height": 1475
+            }
+          ]
+        },
+        "characters": [
+          "Charles Kreat"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2380420",
+          "display_name": "Dwaine Stevenson",
+          "avatars": null
+        },
+        "characters": [
+          "The Ragged"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7509279",
+          "display_name": "Teagan Croft",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGY2MmYxMmItMzFlYi00NTBkLWE1MjQtZTE2N2MyMzZhOWY1XkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_.jpg",
+              "width": 488,
+              "height": 607
+            }
+          ]
+        },
+        "characters": [
+          "Indi Sommerville"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3876431",
+          "display_name": "Grace Huang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDFjOTlhMDUtODI1Ni00M2NlLTgwNzItNmE2ZGVmM2Q5NTZmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 6194,
+              "height": 4134
+            }
+          ]
+        },
+        "characters": [
+          "Nurse Jandi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0228163",
+          "display_name": "Firass Dirani",
+          "avatars": null
+        },
+        "characters": [
+          "Clarence Carmel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0667727",
+          "display_name": "Harry Pavlidis",
+          "avatars": null
+        },
+        "characters": [
+          "Hopper Joe"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1139346",
+          "display_name": "Paul Winchester",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOThiOTk1YTItYTdkMS00MmZjLThmMmMtY2Q1ZDk5NDgyMzhlXkEyXkFqcGc@._V1_.jpg",
+              "width": 2325,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Mandel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2191570",
+          "display_name": "Zoe Ventoura",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDBjMWI0YmUtM2ZmOC00MTE0LWFjMTEtZjc2YzVhZTczMzhhXkEyXkFqcGdeQXVyMTI1OTY5NTI@._V1_.jpg",
+              "width": 4246,
+              "height": 5309
+            }
+          ]
+        },
+        "characters": [
+          "Sgt. Cognit"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2301067",
+          "display_name": "Brendan Clearkin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjk3YzcxZGMtYTY2Zi00MDM4LWI1ZTUtYTczODAyMmZkOTZlXkEyXkFqcGc@._V1_.jpg",
+              "width": 2400,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Bostok Kramer"
+        ]
+      }
+    ]
+  }
+}

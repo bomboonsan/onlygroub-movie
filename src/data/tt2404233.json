@@ -1,0 +1,328 @@
+{
+  "title": {
+    "id": "tt2404233",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Gods of Egypt",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 127,
+    "plot": "Mortal hero Bek teams with the god Horus in an alliance against Set, the merciless god of darkness, who has usurped Egypt's throne, plunging the once peaceful and prosperous empire into chaos and conflict.",
+    "rating": {
+      "aggregate_rating": 5.4,
+      "votes_count": 126043
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjExODg3MDUzNl5BMl5BanBnXkFtZTgwNjExMjE3NzE@._V1_.jpg",
+        "width": 972,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "AU",
+        "name": "Australia"
+      },
+      {
+        "code": "CN",
+        "name": "China"
+      },
+      {
+        "code": "HK",
+        "name": "Hong Kong (Special Administrative Region of China)"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 25,
+      "review_count": 25
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0001639",
+          "display_name": "Alex Proyas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTUyYTkyYWQtOGQ3ZS00NjY2LTkwZjMtZTc4NjUwYzliOWVlXkEyXkFqcGdeQXVyOTExODIzNzA@._V1_.jpg",
+              "width": 1417,
+              "height": 1890
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1948885",
+          "display_name": "Matt Sazama",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2332952",
+          "display_name": "Burk Sharpless",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm4154798",
+          "display_name": "Brenton Thwaites",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGVjZDY0NGEtMzMzOC00N2Q1LTg2MWEtNWJmYjM3ZTQ3OWI5XkEyXkFqcGdeQXVyNTg1Mjc3OTc@._V1_.jpg",
+              "width": 3000,
+              "height": 4500
+            }
+          ]
+        },
+        "characters": [
+          "Bek"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0759628",
+          "display_name": "John Samaha",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjlmMTFiM2MtZDQ3Yy00MmEzLWE5NTktNTFiYjcyNmY0MzU3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "width": 614,
+              "height": 910
+            }
+          ]
+        },
+        "characters": [
+          "Vendor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5196907",
+          "display_name": "Courtney Eaton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTc1MTk0YTYtMjY2ZS00ZmY3LTk3NDctMjMzYzM3ZmYwNzllXkEyXkFqcGdeQXVyODcyNzI0OTE@._V1_.jpg",
+              "width": 370,
+              "height": 555
+            }
+          ]
+        },
+        "characters": [
+          "Zaya"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0182666",
+          "display_name": "Nikolaj Coster-Waldau",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzczZWMxYTItZDZhZC00ZTQ4LWE2OTMtYzI1ODhkYmViN2YyXkEyXkFqcGdeQXVyNjk1MjYyNTA@._V1_.jpg",
+              "width": 348,
+              "height": 392
+            }
+          ]
+        },
+        "characters": [
+          "Horus"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0038042",
+          "display_name": "Paula Arundell",
+          "avatars": null
+        },
+        "characters": [
+          "Fussy Older Maidservant"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6844615",
+          "display_name": "Alia Seror-O'Neill",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDdjMzg3YjMtNDRkMi00MWJjLWE5NmMtNGVhNDFjN2VkZGI2XkEyXkFqcGdeQXVyMjg4MDA4Mw@@._V1_.jpg",
+              "width": 500,
+              "height": 750
+            }
+          ]
+        },
+        "characters": [
+          "First Young Maidservant"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1720228",
+          "display_name": "Emily Wheaton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjYzM2U4ZmUtZTQwOS00YWYzLWFkNDItZDdlN2MzMDhhYWQ4XkEyXkFqcGc@._V1_.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ]
+        },
+        "characters": [
+          "Second Younger Maidservant"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1392388",
+          "display_name": "Elodie Yung",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjMzOTg4MDM3NF5BMl5BanBnXkFtZTgwMTUzMjM4NDM@._V1_.jpg",
+              "width": 1460,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Hathor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0086697",
+          "display_name": "Rachael Blake",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE4MDMxNDAzNl5BMl5BanBnXkFtZTgwNTIyNzEwMDE@._V1_.jpg",
+              "width": 795,
+              "height": 992
+            }
+          ]
+        },
+        "characters": [
+          "Isis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000986",
+          "display_name": "Bryan Brown",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTE5ODUwNTMyMl5BMl5BanBnXkFtZTYwMTY0MDY0._V1_.jpg",
+              "width": 261,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Osiris"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0852904",
+          "display_name": "Michael-Anthony Taylor",
+          "avatars": null
+        },
+        "characters": [
+          "Priest"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1134439",
+          "display_name": "Emma Booth",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTYyODYyZDgtZGQ4ZS00MDg0LTgyNDMtYjBkYjQyZGI3YTYyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 4000,
+              "height": 6000
+            }
+          ]
+        },
+        "characters": [
+          "Nephthys"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0932028",
+          "display_name": "Felix Williamson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODI3YjJhMGQtOTk1NC00NzE3LWE1MjQtNzcwOWVmODUxOTE2XkEyXkFqcGc@._V1_.jpg",
+              "width": 1936,
+              "height": 1936
+            }
+          ]
+        },
+        "characters": [
+          "Nobleman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1569276",
+          "display_name": "Chadwick Boseman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk2OTY5MzcwMV5BMl5BanBnXkFtZTgwODM4MDI5MjI@._V1_.jpg",
+              "width": 750,
+              "height": 1125
+            }
+          ]
+        },
+        "characters": [
+          "Thoth"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0124930",
+          "display_name": "Gerard Butler",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE4NDMwMzc4Ml5BMl5BanBnXkFtZTcwMDg4Nzg4Mg@@._V1_.jpg",
+              "width": 285,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Set"
+        ]
+      }
+    ]
+  }
+}

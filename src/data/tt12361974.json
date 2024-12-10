@@ -1,0 +1,393 @@
+{
+  "title": {
+    "id": "tt12361974",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Zack Snyder's Justice League",
+    "original_title": null,
+    "start_year": 2021,
+    "end_year": null,
+    "runtime_minutes": 242,
+    "plot": "Determined to ensure that Superman's ultimate sacrifice wasn't in vain, Bruce Wayne recruits a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+    "rating": {
+      "aggregate_rating": 7.9,
+      "votes_count": 438243
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjI3NDg0ZTEtMDEwYS00YWMyLThjYjktMTNlM2NmYjc1OGRiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+        "width": 2025,
+        "height": 3000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      },
+      {
+        "code": "isl",
+        "name": "Icelandic"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 54,
+      "review_count": 46
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0811583",
+          "display_name": "Zack Snyder",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMzMjUyNjk1MV5BMl5BanBnXkFtZTcwMDc2Mzk3NA@@._V1_.jpg",
+              "width": 1527,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0796950",
+          "display_name": "Jerry Siegel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjY1MzJmMWUtNWQ1YS00MGNiLTljN2ItNGE5M2M2OTU5YjhiXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 488,
+              "height": 598
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0795975",
+          "display_name": "Joe Shuster",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDdmMzA2MGYtZjFiZS00Nzg5LWE5MTctNTI0NWM4ZjI0YzdmXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 488,
+              "height": 608
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0811583",
+          "display_name": "Zack Snyder",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMzMjUyNjk1MV5BMl5BanBnXkFtZTcwMDc2Mzk3NA@@._V1_.jpg",
+              "width": 1527,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0006516",
+          "display_name": "Chris Terrio",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTA3ZTQ3ZDItNDU0MS00NDkzLTkzNzEtZDUwNDNiZDU0ZGVhXkEyXkFqcGdeQXVyNTM3NDExOTQ@._V1_.jpg",
+              "width": 1322,
+              "height": 1666
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm3263825",
+          "display_name": "Will Beall",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTJmNjIyNmItOTY0Mi00YTI2LWFlZWYtZTdiM2U3NTRlNjFiXkEyXkFqcGdeQXVyMzc0MTE5MDY@._V1_.jpg",
+              "width": 4480,
+              "height": 6720
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000255",
+          "display_name": "Ben Affleck",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzczNzNiMDAtMmUzZS00MTkwLWIwOTYtNmYyNjg3MTVkNThhXkEyXkFqcGdeQXVyMjA4MjI5MTA@._V1_.jpg",
+              "width": 3781,
+              "height": 5041
+            }
+          ]
+        },
+        "characters": [
+          "Batman",
+          "Bruce Wayne"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0147147",
+          "display_name": "Henry Cavill",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODI0MTYzNTIxNl5BMl5BanBnXkFtZTcwNjg2Nzc0NA@@._V1_.jpg",
+              "width": 627,
+              "height": 744
+            }
+          ]
+        },
+        "characters": [
+          "Superman",
+          "Clark Kent"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0010736",
+          "display_name": "Amy Adams",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg2NTk2MTgxMV5BMl5BanBnXkFtZTgwNjcxMjAzMTI@._V1_.jpg",
+              "width": 1340,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Lois Lane"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2933757",
+          "display_name": "Gal Gadot",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzgxYTA2OTUtYmE0ZC00ZTc0LWJjY2QtOTIzMTJhNGUyZjBlXkEyXkFqcGdeQXVyMTg4NDI0NDM@._V1_.jpg",
+              "width": 1170,
+              "height": 1461
+            }
+          ]
+        },
+        "characters": [
+          "Wonder Woman",
+          "Diana Prince"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3570321",
+          "display_name": "Ray Fisher",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTlhZjU4MzAtYTI3Ni00MmMyLWIyZTQtMDg0NmFiY2NiYTA2XkEyXkFqcGdeQXVyNzA5NjQ5MDk@._V1_.jpg",
+              "width": 578,
+              "height": 786
+            }
+          ]
+        },
+        "characters": [
+          "Cyborg",
+          "Victor Stone"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0597388",
+          "display_name": "Jason Momoa",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODJlNWQ4ZjUtYjRhNi00NGQ1LWE3YTItYjRmZGI3YzI4YTEyXkEyXkFqcGdeQXVyMTA2MDIzMDE5._V1_.jpg",
+              "width": 1800,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Aquaman",
+          "Arthur Curry"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3009232",
+          "display_name": "Ezra Miller",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTQ2YmNlZDEtM2EwNi00N2JhLTk3ZDktMjBmNzYwYWI1OWZmXkEyXkFqcGdeQXVyNjk1MjYyNTA@._V1_.jpg",
+              "width": 1667,
+              "height": 2500
+            }
+          ]
+        },
+        "characters": [
+          "The Flash",
+          "Barry Allen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000353",
+          "display_name": "Willem Dafoe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWU4MTI2OTctODQ1ZS00MGM1LWJkM2EtODE3MGNkNmIyZDEwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 921,
+              "height": 1152
+            }
+          ]
+        },
+        "characters": [
+          "Vulko"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0251986",
+          "display_name": "Jesse Eisenberg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTE3MzQzODE3OV5BMl5BanBnXkFtZTcwMDE0ODY1NA@@._V1_.jpg",
+              "width": 1445,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Lex Luthor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000460",
+          "display_name": "Jeremy Irons",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY5Mzg2NDY5OV5BMl5BanBnXkFtZTcwMDQwNzA0Mg@@._V1_.jpg",
+              "width": 303,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Alfred"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000178",
+          "display_name": "Diane Lane",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDIxNWNhZGYtYzgyYi00YTc1LTg5NjItYTA1ZjMyYmFmZDliXkEyXkFqcGdeQXVyMTA2MDIzMDE5._V1_.jpg",
+              "width": 1280,
+              "height": 854
+            }
+          ]
+        },
+        "characters": [
+          "Martha Kent"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001567",
+          "display_name": "Connie Nielsen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzZiYTQ4YTAtMzRkMi00ZDZlLWFkZWItNGI2ZTIyODRiYTc4XkEyXkFqcGdeQXVyMjUzMjc2MjE@._V1_.jpg",
+              "width": 1350,
+              "height": 1800
+            }
+          ]
+        },
+        "characters": [
+          "Queen Hippolyta"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0799777",
+          "display_name": "J.K. Simmons",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzg2NTI5NzQ1MV5BMl5BanBnXkFtZTgwNjI1NDEwMDI@._V1_.jpg",
+              "width": 1679,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Commissioner Gordon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001354",
+          "display_name": "Ciarán Hinds",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTIyNjM0MzU0NF5BMl5BanBnXkFtZTcwOTIxMzg1MQ@@._V1_.jpg",
+              "width": 284,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Steppenwolf"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4404779",
+          "display_name": "Ryan Zheng",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDJlMWUyNjgtYmQxMy00YWU5LTliMzUtMzFjODI4NGE4YmU1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 399,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Ryan Choi"
+        ]
+      }
+    ]
+  }
+}

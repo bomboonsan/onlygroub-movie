@@ -1,0 +1,359 @@
+{
+  "title": {
+    "id": "tt4566758",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Mulan",
+    "original_title": null,
+    "start_year": 2020,
+    "end_year": null,
+    "runtime_minutes": 115,
+    "plot": "To keep her ailing father from serving in the Imperial Army, a fearless young woman disguises herself as a man and battles northern invaders in China.",
+    "rating": {
+      "aggregate_rating": 5.8,
+      "votes_count": 157926
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjdlZjRiYTUtN2NlNC00MDkxLWI0MmItOTUwNTg1YTU4MWUxXkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1_.jpg",
+        "width": 1266,
+        "height": 1875
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CN",
+        "name": "China"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 66,
+      "review_count": 52
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0138927",
+          "display_name": "Niki Caro",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDI4MTgzNjMyNF5BMl5BanBnXkFtZTcwMjg2OTkxMw@@._V1_.jpg",
+              "width": 1110,
+              "height": 1606
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0415425",
+          "display_name": "Rick Jaffa",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0798646",
+          "display_name": "Amanda Silver",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm4168262",
+          "display_name": "Lauren Hynek",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm7230194",
+          "display_name": "Elizabeth Martin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEyMjE4MDgyNV5BMl5BanBnXkFtZTgwMzIxMjM5ODE@._V1_.jpg",
+              "width": 3000,
+              "height": 4500
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1511627",
+          "display_name": "Maoqian Guo",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1703577",
+          "display_name": "Liu Yifei",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQ4MjEyNTE4M15BMl5BanBnXkFtZTgwMzcyNDE0NDM@._V1_.jpg",
+              "width": 1593,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mulan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0947447",
+          "display_name": "Donnie Yen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGU0ZjFjZGMtZGU4My00ZmRmLTk2Y2EtOWNlZjhhZmE2MjIwXkEyXkFqcGdeQXVyMTA2MDIzMDE5._V1_.jpg",
+              "width": 1500,
+              "height": 2111
+            }
+          ]
+        },
+        "characters": [
+          "Commander Tung"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000084",
+          "display_name": "Gong Li",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk4MzMwMjc5NF5BMl5BanBnXkFtZTYwMDMyNzQz._V1_.jpg",
+              "width": 270,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Xianniang"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001472",
+          "display_name": "Jet Li",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAxNjc0MjIyM15BMl5BanBnXkFtZTcwNTM2NDA4MQ@@._V1_.jpg",
+              "width": 330,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Emperor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001462",
+          "display_name": "Jason Scott Lee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ2NDgxNzQxN15BMl5BanBnXkFtZTgwNDMyOTIwMjE@._V1_.jpg",
+              "width": 3085,
+              "height": 4759
+            }
+          ]
+        },
+        "characters": [
+          "Böri Khan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5256788",
+          "display_name": "Yoson An",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmI4ZTkxY2ItMTQ0ZC00NzdkLTg4ZjYtMzUyNGU5MzI1N2MxXkEyXkFqcGdeQXVyMzM5MjkzNDI@._V1_.jpg",
+              "width": 3870,
+              "height": 4838
+            }
+          ]
+        },
+        "characters": [
+          "Honghui"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0002245",
+          "display_name": "Tzi Ma",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDc1MjFkOTMtYzBhNS00MGQyLWJhYTItNGFjMDBlNjc4NWJjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "width": 1744,
+              "height": 2434
+            }
+          ]
+        },
+        "characters": [
+          "Zhou"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001034",
+          "display_name": "Rosalind Chao",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2RkMjk1NTAtNDg2My00ZDhlLWJhYTgtOWIyY2Q1ZjZlNTVkXkEyXkFqcGdeQXVyMTMzNTM4OQ@@._V1_.jpg",
+              "width": 1113,
+              "height": 1189
+            }
+          ]
+        },
+        "characters": [
+          "Li"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0155607",
+          "display_name": "Pei-Pei Cheng",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE2ODYxMDY5MV5BMl5BanBnXkFtZTgwMjU0MTk5MDE@._V1_.jpg",
+              "width": 1226,
+              "height": 1516
+            }
+          ]
+        },
+        "characters": [
+          "Matchmaker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3487897",
+          "display_name": "Xana Tang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWNlOGIzNzctYzU3YS00ZWZiLWIxY2QtZWRkNDQxOGI0M2QyXkEyXkFqcGdeQXVyNzg1NDg2NTk@._V1_.jpg",
+              "width": 691,
+              "height": 894
+            }
+          ]
+        },
+        "characters": [
+          "Xiu"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0950620",
+          "display_name": "Ron Yuan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzkyZjdkYWItZTFjNC00MDhjLWExYjktYWIwMjM4MDU1ZmM1XkEyXkFqcGdeQXVyMjY1NDA0MQ@@._V1_.jpg",
+              "width": 1093,
+              "height": 1560
+            }
+          ]
+        },
+        "characters": [
+          "Sergeant Qiang"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10182589",
+          "display_name": "Jun Yu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjRiMGFkOWYtZDRhOC00MmQ3LWE0MTktM2M1M2Y1NGU2ZDhkXkEyXkFqcGdeQXVyOTM3MzA5MzE@._V1_.jpg",
+              "width": 800,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Cricket"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3247936",
+          "display_name": "Chen Tang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTRkMTAxMGEtZTkwNS00NThmLThmNmMtODdjYjFjMTVmNmJkXkEyXkFqcGdeQXVyMjM2NTIxNTk@._V1_.jpg",
+              "width": 1080,
+              "height": 1440
+            }
+          ]
+        },
+        "characters": [
+          "Yao"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1732080",
+          "display_name": "Doua Moua",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzE3OGE4NzctY2Q1ZS00YTFjLTg1NzQtYjg3ZTI0Zjg4ZDAwXkEyXkFqcGdeQXVyMzg1MDM3Ng@@._V1_.jpg",
+              "width": 512,
+              "height": 768
+            }
+          ]
+        },
+        "characters": [
+          "Po"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4136296",
+          "display_name": "Jimmy Wong",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTZiODBiMGMtOGEzZi00ZTQ4LWFiZDYtYTkzNzRlNjExNGJmXkEyXkFqcGdeQXVyMzk0NzQ5MjU@._V1_.jpg",
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        "characters": [
+          "Ling"
+        ]
+      }
+    ]
+  }
+}

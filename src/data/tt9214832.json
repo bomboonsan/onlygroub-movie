@@ -1,0 +1,320 @@
+{
+  "title": {
+    "id": "tt9214832",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Emma.",
+    "original_title": null,
+    "start_year": 2020,
+    "end_year": null,
+    "runtime_minutes": 124,
+    "plot": "In 1800s England, a well meaning but selfish young woman meddles in the love lives of her friends.",
+    "rating": {
+      "aggregate_rating": 6.7,
+      "votes_count": 61488
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGRiODEzM2QtOTUyYi00MWRlLTg4MzMtZGI0YmUzNWUyMjQ0XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",
+        "width": 4050,
+        "height": 6000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CN",
+        "name": "China"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "critic_review": {
+      "score": 71,
+      "review_count": 48
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm2127315",
+          "display_name": "Autumn de Wilde",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzA3ZGMwY2QtZjUyMS00MGYyLTkxZGMtZWE3ODlhZTBhMTFjXkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_.jpg",
+              "width": 610,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm7414254",
+          "display_name": "Eleanor Catton",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0000807",
+          "display_name": "Jane Austen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIxNDAyMjk5MF5BMl5BanBnXkFtZTcwNzk5ODgxOA@@._V1_.jpg",
+              "width": 1478,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm5896355",
+          "display_name": "Anya Taylor-Joy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTllYmE5YTYtZGZmYy00ZTBlLWJlODEtYWQ0ZmU1YTJkMjJlXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Emma Woodhouse"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1926865",
+          "display_name": "Johnny Flynn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDE5OTQ0ZmQtZDgzYy00MGU1LTgyNjQtYWFiODg0YjQyODdiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "width": 2133,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Knightley"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4853066",
+          "display_name": "Josh O'Connor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjExNDkwMDIzNF5BMl5BanBnXkFtZTgwMzk0MjA1NDM@._V1_.jpg",
+              "width": 1387,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Elton"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4360085",
+          "display_name": "Callum Turner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk4NTA1ODk0MF5BMl5BanBnXkFtZTgwMzkwMTcwOTE@._V1_.jpg",
+              "width": 2000,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Frank Churchhill"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5301405",
+          "display_name": "Mia Goth",
+          "avatars": null
+        },
+        "characters": [
+          "Harriet Smith"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1635000",
+          "display_name": "Miranda Hart",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzY1NzQwMDk5N15BMl5BanBnXkFtZTgwODgyNDE3NTE@._V1_.jpg",
+              "width": 1297,
+              "height": 1946
+            }
+          ]
+        },
+        "characters": [
+          "Miss Bates"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0631490",
+          "display_name": "Bill Nighy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUzNDM2MDg4MV5BMl5BanBnXkFtZTcwODA3NTk3NA@@._V1_.jpg",
+              "width": 300,
+              "height": 450
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Woodhouse"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001291",
+          "display_name": "Rupert Graves",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDliNGMyY2YtNDM1Yi00YzlhLTlkM2ItZTY4ODNiM2JkMjBhXkEyXkFqcGdeQXVyNzE3NzU1OQ@@._V1_.jpg",
+              "width": 634,
+              "height": 884
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Weston"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2247629",
+          "display_name": "Gemma Whelan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI2ODY3MTMwMF5BMl5BanBnXkFtZTcwOTM4MzEzOQ@@._V1_.jpg",
+              "width": 1418,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Miss Taylor",
+          "Mrs. Weston"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3806097",
+          "display_name": "Amber Anderson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTRkOGU2MjgtMzZiNy00NmEwLWI2NTgtZTc2OGE2MGQ0YWRhXkEyXkFqcGdeQXVyMzMyODkxNDU@._V1_.jpg",
+              "width": 645,
+              "height": 794
+            }
+          ]
+        },
+        "characters": [
+          "Jane Fairfax"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2653929",
+          "display_name": "Angus Imrie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODI4NzIzNjItOTNmMy00ODIxLWE4YTgtNmI5YjY5NmI1ZDRlXkEyXkFqcGdeQXVyMzA0NzAwNw@@._V1_.jpg",
+              "width": 2620,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Bartholomew"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9848219",
+          "display_name": "Letty Thomas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmJjYmU1YjAtMTJmZi00MmVlLTlkNTEtYzJjMzJhYzE5MmExXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1440,
+              "height": 1800
+            }
+          ]
+        },
+        "characters": [
+          "Biddy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2740667",
+          "display_name": "Aidan White",
+          "avatars": null
+        },
+        "characters": [
+          "Hartfield Butler"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3779824",
+          "display_name": "Edward Davis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDRmODdlMjAtY2Y4MS00ODRjLWE4Y2ItNDY5ZDM2MjQ2M2MyXkEyXkFqcGdeQXVyMjExMTUwNTg@._V1_.jpg",
+              "width": 4000,
+              "height": 6000
+            }
+          ]
+        },
+        "characters": [
+          "Charles"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11440590",
+          "display_name": "Chris White",
+          "avatars": null
+        },
+        "characters": [
+          "James, Hartfield Coachman"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "title": {
+    "id": "tt10472296",
+    "type": "tvSeries",
+    "is_adult": false,
+    "primary_title": "Somewhere Only We Know",
+    "original_title": "Du jia ji yi",
+    "start_year": 2019,
+    "end_year": 2019,
+    "runtime_minutes": null,
+    "plot": "A student changes her hatred for a substitute teacher into hidden love that drives her through emotional ups and downs.",
+    "rating": {
+      "aggregate_rating": 7,
+      "votes_count": 255
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWI1MDVlZGEtMzY2NS00NDA5LTllMWMtOWYwYTYyZThiMTMxXkEyXkFqcGc@._V1_.jpg",
+        "width": 426,
+        "height": 597
+      }
+    ],
+    "certificates": null,
+    "spoken_languages": [
+      {
+        "code": "zho",
+        "name": "Chinese"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CN",
+        "name": "China"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm8063203",
+          "display_name": "Chang Liu",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm11578985",
+          "display_name": "Xi Chen",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm11578984",
+          "display_name": "Xiaoxiao Chen",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm11578991",
+          "display_name": "Mujun He",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm11578987",
+          "display_name": "Xiaomeng Lang",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm11306407",
+          "display_name": "Fusheng Mu",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm4109690",
+          "display_name": "Chao Zhang",
+          "avatars": null
+        },
+        "characters": [
+          "Mu Chenghe"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8307265",
+          "display_name": "Tingting Li",
+          "avatars": null
+        },
+        "characters": [
+          "Xue Tong"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11303253",
+          "display_name": "Zhang Zhang",
+          "avatars": null
+        },
+        "characters": [
+          "Bai Lin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11306403",
+          "display_name": "Yuli Deng",
+          "avatars": null
+        },
+        "characters": [
+          "Song Qiqi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8994804",
+          "display_name": "Chen Xixu",
+          "avatars": null
+        },
+        "characters": [
+          "Chen Ting"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9909668",
+          "display_name": "Fan Dong",
+          "avatars": null
+        },
+        "characters": [
+          "Wu Manxiao"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6174585",
+          "display_name": "Hong Guo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDZkODYxMTEtNTRhYi00YjAwLWFlMTMtMzlkMGRhNzZkOWE4XkEyXkFqcGc@._V1_.jpg",
+              "width": 450,
+              "height": 675
+            }
+          ]
+        },
+        "characters": [
+          "Xue Tong's Mother"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10580440",
+          "display_name": "Bohan Fu",
+          "avatars": null
+        },
+        "characters": [
+          "Mu Chenghe (Young)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm15069738",
+          "display_name": "Zhuang Jie Qiong",
+          "avatars": null
+        },
+        "characters": [
+          "Guest"
+        ]
+      }
+    ]
+  }
+}

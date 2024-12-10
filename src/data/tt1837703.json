@@ -1,0 +1,352 @@
+{
+  "title": {
+    "id": "tt1837703",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Fifth Estate",
+    "original_title": null,
+    "start_year": 2013,
+    "end_year": null,
+    "runtime_minutes": 128,
+    "plot": "A dramatic thriller based on real events that reveals the quest to expose the deceptions and corruptions of power that turned an Internet upstart into the 21st century's most fiercely debated organization.",
+    "rating": {
+      "aggregate_rating": 6.2,
+      "votes_count": 42731
+    },
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjY1MTY5NTg3M15BMl5BanBnXkFtZTgwMDQyMjgwMDE@._V1_.jpg",
+        "width": 864,
+        "height": 1280
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "isl",
+        "name": "Icelandic"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "BE",
+        "name": "Belgium"
+      },
+      {
+        "code": "IN",
+        "name": "India"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 49,
+      "review_count": 42
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0174374",
+          "display_name": "Bill Condon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgwMzY1OTQwNF5BMl5BanBnXkFtZTYwNTM2Nzg1._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm4089358",
+          "display_name": "Daniel Domscheit-Berg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzBlYTFhNWQtNzEwNy00YzkwLTgxMTgtZGQzYzQ4ZGQyMTIyXkEyXkFqcGc@._V1_.jpg",
+              "width": 583,
+              "height": 760
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm3859582",
+          "display_name": "David Leigh",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm4816469",
+          "display_name": "Luke Harding",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDM2YzIwYWMtZDk1OC00MjA3LTlkZmQtOWVmNDI1MmE2YmI1XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 997,
+              "height": 1381
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1802857",
+          "display_name": "Josh Singer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMwMzQzMDU0MV5BMl5BanBnXkFtZTgwNTY4MjkxMDE@._V1_.jpg",
+              "width": 1535,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0134922",
+          "display_name": "Peter Capaldi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA0NTE0NDQ3OV5BMl5BanBnXkFtZTcwMjkwMjkxOA@@._V1_.jpg",
+              "width": 1364,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Alan Rusbridger"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000667",
+          "display_name": "David Thewlis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTA3MjM4NTE0NV5BMl5BanBnXkFtZTcwOTU1OTY4NQ@@._V1_.jpg",
+              "width": 1366,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Nick Davies"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0851458",
+          "display_name": "Anatole Taubman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODI3Njk1ZTEtMTc0Ny00YjU5LTgzMzktYzdlMTk4NGY2MDMzXkEyXkFqcGdeQXVyMTIwNTY2MTc@._V1_.jpg",
+              "width": 5309,
+              "height": 3543
+            }
+          ]
+        },
+        "characters": [
+          "Holger Stark"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0079890",
+          "display_name": "Alexander Beyer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWY3OWRmOTUtMGU4OS00YzVlLWI1MjYtNjI2MDkwYTU3MzcwXkEyXkFqcGdeQXVyMjc3MTYwNQ@@._V1_.jpg",
+              "width": 640,
+              "height": 480
+            }
+          ]
+        },
+        "characters": [
+          "Marcel Rosenbach"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0107857",
+          "display_name": "Philip Bretherton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA4NjkxNjY4OV5BMl5BanBnXkFtZTgwMTU1NDczMjE@._V1_.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ]
+        },
+        "characters": [
+          "Bill Keller"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1405398",
+          "display_name": "Dan Stevens",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY0NTY5OTI2MF5BMl5BanBnXkFtZTgwNDkzMzIxMzE@._V1_.jpg",
+              "width": 428,
+              "height": 594
+            }
+          ]
+        },
+        "characters": [
+          "Ian Katz"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0117709",
+          "display_name": "Daniel Brühl",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzliYzY1NWQtNTFhYy00NjVhLTlkOGItY2RhNDgwOTg5ZDhiXkEyXkFqcGdeQXVyNTkzODg0ODk@._V1_.jpg",
+              "width": 1490,
+              "height": 1987
+            }
+          ]
+        },
+        "characters": [
+          "Daniel Berg"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1212722",
+          "display_name": "Benedict Cumberbatch",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE0MDkzMDQwOF5BMl5BanBnXkFtZTgwOTE1Mjg1MzE@._V1_.jpg",
+              "width": 1414,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Julian Assange"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3284401",
+          "display_name": "Jamie Blackley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzc1OGY0NmItZTVmNS00MDIwLWIzODMtNDA4OGVmM2ZhN2Y3XkEyXkFqcGdeQXVyMjEyOTMxNjA@._V1_.jpg",
+              "width": 828,
+              "height": 1242
+            }
+          ]
+        },
+        "characters": [
+          "Ziggy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0685598",
+          "display_name": "Ludger Pistor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmEzOTg5NTctNGMwYi00MGIwLWI3ZDQtMDEwYTgxYjVmNTgxXkEyXkFqcGc@._V1_.jpg",
+              "width": 2126,
+              "height": 2872
+            }
+          ]
+        },
+        "characters": [
+          "Supervisor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2539953",
+          "display_name": "Alicia Vikander",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzg1MzQyYTktN2U3Ni00ZTQ2LThkMjEtODcxY2UyNmM5ZDBhXkEyXkFqcGdeQXVyMTExNzQ3MzAw._V1_.jpg",
+              "width": 642,
+              "height": 678
+            }
+          ]
+        },
+        "characters": [
+          "Anke Domscheit"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2947895",
+          "display_name": "Michael Kranz",
+          "avatars": null
+        },
+        "characters": [
+          "Otto"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5860249",
+          "display_name": "Christin Nichols",
+          "avatars": null
+        },
+        "characters": [
+          "Otto's Girlfriend"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1893570",
+          "display_name": "Christoph Franken",
+          "avatars": null
+        },
+        "characters": [
+          "Game Console Hacker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3987262",
+          "display_name": "Ben Rook",
+          "avatars": null
+        },
+        "characters": [
+          "Young Julian"
+        ]
+      }
+    ]
+  }
+}

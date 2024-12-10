@@ -1,0 +1,345 @@
+{
+  "title": {
+    "id": "tt0918940",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Legend of Tarzan",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 110,
+    "plot": "Tarzan, having acclimated to life in London, is called back to his former home in the jungle to investigate the activities at a mining encampment.",
+    "rating": {
+      "aggregate_rating": 6.2,
+      "votes_count": 187327
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzY3OTI0OTcyMF5BMl5BanBnXkFtZTgwNjkxNTAwOTE@._V1_.jpg",
+        "width": 1012,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      },
+      {
+        "code": "lin",
+        "name": "Lingala"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "AU",
+        "name": "Australia"
+      },
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 44,
+      "review_count": 41
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0946734",
+          "display_name": "David Yates",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY2NTU4NjY4M15BMl5BanBnXkFtZTYwNjIxOTI1._V1_.jpg",
+              "width": 297,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm3092414",
+          "display_name": "Adam Cozad",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0108132",
+          "display_name": "Craig Brewer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmQ0M2I2MjYtOGI3OS00Y2NiLTkxZDEtNzM4YmMyNjhhNzIyXkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_.jpg",
+              "width": 400,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0123194",
+          "display_name": "Edgar Rice Burroughs",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2E1ODNjMDktMjI0Ni00NzJkLWFlY2QtOGVjM2EzNmZlN2YxXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_.jpg",
+              "width": 369,
+              "height": 805
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0002907",
+          "display_name": "Alexander Skarsgård",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY1MjQxNjEzOF5BMl5BanBnXkFtZTgwMTU5ODM2ODE@._V1_.jpg",
+              "width": 1360,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "John Clayton",
+          "Tarzan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4920741",
+          "display_name": "Rory J Saper",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGNhN2M2MmYtYTA2OC00ZjRmLThhMzQtOGRlMTM2MGRjYzJmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2690,
+              "height": 3362
+            }
+          ]
+        },
+        "characters": [
+          "Young Tarzan (18 Years)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7222287",
+          "display_name": "Christian Stevens",
+          "avatars": null
+        },
+        "characters": [
+          "Young Tarzan (5 Years)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0910607",
+          "display_name": "Christoph Waltz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM4MDk3OTYxOF5BMl5BanBnXkFtZTcwMDk5OTUwOQ@@._V1_.jpg",
+              "width": 1497,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Leon Rom"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000168",
+          "display_name": "Samuel L. Jackson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ1NTQwMTYxNl5BMl5BanBnXkFtZTYwMjA1MzY1._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "George Washington Williams"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3053338",
+          "display_name": "Margot Robbie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgxNDcwMzU2Nl5BMl5BanBnXkFtZTcwNDc4NzkzOQ@@._V1_.jpg",
+              "width": 1000,
+              "height": 1332
+            }
+          ]
+        },
+        "characters": [
+          "Jane Clayton"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7760612",
+          "display_name": "Sidney Ralitsoele",
+          "avatars": null
+        },
+        "characters": [
+          "Wasimbu"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3247700",
+          "display_name": "Osy Ikhile",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2EwMTgyYjYtOTYyNi00MzI0LWIzODItNTg2MGJhM2U1NjI5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+              "width": 3025,
+              "height": 4361
+            }
+          ]
+        },
+        "characters": [
+          "Kwete"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2950654",
+          "display_name": "Mens-Sana Tamakloe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTcyODRhZGItNjhiYy00ZjViLTk5NGMtNGZkZDM4MDZjNTU1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1280,
+              "height": 3245
+            }
+          ]
+        },
+        "characters": [
+          "Kolo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6431237",
+          "display_name": "Antony Acheampong",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2NhZjQxMjctNzA2Ny00NTI3LWIxYTktMjZkMzJlZWNhZGNlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1638,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Kanam"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7052887",
+          "display_name": "Edward Apeagyei",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTNmMDdlM2MtYmVkNC00Y2I5LTkzMWItYjMzYTI5NTFhN2E5XkEyXkFqcGdeQXVyNTc4OTkyOTU@._V1_.jpg",
+              "width": 2400,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Kimanga"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6682745",
+          "display_name": "Ashley Byam",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTZjZDU5YmYtZDQxNC00NWMzLTljMWEtNTI0NmY3NTI5NzZjXkEyXkFqcGdeQXVyNTQ0MTg4MzI@._V1_.jpg",
+              "width": 2400,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Kasai"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3354565",
+          "display_name": "Casper Crump",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmNkYzY0ZDMtM2QwYy00Zjc4LTkzOTMtN2E5NTdhMDE3OTkzXkEyXkFqcGdeQXVyMTQ5NTc3ODA@._V1_.jpg",
+              "width": 2176,
+              "height": 2805
+            }
+          ]
+        },
+        "characters": [
+          "Major Kerckhover"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2598189",
+          "display_name": "Adam Ganne",
+          "avatars": null
+        },
+        "characters": [
+          "German Force Publique"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0586531",
+          "display_name": "Aleksandar Mikic",
+          "avatars": null
+        },
+        "characters": [
+          "Muscular Force Publique"
+        ]
+      }
+    ]
+  }
+}

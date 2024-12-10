@@ -1,0 +1,353 @@
+{
+  "title": {
+    "id": "tt1109624",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Paddington",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 95,
+    "plot": "A young Peruvian bear travels to London in search of a home. Finding himself lost and alone at Paddington Station, he meets the kindly Brown family, who offer him a temporary haven.",
+    "rating": {
+      "aggregate_rating": 7.3,
+      "votes_count": 133846
+    },
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTAxOTMwOTkwNDZeQTJeQWpwZ15BbWU4MDEyMTI1NjMx._V1_.jpg",
+        "width": 1383,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 77,
+      "review_count": 38
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1653753",
+          "display_name": "Paul King",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUwODA0NjUyNV5BMl5BanBnXkFtZTgwODk3Mzk5MzE@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1653753",
+          "display_name": "Paul King",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUwODA0NjUyNV5BMl5BanBnXkFtZTgwODk3Mzk5MzE@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0566100",
+          "display_name": "Hamish McColl",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1286491",
+          "display_name": "Michael Bond",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDg5MzQ3MjQ1Nl5BMl5BanBnXkFtZTgwMDgzMzU3MjI@._V1_.jpg",
+              "width": 1356,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0236071",
+          "display_name": "Tim Downie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWQ4MjViMjktOGNiOC00ZDRmLWFhODAtYWExYTQzNmQ2YjkxXkEyXkFqcGdeQXVyMTM3NzgyNjkz._V1_.jpg",
+              "width": 2872,
+              "height": 3479
+            }
+          ]
+        },
+        "characters": [
+          "Montgomery Clyde"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1002209",
+          "display_name": "Madeleine Worrall",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTlmM2NhYmUtYzU1Ni00MzFiLTlmNDctMmI4ZTNjYmU3ZjFkXkEyXkFqcGdeQXVyNjg3MDMxNzU@._V1_.jpg",
+              "width": 2000,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Agatha Clyde"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5390029",
+          "display_name": "Lottie Steer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzE0NjExMGMtYjJlOC00MWI4LTg5MTgtYTIzZTgxZjc2NDAyXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
+              "width": 753,
+              "height": 716
+            }
+          ]
+        },
+        "characters": [
+          "Young Millicent"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0658244",
+          "display_name": "Geoffrey Palmer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkzNTM1Mjc4NV5BMl5BanBnXkFtZTcwOTM2NTUwOA@@._V1_.jpg",
+              "width": 1581,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Head Geographer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0914902",
+          "display_name": "Theresa Watson",
+          "avatars": null
+        },
+        "characters": [
+          "Stenographer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001767",
+          "display_name": "Imelda Staunton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ0NzcwOTE0NF5BMl5BanBnXkFtZTYwNjAxOTI1._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Aunt Lucy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0002091",
+          "display_name": "Michael Gambon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY3OTc4MTgyN15BMl5BanBnXkFtZTcwNTAxNjA3Mg@@._V1_.jpg",
+              "width": 297,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Uncle Pastuzo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0924210",
+          "display_name": "Ben Whishaw",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc1MDYzNzY4MF5BMl5BanBnXkFtZTcwMDcwNzU0OA@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Paddington"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0095017",
+          "display_name": "Hugh Bonneville",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWQ2YzI3ZmUtZmMyYi00Y2E0LTg4NzctZmFiOGE3YTY5NWMzXkEyXkFqcGdeQXVyNzg1NTQ5NDM@._V1_.jpg",
+              "width": 4237,
+              "height": 5296
+            }
+          ]
+        },
+        "characters": [
+          "Henry Brown"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1020089",
+          "display_name": "Sally Hawkins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODE4MDE0MDEzMl5BMl5BanBnXkFtZTgwNjI1NTU5MDE@._V1_.jpg",
+              "width": 1567,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mary Brown"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4189049",
+          "display_name": "Madeleine Harris",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTM0ZWMyM2MtNWEwMC00YmZjLTk2YzYtNzZhZjdhOTI5MGU4XkEyXkFqcGdeQXVyMzMwMzgwODI@._V1_.jpg",
+              "width": 1380,
+              "height": 1770
+            }
+          ]
+        },
+        "characters": [
+          "Judy Brown"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4575328",
+          "display_name": "Samuel Joslin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2MxZmQzNTYtZmVhZS00Mzc4LTlhYmUtMTVmYzkzNDZiZmNmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1715,
+              "height": 1666
+            }
+          ]
+        },
+        "characters": [
+          "Jonathan Brown"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1286491",
+          "display_name": "Michael Bond",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDg5MzQ3MjQ1Nl5BMl5BanBnXkFtZTgwMDgzMzU3MjI@._V1_.jpg",
+              "width": 1356,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Kindly Gentleman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0524240",
+          "display_name": "Matt Lucas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI4MDE4NzI5Nl5BMl5BanBnXkFtZTcwODE5MjEyMw@@._V1_.jpg",
+              "width": 1537,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Joe"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0910278",
+          "display_name": "Julie Walters",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM3NDA2NjE0M15BMl5BanBnXkFtZTcwMjk2ODIyOA@@._V1_.jpg",
+              "width": 1402,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mrs. Bird"
+        ]
+      }
+    ]
+  }
+}

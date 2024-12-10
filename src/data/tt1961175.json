@@ -1,0 +1,381 @@
+{
+  "title": {
+    "id": "tt1961175",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "American Assassin",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 111,
+    "plot": "After the death of his girlfriend at the hands of terrorists, Mitch Rapp is drawn into the world of counterterrorism, mentored by tough-as-nails former U.S. Navy S.E.A.L. Stan Hurley.",
+    "rating": {
+      "aggregate_rating": 6.2,
+      "votes_count": 89108
+    },
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjM0MjY4MTk5NV5BMl5BanBnXkFtZTgwNDE2NTQyMzI@._V1_.jpg",
+        "width": 1293,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fas",
+        "name": "Persian"
+      },
+      {
+        "code": "ita",
+        "name": "Italian"
+      },
+      {
+        "code": "pol",
+        "name": "Polish"
+      },
+      {
+        "code": "rus",
+        "name": "Russian"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      },
+      {
+        "code": "tur",
+        "name": "Turkish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 45,
+      "review_count": 30
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0191147",
+          "display_name": "Michael Cuesta",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU1OTc4Nzc0NF5BMl5BanBnXkFtZTcwMTU0NTA1OA@@._V1_.jpg",
+              "width": 1329,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0771496",
+          "display_name": "Stephen Schiff",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjQ3OWMyZDctZGFhZS00ZTI2LTkwM2UtODlhYmI0YmYzNWM2XkEyXkFqcGdeQXVyMTYyMDI1MQ@@._V1_.jpg",
+              "width": 1600,
+              "height": 1066
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm3360218",
+          "display_name": "Michael Finch",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0001880",
+          "display_name": "Edward Zwick",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM1MDcwODU2NV5BMl5BanBnXkFtZTcwMDM0MzY1Mw@@._V1_.jpg",
+              "width": 281,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0380980",
+          "display_name": "Marshall Herskovitz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE5ODk5MjkzNF5BMl5BanBnXkFtZTcwMjI0MzY1Mw@@._V1_.jpg",
+              "width": 303,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2064770",
+          "display_name": "Vince Flynn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkzOTkxNjkwNV5BMl5BanBnXkFtZTcwNTAzMjIzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 466
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm3729721",
+          "display_name": "Dylan O'Brien",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjA5YWIwZjktOWE4NS00ZTc3LWJiM2YtNTNlM2M2YThjYWZmXkEyXkFqcGdeQXVyMDI3NTg0NQ@@._V1_.jpg",
+              "width": 863,
+              "height": 1230
+            }
+          ]
+        },
+        "characters": [
+          "Mitch Rapp"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5256984",
+          "display_name": "Charlotte Vega",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk5YTYzZDYtNGQ3NS00YjhjLTg1ZTEtNDcwZjk2NGVkZjljXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3153,
+              "height": 4204
+            }
+          ]
+        },
+        "characters": [
+          "Katrina"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9254340",
+          "display_name": "Christopher Bomford",
+          "avatars": null
+        },
+        "characters": [
+          "Bartender"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0916854",
+          "display_name": "Chris Webster",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGY1ZDhhMTgtYTlkYS00YWY2LTk4YmEtMzk5ZDczMzA3MDUzXkEyXkFqcGdeQXVyMTAzNzI1MjQ1._V1_.jpg",
+              "width": 4000,
+              "height": 5000
+            }
+          ]
+        },
+        "characters": [
+          "Mansur Recruit Video"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1693067",
+          "display_name": "Shahid Ahmed",
+          "avatars": null
+        },
+        "characters": [
+          "Adnan Al-Mansur"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1019920",
+          "display_name": "Buster Reeves",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU0Yjk1NjEtZDFhNC00NmU4LTkzZDQtNDlhOTZlYmY2OTU2XkEyXkFqcGdeQXVyNDk5NjQ2MQ@@._V1_.jpg",
+              "width": 333,
+              "height": 405
+            }
+          ]
+        },
+        "characters": [
+          "Martial Arts Instructor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0146784",
+          "display_name": "Nick Cavaliere",
+          "avatars": null
+        },
+        "characters": [
+          "Building Superintendent"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5250672",
+          "display_name": "Simon Connolly",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2E0MjRlMzQtNDA3MS00ZGRiLTliNzAtYTY2MzhlM2MzNjQ5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 857,
+              "height": 1076
+            }
+          ]
+        },
+        "characters": [
+          "NSA Techie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1798233",
+          "display_name": "Yousef 'Joe' Sweid",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGE5ODkzNjQtOTRkMy00ZjNmLTk3MWUtOGNjMmFkMzQ2MmIwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1148,
+              "height": 1332
+            }
+          ]
+        },
+        "characters": [
+          "Khaled"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7425457",
+          "display_name": "Joost Janssen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDI5Mjc3MmYtNzc0Mi00MWQ3LWIwODQtMGY1NzMwMTQ2YTY0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2360,
+              "height": 2950
+            }
+          ]
+        },
+        "characters": [
+          "American Operator (Mansur Compound)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5143645",
+          "display_name": "Adam Collins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzc3YTk2YTYtYzlkNS00ZTc5LTkwMjctYjAzYTM1ODllOGYxXkEyXkFqcGc@._V1_.jpg",
+              "width": 1240,
+              "height": 1342
+            }
+          ]
+        },
+        "characters": [
+          "American Operator #2 (Mansur Compound)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0925544",
+          "display_name": "Trevor White",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODNhYTczY2UtNmJhNi00MDc1LTgwNjgtNzM3OWQ0M2UzZDY2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 666,
+              "height": 900
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Frain"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005125",
+          "display_name": "Sanaa Lathan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGI2YmNmZWMtMzRkZi00YTFiLWFiZWMtOWE0OTU1YzE1MDk5XkEyXkFqcGdeQXVyMTUzNDk4NjA@._V1_.jpg",
+              "width": 1440,
+              "height": 1665
+            }
+          ]
+        },
+        "characters": [
+          "Irene Kennedy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0204791",
+          "display_name": "Jf Davis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGQ5ZjNlYWUtYzkwZC00NWJhLTkxYmMtNjM3NGEyNzQ1MDE2XkEyXkFqcGc@._V1_.jpg",
+              "width": 1440,
+              "height": 1779
+            }
+          ]
+        },
+        "characters": [
+          "CIA Officer Giving Nuke Intel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0837064",
+          "display_name": "David Suchet",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjc4Mjg3ODA0OV5BMl5BanBnXkFtZTcwNzI4Njg4OA@@._V1_.jpg",
+              "width": 1497,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Director Stansfield"
+        ]
+      }
+    ]
+  }
+}

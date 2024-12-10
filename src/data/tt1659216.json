@@ -1,0 +1,329 @@
+{
+  "title": {
+    "id": "tt1659216",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Spiders",
+    "original_title": "Spiders 3D",
+    "start_year": 2013,
+    "end_year": null,
+    "runtime_minutes": 89,
+    "plot": "After a Soviet space station crashes into a New York City subway tunnel, a species of venomous spiders is discovered, and soon they mutate to gigantic proportions and wreak havoc on the city.",
+    "rating": {
+      "aggregate_rating": 3.4,
+      "votes_count": 4829
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjEwNDQ1NTAyMl5BMl5BanBnXkFtZTcwMDY0NzAzOA@@._V1_.jpg",
+        "width": 731,
+        "height": 1080
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm0847749",
+          "display_name": "Tibor Takács",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEyNjUyMTU0Nl5BMl5BanBnXkFtZTgwMzU0MTY3MjE@._V1_.jpg",
+              "width": 728,
+              "height": 1017
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1308829",
+          "display_name": "Joseph Farruggia",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcxNjQ4NjE1MV5BMl5BanBnXkFtZTcwNDc1NDYwOQ@@._V1_.jpg",
+              "width": 2048,
+              "height": 1152
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0847749",
+          "display_name": "Tibor Takács",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEyNjUyMTU0Nl5BMl5BanBnXkFtZTgwMzU0MTY3MjE@._V1_.jpg",
+              "width": 728,
+              "height": 1017
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2828434",
+          "display_name": "Dustin Warburton",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm2858875",
+          "display_name": "Sydney Sweeney",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTVjOTkxNjMtNDJiYS00YzEzLThmZTItZjJhM2E4NWQyM2Q2XkEyXkFqcGdeQXVyNzM1NTU0NA@@._V1_.jpg",
+              "width": 2000,
+              "height": 2667
+            }
+          ]
+        },
+        "characters": [
+          "Emily"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0394054",
+          "display_name": "William Hope",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWRkYTI2YzctMmQ3OS00NzViLTk3NDYtZjRjYmNkNzgxNjE0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2400,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Col. Jenkins"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005258",
+          "display_name": "Patrick Muldoon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzMxYzI0NTctMTA5Yi00YjNkLWJiNDYtZDBiYmZlZGVjZDQ2XkEyXkFqcGdeQXVyMzQ5Njc1Nw@@._V1_.jpg",
+              "width": 1125,
+              "height": 1696
+            }
+          ]
+        },
+        "characters": [
+          "Jason"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0132300",
+          "display_name": "Christa Campbell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmJlMGQ2M2MtMmUzZS00ZjFmLTljN2QtMGRjMTgxMzA0Njg0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 480,
+              "height": 720
+            }
+          ]
+        },
+        "characters": [
+          "Rachel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0533023",
+          "display_name": "Jon Mack",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWRlNzQzNzMtY2I3NC00ZDU0LTljYTMtMGE3OWZkYzEyZjc2XkEyXkFqcGdeQXVyMTc1MjM2MQ@@._V1_.jpg",
+              "width": 2400,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Doctor Stella"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1284482",
+          "display_name": "Atanas Srebrev",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTQ4NGNkYTAtN2NiZS00YWRhLWI1ZmUtNDgwZWE3NWM2MDMxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 559,
+              "height": 839
+            }
+          ]
+        },
+        "characters": [
+          "Jimmy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0498523",
+          "display_name": "Pete Lee-Wilson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzhiYmU3NTMtYzcwMC00MmIxLWE2YmUtNzllZDA4MjZhM2Q3XkEyXkFqcGdeQXVyMTQwMjI1OTM@._V1_.jpg",
+              "width": 949,
+              "height": 1299
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Darnoff"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2757852",
+          "display_name": "Christian Contreras",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE2NzA1MjcyMV5BMl5BanBnXkFtZTgwNDgzNTE3NDE@._V1_.jpg",
+              "width": 600,
+              "height": 900
+            }
+          ]
+        },
+        "characters": [
+          "Pete"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0630405",
+          "display_name": "Vincenzo Nicoli",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE2OTU3MzI3NV5BMl5BanBnXkFtZTgwOTI0MzIzMDI@._V1_.jpg",
+              "width": 2558,
+              "height": 3198
+            }
+          ]
+        },
+        "characters": [
+          "Caz"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3799259",
+          "display_name": "Owen Davis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWNlNmRmNjctZGNhNy00MjE2LTk2YjgtMDc2MGE3NDQzNTgyXkEyXkFqcGdeQXVyMjM5NzY2Njg@._V1_.jpg",
+              "width": 3284,
+              "height": 4048
+            }
+          ]
+        },
+        "characters": [
+          "Apartment Soldier"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0890145",
+          "display_name": "Shelly Varod",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ5NDg0MjY4Nl5BMl5BanBnXkFtZTcwNzMzNTAzMQ@@._V1_.jpg",
+              "width": 437,
+              "height": 665
+            }
+          ]
+        },
+        "characters": [
+          "Phoebe"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1931990",
+          "display_name": "Sarah Brown",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ1MTc3Nzc5MF5BMl5BanBnXkFtZTcwNDM3NTgzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 675
+            }
+          ]
+        },
+        "characters": [
+          "Bill's Receptionist",
+          "Sarah"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1515832",
+          "display_name": "Radoslav Parvanov",
+          "avatars": null
+        },
+        "characters": [
+          "Tunnel Soldier #2"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0815464",
+          "display_name": "Nikolai Sotirov",
+          "avatars": null
+        },
+        "characters": [
+          "Killer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2170513",
+          "display_name": "Georgi Manchev",
+          "avatars": null
+        },
+        "characters": [
+          "Hazmat Worker"
+        ]
+      }
+    ]
+  }
+}

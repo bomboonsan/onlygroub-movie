@@ -1,0 +1,352 @@
+{
+  "title": {
+    "id": "tt1126590",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Big Eyes",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 106,
+    "plot": "A drama about the awakening of painter Margaret Keane, her phenomenal success in the 1950s, and the subsequent legal difficulties she had with her husband, who claimed credit for her works in the 1960s.",
+    "rating": {
+      "aggregate_rating": 7,
+      "votes_count": 99185
+    },
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjA2ODM5MDE3N15BMl5BanBnXkFtZTgwOTIxNjc1MzE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      },
+      {
+        "code": "ita",
+        "name": "Italian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 62,
+      "review_count": 40
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0000318",
+          "display_name": "Tim Burton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGJmZDUwMzktYmY2MS00M2IwLWIyNmQtYjJhYjc4NjIyZWM1XkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_.jpg",
+              "width": 1107,
+              "height": 1639
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0018735",
+          "display_name": "Scott Alexander",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYzMTc5MTE4MF5BMl5BanBnXkFtZTcwMzgzMTA1OA@@._V1_.jpg",
+              "width": 2160,
+              "height": 2640
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0438989",
+          "display_name": "Larry Karaszewski",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ4Mzc1OTQxNV5BMl5BanBnXkFtZTgwODE0MDY5MDE@._V1_.jpg",
+              "width": 768,
+              "height": 768
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0010736",
+          "display_name": "Amy Adams",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg2NTk2MTgxMV5BMl5BanBnXkFtZTgwNjcxMjAzMTI@._V1_.jpg",
+              "width": 1340,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Margaret Keane"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0910607",
+          "display_name": "Christoph Waltz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM4MDk3OTYxOF5BMl5BanBnXkFtZTcwMDk5OTUwOQ@@._V1_.jpg",
+              "width": 1497,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Walter Keane"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0396812",
+          "display_name": "Danny Huston",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA1MTk4NDA0NjZeQTJeQWpwZ15BbWU3MDQ5NzIzNTk@._V1_.jpg",
+              "width": 1703,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Dick Nolan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1269983",
+          "display_name": "Krysten Ritter",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzkyMmRiOTgtNDI5ZS00NzRhLWE2YTUtZjRkMDA4ODZmOWMzXkEyXkFqcGdeQXVyMjU2NzY4MQ@@._V1_.jpg",
+              "width": 2000,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Dee-Ann"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005403",
+          "display_name": "Jason Schwartzman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODM4N2NhNmUtY2VhNS00NTU2LWE1NzgtZGFjZjlmOWQ3NTBkXkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_.jpg",
+              "width": 1240,
+              "height": 775
+            }
+          ]
+        },
+        "characters": [
+          "Ruben"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000654",
+          "display_name": "Terence Stamp",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc0ODc3ODQ4OF5BMl5BanBnXkFtZTcwNzIxNzAyMg@@._V1_.jpg",
+              "width": 284,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "John Canaday"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0689237",
+          "display_name": "Jon Polito",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzk2Mjc2MjI5NV5BMl5BanBnXkFtZTgwMzM3MzA2MjI@._V1_.jpg",
+              "width": 783,
+              "height": 979
+            }
+          ]
+        },
+        "characters": [
+          "Enrico Banducci"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5865422",
+          "display_name": "Delaney Raye",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYxMjE2NDM4Nl5BMl5BanBnXkFtZTgwMTQ1NTI3MzE@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Young Jane"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4699715",
+          "display_name": "Madeleine Arthur",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzY5ZTMzYWQtZThhMi00MGI0LTk0MjYtY2I0NWNhNTVmM2UxXkEyXkFqcGdeQXVyMjk4NDkyOTA@._V1_.jpg",
+              "width": 3574,
+              "height": 2848
+            }
+          ]
+        },
+        "characters": [
+          "Older Jane"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0756839",
+          "display_name": "James Saito",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI4ZTM4Y2ItOWY2Ny00NWZjLWIzODktMjQ5NTllNjkzNWY0XkEyXkFqcGdeQXVyNjk2NTU0NzY@._V1_.jpg",
+              "width": 1338,
+              "height": 2005
+            }
+          ]
+        },
+        "characters": [
+          "Judge"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5947387",
+          "display_name": "Farryn VanHumbeck",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWUyYTdjNzUtYWFmMC00YzI2LWFhZjctZjg2NzYzMjVmZWIwXkEyXkFqcGdeQXVyNDY2MDk1ODM@._V1_.jpg",
+              "width": 2640,
+              "height": 3960
+            }
+          ]
+        },
+        "characters": [
+          "Lily"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1304907",
+          "display_name": "Guido Furlani",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWUzNjI4ODUtNGU0Ny00YTMzLTk2YjgtMDQzZTk5ZDlhOTZjXkEyXkFqcGc@._V1_.jpg",
+              "width": 1222,
+              "height": 1528
+            }
+          ]
+        },
+        "characters": [
+          "Dino Olivetti"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2649203",
+          "display_name": "Elisabetta Fantone",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmFhYWE0MWQtODVkNC00ZTcyLThkYTctOTAxNjJhZjA4ODM0XkEyXkFqcGc@._V1_.jpg",
+              "width": 5495,
+              "height": 8242
+            }
+          ]
+        },
+        "characters": [
+          "Olivetti Girl"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2979804",
+          "display_name": "Emily Maddison",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI1NzVkZGItNDEyMy00ODE0LWEwOTctZmExZWU2MjI2MGRmXkEyXkFqcGdeQXVyNDQ2NDc2MDQ@._V1_.jpg",
+              "width": 3365,
+              "height": 5047
+            }
+          ]
+        },
+        "characters": [
+          "2nd Olivetti Girl"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0152313",
+          "display_name": "Brent Chapman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWM0NzYwMjEtZDU4NS00MjY2LWI2YjktYjc1ZDgwYmEwMzQzXkEyXkFqcGc@._V1_.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          ]
+        },
+        "characters": [
+          "Factory Boss"
+        ]
+      }
+    ]
+  }
+}

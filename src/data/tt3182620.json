@@ -1,0 +1,312 @@
+{
+  "title": {
+    "id": "tt3182620",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Bitter Harvest",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 103,
+    "plot": "Set in 1930s Ukraine, as Stalin advances the ambitions of communists in the Kremlin, young artist Yuri battles to save his lover Natalka from the Holodomor, the death-by-starvation program that ultimately killed millions of Ukrainians.",
+    "rating": {
+      "aggregate_rating": 5.9,
+      "votes_count": 4170
+    },
+    "genres": [
+      "Drama",
+      "History",
+      "Romance",
+      "War"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTkwMTczNzUxNV5BMl5BanBnXkFtZTgwNzA4Mjc2MDI@._V1_.jpg",
+        "width": 1350,
+        "height": 2000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "ukr",
+        "name": "Ukrainian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "critic_review": {
+      "score": 34,
+      "review_count": 17
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0578899",
+          "display_name": "George Mendeluk",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU1NTIxNDcwOV5BMl5BanBnXkFtZTcwOTM5NzkzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 316
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2271193",
+          "display_name": "Richard Bachynsky Hoover",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0578899",
+          "display_name": "George Mendeluk",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU1NTIxNDcwOV5BMl5BanBnXkFtZTcwOTM5NzkzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 316
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm2885819",
+          "display_name": "Samantha Barks",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyNTI5NzA0OV5BMl5BanBnXkFtZTgwMjYyMDEyMTE@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Natalka"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1268748",
+          "display_name": "Tamer Hassan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY5MTg4NTQ2N15BMl5BanBnXkFtZTcwNDE3MDMzNA@@._V1_.jpg",
+              "width": 342,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Sergei"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2902567",
+          "display_name": "Aneurin Barnard",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTdiMTRmOGEtOTRmOC00Y2RjLWI5MTUtOTc2NThhYjhiN2Y0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 399,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Mykola"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0836275",
+          "display_name": "Ostap Stupka",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjkxNDA4OTctMGRjZS00MmQ1LThmZGUtYWUxOTRmNjQ3ZWJkXkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_.jpg",
+              "width": 600,
+              "height": 450
+            }
+          ]
+        },
+        "characters": [
+          "Boiko"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3781701",
+          "display_name": "Tom Austen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWI5MDZjMDYtMTY1Mi00MGZhLTk1MzYtZTY4NDUzZmQ0MGYxXkEyXkFqcGdeQXVyMTAxNTk3OTMz._V1_.jpg",
+              "width": 436,
+              "height": 410
+            }
+          ]
+        },
+        "characters": [
+          "Taras"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0065307",
+          "display_name": "William Beck",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM2ODI2NTYxNl5BMl5BanBnXkFtZTcwNjk3MDY4OA@@._V1_.jpg",
+              "width": 240,
+              "height": 300
+            }
+          ]
+        },
+        "characters": [
+          "Stefan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1374033",
+          "display_name": "Lucy Brown",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWIyYzZjNjctODIzMC00YWQ4LWFmYzYtMjEzNWVkOTdhMDFhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1242,
+              "height": 1277
+            }
+          ]
+        },
+        "characters": [
+          "Olena"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10585313",
+          "display_name": "Denis Tarasov",
+          "avatars": null
+        },
+        "characters": [
+          "Young Yuri"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm13047798",
+          "display_name": "Bondareva Lena B. Vysotskogo",
+          "avatars": null
+        },
+        "characters": [
+          "Maria"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9580406",
+          "display_name": "Anastasiya Karpenko",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzA0ZjgzMTItNzI0Ny00MDE4LTg4N2EtM2M4MWVkNTk4ZDY2XkEyXkFqcGc@._V1_.jpg",
+              "width": 1200,
+              "height": 674
+            }
+          ]
+        },
+        "characters": [
+          "Irena"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3730484",
+          "display_name": "Igor Miroshnichenko",
+          "avatars": null
+        },
+        "characters": [
+          "Young Petro"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3874592",
+          "display_name": "Valentina Zubchenko",
+          "avatars": null
+        },
+        "characters": [
+          "Baba Yaga"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5163306",
+          "display_name": "Tim Charles",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTkwOWMyZGUtNTM0ZS00OTBmLWE0NTAtMjE5NGEwZjI1ZDI5XkEyXkFqcGc@._V1_.jpg",
+              "width": 600,
+              "height": 900
+            }
+          ]
+        },
+        "characters": [
+          "Gregory Zinoviev"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0450776",
+          "display_name": "William Key",
+          "avatars": null
+        },
+        "characters": [
+          "Lev Kamenev"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3573926",
+          "display_name": "Adam McNamara",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmE3OGUzZGYtMzg5Yy00YjZkLWFlYzItMmYzNzUyOTU5YTdkXkEyXkFqcGdeQXVyMjI2NDYxNDc@._V1_.jpg",
+              "width": 1080,
+              "height": 2280
+            }
+          ]
+        },
+        "characters": [
+          "Dmitri"
+        ]
+      }
+    ]
+  }
+}

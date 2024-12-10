@@ -1,0 +1,343 @@
+{
+  "title": {
+    "id": "tt10919380",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Freaky",
+    "original_title": null,
+    "start_year": 2020,
+    "end_year": null,
+    "runtime_minutes": 102,
+    "plot": "After swapping bodies with a deranged serial killer, a high-school senior discovers that she has fewer than 24 hours before the change becomes permanent.",
+    "rating": {
+      "aggregate_rating": 6.3,
+      "votes_count": 72593
+    },
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTRkYmJlY2ItNmFlZi00OWVhLTg1ZTctOGE0MjM5ZGMwMmY4XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",
+        "width": 758,
+        "height": 1200
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 67,
+      "review_count": 39
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0484907",
+          "display_name": "Christopher Landon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI5NTA1ODU2MV5BMl5BanBnXkFtZTcwODI3MDMzNA@@._V1_.jpg",
+              "width": 317,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm3208182",
+          "display_name": "Michael Kennedy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWM0Y2M1ZDgtZDZhMS00MjI4LWE4NWMtMzMwZmUxYmVlZmQ4XkEyXkFqcGdeQXVyMjQ4MTYxMzI@._V1_.jpg",
+              "width": 3534,
+              "height": 2745
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0484907",
+          "display_name": "Christopher Landon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI5NTA1ODU2MV5BMl5BanBnXkFtZTcwODI3MDMzNA@@._V1_.jpg",
+              "width": 317,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000681",
+          "display_name": "Vince Vaughn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ1MDA0MzE0MF5BMl5BanBnXkFtZTYwOTUzOTI4._V1_.jpg",
+              "width": 288,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "The Butcher"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1105980",
+          "display_name": "Kathryn Newton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDM5YjI2NDItYWY1My00ZmUyLTgyZjMtOGQzMmEyNjk0ODU5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 959,
+              "height": 1452
+            }
+          ]
+        },
+        "characters": [
+          "Millie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9305936",
+          "display_name": "Celeste O'Connor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTBiZGMyZWQtYTAzMC00N2U0LWFiNjktYzc2ZDJhM2FmOWU5XkEyXkFqcGdeQXVyOTA5NzkzODc@._V1_.jpg",
+              "width": 4000,
+              "height": 6000
+            }
+          ]
+        },
+        "characters": [
+          "Nyla Chones"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8048167",
+          "display_name": "Misha Osherovich",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDllYTExODMtZmNmYi00YzkyLWJiM2MtODEwODBiNzZiNjI1XkEyXkFqcGdeQXVyMTY0MDU4MDYy._V1_.jpg",
+              "width": 2400,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Josh Detmer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9458191",
+          "display_name": "Emily Holder",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDY3ZGYyMjItMzIyYi00ZmVjLWFkY2YtMjk5N2E3MzE3OTJkXkEyXkFqcGdeQXVyNzg1ODIyODc@._V1_.jpg",
+              "width": 3894,
+              "height": 5841
+            }
+          ]
+        },
+        "characters": [
+          "Sandra"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2677066",
+          "display_name": "Nicholas Stargel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzUyZTBjMzktZTBjNC00NmRmLThhZDktZmEzMDU2ZTUzY2JhXkEyXkFqcGdeQXVyODkyMzk1OQ@@._V1_.jpg",
+              "width": 2400,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Isaac"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5766106",
+          "display_name": "Kelly Lamor Wilson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGQ1YzAzZGUtYTYyYy00YzY0LTgyOTYtY2M5OGNjOGM2MWNlXkEyXkFqcGdeQXVyNDQ1NjQzODU@._V1_.jpg",
+              "width": 1600,
+              "height": 1067
+            }
+          ]
+        },
+        "characters": [
+          "Ginny"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8841952",
+          "display_name": "Mitchell Hoog",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTE5ZWJiMTktODE2Mi00MDFhLTk5YTAtMzUyNDcyMDExNmVhXkEyXkFqcGdeQXVyNjk5NjI5NjM@._V1_.jpg",
+              "width": 4368,
+              "height": 2912
+            }
+          ]
+        },
+        "characters": [
+          "Evan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7879299",
+          "display_name": "Dana Drori",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjBjZGNkODAtNzdmMy00Y2IzLWJhYWMtYWFmOGIwMjJhYjc5XkEyXkFqcGdeQXVyNjY1NjY0NzY@._V1_.jpg",
+              "width": 3335,
+              "height": 5000
+            }
+          ]
+        },
+        "characters": [
+          "Charlene Kessler"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0278234",
+          "display_name": "Katie Finneran",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTUwOTY0MDA5M15BMl5BanBnXkFtZTgwMTQ5Mjg1NzE@._V1_.jpg",
+              "width": 1920,
+              "height": 2560
+            }
+          ]
+        },
+        "characters": [
+          "Coral Kessler"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0911360",
+          "display_name": "Alonzo Ward",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTQ2NjQ2YjgtZGU0Yi00NGZjLTgzNDgtOGI5NDA4ZmNjNTliXkEyXkFqcGdeQXVyMzY0NTIwNTI@._V1_.jpg",
+              "width": 2550,
+              "height": 4200
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Daniels"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7349608",
+          "display_name": "Dustin Lewis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWMyNTVlNWQtZDkwMi00MDYzLWIxMGQtMjA2YWI3OTI4NTZmXkEyXkFqcGdeQXVyNTYzNjEyODA@._V1_.jpg",
+              "width": 1200,
+              "height": 1799
+            }
+          ]
+        },
+        "characters": [
+          "Ginny's Dad"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3678451",
+          "display_name": "Jennifer Pierce Mathus",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDQxYzJkMmEtN2QyYy00Zjc1LTk1ZDktNjljZTk3YzkxYjA5XkEyXkFqcGdeQXVyMjMxMjk0NjA@._V1_.jpg",
+              "width": 6720,
+              "height": 4480
+            }
+          ]
+        },
+        "characters": [
+          "Ginny's Mom"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2722682",
+          "display_name": "Uriah Shelton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDU5M2VkZjYtOTJkNS00NWIzLWEzNGUtMjljNzA4YWE4OTY5XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 649,
+              "height": 902
+            }
+          ]
+        },
+        "characters": [
+          "Booker Strode"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7148362",
+          "display_name": "Melissa Collazo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTkxZmNhMGMtODBlMS00ZTU4LThmNzctYmVkMDljZjkzNzE3XkEyXkFqcGc@._V1_.jpg",
+              "width": 794,
+              "height": 1190
+            }
+          ]
+        },
+        "characters": [
+          "Ryler"
+        ]
+      }
+    ]
+  }
+}

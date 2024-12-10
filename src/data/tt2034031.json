@@ -1,0 +1,296 @@
+{
+  "title": {
+    "id": "tt2034031",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Laggies",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 99,
+    "plot": "In the throes of a quarter-life crisis, Megan panics when her boyfriend proposes. She takes an opportunity to escape for a week, hiding out in the house of her new 16-year-old friend Annika and her world-weary single dad.",
+    "rating": {
+      "aggregate_rating": 6.4,
+      "votes_count": 45825
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY5NjU0MTQwMl5BMl5BanBnXkFtZTgwMjYxMTU0MjE@._V1_.jpg",
+        "width": 1716,
+        "height": 2679
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 63,
+      "review_count": 32
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1119645",
+          "display_name": "Lynn Shelton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjIyOGVjODEtNzBkNi00OTlmLThhNGYtNTVlOTI5Mzk1MmMyXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg",
+              "width": 1851,
+              "height": 2498
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2484916",
+          "display_name": "Andrea Seigel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MWQ3MjMtZDdiNC00ZjYxLWJjYjMtODRiMjcwZWNkNGI2XkEyXkFqcGdeQXVyMjM4ODc1NzI@._V1_.jpg",
+              "width": 1302,
+              "height": 1812
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm2421227",
+          "display_name": "Rocki DuCharme",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDE4ZGE3NGQtMTc4Zi00NjRjLTlkZmQtODQ3ZDY1NDQ5ZDRkXkEyXkFqcGdeQXVyMTI3MjExMDI@._V1_.jpg",
+              "width": 1093,
+              "height": 1638
+            }
+          ]
+        },
+        "characters": [
+          "Teen Savannah"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4030912",
+          "display_name": "Sara Lynne Wright",
+          "avatars": null
+        },
+        "characters": [
+          "Teen Allison"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6342966",
+          "display_name": "Larissa Schmitz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjMwODdhOTMtYmIxYy00MWM0LWJiYmEtMDQ1N2ZjNzFiOGI2XkEyXkFqcGdeQXVyNTExODQ3NDE@._V1_.jpg",
+              "width": 1600,
+              "height": 2400
+            }
+          ]
+        },
+        "characters": [
+          "Teen Megan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3220108",
+          "display_name": "Phillip Abraham",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjk3ODgxYjMtYjAwNi00NDlmLWI5OWYtZjE5YmNmODVhOThjXkEyXkFqcGdeQXVyNDkwMTczNDg@._V1_.jpg",
+              "width": 3289,
+              "height": 4111
+            }
+          ]
+        },
+        "characters": [
+          "Teen Anthony"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5766396",
+          "display_name": "Maura Lindsay",
+          "avatars": null
+        },
+        "characters": [
+          "Teen Danielle"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0461136",
+          "display_name": "Keira Knightley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYwNDM0NDA3M15BMl5BanBnXkFtZTcwNTkzMjQ3OA@@._V1_.jpg",
+              "width": 1458,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Megan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2608689",
+          "display_name": "Ellie Kemper",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIzMDU3NzE4NV5BMl5BanBnXkFtZTcwODQyNTQzNA@@._V1_.jpg",
+              "width": 1445,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Allison"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5677379",
+          "display_name": "Sara Coates",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWMxMjQ0YTYtOTYyZC00YjQ1LWEzZjEtZmRmZmEyN2FmODAyXkEyXkFqcGdeQXVyMjYxNjM2OTI@._V1_.jpg",
+              "width": 868,
+              "height": 1300
+            }
+          ]
+        },
+        "characters": [
+          "Savannah"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6107118",
+          "display_name": "Kirsten deLohr Helland",
+          "avatars": null
+        },
+        "characters": [
+          "Danielle"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0916406",
+          "display_name": "Mark Webber",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA3MzY1MTQ5OV5BMl5BanBnXkFtZTgwNjU1NDUzMTE@._V1_.jpg",
+              "width": 2048,
+              "height": 1805
+            }
+          ]
+        },
+        "characters": [
+          "Anthony"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0717502",
+          "display_name": "Eric Riedmann",
+          "avatars": null
+        },
+        "characters": [
+          "Matt"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5355434",
+          "display_name": "Louis Hobson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTlmZjdkYmUtOWVmOC00OTZmLTkxOGMtOGY2ZmUzYTBlMjkwXkEyXkFqcGc@._V1_.jpg",
+              "width": 284,
+              "height": 178
+            }
+          ]
+        },
+        "characters": [
+          "Theo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0307531",
+          "display_name": "Jeff Garlin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzY4MDE4OTk2MF5BMl5BanBnXkFtZTcwNjYxMzA2MQ@@._V1_.jpg",
+              "width": 285,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Ed"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0857402",
+          "display_name": "Jodi Thelen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU2NjQyNTA0OV5BMl5BanBnXkFtZTcwNjE2MDAxMw@@._V1_.jpg",
+              "width": 2048,
+              "height": 1388
+            }
+          ]
+        },
+        "characters": [
+          "Linda"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1317797",
+          "display_name": "Basil Harris",
+          "avatars": null
+        },
+        "characters": [
+          "Wedding DJ"
+        ]
+      }
+    ]
+  }
+}

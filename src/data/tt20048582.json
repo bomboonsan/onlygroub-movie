@@ -1,0 +1,310 @@
+{
+  "title": {
+    "id": "tt20048582",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Canary Black",
+    "original_title": null,
+    "start_year": 2024,
+    "end_year": null,
+    "runtime_minutes": 101,
+    "plot": "It follows Avery Graves as she is blackmailed by terrorists into betraying her own country to save her kidnapped husband.",
+    "rating": {
+      "aggregate_rating": 5.8,
+      "votes_count": 268
+    },
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDlhYTdkYjAtZDRiNS00ZWZkLTg1MzctODQxZmM4ZjBiZWNkXkEyXkFqcGc@._V1_.jpg",
+        "width": 1080,
+        "height": 1350
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm0603628",
+          "display_name": "Pierre Morel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE3NDcyNzY4Nl5BMl5BanBnXkFtZTcwNDg5NDUxMw@@._V1_.jpg",
+              "width": 283,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm5755883",
+          "display_name": "Matthew Kennedy",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000295",
+          "display_name": "Kate Beckinsale",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM3MzY2MDYwOF5BMl5BanBnXkFtZTcwODQ3MDA0Nw@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Avery Graves"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1670029",
+          "display_name": "Rupert Friend",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA4NjAyMDM2N15BMl5BanBnXkFtZTgwMDQ3ODgxNDM@._V1_.jpg",
+              "width": 383,
+              "height": 480
+            }
+          ]
+        },
+        "characters": [
+          "David Brooks"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0829032",
+          "display_name": "Ray Stevenson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzE0YmE5OTUtYjFmOS00OGY4LWE0NmQtMWY4MjA3OWM4MTMwXkEyXkFqcGdeQXVyMTI2Nzk3NzI4._V1_.jpg",
+              "width": 827,
+              "height": 1063
+            }
+          ]
+        },
+        "characters": [
+          "Jarvis Hedlund"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8468846",
+          "display_name": "Jaz Hutchins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTE1ZmM1ZmUtMjVmYS00OTVlLWI2NjMtY2RmNjZmZjBkM2U2XkEyXkFqcGdeQXVyODA3Njc0NzU@._V1_.jpg",
+              "width": 4480,
+              "height": 6720
+            }
+          ]
+        },
+        "characters": [
+          "Agent Maxfield"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1336552",
+          "display_name": "Goran Kostic",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUxNjIwNzAwNl5BMl5BanBnXkFtZTcwMTQ5MjQxNw@@._V1_.jpg",
+              "width": 1610,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Konrad Breznov"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0587060",
+          "display_name": "Ben Miles",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDNkYjUxY2YtMmJmMS00MGYxLWJmM2ItMTk0Y2Y3MDM5NDIyXkEyXkFqcGdeQXVyMjI5NzU5MzU@._V1_.jpg",
+              "width": 2400,
+              "height": 3300
+            }
+          ]
+        },
+        "characters": [
+          "Nathan Evans"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9045639",
+          "display_name": "Romina Tonkovic",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGE3YTg2ZjItOTkyZS00YjQ5LTgzNTUtNWFjNzVlYmJiZTc5XkEyXkFqcGc@._V1_.jpg",
+              "width": 1638,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Sorina"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11472788",
+          "display_name": "Rok Juricic",
+          "avatars": null
+        },
+        "characters": [
+          "Mikolas"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2612087",
+          "display_name": "Masayoshi Haneda",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTNiNjM4ZDQtZDllNi00MjYxLTk5ZWMtM2VjNWM3ZjFjZWE1XkEyXkFqcGdeQXVyNDA4OTA4NDk@._V1_.jpg",
+              "width": 2134,
+              "height": 3200
+            }
+          ]
+        },
+        "characters": [
+          "Kenji Nakajima"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9582364",
+          "display_name": "Emma Gojkovic",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjY3MGRlN2MtZTg5OC00ZDI0LTk2MmYtNDQwNTRiMmY3ZGI1XkEyXkFqcGc@._V1_.jpg",
+              "width": 4480,
+              "height": 6720
+            }
+          ]
+        },
+        "characters": [
+          "Evans Assistant"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0004787",
+          "display_name": "Saffron Burrows",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDkwOTAxMzYtY2E4NC00ODM0LTk4NWItNjBiNmFkYjlkMTc5XkEyXkFqcGdeQXVyMjE0NjUzOQ@@._V1_.jpg",
+              "width": 750,
+              "height": 842
+            }
+          ]
+        },
+        "characters": [
+          "Elizabeth Mills"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0104787",
+          "display_name": "Michael Brandon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmNlOTg0YzYtNjU4Yy00M2E0LWIyNmYtYWRlMTRkZGZlZDkzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3304,
+              "height": 5024
+            }
+          ]
+        },
+        "characters": [
+          "US President"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1005582",
+          "display_name": "Jeff Mirza",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU0NDkyMDEzOF5BMl5BanBnXkFtZTcwODg3MTMzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 680
+            }
+          ]
+        },
+        "characters": [
+          "Head of State - India"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9648588",
+          "display_name": "Rui Shang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2I5YzU4YWYtYjg0OC00YzViLTkwYjMtZTI4NWFjOWRlMGI1XkEyXkFqcGc@._V1_.jpg",
+              "width": 2048,
+              "height": 1638
+            }
+          ]
+        },
+        "characters": [
+          "Chinese President"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10270223",
+          "display_name": "Ana Cilas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWY1MDQwMWYtMmMyMy00NjVmLWIwNGQtYmJjNWIzZDRhYjg4XkEyXkFqcGdeQXVyNDc0NzgxMDI@._V1_.jpg",
+              "width": 4277,
+              "height": 5347
+            }
+          ]
+        },
+        "characters": [
+          "Abby"
+        ]
+      }
+    ]
+  }
+}

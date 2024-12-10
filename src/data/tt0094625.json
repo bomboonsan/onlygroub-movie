@@ -1,0 +1,291 @@
+{
+  "title": {
+    "id": "tt0094625",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Akira",
+    "original_title": null,
+    "start_year": 1988,
+    "end_year": null,
+    "runtime_minutes": 124,
+    "plot": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath who can only be stopped by a teenager, his gang of biker friends and a group of psychics.",
+    "rating": {
+      "aggregate_rating": 8,
+      "votes_count": 206075
+    },
+    "genres": [
+      "Action",
+      "Animation",
+      "Drama",
+      "Fantasy",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjFmNWYzZjMtYWIyZi00NDVmLWIxY2EtN2RiMjZiMDk4MzcyXkEyXkFqcGdeQXVyMTg2NjYzOA@@._V1_.jpg",
+        "width": 1433,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "jpn",
+        "name": "Japanese"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "JP",
+        "name": "Japan"
+      }
+    ],
+    "critic_review": {
+      "score": 68,
+      "review_count": 22
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0960028",
+          "display_name": "Katsuhiro Ôtomo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjBkOTYyOWItNTI5Yy00NDY3LTk4MjgtYmQyM2Y2NzM0YTY1XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+              "width": 695,
+              "height": 1024
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0960028",
+          "display_name": "Katsuhiro Ôtomo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjBkOTYyOWItNTI5Yy00NDY3LTk4MjgtYmQyM2Y2NzM0YTY1XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+              "width": 695,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0368051",
+          "display_name": "Izô Hashimoto",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzgzNzAxM2EtOGIyOS00ZmVhLTkyODMtMWFhY2Y0OTVmYTYwXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
+              "width": 461,
+              "height": 478
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0412628",
+          "display_name": "Mitsuo Iwata",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjE1NjNhZDctZmYyNy00ZDE5LWIwYTctN2VkMDM3OWEyYTJhXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+              "width": 683,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Shôtarô Kaneda"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0765815",
+          "display_name": "Nozomu Sasaki",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGVmMjdlMGEtNTMwYi00OTliLTk4MjEtNWEyNjAyNGNiN2ZhXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+              "width": 213,
+              "height": 339
+            }
+          ]
+        },
+        "characters": [
+          "Tetsuo Shima"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0468708",
+          "display_name": "Mami Koyama",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2UxMTc1ZGMtMTFjNS00ODJmLThmYTgtYWZiNzkyNWM0YTM0XkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+              "width": 338,
+              "height": 525
+            }
+          ]
+        },
+        "characters": [
+          "Kei"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0312656",
+          "display_name": "Tesshô Genda",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDFlOTIwMTktNjIxMC00OGVkLWI5NjQtMzJjNjJiNWIwMDFjXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 640,
+              "height": 851
+            }
+          ]
+        },
+        "characters": [
+          "Ryû"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0960022",
+          "display_name": "Hiroshi Ôtake",
+          "avatars": null
+        },
+        "characters": [
+          "Nezu"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0457561",
+          "display_name": "Kôichi Kitamura",
+          "avatars": null
+        },
+        "characters": [
+          "Lady Miyako",
+          "Committee A"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0407495",
+          "display_name": "Michihiro Ikemizu",
+          "avatars": null
+        },
+        "characters": [
+          "Inspector",
+          "Committee I"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0297167",
+          "display_name": "Yuriko Fuchizaki",
+          "avatars": null
+        },
+        "characters": [
+          "Kaori"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0959991",
+          "display_name": "Masaaki Ôkura",
+          "avatars": null
+        },
+        "characters": [
+          "Yamagata"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0032875",
+          "display_name": "Tarô Arakawa",
+          "avatars": null
+        },
+        "characters": [
+          "Eiichi Watanabe",
+          "Army",
+          "Committee G",
+          "Committee H"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0476223",
+          "display_name": "Takeshi Kusao",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzNhYTA0NWQtMDM0Ny00M2ZiLWI3MTEtMzAwMjFmZGYzYTFkXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 225,
+              "height": 350
+            }
+          ]
+        },
+        "characters": [
+          "Kai"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0849003",
+          "display_name": "Kazumi Tanaka",
+          "avatars": null
+        },
+        "characters": [
+          "Army"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0441971",
+          "display_name": "Masayuki Katô",
+          "avatars": null
+        },
+        "characters": [
+          "Engineer Sakiyama",
+          "Committee D"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0015342",
+          "display_name": "Yôsuke Akimoto",
+          "avatars": null
+        },
+        "characters": [
+          "Harukiya Bartender"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0386252",
+          "display_name": "Masato Hirano",
+          "avatars": null
+        },
+        "characters": [
+          "Yûji Takeyama",
+          "Spy",
+          "Terrorist",
+          "Committee F"
+        ]
+      }
+    ]
+  }
+}

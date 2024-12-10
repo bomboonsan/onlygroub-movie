@@ -1,0 +1,328 @@
+{
+  "title": {
+    "id": "tt2918436",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Lazarus Effect",
+    "original_title": null,
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 83,
+    "plot": "A group of medical researchers discover a way to bring dead patients back to life.",
+    "rating": {
+      "aggregate_rating": 5.2,
+      "votes_count": 45937
+    },
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjM2ODM1OTA0M15BMl5BanBnXkFtZTgwMDMxMDI5MzE@._V1_.jpg",
+        "width": 1012,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 31,
+      "review_count": 29
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0312173",
+          "display_name": "David Gelb",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAyMDgzNDYzOF5BMl5BanBnXkFtZTgwNTIzMzIzNTE@._V1_.jpg",
+              "width": 3000,
+              "height": 2000
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1430636",
+          "display_name": "Luke Dawson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTQ2NmFmMWItZTdlMS00ZDljLTkyNTQtMjY1OTBmNGRjYjlhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1122,
+              "height": 1060
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2916300",
+          "display_name": "Jeremy Slater",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTczNzUwODQ1N15BMl5BanBnXkFtZTgwOTQ5ODU0NzM@._V1_.jpg",
+              "width": 1433,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0243233",
+          "display_name": "Mark Duplass",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzlhNjUwMTQtMWRlZC00N2VlLTk0MjctMjI0NmI2ZWRkMDkzXkEyXkFqcGdeQXVyMjA5MTEzMA@@._V1_.jpg",
+              "width": 756,
+              "height": 1000
+            }
+          ]
+        },
+        "characters": [
+          "Frank"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1312575",
+          "display_name": "Olivia Wilde",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg5NTc1NzgwOV5BMl5BanBnXkFtZTcwMTcyMjIzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 563
+            }
+          ]
+        },
+        "characters": [
+          "Zoe"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0092961",
+          "display_name": "Sarah Bolger",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc5NjU2NTEyNl5BMl5BanBnXkFtZTgwMTIzNjY4MDI@._V1_.jpg",
+              "width": 2044,
+              "height": 3072
+            }
+          ]
+        },
+        "characters": [
+          "Eva"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1404239",
+          "display_name": "Evan Peters",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA2NDg2ODYwMV5BMl5BanBnXkFtZTgwNTE4MzQyNzE@._V1_.jpg",
+              "width": 1379,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Clay"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2255973",
+          "display_name": "Donald Glover",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzUxNTU5ODkxNl5BMl5BanBnXkFtZTgwOTIyNjc5MDI@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Niko"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0936403",
+          "display_name": "Ray Wise",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYzNTg0NDU5NF5BMl5BanBnXkFtZTcwNDQ5NTk3MQ@@._V1_.jpg",
+              "width": 316,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Wallace"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3251539",
+          "display_name": "Scott Sheldon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDM5YjRmMTctMzZiOS00NmM1LWE0MzEtMjk3NTE1YzRlYzFmXkEyXkFqcGdeQXVyMjA1MDIxNDE@._V1_.jpg",
+              "width": 452,
+              "height": 677
+            }
+          ]
+        },
+        "characters": [
+          "Security Guard"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6980631",
+          "display_name": "Emily Kelavos",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTUyZTU4YjktODk1Yy00NDI1LTgyM2UtNGQ5NzYyOGJlYjliXkEyXkFqcGdeQXVyNTcxMzYzNjg@._V1_.jpg",
+              "width": 311,
+              "height": 430
+            }
+          ]
+        },
+        "characters": [
+          "Little Girl"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1913063",
+          "display_name": "James Earl",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTY3YTc0MjAtMDE2MC00MDdiLWIxNmMtNzI1NjEzNzU0Y2JmXkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_.jpg",
+              "width": 366,
+              "height": 555
+            }
+          ]
+        },
+        "characters": [
+          "Security Guard Terrence"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0032628",
+          "display_name": "Amy Aquino",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDQxOTIyNTcxNl5BMl5BanBnXkFtZTgwODg5NTU5NzE@._V1_.jpg",
+              "width": 383,
+              "height": 479
+            }
+          ]
+        },
+        "characters": [
+          "President Dailey"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0846615",
+          "display_name": "Sean T. Krishnan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGVhOTg1N2UtOTJjYS00ZTIzLThmMWUtNGQ4NDdlZDIwNGI4XkEyXkFqcGdeQXVyMDgwOTIzNg@@._V1_.jpg",
+              "width": 1200,
+              "height": 1800
+            }
+          ]
+        },
+        "characters": [
+          "Lawyer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1372211",
+          "display_name": "Ator Tamras",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTIzMzAyMzEwN15BMl5BanBnXkFtZTYwMTUzMDky._V1_.jpg",
+              "width": 450,
+              "height": 666
+            }
+          ]
+        },
+        "characters": [
+          "Burned Figure"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7149884",
+          "display_name": "Cato",
+          "avatars": null
+        },
+        "characters": [
+          "Rocky the Dog"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0169558",
+          "display_name": "Liisa Cohen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUwMDEzMTYxMV5BMl5BanBnXkFtZTcwNDA0NTEzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 539
+            }
+          ]
+        },
+        "characters": [
+          "Cop"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2335442",
+          "display_name": "Jennifer Floyd",
+          "avatars": null
+        },
+        "characters": [
+          "Firefighter"
+        ]
+      }
+    ]
+  }
+}

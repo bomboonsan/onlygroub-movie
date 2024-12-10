@@ -1,0 +1,73 @@
+{
+  "title": {
+    "id": "tt6802360",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Dries",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 90,
+    "plot": "DRIES - an intimate Portrait of the Fashion Designer Dries Van Noten. This film offers an insight into the life, mind and creative heart of a Master Fashion Designer who, for more than 25 years, has remained independent in a landscape of fashion consolidation and globalization. Reiner Holzemer follows him for one year and witnesses the creation of four collections.",
+    "rating": {
+      "aggregate_rating": 6.8,
+      "votes_count": 447
+    },
+    "genres": [
+      "Biography",
+      "Documentary"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzczNzFhZDAtMjNmMy00MWZkLTk0NTItMmU5MWQ2MGExMTIzXkEyXkFqcGc@._V1_.jpg",
+        "width": 1753,
+        "height": 2480
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "TV-PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "BE",
+        "name": "Belgium"
+      },
+      {
+        "code": "DE",
+        "name": "Germany"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm1339108",
+          "display_name": "Reiner Holzemer",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1339108",
+          "display_name": "Reiner Holzemer",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": null
+  }
+}

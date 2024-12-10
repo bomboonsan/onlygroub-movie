@@ -1,0 +1,346 @@
+{
+  "title": {
+    "id": "tt4169250",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "M.S. Dhoni: The Untold Story",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 184,
+    "plot": "The untold story of Mahendra Singh Dhoni's journey from ticket collector to trophy collector - the world-cup-winning captain of the Indian Cricket Team.",
+    "rating": {
+      "aggregate_rating": 8,
+      "votes_count": 68233
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2UwZTNkMmItYmYzOS00MTk3LTg3NDgtNzg5ZjYxNTIzNzY4XkEyXkFqcGc@._V1_.jpg",
+        "width": 2076,
+        "height": 3000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "Not Rated"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "hin",
+        "name": "Hindi"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "IN",
+        "name": "India"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm14112827",
+          "display_name": "Mathur Goswami",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm3109770",
+          "display_name": "Neeraj Pandey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzI5YTViZDYtM2ZkZS00YzRjLTkxOTQtMmZhM2VkZjU0N2M2XkEyXkFqcGdeQXVyMjYwMDk5NjE@._V1_.jpg",
+              "width": 1600,
+              "height": 2284
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm3109770",
+          "display_name": "Neeraj Pandey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzI5YTViZDYtM2ZkZS00YzRjLTkxOTQtMmZhM2VkZjU0N2M2XkEyXkFqcGdeQXVyMjYwMDk5NjE@._V1_.jpg",
+              "width": 1600,
+              "height": 2284
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm4614038",
+          "display_name": "Dilip Jha",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2590575",
+          "display_name": "Guru Thakur",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm3118214",
+          "display_name": "Mohinder Pratap Singh",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm4274191",
+          "display_name": "Shyam Maheshwari",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm3818286",
+          "display_name": "Sushant Singh Rajput",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjA4ZjNmYzUtZDAwNS00MTk4LWIzYjEtYWFlZDJhYTk1MzcyXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 702,
+              "height": 942
+            }
+          ]
+        },
+        "characters": [
+          "M. S. Dhoni"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6442009",
+          "display_name": "Kiara Advani",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWVhMWQyODktNGViZS00NWMyLTlkODEtZTYzMzQ0YTQyYjFmXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_.jpg",
+              "width": 2766,
+              "height": 4149
+            }
+          ]
+        },
+        "characters": [
+          "Sakshi Singh Dhoni nee Rawat"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7796669",
+          "display_name": "Disha Patani",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmM3YTg2ZjUtNWMwMi00NWE2LWE1YmMtYWM1ZDViNmYzOWRkXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+              "width": 1063,
+              "height": 1600
+            }
+          ]
+        },
+        "characters": [
+          "Priyanka Jha"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0451600",
+          "display_name": "Anupam Kher",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGRlY2UwZTQtMzRhMi00M2NmLThkODMtYTQ5NDI3YmMyMWUwXkEyXkFqcGdeQXVyMTU2NTc1MTY@._V1_.jpg",
+              "width": 2000,
+              "height": 2850
+            }
+          ]
+        },
+        "characters": [
+          "Pan Singh Dhoni"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1983214",
+          "display_name": "Neeta Mohindra",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWMzMDZjN2YtYTVmNi00Mzc1LWI2MzItMGYxODcxNjk0NjMzXkEyXkFqcGc@._V1_.jpg",
+              "width": 705,
+              "height": 792
+            }
+          ]
+        },
+        "characters": [
+          "Devaki Devi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0154653",
+          "display_name": "Bhoomika Chawla",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODZkMDk4MDItMTZhOS00ODA4LWJjMTMtYjE0NDhhOTdlZjc3XkEyXkFqcGdeQXVyMjYwMDk5NjE@._V1_.jpg",
+              "width": 517,
+              "height": 795
+            }
+          ]
+        },
+        "characters": [
+          "Jayanti Gupta"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0788903",
+          "display_name": "Rajesh Sharma",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjdkODZkNjAtNzdiNi00YTFhLWEwYTktYmEyYTc3NzNmOTg2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+              "width": 560,
+              "height": 854
+            }
+          ]
+        },
+        "characters": [
+          "Keshav Ranjan Banerjee"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2394380",
+          "display_name": "Mithu Chakraborty",
+          "avatars": null
+        },
+        "characters": [
+          "Mrs. Banerjee"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1122912",
+          "display_name": "Kumud Mishra",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWY2YTdhY2QtMzMxMS00MjNhLTgxYmQtMjM2OGM4MjczNzBmXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 674,
+              "height": 818
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Deval"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2227818",
+          "display_name": "Kaliprasad Mukherjee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTM3MmM0YWYtNzRiOS00MDIyLTkyYzktNjg1MmM0MDIwZDJlXkEyXkFqcGc@._V1_.jpg",
+              "width": 6000,
+              "height": 4000
+            }
+          ]
+        },
+        "characters": [
+          "A K Ganguly"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8484525",
+          "display_name": "Zeeshaan",
+          "avatars": null
+        },
+        "characters": [
+          "Young Dhoni"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2463153",
+          "display_name": "Swini Khara",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzg5YThhMTktMDc5NC00MTJkLTlkYzctODM5ZGU5YTQwY2VhXkEyXkFqcGdeQXVyMTEzNjA2NzM@._V1_.jpg",
+              "width": 588,
+              "height": 588
+            }
+          ]
+        },
+        "characters": [
+          "Young Jayanti"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8501265",
+          "display_name": "Sandeep Nahar",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTc3OGYxOWQtODY4MC00MzE2LWJkMzktYzQxMjFiNmEwMjY1XkEyXkFqcGc@._V1_.jpg",
+              "width": 397,
+              "height": 311
+            }
+          ]
+        },
+        "characters": [
+          "Chottu Bhaiya"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6455555",
+          "display_name": "Kranti Prakash Jha",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzczMTk5NGYtMDdiNC00ZjRlLTk3MTAtNzU2ZmNhMTY3ZGY5XkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_.jpg",
+              "width": 1076,
+              "height": 1373
+            }
+          ]
+        },
+        "characters": [
+          "Santosh Lal"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8026847",
+          "display_name": "Alok Pandey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWQ1ZTY1ZTctOTc4ZS00MzUyLWE3YTctMTY3ZTgyMGMzYzUxXkEyXkFqcGdeQXVyOTc4NTg3MDM@._V1_.jpg",
+              "width": 1456,
+              "height": 2174
+            }
+          ]
+        },
+        "characters": [
+          "Chittu"
+        ]
+      }
+    ]
+  }
+}

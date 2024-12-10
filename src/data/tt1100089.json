@@ -1,0 +1,326 @@
+{
+  "title": {
+    "id": "tt1100089",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Foxcatcher",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 134,
+    "plot": "U.S. Olympic wrestling champions and brothers Mark Schultz and Dave Schultz join \"Team Foxcatcher\", led by eccentric multi-millionaire John du Pont, as they train for the 1988 Olympic Games in Seoul, South Korea, but John's self-destructive behavior threatens to consume them all.",
+    "rating": {
+      "aggregate_rating": 7,
+      "votes_count": 149369
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "History",
+      "Sport"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MjQxNjYxOV5BMl5BanBnXkFtZTgwMzIwODUxMzE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 81,
+      "review_count": 49
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0587955",
+          "display_name": "Bennett Miller",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY1MDMxNjk4Nl5BMl5BanBnXkFtZTYwMzExMzQ3._V1_.jpg",
+              "width": 485,
+              "height": 319
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0296861",
+          "display_name": "E. Max Frye",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ1MDAyNjczMV5BMl5BanBnXkFtZTgwMDA1ODAzNDE@._V1_.jpg",
+              "width": 1361,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0001246",
+          "display_name": "Dan Futterman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgwODA1NjY0MV5BMl5BanBnXkFtZTYwODExNDQ0._V1_.jpg",
+              "width": 270,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0136797",
+          "display_name": "Steve Carell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMyOTM2OTk1Ml5BMl5BanBnXkFtZTgwMTI3MzkyNjM@._V1_.jpg",
+              "width": 1371,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "John du Pont"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1475594",
+          "display_name": "Channing Tatum",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTc2NTEwNV5BMl5BanBnXkFtZTgwNDgxMjMxNjE@._V1_.jpg",
+              "width": 1093,
+              "height": 1044
+            }
+          ]
+        },
+        "characters": [
+          "Mark Schultz"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0749263",
+          "display_name": "Mark Ruffalo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWIzZTI1ODUtZTUzMC00NTdiLWFlOTYtZTg4MGZkYmU4YzNlXkEyXkFqcGdeQXVyNTExOTk5Nzg@._V1_.jpg",
+              "width": 4912,
+              "height": 7360
+            }
+          ]
+        },
+        "characters": [
+          "David Schultz"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1092227",
+          "display_name": "Sienna Miller",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmEyYmNjZGMtNzZlYy00NzVlLWI3ZWMtNjM4NmU3OTc4MzQ5XkEyXkFqcGdeQXVyOTE0NjgwMjY@._V1_.jpg",
+              "width": 421,
+              "height": 631
+            }
+          ]
+        },
+        "characters": [
+          "Nancy Schultz"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000603",
+          "display_name": "Vanessa Redgrave",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI3MjE0OTgzNF5BMl5BanBnXkFtZTcwOTQ3ODMwMg@@._V1_.jpg",
+              "width": 285,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Jean du Pont"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001309",
+          "display_name": "Anthony Michael Hall",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTdhZmJlMmUtZjdhYi00MDVjLWFhZmMtNTY4MDU5OWIyMTU5XkEyXkFqcGdeQXVyODUwMjgxNDU@._V1_.jpg",
+              "width": 1242,
+              "height": 2208
+            }
+          ]
+        },
+        "characters": [
+          "Jack"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0101777",
+          "display_name": "Guy Boyd",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGU1MzQxYTUtOGE1Ny00NzYxLWJmNjctZGIyZGUyOWZjZjYzXkEyXkFqcGdeQXVyMDE1MDkzNw@@._V1_.jpg",
+              "width": 530,
+              "height": 896
+            }
+          ]
+        },
+        "characters": [
+          "Henry Beck"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0723365",
+          "display_name": "Brett Rice",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzY5NDU2MjIxOV5BMl5BanBnXkFtZTgwMzQyNTQwMjE@._V1_.jpg",
+              "width": 576,
+              "height": 720
+            }
+          ]
+        },
+        "characters": [
+          "Fred Cole"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5370784",
+          "display_name": "Jackson Frazer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2IwNWM2YjUtMmMwYS00MGRhLWE0ZTctNzFhZWQ3MjY1OWZlXkEyXkFqcGc@._V1_CR1270,1,3333,5000_.jpg",
+              "width": 3333,
+              "height": 5000
+            }
+          ]
+        },
+        "characters": [
+          "Alexander Schultz"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5343317",
+          "display_name": "Samara Lee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTY0OGFmMDMtMTM1Yi00YWYwLWFhYzItYTI0MDQ1M2I2NDZhXkEyXkFqcGdeQXVyMzczNTA4NTM@._V1_.jpg",
+              "width": 1290,
+              "height": 1593
+            }
+          ]
+        },
+        "characters": [
+          "Danielle Schultz"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5405578",
+          "display_name": "Francis J. Murphy III",
+          "avatars": null
+        },
+        "characters": [
+          "Wayne Kendall"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1105937",
+          "display_name": "Jane Mowder",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTBiOTRiN2EtNmZiNC00Zjc4LTljOTUtZThhOTg1N2Q4YjNjXkEyXkFqcGc@._V1_.jpg",
+              "width": 3648,
+              "height": 5472
+            }
+          ]
+        },
+        "characters": [
+          "Rosie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6889544",
+          "display_name": "David 'Doc' Bennett",
+          "avatars": null
+        },
+        "characters": [
+          "Documentary Director"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0674101",
+          "display_name": "Lee Perkins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTk1YWQ3OTgtYWI2Ny00OTk0LTk4Y2YtNWJkMDRhMzUzYThkXkEyXkFqcGdeQXVyNTE1NDEwOA@@._V1_.jpg",
+              "width": 717,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Corporal"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6889545",
+          "display_name": "Robert Haramia",
+          "avatars": null
+        },
+        "characters": [
+          "Banquet Guest"
+        ]
+      }
+    ]
+  }
+}

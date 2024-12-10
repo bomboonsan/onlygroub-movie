@@ -1,0 +1,348 @@
+{
+  "title": {
+    "id": "tt6264654",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Free Guy",
+    "original_title": null,
+    "start_year": 2021,
+    "end_year": null,
+    "runtime_minutes": 115,
+    "plot": "When Guy, a bank teller, learns that he is a non-player character in a bloodthirsty, open-world video game, he goes on to become the hero of the story and takes the responsibility of saving the world.",
+    "rating": {
+      "aggregate_rating": 7.1,
+      "votes_count": 417673
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTY2NzFjODctOWUzMC00MGZhLTlhNjMtM2Y2ODBiNGY1ZWRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+        "width": 2082,
+        "height": 3000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "jpn",
+        "name": "Japanese"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 62,
+      "review_count": 51
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0506613",
+          "display_name": "Shawn Levy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTkyNjk4MTM0NF5BMl5BanBnXkFtZTcwNTA4MTQ5Mw@@._V1_.jpg",
+              "width": 1200,
+              "height": 800
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1073238",
+          "display_name": "Matt Lieberman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODg0OTA5ODQtZTk5Ny00YTkyLThhNjEtNTIzMDU0ZTY2NmU5XkEyXkFqcGdeQXVyNzc5MjkxNA@@._V1_.jpg",
+              "width": 3999,
+              "height": 6000
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0672015",
+          "display_name": "Zak Penn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzQyNzY0MTEzN15BMl5BanBnXkFtZTgwMTE4NzEwNTM@._V1_.jpg",
+              "width": 1499,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0005351",
+          "display_name": "Ryan Reynolds",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODFmN2VmZmEtYTRjZi00ZjY1LTgxYjQtODMyNDI3ZDk4ZTJiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "width": 2034,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Guy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3069650",
+          "display_name": "Jodie Comer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmViMjQxYTUtZDExNy00NjU1LWI4MmEtY2RhODRkMzNkODM1XkEyXkFqcGdeQXVyNjkwNzEwMzY@._V1_.jpg",
+              "width": 399,
+              "height": 387
+            }
+          ]
+        },
+        "characters": [
+          "Millie",
+          "Molotovgirl"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2577076",
+          "display_name": "Lil Rel Howery",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzRiNWQ1NzItMzQzNy00YWJjLWI3ZjEtZGU5MjgyNjY3ZDMyXkEyXkFqcGdeQXVyMTU4NTcwOTIy._V1_.jpg",
+              "width": 1440,
+              "height": 1440
+            }
+          ]
+        },
+        "characters": [
+          "Buddy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6564737",
+          "display_name": "Joe Keery",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzgyZjUyNzEtNmYwZi00Njg4LTgwMDktNmQ5OTc0YzdiYzY3XkEyXkFqcGdeQXVyNTk2MjUyMjA@._V1_.jpg",
+              "width": 3840,
+              "height": 5760
+            }
+          ]
+        },
+        "characters": [
+          "Keys"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2064295",
+          "display_name": "Utkarsh Ambudkar",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzg1YzE3NGItYTA3ZS00ZjNiLThjYzktZWQyNmI1OTI5OTQ3XkEyXkFqcGdeQXVyMzk3NTI4NTQ@._V1_.jpg",
+              "width": 672,
+              "height": 912
+            }
+          ]
+        },
+        "characters": [
+          "Mouser"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0169806",
+          "display_name": "Taika Waititi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzk4MDIzNjcwNV5BMl5BanBnXkFtZTgwMTIyMjgwNDI@._V1_.jpg",
+              "width": 1638,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Antwan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1475594",
+          "display_name": "Channing Tatum",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTc2NTEwNV5BMl5BanBnXkFtZTgwNDgxMjMxNjE@._V1_.jpg",
+              "width": 1093,
+              "height": 1044
+            }
+          ]
+        },
+        "characters": [
+          "Revenjamin Buttons"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9619603",
+          "display_name": "Aaron W Reed",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzk0NDUzMjgtYjgzOC00M2QyLTg5MWEtYWJkMTc1ZTZmMmZjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1472,
+              "height": 1472
+            }
+          ]
+        },
+        "characters": [
+          "Dude"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4162863",
+          "display_name": "Britne Oldford",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQxODQ1NjQxNl5BMl5BanBnXkFtZTgwNzEwMjk1MDI@._V1_.jpg",
+              "width": 339,
+              "height": 447
+            }
+          ]
+        },
+        "characters": [
+          "Barista"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8814069",
+          "display_name": "Camille Kostek",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjc2YzZhNGMtMWVhMi00MjAxLWJhZjQtOGY1N2NkYzAwMjQwXkEyXkFqcGdeQXVyNjY5NDgzNjQ@._V1_.jpg",
+              "width": 645,
+              "height": 883
+            }
+          ]
+        },
+        "characters": [
+          "Bombshell"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0481884",
+          "display_name": "Mark Lainer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTgxZDRjYWQtOGMwZi00OGQwLWFkYTctMDAyNmFiOWFkOGJhXkEyXkFqcGdeQXVyMDY4Nzg3MA@@._V1_.jpg",
+              "width": 4947,
+              "height": 4947
+            }
+          ]
+        },
+        "characters": [
+          "Hostage"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10873230",
+          "display_name": "Mike Devine",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzVkNmU3ODUtNzUyMS00ZGZmLWE4YmMtOTdmYjAzMTJiNjJjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 737,
+              "height": 987
+            }
+          ]
+        },
+        "characters": [
+          "Officer Johnny"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1053641",
+          "display_name": "Sophie Levy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDNjNGQzZTEtOGRkNS00ZTRhLTk5NzYtYjZlODZiMzEyMGQzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1140,
+              "height": 858
+            }
+          ]
+        },
+        "characters": [
+          "Big City Dreamer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0779881",
+          "display_name": "Vernon Scott",
+          "avatars": null
+        },
+        "characters": [
+          "Bank Manager"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3608877",
+          "display_name": "Naheem Garcia",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTI4OTRhZDMtZGFlNS00ZjEzLWE0MzktODQ4ZjZjNWYxMmY5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 738,
+              "height": 943
+            }
+          ]
+        },
+        "characters": [
+          "Convenience Store Owner Joe"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "title": {
+    "id": "tt2338151",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "PK",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 153,
+    "plot": "An alien on Earth loses the only device he can use to communicate with his spaceship. His innocent nature and child-like questions force the country to evaluate the impact of religious views on people.",
+    "rating": {
+      "aggregate_rating": 8.1,
+      "votes_count": 201504
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTg5NzIzMzEyOF5BMl5BanBnXkFtZTgwMjgzMTg0MzE@._V1_.jpg",
+        "width": 1090,
+        "height": 1580
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "Not Rated"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "hin",
+        "name": "Hindi"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "IN",
+        "name": "India"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm0386246",
+          "display_name": "Rajkumar Hirani",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc3ODMzMjI2N15BMl5BanBnXkFtZTgwMjI5ODEzOTE@._V1_.jpg",
+              "width": 2048,
+              "height": 1612
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0386246",
+          "display_name": "Rajkumar Hirani",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc3ODMzMjI2N15BMl5BanBnXkFtZTgwMjI5ODEzOTE@._V1_.jpg",
+              "width": 2048,
+              "height": 1612
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0430785",
+          "display_name": "Abhijat Joshi",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0451148",
+          "display_name": "Aamir Khan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAwMjk3NDUzN15BMl5BanBnXkFtZTcwNjI4MTY0NA@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "PK"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3087728",
+          "display_name": "Anushka Sharma",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGM5YmYwNjUtNzQyYS00OGY0LTljZDAtMDNiMjhiOTFiMzRiXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 1077,
+              "height": 1548
+            }
+          ]
+        },
+        "characters": [
+          "Jagat Janani Sahni (Jaggu)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0795661",
+          "display_name": "Saurabh Shukla",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjlkNjljM2YtODkyMC00MDQ0LTliY2MtMWVjNjUzZmEzMzZjXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_.jpg",
+              "width": 683,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Tapasvi Maharaj"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3818286",
+          "display_name": "Sushant Singh Rajput",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjA4ZjNmYzUtZDAwNS00MTk4LWIzYjEtYWFlZDJhYTk1MzcyXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 702,
+              "height": 942
+            }
+          ]
+        },
+        "characters": [
+          "Sarfaraz Yusuf"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1224082",
+          "display_name": "Boman Irani",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWU0NTZlMWYtNzlmNS00NTE2LWI5M2UtNzlhOTBkY2VlZDk3XkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_.jpg",
+              "width": 668,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Cherry Bajwa"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0004569",
+          "display_name": "Sanjay Dutt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzU2NTgwNzY1OF5BMl5BanBnXkFtZTcwMjQxNzcxOA@@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        },
+        "characters": [
+          "Bhairon Singh"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0756378",
+          "display_name": "Parikshit Sahni",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTQ3NzAwZTQtMmNiYy00ZDE0LWIxOGEtMzA3MTI3NDU2ZTVkXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 618,
+              "height": 820
+            }
+          ]
+        },
+        "characters": [
+          "Jaggu's father"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1011383",
+          "display_name": "Amardeep Jha",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2ViZGEyNTUtM2RhNS00Yzg3LWI3MmQtZjRmZmVmNjczNzc3XkEyXkFqcGdeQXVyMjQ2MDI5ODE@._V1_.jpg",
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        "characters": [
+          "Jaggu's mother"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7903965",
+          "display_name": "Plabita Borthakur",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDE3ZmNhY2ItYTFmZC00OTMwLWEwOWYtY2U3YmMyZTQ4NjI3XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+              "width": 800,
+              "height": 1022
+            }
+          ]
+        },
+        "characters": [
+          "Jaggu's sister"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3116470",
+          "display_name": "Maanvi Gagroo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTc3ZTM1MTYtOTBiOS00NDQ3LWE2NjMtOTM4OGQxYjBkOTM3XkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_.jpg",
+              "width": 678,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Mitu"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11775188",
+          "display_name": "Tia Sharma",
+          "avatars": null
+        },
+        "characters": [
+          "Young Jaggu"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3761597",
+          "display_name": "Sanjiv Kishinchandani",
+          "avatars": null
+        },
+        "characters": [
+          "Dentist"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4372817",
+          "display_name": "Rajinder Sharma Nanu",
+          "avatars": null
+        },
+        "characters": [
+          "Thief"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2434862",
+          "display_name": "Sachin Parikh",
+          "avatars": null
+        },
+        "characters": [
+          "Tapasvi's manager"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1082338",
+          "display_name": "Ram Sethi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjVlYTc0ZmItYjczYy00NWJmLWI3Y2QtZGRlMjAxNGI4MmVhXkEyXkFqcGc@._V1_.jpg",
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        "characters": [
+          "Elderly Man in Belgium"
+        ]
+      }
+    ]
+  }
+}

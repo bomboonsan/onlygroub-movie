@@ -1,0 +1,250 @@
+{
+  "title": {
+    "id": "tt1929308",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Magic Magic",
+    "original_title": null,
+    "start_year": 2013,
+    "end_year": null,
+    "runtime_minutes": 97,
+    "plot": "A naive young tourist's road trip across Chile with friends turns into a waking nightmare.",
+    "rating": {
+      "aggregate_rating": 5,
+      "votes_count": 10369
+    },
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjUyYTc2OTAtNzNmNS00OGZhLTgxY2UtODM2YTMzODhjZTIwXkEyXkFqcGc@._V1_.jpg",
+        "width": 1400,
+        "height": 2100
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "arn",
+        "name": "Mapudungun"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CL",
+        "name": "Chile"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 59,
+      "review_count": 7
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm2928364",
+          "display_name": "Sebastián Silva",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTExNDY0MzgwMTReQTJeQWpwZ15BbWU3MDg0NTk3OTg@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2928364",
+          "display_name": "Sebastián Silva",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTExNDY0MzgwMTReQTJeQWpwZ15BbWU3MDg0NTk3OTg@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0148418",
+          "display_name": "Michael Cera",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTgyNDgxMjUyOV5BMl5BanBnXkFtZTcwMDYxNzY1OQ@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Brink"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1017334",
+          "display_name": "Juno Temple",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmNhOGE0NDQtNmUxZi00YmZmLTllNjgtM2QwODYzYzM0ZmRhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+              "width": 5087,
+              "height": 3391
+            }
+          ]
+        },
+        "characters": [
+          "Alicia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0115161",
+          "display_name": "Emily Browning",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTFmYzYxNzUtMmNhNy00OTNjLTgzOTUtYjIyOTI1NDQzYTVjXkEyXkFqcGdeQXVyMjAyMzA0MTk@._V1_.jpg",
+              "width": 1170,
+              "height": 1438
+            }
+          ]
+        },
+        "characters": [
+          "Sara"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1503432",
+          "display_name": "Catalina Sandino Moreno",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg5MDI5MTA0M15BMl5BanBnXkFtZTgwODE2NDA1NTE@._V1_.jpg",
+              "width": 613,
+              "height": 697
+            }
+          ]
+        },
+        "characters": [
+          "Bárbara"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2927993",
+          "display_name": "Agustín Silva",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk3MjQ0MzA0MV5BMl5BanBnXkFtZTcwNzA3MTQ2OA@@._V1_.jpg",
+              "width": 608,
+              "height": 347
+            }
+          ]
+        },
+        "characters": [
+          "Agustín"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0239677",
+          "display_name": "Luis Dubó",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDEzYTc3YmQtZjliZS00MWVhLTlkZTItYmM2ZTY0ZGE2YTMwXkEyXkFqcGc@._V1_.jpg",
+              "width": 396,
+              "height": 594
+            }
+          ]
+        },
+        "characters": [
+          "Bernardo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4562686",
+          "display_name": "Roxana Naranjo",
+          "avatars": null
+        },
+        "characters": [
+          "Melda"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5882454",
+          "display_name": "Lorenza Aillapán",
+          "avatars": null
+        },
+        "characters": [
+          "Machi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5882455",
+          "display_name": "John Carlos Huenchunao",
+          "avatars": null
+        },
+        "characters": [
+          "Héctor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5882456",
+          "display_name": "Rayén Aliquintuy",
+          "avatars": null
+        },
+        "characters": [
+          "Laurita"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3020303",
+          "display_name": "Johnny Serret",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDYwYTA5NWEtM2ZkOS00YmFjLWI1NTUtNTgzNzRjM2EzOTExXkEyXkFqcGdeQXVyMTkzODQwNzI@._V1_.jpg",
+              "width": 3648,
+              "height": 5472
+            }
+          ]
+        },
+        "characters": [
+          "Pedestrian"
+        ]
+      }
+    ]
+  }
+}

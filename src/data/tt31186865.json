@@ -1,0 +1,323 @@
+{
+  "title": {
+    "id": "tt31186865",
+    "type": "tvMiniSeries",
+    "is_adult": false,
+    "primary_title": "Lazarus",
+    "original_title": null,
+    "start_year": 2024,
+    "end_year": null,
+    "runtime_minutes": null,
+    "plot": "After experiencing a personal loss, Lazarus begins having disturbing experiences that can't be explained.",
+    "rating": null,
+    "genres": [
+      "Thriller"
+    ],
+    "posters": null,
+    "certificates": null,
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm1637821",
+          "display_name": "Daniel O'Hara",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTEyMjMwOGUtZjkwOC00MTBkLWIyZTEtZmE1MzIyNTM3ODU1XkEyXkFqcGdeQXVyODY1NTM5MDY@._V1_.jpg",
+              "width": 640,
+              "height": 436
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2193238",
+          "display_name": "Nicole Volavka",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm3408764",
+          "display_name": "Wayne Yip",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2Y1NGE3NjMtZThkZC00NDExLTk0MmQtZjczY2E4NmM0MzU3XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",
+              "width": 1226,
+              "height": 1839
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1454192",
+          "display_name": "Harlan Coben",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0268383",
+          "display_name": "Tom Farrelly",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0110662",
+          "display_name": "Daniel Brocklehurst",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm3510471",
+          "display_name": "Sam Claflin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI3MDQxNDUwOF5BMl5BanBnXkFtZTgwNjY4NjI3NjE@._V1_.jpg",
+              "width": 800,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Laz"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0631490",
+          "display_name": "Bill Nighy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUzNDM2MDg4MV5BMl5BanBnXkFtZTcwODA3NTk3NA@@._V1_.jpg",
+              "width": 300,
+              "height": 450
+            }
+          ]
+        },
+        "characters": [
+          "Dr. L"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3789989",
+          "display_name": "Alexandra Roach",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2RiYjgzNWQtNDMzMC00YTc2LWFlMDUtYWNkMzI4MGM2YzQ0XkEyXkFqcGdeQXVyMTA4MjE3MjU2._V1_.jpg",
+              "width": 3755,
+              "height": 5632
+            }
+          ]
+        },
+        "characters": [
+          "Jenna Lazarus"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11526449",
+          "display_name": "Ewan Horrocks",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODhiM2NhMjItNDQ4NC00ZTdmLThkYjgtNTcyNjUyNTM3MzI2XkEyXkFqcGdeQXVyMTE3MzI4OTc2._V1_.jpg",
+              "width": 1638,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Young Laz"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2411784",
+          "display_name": "David Fynn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGZkZWM5OTItODQ2Ni00MjJkLWE0NjMtMWY5YTI0MDg2NDdkXkEyXkFqcGdeQXVyMjE4Mjk4Njk@._V1_.jpg",
+              "width": 2400,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Seth"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0212675",
+          "display_name": "Jack Deam",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIyNzk4NjQwNl5BMl5BanBnXkFtZTgwMDg1Nzc5MjE@._V1_.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ]
+        },
+        "characters": [
+          "Arlo Jones"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3244915",
+          "display_name": "Sianad Gregory",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjFkNjk0YjUtNjYyYi00MWUzLWFjNjItZjdmNjJmMTU4MmY0XkEyXkFqcGdeQXVyMjM5ODY4MDU@._V1_.jpg",
+              "width": 1542,
+              "height": 2313
+            }
+          ]
+        },
+        "characters": [
+          "Cassandra",
+          "Cassandra Rhodes"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm14877233",
+          "display_name": "Cormac De Bhál",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTAxNjBhMzgtMGExNC00NTk5LWJkNzUtNWExZDE1ZGViZTk4XkEyXkFqcGc@._V1_.jpg",
+              "width": 4000,
+              "height": 6000
+            }
+          ]
+        },
+        "characters": [
+          "Young Sam Olsen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7909596",
+          "display_name": "Charlie Mann",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTEwMThhZjEtZmI5NC00OWFiLWEyZDYtNDI2OGM5NmEyOTk4XkEyXkFqcGc@._V1_.jpg",
+              "width": 2849,
+              "height": 3561
+            }
+          ]
+        },
+        "characters": [
+          "Young Billy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm13631744",
+          "display_name": "Joseph Mason-Coombs",
+          "avatars": null
+        },
+        "characters": [
+          "Young Seth"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12577601",
+          "display_name": "Cal-I Jonel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDczMGFjN2YtN2EwYS00ZGM0LWIxN2MtZDJkNzEyNzk0ZTZiXkEyXkFqcGc@._V1_.jpg",
+              "width": 3571,
+              "height": 4464
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Adebago"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1687315",
+          "display_name": "Paddy C. Courtney",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2Q0YTBkZDMtZGM3Zi00ZjhkLWJiZTgtZWQ3YmZjYTQ1MzkyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1065,
+              "height": 1065
+            }
+          ]
+        },
+        "characters": [
+          "Mark"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10648992",
+          "display_name": "Jaouhar Ben Ayed",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTE0YTkyNmYtYzU3MS00Yzk0LTgzMTYtY2FhZDcxNjAzOWMwXkEyXkFqcGc@._V1_.jpg",
+              "width": 2400,
+              "height": 3300
+            }
+          ]
+        },
+        "characters": [
+          "Harry"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0038918",
+          "display_name": "Kate Ashfield",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYyMmRkYjctY2IwYy00ZjY1LWE4ZjktMzUwOGU4OWVmYmY0XkEyXkFqcGdeQXVyMTE2MTIzMzA@._V1_.jpg",
+              "width": 2400,
+              "height": 3300
+            }
+          ]
+        },
+        "characters": null
+      },
+      {
+        "name": {
+          "id": "nm3492152",
+          "display_name": "Karla Crome",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTY1MTQyOTcxNF5BMl5BanBnXkFtZTgwMzI5MDYxMjE@._V1_.jpg",
+              "width": 534,
+              "height": 800
+            }
+          ]
+        },
+        "characters": null
+      }
+    ]
+  }
+}

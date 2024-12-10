@@ -1,0 +1,365 @@
+{
+  "title": {
+    "id": "tt1292566",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "How to Be Single",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 110,
+    "plot": "A group of young adults navigate love and relationships in New York City.",
+    "rating": {
+      "aggregate_rating": 6.1,
+      "votes_count": 94424
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzI4MDMwMzUwNF5BMl5BanBnXkFtZTgwMDgyNzkyNzE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 51,
+      "review_count": 32
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0228542",
+          "display_name": "Christian Ditter",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGRlNzQ1ZTUtZGVhMi00YmRiLWFjODUtZTdjNTljODRiNDI0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 891,
+              "height": 1336
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0463359",
+          "display_name": "Abby Kohn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2MzMzE1MTUtOGQ5NS00YTJiLThiOTEtNjQxZTI3ZmU2MDVjXkEyXkFqcGdeQXVyODc1ODE1Njk@._V1_.jpg",
+              "width": 1080,
+              "height": 1440
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0799050",
+          "display_name": "Marc Silverstein",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU1MDY0Mjk1Nl5BMl5BanBnXkFtZTgwODEyMDk1MTI@._V1_CR116,210,698,1048_.jpg",
+              "width": 698,
+              "height": 1048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1401416",
+          "display_name": "Dana Fox",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI4NDQwMDA0N15BMl5BanBnXkFtZTcwNjY1NDg4Mg@@._V1_.jpg",
+              "width": 275,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0875710",
+          "display_name": "Liz Tuccillo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ2Nzg0MjgxNF5BMl5BanBnXkFtZTgwODk1NDUzMTE@._V1_.jpg",
+              "width": 2048,
+              "height": 1426
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0424848",
+          "display_name": "Dakota Johnson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODE1ODE5MzY5M15BMl5BanBnXkFtZTgwNDg1NDA4NTM@._V1_.jpg",
+              "width": 345,
+              "height": 345
+            }
+          ]
+        },
+        "characters": [
+          "Alice"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2313103",
+          "display_name": "Rebel Wilson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjJhYTdhZmMtZmRhOS00YjJiLThkYjItMjljNzhhNjVmNjQwXkEyXkFqcGdeQXVyMTQzMjYyODY@._V1_.jpg",
+              "width": 3490,
+              "height": 2280
+            }
+          ]
+        },
+        "characters": [
+          "Robin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005182",
+          "display_name": "Leslie Mann",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU4MTI1MTAwMF5BMl5BanBnXkFtZTcwNjUxMTQ5Mg@@._V1_.jpg",
+              "width": 283,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Meg"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0915458",
+          "display_name": "Damon Wayans Jr.",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjY0MTA3MzQwM15BMl5BanBnXkFtZTcwMzU4OTc1Mg@@._V1_.jpg",
+              "width": 303,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "David"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2981082",
+          "display_name": "Anders Holm",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg0NDg2NTU5NV5BMl5BanBnXkFtZTgwOTA0NzY4NjE@._V1_.jpg",
+              "width": 640,
+              "height": 905
+            }
+          ]
+        },
+        "characters": [
+          "Tom"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1555340",
+          "display_name": "Alison Brie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjJkNDg5ZDctM2RlZS00NjFmLTkxZjktMWE5NGQzMDg4NDFhXkEyXkFqcGdeQXVyMTMwMDM1OTQ@._V1_.jpg",
+              "width": 1454,
+              "height": 2000
+            }
+          ]
+        },
+        "characters": [
+          "Lucy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1002609",
+          "display_name": "Nicholas Braun",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTBhM2FjZTctMWJjOC00YjM5LWFiYzQtYzc0ODM3NTI5NTBkXkEyXkFqcGdeQXVyMjYxNzYxMzQ@._V1_.jpg",
+              "width": 1128,
+              "height": 1288
+            }
+          ]
+        },
+        "characters": [
+          "Josh"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3821405",
+          "display_name": "Jake Lacy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDA2ODk3YjItMjY4OC00YTk5LWE4ZjYtZTUzMWE4MTg5YTZlXkEyXkFqcGdeQXVyMTI2Nzk2MjQ1._V1_.jpg",
+              "width": 880,
+              "height": 880
+            }
+          ]
+        },
+        "characters": [
+          "Ken"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1727621",
+          "display_name": "Jason Mantzoukas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzQwMzU3MDExNl5BMl5BanBnXkFtZTcwNDY5MzA5Nw@@._V1_.jpg",
+              "width": 1411,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "George"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1906042",
+          "display_name": "Colin Jost",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGZkNDU1MjQtYWYzYy00Nzk0LWI3MWEtNGE2M2Y2NjU0MTNmXkEyXkFqcGdeQXVyMTMzMjUzNTE3._V1_.jpg",
+              "width": 1080,
+              "height": 1440
+            }
+          ]
+        },
+        "characters": [
+          "Paul"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5840303",
+          "display_name": "Mickey Gooch Jr.",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGM3Yzc5MDUtZjZkZS00ODk0LWJjMzctNDAzY2I5ZWU5ZjFhXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+              "width": 2001,
+              "height": 3002
+            }
+          ]
+        },
+        "characters": [
+          "Robin's Date"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1186061",
+          "display_name": "Sarah Ramos",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGU4Yzc5Y2YtYWE3YS00MDIwLWFiYjYtOTY0OTUzMDJmOTMwXkEyXkFqcGc@._V1_.jpg",
+              "width": 650,
+              "height": 625
+            }
+          ]
+        },
+        "characters": [
+          "Michelle"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3354501",
+          "display_name": "Vanessa Rubio",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmFmNWVlY2ItNjZkMy00MzEwLTg5ZTItZjNkMjRhYmFiNzNjXkEyXkFqcGc@._V1_.jpg",
+              "width": 3744,
+              "height": 5616
+            }
+          ]
+        },
+        "characters": [
+          "David's Wife"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7563185",
+          "display_name": "Zani Jones Mbayise",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWI3ODI1YjctMTA3Yy00YzYxLTk5NDQtMWFhMTliNzMwOTIwXkEyXkFqcGc@._V1_.jpg",
+              "width": 1449,
+              "height": 2173
+            }
+          ]
+        },
+        "characters": [
+          "Phoebe"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3771375",
+          "display_name": "Brent Morin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2E2MGY4OTktYWY5ZC00NmQ1LWJmODUtOWQxOWRjNWI2NmE0XkEyXkFqcGc@._V1_.jpg",
+              "width": 1857,
+              "height": 1044
+            }
+          ]
+        },
+        "characters": [
+          "Lucy's Date"
+        ]
+      }
+    ]
+  }
+}

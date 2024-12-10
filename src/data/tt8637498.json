@@ -1,0 +1,348 @@
+{
+  "title": {
+    "id": "tt8637498",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Monkey King",
+    "original_title": null,
+    "start_year": 2023,
+    "end_year": null,
+    "runtime_minutes": 97,
+    "plot": "Inspired by an epic Chinese tale, translated into an action-packed comedy, a Monkey and his magical fighting Stick battle demons, dragons, gods and the greatest adversary of all - Monkey's ego.",
+    "rating": {
+      "aggregate_rating": 5.8,
+      "votes_count": 6334
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWZhZjUxZGUtMzM1OC00MjdmLWIzZjUtZTUzODc2ZTI2YzQzXkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_.jpg",
+        "width": 510,
+        "height": 755
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "zho",
+        "name": "Chinese"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CN",
+        "name": "China"
+      },
+      {
+        "code": "HK",
+        "name": "Hong Kong (Special Administrative Region of China)"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 59,
+      "review_count": 10
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0820934",
+          "display_name": "Anthony Stacchi",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0070368",
+          "display_name": "Steve Bencich",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1943855",
+          "display_name": "Ron J. Friedman",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0398763",
+          "display_name": "Rita Hsiao",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1063158",
+          "display_name": "Cheng'en Wu",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm4497202",
+          "display_name": "Jimmy O. Yang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTgyM2E1N2MtNWE0Mi00NmZkLWJiOTgtNmJmZDViZmViNGE1XkEyXkFqcGdeQXVyOTk0OTU2MDE@._V1_.jpg",
+              "width": 2000,
+              "height": 1333
+            }
+          ]
+        },
+        "characters": [
+          "Monkey King"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6299248",
+          "display_name": "Bowen Yang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzMxYzY5NmQtMGE4Yy00NWRmLTg5YmEtOTQ3MTg0NWNlOTFlXkEyXkFqcGdeQXVyODE5NzA4MjQ@._V1_.jpg",
+              "width": 1367,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Dragon King"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10043239",
+          "display_name": "Jolie Hoang-Rappaport",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2I3YWU4MDktYzQzNi00Mzk4LTg3NGEtMTczNDFmN2QyYmY0XkEyXkFqcGdeQXVyOTQ3NzY3Mjk@._V1_.jpg",
+              "width": 1440,
+              "height": 1800
+            }
+          ]
+        },
+        "characters": [
+          "Lin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1839922",
+          "display_name": "Jo Koy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTVjY2FkZDctMDJiMi00YmQ1LTk1ZWItMWM5Y2IwYTIwMGEyXkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_.jpg",
+              "width": 6720,
+              "height": 4480
+            }
+          ]
+        },
+        "characters": [
+          "Benbo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0950620",
+          "display_name": "Ron Yuan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzkyZjdkYWItZTFjNC00MDhjLWExYjktYWIwMjM4MDU1ZmM1XkEyXkFqcGdeQXVyMjY1NDA0MQ@@._V1_.jpg",
+              "width": 1093,
+              "height": 1560
+            }
+          ]
+        },
+        "characters": [
+          "Babbo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3258232",
+          "display_name": "Nan Li",
+          "avatars": null
+        },
+        "characters": [
+          "Stick"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0659374",
+          "display_name": "Andrew Pang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEyNjQzMjk1MF5BMl5BanBnXkFtZTgwMjQzOTQ3NzE@._V1_.jpg",
+              "width": 1860,
+              "height": 2825
+            }
+          ]
+        },
+        "characters": [
+          "Mayor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3513533",
+          "display_name": "Stephanie Hsu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmMxMjI0ZGItYThmMi00YTM0LTg5M2QtNTQxOTdmM2I5NDg3XkEyXkFqcGdeQXVyNTU0MjY5MjE@._V1_.jpg",
+              "width": 4388,
+              "height": 6582
+            }
+          ]
+        },
+        "characters": [
+          "Mayor's Wife"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5173686",
+          "display_name": "Sophie Jean Wu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTA0OTI5ZjQtMzBmOS00ODg2LWEzNDEtNzJjMDQyYjA2ODczXkEyXkFqcGdeQXVyMTcwMjE5NDc0._V1_.jpg",
+              "width": 2213,
+              "height": 3239
+            }
+          ]
+        },
+        "characters": [
+          "Child Monkey",
+          "Red Girl"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1229640",
+          "display_name": "Hoon Lee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGU3MDU1ZmEtNDExZC00MTMzLWI0NmMtMjNhYmRkNzM1Njc2XkEyXkFqcGdeQXVyNjYxMTgzMzQ@._V1_.jpg",
+              "width": 1597,
+              "height": 2396
+            }
+          ]
+        },
+        "characters": [
+          "Jade Emperor",
+          "Monk"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1873559",
+          "display_name": "Andrew Kishino",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjkwZWYxNzQtNDU4NS00NzhkLWI1ZDctMzQzNmYzZWJkMDE0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 4368,
+              "height": 2912
+            }
+          ]
+        },
+        "characters": [
+          "Demon of Havoc",
+          "King Yama"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0519023",
+          "display_name": "Jodi Long",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGI0MzM5ZmQtMzA1OS00MjE2LWI4OTYtNmI3NGY4OGVlMjRjXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 1400,
+              "height": 1837
+            }
+          ]
+        },
+        "characters": [
+          "Wangmu"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000703",
+          "display_name": "BD Wong",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYxNTEyMjEyOF5BMl5BanBnXkFtZTcwNjAwNTMwNA@@._V1_.jpg",
+              "width": 276,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Buddha"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0048389",
+          "display_name": "Dee Bradley Baker",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk4MzkzMzk0MF5BMl5BanBnXkFtZTcwNDIwMjM4NA@@._V1_.jpg",
+              "width": 1024,
+              "height": 1536
+            }
+          ]
+        },
+        "characters": [
+          "Baby Monkey King"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0943160",
+          "display_name": "Robert Wu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjNiMTRjNDgtMzMxNS00M2UzLTljNWItZDlmM2VkMmM5NzYzXkEyXkFqcGdeQXVyMTczODYyNw@@._V1_.jpg",
+              "width": 3840,
+              "height": 5760
+            }
+          ]
+        },
+        "characters": [
+          "Palace Minister",
+          "Pigsy"
+        ]
+      }
+    ]
+  }
+}

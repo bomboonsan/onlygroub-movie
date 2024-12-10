@@ -1,0 +1,319 @@
+{
+  "title": {
+    "id": "tt2024544",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "12 Years a Slave",
+    "original_title": null,
+    "start_year": 2013,
+    "end_year": null,
+    "runtime_minutes": 134,
+    "plot": "In the antebellum United States, Solomon Northup, a free Black man from upstate New York, is abducted and sold into slavery.",
+    "rating": {
+      "aggregate_rating": 8.1,
+      "votes_count": 741933
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_.jpg",
+        "width": 509,
+        "height": 755
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 96,
+      "review_count": 57
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm2588606",
+          "display_name": "Steve McQueen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQzNjQ5NDUxNl5BMl5BanBnXkFtZTcwNjA0MTg1Ng@@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0725983",
+          "display_name": "John Ridley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYxMjk5NTQ4M15BMl5BanBnXkFtZTgwNDI1ODI5MDE@._V1_.jpg",
+              "width": 1367,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1185849",
+          "display_name": "Solomon Northup",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0252230",
+          "display_name": "Chiwetel Ejiofor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzA5MDEyMTY3Nl5BMl5BanBnXkFtZTgwODQ0MjcxMDE@._V1_.jpg",
+              "width": 1467,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Solomon Northup"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4833412",
+          "display_name": "Dwight Henry",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA2NjI4NTk4OF5BMl5BanBnXkFtZTcwOTc1NDM4Nw@@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Uncle Abram"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6003176",
+          "display_name": "Dickie Gravois",
+          "avatars": null
+        },
+        "characters": [
+          "Overseer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0061262",
+          "display_name": "Bryan Batt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMwMzU2NDk4NF5BMl5BanBnXkFtZTYwNjkxNTEy._V1_.jpg",
+              "width": 300,
+              "height": 200
+            }
+          ]
+        },
+        "characters": [
+          "Judge Turner"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1788122",
+          "display_name": "Ashley Dyke",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTExMWZkNDAtMzc3Ni00ZWZkLWI2MzQtNzk0MWEzNjlmZDNlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 749,
+              "height": 1146
+            }
+          ]
+        },
+        "characters": [
+          "Anna"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0779427",
+          "display_name": "Kelsey Scott",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ4ZTk0MzEtZTNlMS00ZjE5LWI5YTQtMzU4M2UyYjg2YjE4XkEyXkFqcGdeQXVyMTAxNjgzNA@@._V1_.jpg",
+              "width": 940,
+              "height": 889
+            }
+          ]
+        },
+        "characters": [
+          "Anne Northup"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4832920",
+          "display_name": "Quvenzhané Wallis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU1ZDQwNDctMDA5OC00ODdmLWJjNWYtNTcxNTFlOWFlYzQ2XkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_.jpg",
+              "width": 1624,
+              "height": 2436
+            }
+          ]
+        },
+        "characters": [
+          "Margaret Northup"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5244012",
+          "display_name": "Cameron Zeigler",
+          "avatars": null
+        },
+        "characters": [
+          "Alonzo Northup"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1591232",
+          "display_name": "Tony Bentley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMwMzYzMDI2OF5BMl5BanBnXkFtZTYwNjM3Mzgy._V1_.jpg",
+              "width": 300,
+              "height": 461
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Moon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1058940",
+          "display_name": "Scoot McNairy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzUxYjM1ZjEtYTcwNy00MDkyLWJjZGItMjFmNjZjM2ViMDMwXkEyXkFqcGdeQXVyMjMxOTI4MTk@._V1_.jpg",
+              "width": 871,
+              "height": 641
+            }
+          ]
+        },
+        "characters": [
+          "Brown"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0453115",
+          "display_name": "Taran Killam",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWM5YTFhNzEtMGIyYy00ZTZiLThmYTctNWYyZDQ0MzRlNjVhXkEyXkFqcGdeQXVyMTU5MjkwMw@@._V1_.jpg",
+              "width": 3413,
+              "height": 4818
+            }
+          ]
+        },
+        "characters": [
+          "Hamilton"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0077512",
+          "display_name": "Christopher Berry",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmZkNGRjYmItMzUwZi00ODA4LWFkNjctOGIxM2NmYjEzOTdmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 695,
+              "height": 927
+            }
+          ]
+        },
+        "characters": [
+          "Burch"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0131966",
+          "display_name": "Bill Camp",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU0MTI1NTMxN15BMl5BanBnXkFtZTgwNTkxMjI2NDM@._V1_.jpg",
+              "width": 1685,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Radburn"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6003177",
+          "display_name": "Mister Mackey Jr.",
+          "avatars": null
+        },
+        "characters": [
+          "Randall"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1663252",
+          "display_name": "Chris Chalk",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTc1ZmNlZmMtZmYxZC00NDQ5LTgwNTEtNjgzNjUyNmVjM2M4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2048,
+              "height": 2560
+            }
+          ]
+        },
+        "characters": [
+          "Clemens"
+        ]
+      }
+    ]
+  }
+}

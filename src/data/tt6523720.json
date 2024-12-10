@@ -1,0 +1,291 @@
+{
+  "title": {
+    "id": "tt6523720",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Quake",
+    "original_title": "Skjelvet",
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 106,
+    "plot": "In 1904 an earthquake of magnitude 5.4 on the Richter scale shook Oslo, with an epicenter in the \"Oslo Graben\" which runs under the Norwegian capital. There are now signs that indicate that we can expect a major future earthquake in Oslo.",
+    "rating": {
+      "aggregate_rating": 6.2,
+      "votes_count": 14726
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjYzYWRlZmEtNTQzZC00ZmE2LThjNzAtMDY3ZmNmYmJiMjBlXkEyXkFqcGdeQXVyODAzODU1NDQ@._V1_.jpg",
+        "width": 2764,
+        "height": 4096
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "nor",
+        "name": "Norwegian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "NO",
+        "name": "Norway"
+      }
+    ],
+    "critic_review": {
+      "score": 70,
+      "review_count": 11
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0026174",
+          "display_name": "John Andreas Andersen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjRiMGQzMGItMmZlOC00NjI3LTg2NGMtZWYzNjIyODk2ZmFhXkEyXkFqcGdeQXVyMjEzNTU4OQ@@._V1_.jpg",
+              "width": 1885,
+              "height": 1242
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm5006328",
+          "display_name": "John Kåre Raake",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0995943",
+          "display_name": "Harald Rosenløw-Eeg",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0427379",
+          "display_name": "Kristoffer Joner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODI0NGY0MWUtMzE1OC00NDQzLTk5M2UtZjViODhjZjIwMThmXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+              "width": 479,
+              "height": 709
+            }
+          ]
+        },
+        "characters": [
+          "Kristian Eikjord"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1335996",
+          "display_name": "Ane Dahl Torp",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODEwOTg4ZjgtNzY0Ny00ZWZkLWI5OWItZDI2OGU4ZTFiNGZlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+              "width": 916,
+              "height": 1280
+            }
+          ]
+        },
+        "characters": [
+          "Idun Karlsen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6497646",
+          "display_name": "Edith Haagenrud-Sande",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA2YWNjYzMtYjIwNS00MDM1LWJhMjAtZWVjNDk0NGZjNzNjXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 811,
+              "height": 1222
+            }
+          ]
+        },
+        "characters": [
+          "Julia Eikjord"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7021118",
+          "display_name": "Kathrine Thorborg Johansen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDU0NTI5NTgtNzRiNC00ZDEyLTg2MjgtYTNjMzgzMmI3NTM5XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 2549,
+              "height": 1050
+            }
+          ]
+        },
+        "characters": [
+          "Marit Lindblom"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3026834",
+          "display_name": "Jonas Hoff Oftebro",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWM1OTg4NmMtZWJmNS00MjUyLThhYWMtZjE3N2Y1YjMzMmY3XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 1000,
+              "height": 1253
+            }
+          ]
+        },
+        "characters": [
+          "Sondre Eikjord"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0024492",
+          "display_name": "Stig R. Amdam",
+          "avatars": null
+        },
+        "characters": [
+          "Johannes Løberg"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10556867",
+          "display_name": "Catrin Sagen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzIwODViMmYtNGUwMi00ZjQ3LWIwMTktZjQ4NmMzYjk3OGM4XkEyXkFqcGc@._V1_.jpg",
+              "width": 1842,
+              "height": 1907
+            }
+          ]
+        },
+        "characters": [
+          "Vilde"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0295836",
+          "display_name": "Per Frisch",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGE1ZTQwOTYtZmNjNC00M2RhLTg3ZWYtMjk0MWRmNGUxMzM2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+              "width": 5632,
+              "height": 2362
+            }
+          ]
+        },
+        "characters": [
+          "Konrad Lindblom"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10556868",
+          "display_name": "Hanna Skogstad",
+          "avatars": null
+        },
+        "characters": [
+          "Mia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8925246",
+          "display_name": "Runar Døving",
+          "avatars": null
+        },
+        "characters": [
+          "Professor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10556869",
+          "display_name": "Agnes Bryhn Røysamb",
+          "avatars": null
+        },
+        "characters": [
+          "Agnes"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10556870",
+          "display_name": "David Kosek",
+          "avatars": null
+        },
+        "characters": [
+          "Kokken Vidar"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0803932",
+          "display_name": "Fredrik Skavlan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjQ3OTE5NzAtZDk0OC00YTRkLTkxM2ItZTYzNDMyNGQ5MzU5XkEyXkFqcGc@._V1_.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          ]
+        },
+        "characters": [
+          "Skavlan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6138240",
+          "display_name": "Ravdeep Singh Bajwa",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzM2N2M3OTYtMDA5OS00MDhjLTlhNDgtNmNjYWY3NjYyMTcwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2000,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Resepsjonist"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3460951",
+          "display_name": "Ingvild Haugstad",
+          "avatars": null
+        },
+        "characters": [
+          "Ingrid"
+        ]
+      }
+    ]
+  }
+}

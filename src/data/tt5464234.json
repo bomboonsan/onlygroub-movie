@@ -1,0 +1,263 @@
+{
+  "title": {
+    "id": "tt5464234",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Kill Switch",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 91,
+    "plot": "A pilot battles to save his family and the planet after an experiment for unlimited energy goes wrong.",
+    "rating": {
+      "aggregate_rating": 4.7,
+      "votes_count": 8563
+    },
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWU1YzgwN2QtZDg5MS00Njk4LWFhYWEtMTVmOTg1MTdkYmUwXkEyXkFqcGdeQXVyNjk2NzU0Mjk@._V1_.jpg",
+        "width": 1037,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "DE",
+        "name": "Germany"
+      },
+      {
+        "code": "NL",
+        "name": "Netherlands"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 31,
+      "review_count": 8
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm4914022",
+          "display_name": "Tim Smit",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDgzNjg4NDUwN15BMl5BanBnXkFtZTgwOTcwNDA2MjI@._V1_.jpg",
+              "width": 1472,
+              "height": 983
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm3224747",
+          "display_name": "Charles Kindinger",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0634811",
+          "display_name": "Omid Nooshin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMxMTU2MDY2NF5BMl5BanBnXkFtZTgwMzM3NzA1MTE@._V1_.jpg",
+              "width": 3888,
+              "height": 2592
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1405398",
+          "display_name": "Dan Stevens",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY0NTY5OTI2MF5BMl5BanBnXkFtZTgwNDkzMzIxMzE@._V1_.jpg",
+              "width": 428,
+              "height": 594
+            }
+          ]
+        },
+        "characters": [
+          "Will Porter"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2966102",
+          "display_name": "Bérénice Marlohe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzg1NzQyODI2MV5BMl5BanBnXkFtZTcwODE3MzQ4OQ@@._V1_.jpg",
+              "width": 707,
+              "height": 880
+            }
+          ]
+        },
+        "characters": [
+          "Abigail Vos"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0720642",
+          "display_name": "Mike Reus",
+          "avatars": null
+        },
+        "characters": [
+          "Dr. Klintsen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1561589",
+          "display_name": "Bas Keijzer",
+          "avatars": null
+        },
+        "characters": [
+          "Bektman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0314611",
+          "display_name": "Tygo Gernandt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE2MTAwMjkxM15BMl5BanBnXkFtZTgwNTM4NzU1NTE@._V1_.jpg",
+              "width": 455,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Michael"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0774634",
+          "display_name": "Gijs Scholten van Aschat",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWFkODk2YzQtMmRhMi00N2M1LWFmNTQtYTE4ZjkwNjIyZmZkXkEyXkFqcGc@._V1_.jpg",
+              "width": 4368,
+              "height": 2912
+            }
+          ]
+        },
+        "characters": [
+          "Reynard"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1564421",
+          "display_name": "Charity Wakefield",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGZmNzYyYmYtMDYzZi00NWI1LTg0NTQtZTU1ZDMzMjI0Y2ExXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "width": 3333,
+              "height": 5000
+            }
+          ]
+        },
+        "characters": [
+          "Mia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5532848",
+          "display_name": "Kasper van Groesen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY2OTc0Mzk1MV5BMl5BanBnXkFtZTgwMzM1ODkxMjI@._V1_.jpg",
+              "width": 1200,
+              "height": 675
+            }
+          ]
+        },
+        "characters": [
+          "Donny"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0508721",
+          "display_name": "Mike Libanon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY5NDY3ODM1M15BMl5BanBnXkFtZTgwMzI1ODkxMjI@._V1_.jpg",
+              "width": 1200,
+              "height": 675
+            }
+          ]
+        },
+        "characters": [
+          "Hugo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4232944",
+          "display_name": "Don Alphonso",
+          "avatars": null
+        },
+        "characters": [
+          "Rebel Soldier"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3739985",
+          "display_name": "Chloe May",
+          "avatars": null
+        },
+        "characters": [
+          "Alterplex Narrator"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2151423",
+          "display_name": "Bastiaan Rook",
+          "avatars": null
+        },
+        "characters": [
+          "Soldier"
+        ]
+      }
+    ]
+  }
+}

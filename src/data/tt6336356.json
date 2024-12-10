@@ -1,0 +1,329 @@
+{
+  "title": {
+    "id": "tt6336356",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Mary and the Witch's Flower",
+    "original_title": "Meari to majo no hana",
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 103,
+    "plot": "Based on \"The Little Broomstick\" by Mary Stewart, a strange flower grants a girl magic powers.",
+    "rating": {
+      "aggregate_rating": 6.8,
+      "votes_count": 16312
+    },
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzk3NWViZjctMGVhNy00OWJjLTkxYWQtNmZmMzI2ZDRlNTUyXkEyXkFqcGc@._V1_.jpg",
+        "width": 1016,
+        "height": 1485
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "jpn",
+        "name": "Japanese"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "JP",
+        "name": "Japan"
+      }
+    ],
+    "critic_review": {
+      "score": 74,
+      "review_count": 26
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0948488",
+          "display_name": "Hiromasa Yonebayashi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWJlMWUzMTAtOGE5NC00OTQ1LTlhZTItYjQyMmJhZjc3NjY2XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+              "width": 593,
+              "height": 397
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0829650",
+          "display_name": "Mary Stewart",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm4940865",
+          "display_name": "Riko Sakaguchi",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0948488",
+          "display_name": "Hiromasa Yonebayashi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWJlMWUzMTAtOGE5NC00OTQ1LTlhZTItYjQyMmJhZjc3NjY2XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+              "width": 593,
+              "height": 397
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm4954157",
+          "display_name": "Hana Sugisaki",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjg0MjQ5MTQwNV5BMl5BanBnXkFtZTgwMjI2MDYzMjI@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        },
+        "characters": [
+          "Mary"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1126340",
+          "display_name": "Ryunosuke Kamiki",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzlkYzdjYWEtOTkyNC00NDNhLWIyNTItZmFjNWQxZDZmNzFlXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+              "width": 1200,
+              "height": 800
+            }
+          ]
+        },
+        "characters": [
+          "Peter"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0023858",
+          "display_name": "Yûki Amami",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWVhNmIyYTItMGE2YS00Nzc5LTllYTAtZWY5OWZjNmRmZDUwXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+              "width": 720,
+              "height": 480
+            }
+          ]
+        },
+        "characters": [
+          "Madam Mumblechook"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0463201",
+          "display_name": "Fumiyo Kohinata",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmFkMzhlMTQtOTNkZC00MjcxLTg5ODktNDJhNGYyYmQ1NTMwXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 280,
+              "height": 420
+            }
+          ]
+        },
+        "characters": [
+          "Doctor Dee"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2098603",
+          "display_name": "Hikari Mitsushima",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk0ODU1NTA2OF5BMl5BanBnXkFtZTgwMzE3NTc5OTE@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "The Red-Haired Witch"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1187057",
+          "display_name": "Jirô Satô",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2U3NWEwZTQtZTcxYi00NjMxLWIwNTItM2I3OGYzYzhmYzFmXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+              "width": 1200,
+              "height": 800
+            }
+          ]
+        },
+        "characters": [
+          "Flanagan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0256861",
+          "display_name": "Ken'ichi Endô",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDJiNGY5N2MtZWNhYS00ODU1LWEwNzItMTNhNDMwODQ1ZDhjXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_.jpg",
+              "width": 1200,
+              "height": 900
+            }
+          ]
+        },
+        "characters": [
+          "Zebedee"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0913794",
+          "display_name": "Eri Watanabe",
+          "avatars": null
+        },
+        "characters": [
+          "Miss Banks"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0652718",
+          "display_name": "Shinobu Ôtake",
+          "avatars": null
+        },
+        "characters": [
+          "Great-Aunt Charlotte"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0649026",
+          "display_name": "Ikue Ôtani",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjJiNjBmZGMtNGUwNy00NmRhLWI4YjUtYmZhNGI0ZDc2ZmNhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTEzNjA2NzM@._V1_.jpg",
+              "width": 1059,
+              "height": 1455
+            }
+          ]
+        },
+        "characters": [
+          "Tib"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5240345",
+          "display_name": "Lynn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWU4OGQ5NGItODNjYS00ZDViLTlmMDktYjdkMDdhNjY3MGU3XkEyXkFqcGdeQXVyNzQzNDM3NTI@._V1_.jpg",
+              "width": 900,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Gib"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6982717",
+          "display_name": "Ruby Barnhill",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgzNDQ0NTQ3NV5BMl5BanBnXkFtZTgwNzk0NjI3MzE@._V1_.jpg",
+              "width": 1869,
+              "height": 1629
+            }
+          ]
+        },
+        "characters": [
+          "Mary"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000701",
+          "display_name": "Kate Winslet",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODgzMzM2NTE0Ml5BMl5BanBnXkFtZTcwMTcyMTkyOQ@@._V1_.jpg",
+              "width": 1334,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Madam Mumblechook"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000980",
+          "display_name": "Jim Broadbent",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTY4ODgzMTg3MV5BMl5BanBnXkFtZTYwMDE4NTc0._V1_.jpg",
+              "width": 261,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Doctor Dee"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001971",
+          "display_name": "Ewen Bremner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTVjNzNhNzItNjc1ZC00YTJjLWI2MjctMDc4MmMxOGZkZGUxXkEyXkFqcGdeQXVyMTg0NTYyNjU@._V1_.jpg",
+              "width": 3163,
+              "height": 3374
+            }
+          ]
+        },
+        "characters": [
+          "Flanagan"
+        ]
+      }
+    ]
+  }
+}

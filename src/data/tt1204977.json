@@ -1,0 +1,315 @@
+{
+  "title": {
+    "id": "tt1204977",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Ouija",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 89,
+    "plot": "A group of friends must confront their most terrifying fears when they awaken the dark powers of an ancient spirit board.",
+    "rating": {
+      "aggregate_rating": 4.5,
+      "votes_count": 56996
+    },
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGU3ZjE0MzctNzAwMy00MDBlLWJmY2YtOTA1YTBiZWRlMzk3XkEyXkFqcGc@._V1_.jpg",
+        "width": 1067,
+        "height": 1600
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 38,
+      "review_count": 22
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0925482",
+          "display_name": "Stiles White",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1340000",
+          "display_name": "Juliet Snowden",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTAxMWFlMGItOWQ1Zi00ODE4LTkxYTAtMWQ3ZjU2ZmJkZWY1XkEyXkFqcGc@._V1_.jpg",
+              "width": 2341,
+              "height": 3455
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0925482",
+          "display_name": "Stiles White",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm4972453",
+          "display_name": "Olivia Cooke",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTVkNzI2ZDEtZGEzNy00ZGI0LTkxNDktYTFjZWUyODgyODQ1XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_.jpg",
+              "width": 2745,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Laine Morris"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4519628",
+          "display_name": "Ana Coto",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmM2MjFhNWItY2ZmNC00OTFiLThmMDUtYmJkMjI5NWRkMmU2XkEyXkFqcGdeQXVyMjYwMjgzMjE@._V1_.jpg",
+              "width": 1084,
+              "height": 1330
+            }
+          ]
+        },
+        "characters": [
+          "Sarah Morris"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2973326",
+          "display_name": "Daren Kagasoff",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmMzMTNiNDMtNmExYi00ZGFhLTgzNTUtOGIzM2JlMjExMjMxXkEyXkFqcGdeQXVyMTg4MzIwODU@._V1_.jpg",
+              "width": 1242,
+              "height": 1010
+            }
+          ]
+        },
+        "characters": [
+          "Trevor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5291376",
+          "display_name": "Bianca A. Santos",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmJlMWVmNDQtYzBhYy00ZTU2LThkY2QtOTEzZjJlZTE0NzczXkEyXkFqcGdeQXVyNDI0NjIwMjk@._V1_.jpg",
+              "width": 1633,
+              "height": 2433
+            }
+          ]
+        },
+        "characters": [
+          "Isabelle"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0808022",
+          "display_name": "Douglas Smith",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2JjNzYzMTYtNWJhOS00ZGZjLTk0NzUtMTg4NjJiMWRhM2YzXkEyXkFqcGdeQXVyMjc0NDg2MzI@._V1_.jpg",
+              "width": 4480,
+              "height": 6720
+            }
+          ]
+        },
+        "characters": [
+          "Pete"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2645189",
+          "display_name": "Shelley Hennig",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYxMTkyNDg4N15BMl5BanBnXkFtZTgwNTYzMzg0MDI@._V1_.jpg",
+              "width": 1932,
+              "height": 2500
+            }
+          ]
+        },
+        "characters": [
+          "Debbie Galardi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6249150",
+          "display_name": "Sierra Hawkins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDM1NDcwZGMtYjAxMC00YTEwLTg1ZWYtOTMzZWQyY2UwMDA5XkEyXkFqcGdeQXVyNTgwNzYzODQ@._V1_.jpg",
+              "width": 3559,
+              "height": 5338
+            }
+          ]
+        },
+        "characters": [
+          "Doris Zander"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5789436",
+          "display_name": "Sunny May Allison",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDE2NmNmMGYtOGFkOS00YmMwLTkwMWQtMWRhZTdmZDdmMjI3XkEyXkFqcGc@._V1_CR220,155,403,604_.jpg",
+              "width": 403,
+              "height": 604
+            }
+          ]
+        },
+        "characters": [
+          "Doris (10 years old)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005417",
+          "display_name": "Lin Shaye",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk2NDM2MDk4N15BMl5BanBnXkFtZTgwMzYwMTE5NTE@._V1_.jpg",
+              "width": 2048,
+              "height": 1579
+            }
+          ]
+        },
+        "characters": [
+          "Paulina Zander"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1034386",
+          "display_name": "Claudia Katz Minnick",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzkxNDYwNDI4OV5BMl5BanBnXkFtZTYwMjU4OTgy._V1_.jpg",
+              "width": 434,
+              "height": 665
+            }
+          ]
+        },
+        "characters": [
+          "Mother"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0173011",
+          "display_name": "Vivis Colombetti",
+          "avatars": null
+        },
+        "characters": [
+          "Nona"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001477",
+          "display_name": "Robyn Lively",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTllNjYzYTktMjY0Ny00NjcyLThjMjUtNjE4MzlhZmZlMmJkXkEyXkFqcGdeQXVyMTE2NzIxMjcx._V1_.jpg",
+              "width": 450,
+              "height": 450
+            }
+          ]
+        },
+        "characters": [
+          "Mrs. Galardi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0786136",
+          "display_name": "Matthew Settle",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQxNjA1MjI2OV5BMl5BanBnXkFtZTcwNDEzODgyMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 658
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Morris"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4992906",
+          "display_name": "Afra Sophia Tully",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTAyNTgyNjEtYzJiNy00Y2JmLTk1NzQtZDY2MWEwNjYxODFlXkEyXkFqcGc@._V1_.jpg",
+              "width": 1200,
+              "height": 1800
+            }
+          ]
+        },
+        "characters": [
+          "Young Laine"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5707194",
+          "display_name": "Claire Beale",
+          "avatars": null
+        },
+        "characters": [
+          "Young Debbie"
+        ]
+      }
+    ]
+  }
+}

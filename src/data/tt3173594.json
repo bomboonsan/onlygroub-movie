@@ -1,0 +1,330 @@
+{
+  "title": {
+    "id": "tt3173594",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Hacker",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 95,
+    "plot": "With the help of his new friends Alex Danyliuk turns to a life of crime and identity theft.",
+    "rating": {
+      "aggregate_rating": 6.1,
+      "votes_count": 11319
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjk3ZWQ4ZmMtNzM1OS00NDQxLWJmZjctNzFlODAyODRkMjcyXkEyXkFqcGdeQXVyMjEwODIzODA@._V1_.jpg",
+        "width": 2000,
+        "height": 2672
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "HK",
+        "name": "Hong Kong (Special Administrative Region of China)"
+      },
+      {
+        "code": "KZ",
+        "name": "Kazakhstan"
+      },
+      {
+        "code": "TH",
+        "name": "Thailand"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm0766112",
+          "display_name": "Akan Satayev",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm6805758",
+          "display_name": "Atakhan",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0766112",
+          "display_name": "Akan Satayev",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm3343487",
+          "display_name": "Sanzhar Sultan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWU5ZjJlNDAtYWJiOS00NDA4LTg5NmItOGE2NTRkZDdkOTMzXkEyXkFqcGc@._V1_.jpg",
+              "width": 787,
+              "height": 919
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm3875183",
+          "display_name": "Timur Zhaksylykov",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm2786608",
+          "display_name": "Callan McAuliffe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmFiNTk1MmItNDVlYS00OGZjLWJiMDYtMTc5MDRkY2VmZTM1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 4480,
+              "height": 6720
+            }
+          ]
+        },
+        "characters": [
+          "Alex"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1574234",
+          "display_name": "Lorraine Nicholson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQwMTExOTU0MF5BMl5BanBnXkFtZTgwOTc3OTIzMjE@._V1_.jpg",
+              "width": 1228,
+              "height": 1818
+            }
+          ]
+        },
+        "characters": [
+          "Kira"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1896045",
+          "display_name": "Daniel Eric Gold",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDgzMDYwNjQwMF5BMl5BanBnXkFtZTcwMTI2OTMwMw@@._V1_.jpg",
+              "width": 425,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Sye"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0004286",
+          "display_name": "Clifton Collins Jr.",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM3MDgyMzY2Nl5BMl5BanBnXkFtZTcwMjc2MjMzMQ@@._V1_.jpg",
+              "width": 350,
+              "height": 490
+            }
+          ]
+        },
+        "characters": [
+          "Zed"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0072124",
+          "display_name": "Zachary Bennett",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2ZiOTUzMzMtZDA5ZC00ZmZiLThkMWYtYTMxYzEzZjMwNDZhXkEyXkFqcGdeQXVyMjY4NjI0NTY@._V1_.jpg",
+              "width": 2400,
+              "height": 1600
+            }
+          ]
+        },
+        "characters": [
+          "Curtis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4031498",
+          "display_name": "Vlada Verevko",
+          "avatars": null
+        },
+        "characters": [
+          "Alex's Mother"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1483978",
+          "display_name": "Genadijs Dolganovs",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIzODU4NjczMl5BMl5BanBnXkFtZTgwMzQ5MTU1MjE@._V1_.jpg",
+              "width": 500,
+              "height": 374
+            }
+          ]
+        },
+        "characters": [
+          "Alex's Father"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6182711",
+          "display_name": "Aidan Besu",
+          "avatars": null
+        },
+        "characters": [
+          "6-year-old Alex"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5036630",
+          "display_name": "Rian Michelsen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjZiYmE0YmUtZGVjZi00OTFiLTgxNTktMDYzMDJlYjIzOGQwXkEyXkFqcGc@._V1_.jpg",
+              "width": 1600,
+              "height": 1600
+            }
+          ]
+        },
+        "characters": [
+          "13-year-old Alex"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0874112",
+          "display_name": "Kristian Truelsen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjM3OTA1OTczNV5BMl5BanBnXkFtZTgwNTM2ODY3NjE@._V1_.jpg",
+              "width": 1694,
+              "height": 1800
+            }
+          ]
+        },
+        "characters": [
+          "Federal Reserve Chairman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5108650",
+          "display_name": "Greg Hovanessian",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmI0MDJmZmYtZjk3ZC00MGZhLThhYTQtM2YzOTIyYzU1YTVkXkEyXkFqcGdeQXVyMzYwNDA0MTE@._V1_.jpg",
+              "width": 2400,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Randy Bickle"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1728825",
+          "display_name": "Allyson Pratt",
+          "avatars": null
+        },
+        "characters": [
+          "Robin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1682303",
+          "display_name": "James Cade",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA1MDA0OTAxOF5BMl5BanBnXkFtZTgwMTQ2Nzc5MDE@._V1_.jpg",
+              "width": 576,
+              "height": 720
+            }
+          ]
+        },
+        "characters": [
+          "Chris"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2047813",
+          "display_name": "Darryl Flatman",
+          "avatars": null
+        },
+        "characters": [
+          "Tommy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0859394",
+          "display_name": "Randy Thomas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjQyMWU4ZmQtMmQ1YS00NTdmLWIyZTctNmU3M2Q4N2YwMmE4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1020,
+              "height": 1056
+            }
+          ]
+        },
+        "characters": [
+          "Randy The Car Dealer"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "title": {
+    "id": "tt2293640",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Minions",
+    "original_title": null,
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 91,
+    "plot": "Minions Stuart, Kevin, and Bob are recruited by Scarlet Overkill, a supervillain who, alongside her inventor husband Herb, hatches a plot to take over the world.",
+    "rating": {
+      "aggregate_rating": 6.4,
+      "votes_count": 260073
+    },
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Crime",
+      "Family",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BODI4NzMyNjE0MF5BMl5BanBnXkFtZTgwMTcwNzI0MzE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "ita",
+        "name": "Italian"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 56,
+      "review_count": 35
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0049633",
+          "display_name": "Kyle Balda",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWYwNWIwYWMtOGU2OC00OTY3LWI5OGEtZDE1YmNlMTA0YWI0XkEyXkFqcGdeQXVyMTQ1NzI0OTU@._V1_.jpg",
+              "width": 930,
+              "height": 1244
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1853544",
+          "display_name": "Pierre Coffin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUzOTQ3OTA3OF5BMl5BanBnXkFtZTcwNzEzNTMyOA@@._V1_.jpg",
+              "width": 909,
+              "height": 1312
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0528244",
+          "display_name": "Brian Lynch",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000113",
+          "display_name": "Sandra Bullock",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI5NDY5NjU3NF5BMl5BanBnXkFtZTcwMzQ0MTMyMw@@._V1_.jpg",
+              "width": 409,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Scarlet Overkill"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0358316",
+          "display_name": "Jon Hamm",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzg0MzA4MTY5M15BMl5BanBnXkFtZTcwODg2MTIwOQ@@._V1_.jpg",
+              "width": 1411,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Herb Overkill"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000474",
+          "display_name": "Michael Keaton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmNiZmMzN2MtOTNkMy00YjA1LTg4NzktMWI4Njg1NzI3ODAyXkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_.jpg",
+              "width": 1860,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Walter Nelson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005049",
+          "display_name": "Allison Janney",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAyNjc2NzgxM15BMl5BanBnXkFtZTgwODQyMjM1MjE@._V1_.jpg",
+              "width": 1496,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Madge Nelson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0176869",
+          "display_name": "Steve Coogan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTIzMTU2NjcwOF5BMl5BanBnXkFtZTcwNjczMzU4MQ@@._V1_.jpg",
+              "width": 259,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Professor Flux"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0766837",
+          "display_name": "Jennifer Saunders",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU2MzkxNTc1NV5BMl5BanBnXkFtZTcwMDM5NjY4Nw@@._V1_.jpg",
+              "width": 1404,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "The Queen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001691",
+          "display_name": "Geoffrey Rush",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg2MjkxNDU0NV5BMl5BanBnXkFtZTcwOTk3MDQ0NA@@._V1_.jpg",
+              "width": 1358,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Narrator"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0136797",
+          "display_name": "Steve Carell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMyOTM2OTk1Ml5BMl5BanBnXkFtZTgwMTI3MzkyNjM@._V1_.jpg",
+              "width": 1371,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Young Gru"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1853544",
+          "display_name": "Pierre Coffin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUzOTQ3OTA3OF5BMl5BanBnXkFtZTcwNzEzNTMyOA@@._V1_.jpg",
+              "width": 909,
+              "height": 1312
+            }
+          ]
+        },
+        "characters": [
+          "The Minions"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1737500",
+          "display_name": "Katy Mixon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY5ODA2Mjg5M15BMl5BanBnXkFtZTcwMDA4MTUwMg@@._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Tina"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0064170",
+          "display_name": "Michael Beattie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2UyZGRlNWQtZGExMi00OWM0LThiNDAtNjI3N2YxZmNhOTY4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1852,
+              "height": 2315
+            }
+          ]
+        },
+        "characters": [
+          "VNC Announcer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0760796",
+          "display_name": "Hiroyuki Sanada",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE2MzY0NTM1Ml5BMl5BanBnXkFtZTcwNzQzNzMyMw@@._V1_.jpg",
+              "width": 960,
+              "height": 995
+            }
+          ]
+        },
+        "characters": [
+          "Sumo Villain"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0742125",
+          "display_name": "Dave Rosenbaum",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE1MTI4NTAwNF5BMl5BanBnXkFtZTcwNTc0MDEzMQ@@._V1_.jpg",
+              "width": 428,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Fabrice"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3125329",
+          "display_name": "Alex Dowding",
+          "avatars": null
+        },
+        "characters": [
+          "Royal Advisor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1442933",
+          "display_name": "Paul Thornley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzRkYjVmYmQtMzJkZC00ZDkwLTkyODQtNDU5NWUyOWMzODY0XkEyXkFqcGdeQXVyNjg4MTgzNDY@._V1_.jpg",
+              "width": 3840,
+              "height": 5760
+            }
+          ]
+        },
+        "characters": [
+          "News Reporter"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "title": {
+    "id": "tt1267297",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Hercules",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 98,
+    "plot": "Having endured his legendary twelve labors, Hercules, the Greek demigod, has his life as a sword-for-hire tested when the King of Thrace and his daughter seek his aid in defeating a tyrannical warlord.",
+    "rating": {
+      "aggregate_rating": 6,
+      "votes_count": 163466
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQ4ODA5MTA4OF5BMl5BanBnXkFtZTgwNjMyODM5MTE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "HU",
+        "name": "Hungary"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 47,
+      "review_count": 25
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0711840",
+          "display_name": "Brett Ratner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMyNDQ1MTQ0NV5BMl5BanBnXkFtZTcwNDg2Njg4Mw@@._V1_.jpg",
+              "width": 313,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2952284",
+          "display_name": "Ryan J. Condal",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjMzNzZiYTItZDhjYS00MjU5LTgyNDktZDMxOWQyMGZiOTg1XkEyXkFqcGdeQXVyMjM4ODUzOTY@._V1_.jpg",
+              "width": 4160,
+              "height": 6240
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0818746",
+          "display_name": "Evan Spiliotopoulos",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjJmZjc1OTgtMDE4Mi00OTM2LWI3MDItMGY4MTNmMWIwODcxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 708,
+              "height": 1087
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm5610426",
+          "display_name": "Steve Moore",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0425005",
+          "display_name": "Dwayne Johnson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWU1ODBiNGUtMzVjNi00MzdhLTk0OTktOWRiOTIxMWNhOGI2XkEyXkFqcGdeQXVyMTU2OTM5NDQw._V1_.jpg",
+              "width": 5464,
+              "height": 8192
+            }
+          ]
+        },
+        "characters": [
+          "Hercules"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0574534",
+          "display_name": "Ian McShane",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjg5NDg3OTQtYzMyYS00YjhhLTk2NmEtZTExNGViYTczZTU2XkEyXkFqcGdeQXVyMTU1MTU2MDI@._V1_.jpg",
+              "width": 3580,
+              "height": 4774
+            }
+          ]
+        },
+        "characters": [
+          "Amphiaraus"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000457",
+          "display_name": "John Hurt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM1NTgyMTAyOV5BMl5BanBnXkFtZTcwMTE4MjQwNA@@._V1_.jpg",
+              "width": 284,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Lord Cotys"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001722",
+          "display_name": "Rufus Sewell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjY1OTk4MDgtNmU1Mi00ODBjLTk3YjktNTI1ZGExYTE3MGY4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 400,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Autolycus"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0377336",
+          "display_name": "Aksel Hennie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzExMjcxMjItZDVkYy00MzUxLTlkOGEtYjMzNmJhOGFhYmM1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2000,
+              "height": 2800
+            }
+          ]
+        },
+        "characters": [
+          "Tydeus"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2070336",
+          "display_name": "Ingrid Bolsø Berdal",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjI3MjlkOTQtZjFhZC00M2NlLThkMjYtODJmYWIxMjJlOGU2XkEyXkFqcGdeQXVyMTI4ODY1NDc@._V1_.jpg",
+              "width": 400,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Atalanta"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2201022",
+          "display_name": "Reece Ritchie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGEzNzg1NTgtYzkxOS00Nzg2LWJlYjctYWEyNzQ5MmRmOGQxXkEyXkFqcGdeQXVyNjEyNjc5NjI@._V1_.jpg",
+              "width": 1334,
+              "height": 2000
+            }
+          ]
+        },
+        "characters": [
+          "Iolaus"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001212",
+          "display_name": "Joseph Fiennes",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTJmZjdkNDQtMWUzOS00YjFiLWI5YTUtZWFhOGRhODU3MDQzXkEyXkFqcGdeQXVyMTI2Nzk2ODk3._V1_.jpg",
+              "width": 1146,
+              "height": 1080
+            }
+          ]
+        },
+        "characters": [
+          "King Eurystheus"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4083737",
+          "display_name": "Tobias Santelmann",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzk2ZWU5NTctODFjYi00NTU4LTliNjMtNWEyOWM4Mzc3YWUyXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
+              "width": 5602,
+              "height": 3863
+            }
+          ]
+        },
+        "characters": [
+          "Rhesus"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0611932",
+          "display_name": "Peter Mullan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA2NDUxMjIzNzVeQTJeQWpwZ15BbWU2MDU0MTk3NA@@._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Sitacles"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0272581",
+          "display_name": "Rebecca Ferguson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODYwMzk0MTk5MV5BMl5BanBnXkFtZTgwNzMwNjM0NTE@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Ergenia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5036576",
+          "display_name": "Isaac Andrews",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzU4NWIxY2MtOTk4MC00OGIxLTlkY2UtZjBlZjUyODZiMmQ5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_.jpg",
+              "width": 729,
+              "height": 409
+            }
+          ]
+        },
+        "characters": [
+          "Arius"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1725848",
+          "display_name": "Joe Anderson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjM2NTkyNjUzOV5BMl5BanBnXkFtZTcwNDg5Njk3OQ@@._V1_.jpg",
+              "width": 600,
+              "height": 800
+            }
+          ]
+        },
+        "characters": [
+          "Phineas"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2913856",
+          "display_name": "Stephen Peacocke",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyNDYyNjc4OF5BMl5BanBnXkFtZTgwNjA2ODcxNjE@._V1_.jpg",
+              "width": 960,
+              "height": 1440
+            }
+          ]
+        },
+        "characters": [
+          "Stephanos"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0609049",
+          "display_name": "Nicholas Moss",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjUxMjJmNjQtNmQxNC00ODdlLTlkM2ItZjUzODNlMjljMWJlXkEyXkFqcGdeQXVyMTExMDI5NTAz._V1_.jpg",
+              "width": 330,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Demetrius"
+        ]
+      }
+    ]
+  }
+}

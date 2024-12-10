@@ -1,0 +1,298 @@
+{
+  "title": {
+    "id": "tt8060328",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Invasion",
+    "original_title": "Vtorzhenie",
+    "start_year": 2020,
+    "end_year": null,
+    "runtime_minutes": 134,
+    "plot": "With the fall of the alien ship Julia's life changed, now three years later mankind is about to experience new encounter.",
+    "rating": {
+      "aggregate_rating": 5.6,
+      "votes_count": 6060
+    },
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGFmMTM0ZGItYjlhZi00OGU2LWJjODctY2EyODAyYmQwYmZlXkEyXkFqcGdeQXVyMTA3NTQ1NDEw._V1_.jpg",
+        "width": 2480,
+        "height": 3508
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "Not Rated"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "RU",
+        "name": "Russian Federation"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm0094080",
+          "display_name": "Fedor Bondarchuk",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTZiMGFjMjQtYzEwNS00ZDJlLWI0OGQtYjA1OWI1NTVjYzFiXkEyXkFqcGdeQXVyMTE0NTkyMzI2._V1_.jpg",
+              "width": 3456,
+              "height": 5184
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2672655",
+          "display_name": "Oleg Malovichko",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2454599",
+          "display_name": "Andrey Zolotarev",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm7590244",
+          "display_name": "Irina Starshenbaum",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk4MjU2NzE3NV5BMl5BanBnXkFtZTgwMjkzODUzNzE@._V1_.jpg",
+              "width": 1748,
+              "height": 992
+            }
+          ]
+        },
+        "characters": [
+          "Julia Lebedeva"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4928333",
+          "display_name": "Rinal Mukhametov",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTJmZGNhYTgtZWE2MS00NmJiLWFjODAtZDkyMjQxZmMxYzJlXkEyXkFqcGdeQXVyNjMwOTA1MDM@._V1_.jpg",
+              "width": 761,
+              "height": 1280
+            }
+          ]
+        },
+        "characters": [
+          "Hakon",
+          "Khariton"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5003252",
+          "display_name": "Alexander Petrov",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjg4MjlhNzItOTMyNS00NjYxLTlmYjktNGU1Y2QzZWM2YjM1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 541,
+              "height": 812
+            }
+          ]
+        },
+        "characters": [
+          "Artyom"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5426973",
+          "display_name": "Yura Borisov",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTM5NDUwM2QtMjUxNi00OGI5LTliYmYtMjIxOWFmNDBjZmFkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1537,
+              "height": 2305
+            }
+          ]
+        },
+        "characters": [
+          "Vanya"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0579823",
+          "display_name": "Oleg Menshikov",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTUxNDMzZTMtNGQ5OS00ZmNlLWJkOWMtMTRiMWI0NjEyNWE3XkEyXkFqcGdeQXVyNjMwOTA1MDM@._V1_.jpg",
+              "width": 600,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "General Lebedev"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0307628",
+          "display_name": "Sergey Garmash",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmIzNzYzMzMtZjQ0Yi00MmMxLTlmYjItZTI0ZGExMjRhNDk0XkEyXkFqcGdeQXVyMTMzOTU3MDcz._V1_.jpg",
+              "width": 299,
+              "height": 407
+            }
+          ]
+        },
+        "characters": [
+          "Vice-premier"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5736031",
+          "display_name": "Evgeniy Mikheev",
+          "avatars": null
+        },
+        "characters": [
+          "Google"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1665105",
+          "display_name": "Grigoriy Dantsiger",
+          "avatars": null
+        },
+        "characters": [
+          "Diirector of Research Institute"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1028235",
+          "display_name": "Konstantin Bogomolov",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTMwMzhiZWItYWJkYS00ZGU5LWEzMjEtOGZmN2EyMjc0NWUxXkEyXkFqcGdeQXVyMTMzOTU3MDcz._V1_.jpg",
+              "width": 360,
+              "height": 539
+            }
+          ]
+        },
+        "characters": [
+          "Lecturer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1597722",
+          "display_name": "Viktor Shamirov",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjljZTY0NWUtY2E1Yy00NmY4LWFmNWQtNzZjZmY1NjMyZDIyXkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_.jpg",
+              "width": 700,
+              "height": 467
+            }
+          ]
+        },
+        "characters": [
+          "Professor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11987181",
+          "display_name": "Sergey Brilyov",
+          "avatars": null
+        },
+        "characters": [
+          "Russia 1 Vesti News Presenter"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11987182",
+          "display_name": "Maria Sittel",
+          "avatars": null
+        },
+        "characters": [
+          "Russia 1 Vesti News Presenter"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6749238",
+          "display_name": "Anastasiya Akatova",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjMxNzc0MWMtNmEwZS00NWYxLThkYTctNTJiZWMxYmI0ZDkxXkEyXkFqcGc@._V1_.jpg",
+              "width": 417,
+              "height": 638
+            }
+          ]
+        },
+        "characters": [
+          "Doch voditelya"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10922096",
+          "display_name": "Oleg Badyu",
+          "avatars": null
+        },
+        "characters": [
+          "Rally man"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm15121939",
+          "display_name": "Yuri Khlystov",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjc1ZjQxMjEtNGRlMS00MjAzLWFmOTMtOGNjY2NiODEzZTQ1XkEyXkFqcGdeQXVyMTY4OTE1Mzk5._V1_.jpg",
+              "width": 2048,
+              "height": 3072
+            }
+          ]
+        },
+        "characters": [
+          "IT Department Manager"
+        ]
+      }
+    ]
+  }
+}

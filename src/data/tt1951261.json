@@ -1,0 +1,368 @@
+{
+  "title": {
+    "id": "tt1951261",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Hangover Part III",
+    "original_title": null,
+    "start_year": 2013,
+    "end_year": null,
+    "runtime_minutes": 100,
+    "plot": "When one of their own is kidnapped by an angry gangster, the Wolf Pack must track down Mr. Chow, who has escaped from prison and is on the run.",
+    "rating": {
+      "aggregate_rating": 5.8,
+      "votes_count": 332836
+    },
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTA0NjE1MzMzODheQTJeQWpwZ15BbWU3MDY4MTQ3Mzk@._V1_.jpg",
+        "width": 1327,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 30,
+      "review_count": 37
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0680846",
+          "display_name": "Todd Phillips",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGY5MWRjM2MtNDkzNC00MDcwLWE2ZjYtOWNlZmM3MWIyNGZmXkEyXkFqcGdeQXVyMTAxMjM5NTA4._V1_.jpg",
+              "width": 3000,
+              "height": 2000
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0680846",
+          "display_name": "Todd Phillips",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGY5MWRjM2MtNDkzNC00MDcwLWE2ZjYtOWNlZmM3MWIyNGZmXkEyXkFqcGdeQXVyMTAxMjM5NTA4._V1_.jpg",
+              "width": 3000,
+              "height": 2000
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0563301",
+          "display_name": "Craig Mazin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjlhNTg1ZTctOWFmMC00NjQ0LWFmMTktODQ4NmYyZDhjNzQzXkEyXkFqcGdeQXVyMTMzMzk2OTU@._V1_.jpg",
+              "width": 4000,
+              "height": 6000
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0524190",
+          "display_name": "Jon Lucas",
+          "avatars": [
+            {
+              "url": "",
+              "width": 0,
+              "height": 0
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0601859",
+          "display_name": "Scott Moore",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUxODQ1MzU3N15BMl5BanBnXkFtZTgwNzEzMDYyMDI@._V1_.jpg",
+              "width": 1492,
+              "height": 2089
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0177896",
+          "display_name": "Bradley Cooper",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM0OTIyMzY1M15BMl5BanBnXkFtZTgwMTg0OTE0NzE@._V1_.jpg",
+              "width": 2341,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Phil"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1159180",
+          "display_name": "Ed Helms",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk2MDQwODEwNV5BMl5BanBnXkFtZTcwNjc4MTY0NA@@._V1_.jpg",
+              "width": 1605,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Stu"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0302108",
+          "display_name": "Zach Galifianakis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQwNzI3NjIwMV5BMl5BanBnXkFtZTcwMzA1OTIwMw@@._V1_.jpg",
+              "width": 273,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Alan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0058581",
+          "display_name": "Justin Bartha",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQwOTk4NTk0MV5BMl5BanBnXkFtZTcwODEyNjA1Mw@@._V1_.jpg",
+              "width": 299,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Doug"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0421822",
+          "display_name": "Ken Jeong",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk4MDM4NzI1MV5BMl5BanBnXkFtZTcwNjYyMDYzNw@@._V1_.jpg",
+              "width": 334,
+              "height": 500
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Chow"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000422",
+          "display_name": "John Goodman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTk1MzAzMDUxMF5BMl5BanBnXkFtZTgwODgyMTQxNjM@._V1_.jpg",
+              "width": 1535,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Marshall"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0565250",
+          "display_name": "Melissa McCarthy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg5NjA3ODkyMl5BMl5BanBnXkFtZTgwNTU4Mzg5NjE@._V1_.jpg",
+              "width": 1608,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Cassie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001787",
+          "display_name": "Jeffrey Tambor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzQxMzA3NzQzM15BMl5BanBnXkFtZTcwMTQxMDc3MQ@@._V1_.jpg",
+              "width": 282,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Sid"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001287",
+          "display_name": "Heather Graham",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAwMzk5MTM4NV5BMl5BanBnXkFtZTcwNTMxOTkwNA@@._V1_.jpg",
+              "width": 287,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Jade"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0258402",
+          "display_name": "Mike Epps",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY5MjEzOTQyNF5BMl5BanBnXkFtZTYwNjM1MjU0._V1_.jpg",
+              "width": 277,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Black Doug"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0056936",
+          "display_name": "Sasha Barrese",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE4NjA1MDE4N15BMl5BanBnXkFtZTYwOTc0Mjgy._V1_.jpg",
+              "width": 240,
+              "height": 360
+            }
+          ]
+        },
+        "characters": [
+          "Tracy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1512166",
+          "display_name": "Jamie Chung",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGVkYmU0MTktN2EyNS00MDRhLWI4MmItNGVhZmJhMGY2MjljXkEyXkFqcGdeQXVyMTI0MjAwMjg@._V1_.jpg",
+              "width": 436,
+              "height": 290
+            }
+          ]
+        },
+        "characters": [
+          "Lauren"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0192997",
+          "display_name": "Sondra Currie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmYyMmJjNTMtMWJmMS00OTY3LTliMTQtMmY4NTFmMGQxMDRlXkEyXkFqcGdeQXVyMTAxMTYxNw@@._V1_.jpg",
+              "width": 1920,
+              "height": 1920
+            }
+          ]
+        },
+        "characters": [
+          "Linda"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0897005",
+          "display_name": "Gillian Vigman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmM5ZWNjOTItYjMyOS00MzUwLThmZmItYjFhMDY5ZWRlYmY0XkEyXkFqcGdeQXVyMjE1ODY3Ng@@._V1_.jpg",
+              "width": 675,
+              "height": 1000
+            }
+          ]
+        },
+        "characters": [
+          "Stephanie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3967796",
+          "display_name": "Oliver Cooper",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGI1ZDFhY2QtZTlmNi00NDBjLWIyZDgtZjRmZGFmMzZiZWZhXkEyXkFqcGdeQXVyMjU2NTgzOTc@._V1_.jpg",
+              "width": 1667,
+              "height": 2500
+            }
+          ]
+        },
+        "characters": [
+          "Pharmacy Assistant"
+        ]
+      }
+    ]
+  }
+}

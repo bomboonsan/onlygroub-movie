@@ -1,0 +1,376 @@
+{
+  "title": {
+    "id": "tt1634106",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Bloodshot",
+    "original_title": null,
+    "start_year": 2020,
+    "end_year": null,
+    "runtime_minutes": 109,
+    "plot": "Ray Garrison, a slain soldier, is re-animated with superpowers.",
+    "rating": {
+      "aggregate_rating": 5.7,
+      "votes_count": 84854
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDFjMTI4ZTQtYzNlNS00YmJiLWEyYzYtYWFiYTZjOTI5MDM1XkEyXkFqcGc@._V1_.jpg",
+        "width": 1080,
+        "height": 1350
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fas",
+        "name": "Persian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "CN",
+        "name": "China"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      },
+      {
+        "code": "ZA",
+        "name": "South Africa"
+      }
+    ],
+    "critic_review": {
+      "score": 44,
+      "review_count": 35
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1702145",
+          "display_name": "Dave Wilson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDZlNjUzYjgtNGRiMy00YTJlLTk1NzQtNzZlODdjMGI4NGJlXkEyXkFqcGc@._V1_.jpg",
+              "width": 1600,
+              "height": 1067
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0905592",
+          "display_name": "Jeff Wadlow",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTg2YjViZDMtYWQyMi00ZTVhLWE5N2MtMjAwZWMzM2FkOGFmXkEyXkFqcGdeQXVyNDAwMjExMTA@._V1_.jpg",
+              "width": 1403,
+              "height": 1537
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2104063",
+          "display_name": "Eric Heisserer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUwNjU3NjU1MV5BMl5BanBnXkFtZTcwODc0MjA5Mw@@._V1_.jpg",
+              "width": 312,
+              "height": 396
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0889099",
+          "display_name": "Kevin VanHook",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm9303435",
+          "display_name": "Don Perlin",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1318192",
+          "display_name": "Bob Layton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDk2MTA3ODEzOF5BMl5BanBnXkFtZTgwOTQxMDk3NTM@._V1_.jpg",
+              "width": 1280,
+              "height": 1307
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0004874",
+          "display_name": "Vin Diesel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjExNzA4MDYxN15BMl5BanBnXkFtZTcwOTI1MDAxOQ@@._V1_.jpg",
+              "width": 1477,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Bloodshot"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2555462",
+          "display_name": "Eiza González",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODZjZTI5OTQtYzVkYS00ZTNkLTgwNTQtNmM5NTQxMzkxYjgxXkEyXkFqcGdeQXVyNjA1OTA1Njk@._V1_.jpg",
+              "width": 1440,
+              "height": 1800
+            }
+          ]
+        },
+        "characters": [
+          "KT"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1537825",
+          "display_name": "Sam Heughan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGM4Nzk2YzEtYTVhMi00Yjg1LWI0NTQtYmRkZWIzNjE4NjVmXkEyXkFqcGdeQXVyMTI2Nzk2ODk3._V1_.jpg",
+              "width": 1459,
+              "height": 1336
+            }
+          ]
+        },
+        "characters": [
+          "Jimmy Dalton"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1527905",
+          "display_name": "Toby Kebbell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2EyODM5NDctMWU3Zi00NDc2LWFhYzQtNmQ2ZDJiZTczMDgwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 750,
+              "height": 943
+            }
+          ]
+        },
+        "characters": [
+          "Martin Axe"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1506908",
+          "display_name": "Talulah Riley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE0MzUwNTUxM15BMl5BanBnXkFtZTcwNzU1OTY5Ng@@._V1_.jpg",
+              "width": 1510,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Gina Garrison"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2031358",
+          "display_name": "Lamorne Morris",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmEwYjFkNDItMmFjOC00ZWZmLTg3NGUtMjg5NjYzNzk1MmM1XkEyXkFqcGdeQXVyOTQ5MDI1MDE@._V1_.jpg",
+              "width": 2400,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Wilfred Wigans"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001602",
+          "display_name": "Guy Pearce",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgyNzc2NzY3Nl5BMl5BanBnXkFtZTgwNTMzMzAwMjE@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Emil Harting"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1778512",
+          "display_name": "Jóhannes Haukur Jóhannesson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWE4N2ExMDAtNmQzNy00ZjVhLWI3OWItNThlNGNlMGIyMTBkXkEyXkFqcGdeQXVyMTcxMTg3NDE@._V1_.jpg",
+              "width": 1200,
+              "height": 1600
+            }
+          ]
+        },
+        "characters": [
+          "Nick Baris"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1254025",
+          "display_name": "Alex Hernandez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWRkYmFlODQtNjVhYy00NmQxLWFmNDYtMTMxZTM5MGUwZjFkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 400,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Tibbs"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8615352",
+          "display_name": "Siddharth Dhananjay",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE0NzQ4NjcxNV5BMl5BanBnXkFtZTgwNjYwMzIyMTI@._V1_.jpg",
+              "width": 1366,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Eric"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3116102",
+          "display_name": "Tamer Burjaq",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTIyZmE4YzgtMmJlOC00NDFkLTg2M2UtZGVkNWEyNjllYjM0XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 987,
+              "height": 705
+            }
+          ]
+        },
+        "characters": [
+          "Mombasa Gunman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1794534",
+          "display_name": "Clyde Berning",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDkyNTg1MDQtZWU2My00NTdlLWI3MDAtNjRiM2MxNjI5ZjQ1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 634,
+              "height": 957
+            }
+          ]
+        },
+        "characters": [
+          "Mombasa Hostage"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0241148",
+          "display_name": "David Dukas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE3MTM3MjYxNV5BMl5BanBnXkFtZTcwODc3MzAzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 659
+            }
+          ]
+        },
+        "characters": [
+          "Merc Driver"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4912432",
+          "display_name": "Charlie Bouguenon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGRmMDlmNjctOWIwMi00YjNiLThhZjYtOWJiMTEyNDE4MjE2XkEyXkFqcGdeQXVyMzM0ODg5NTU@._V1_.jpg",
+              "width": 3457,
+              "height": 5186
+            }
+          ]
+        },
+        "characters": [
+          "Merc Leader"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2377275",
+          "display_name": "Tyrel Meyer",
+          "avatars": null
+        },
+        "characters": [
+          "Merc"
+        ]
+      }
+    ]
+  }
+}

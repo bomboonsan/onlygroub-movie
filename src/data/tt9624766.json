@@ -1,0 +1,331 @@
+{
+  "title": {
+    "id": "tt9624766",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Jiu Jitsu",
+    "original_title": null,
+    "start_year": 2020,
+    "end_year": null,
+    "runtime_minutes": 102,
+    "plot": "Every six years, an ancient order of jiu-jitsu fighters joins forces to battle a vicious race of alien invaders. But when a celebrated war hero goes down in defeat, the fate of the planet and mankind hangs in the balance.",
+    "rating": {
+      "aggregate_rating": 2.9,
+      "votes_count": 10353
+    },
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWU2YzRlYzYtNDE0Mi00NzhkLTkxYWItZDMxNmQxZmRjZWY2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+        "width": 1012,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "mya",
+        "name": "Burmese"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 27,
+      "review_count": 12
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0517768",
+          "display_name": "Dimitri Logothetis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDc2MDk2NTMtMTI3Zi00YjE1LTk1NDItYzYxZjgwODc2MTRiXkEyXkFqcGdeQXVyMDk0MTk4MA@@._V1_.jpg",
+              "width": 4128,
+              "height": 6192
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0517768",
+          "display_name": "Dimitri Logothetis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDc2MDk2NTMtMTI3Zi00YjE1LTk1NDItYzYxZjgwODc2MTRiXkEyXkFqcGdeQXVyMDk0MTk4MA@@._V1_.jpg",
+              "width": 4128,
+              "height": 6192
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0569808",
+          "display_name": "Jim McGrath",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjI2ODYyNDQ5MF5BMl5BanBnXkFtZTcwMzAzMDY5Mw@@._V1_.jpg",
+              "width": 834,
+              "height": 1279
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm3857692",
+          "display_name": "Alain Moussi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2M0OGVlNGMtMjQwNi00MTFiLTllMmUtMGRhMzUwYTVjZTRkXkEyXkFqcGdeQXVyMTcwNTA4NDk1._V1_.jpg",
+              "width": 531,
+              "height": 866
+            }
+          ]
+        },
+        "characters": [
+          "Jake"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000115",
+          "display_name": "Nicolas Cage",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjUxMjE4MTQxMF5BMl5BanBnXkFtZTcwNzc2MDM1NA@@._V1_.jpg",
+              "width": 1503,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Wylie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12083010",
+          "display_name": "Raymond Pinharry",
+          "avatars": null
+        },
+        "characters": [
+          "Fisherman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12083011",
+          "display_name": "Mary Makariou",
+          "avatars": null
+        },
+        "characters": [
+          "Fisherman's Wife"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2142537",
+          "display_name": "Tommy Walker",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWNhNWQ2NjEtNGE0Zi00MzRlLTkwNWItNjZkMmRlNzZmMDRlXkEyXkFqcGdeQXVyMjU3MTE1MDA@._V1_.jpg",
+              "width": 2732,
+              "height": 4096
+            }
+          ]
+        },
+        "characters": [
+          "Private Tommy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6545385",
+          "display_name": "John D. Hickman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTQxNjRiNzAtNjFkMC00ZGUxLWE1MDUtZjZhNWFhNmMwZDk1XkEyXkFqcGdeQXVyNTMxNzg4NzY@._V1_.jpg",
+              "width": 2142,
+              "height": 2899
+            }
+          ]
+        },
+        "characters": [
+          "Hickman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1100337",
+          "display_name": "Eddie Steeples",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWNjOGE1MmQtNTU5Ny00MDNjLWEyY2EtNThmMGI4N2JmYzk3XkEyXkFqcGdeQXVyMTI3OTg2MTcx._V1_.jpg",
+              "width": 4160,
+              "height": 6240
+            }
+          ]
+        },
+        "characters": [
+          "Tex"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0950935",
+          "display_name": "Rick Yune",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGJmYTBjMjYtNmQwZS00ZTIwLWFmMjItMWIzZGI4ODVlZTU3XkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_.jpg",
+              "width": 1566,
+              "height": 1350
+            }
+          ]
+        },
+        "characters": [
+          "Captain Sand"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2955595",
+          "display_name": "Marie Avgeropoulos",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTIzOGEzYzQtMzVkYy00Y2JiLThmZDUtODFkODJjNmUxZGM3XkEyXkFqcGdeQXVyOTYwOTMwNjk@._V1_.jpg",
+              "width": 1536,
+              "height": 1955
+            }
+          ]
+        },
+        "characters": [
+          "Myra"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12083012",
+          "display_name": "Philip Kkalas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmMyNDE4ZDEtODg2MC00YTYxLWJkOTgtYWY4M2QzMzY5YjU5XkEyXkFqcGc@._V1_.jpg",
+              "width": 392,
+              "height": 386
+            }
+          ]
+        },
+        "characters": [
+          "Soldier"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1388074",
+          "display_name": "Tony Jaa",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg1NjE3NDcxMF5BMl5BanBnXkFtZTYwODU1Njg2._V1_.jpg",
+              "width": 450,
+              "height": 673
+            }
+          ]
+        },
+        "characters": [
+          "Kueng"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0342029",
+          "display_name": "Frank Grillo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDEyMjk5NDM1M15BMl5BanBnXkFtZTgwOTAyMDE2MjE@._V1_.jpg",
+              "width": 2048,
+              "height": 1568
+            }
+          ]
+        },
+        "characters": [
+          "Harrigan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2800599",
+          "display_name": "Marrese Crump",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmFlYWZmNWYtMTNmMy00YjRkLTgxYWYtOTBlMDMwYmYwYzZmXkEyXkFqcGc@._V1_.jpg",
+              "width": 1200,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Forbes"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3634777",
+          "display_name": "JuJu Chan Szeto",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjRjNjhiYTMtZDZkNi00YWRlLWJhMWItNmRkMzBhNjViYTJkXkEyXkFqcGdeQXVyMjA0MDM1MTE@._V1_.jpg",
+              "width": 1545,
+              "height": 2031
+            }
+          ]
+        },
+        "characters": [
+          "Carmen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4292353",
+          "display_name": "Ryan Tarran",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDg2Y2Y4NzYtZTg1My00MjQzLWEyODQtMGU4ZjMxZmZhNWI5XkEyXkFqcGdeQXVyNDc2MjkyMTk@._V1_.jpg",
+              "width": 4100,
+              "height": 5802
+            }
+          ]
+        },
+        "characters": [
+          "Brax"
+        ]
+      }
+    ]
+  }
+}

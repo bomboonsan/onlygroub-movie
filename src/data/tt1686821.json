@@ -1,0 +1,337 @@
+{
+  "title": {
+    "id": "tt1686821",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Vampire Academy",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 104,
+    "plot": "Rose Hathaway is a Dhampir, half human-half vampire, a guardian of the Moroi, peaceful, mortal vampires living discreetly within our world. Her calling is to protect the Moroi from bloodthirsty, immortal Vampires, the Strigoi.",
+    "rating": {
+      "aggregate_rating": 5.4,
+      "votes_count": 56841
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BODNkYTk5Y2UtMzYwNi00MWI2LWEwZTUtYjg2NzZjMWQzZmE3XkEyXkFqcGc@._V1_.jpg",
+        "width": 2025,
+        "height": 3000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "IN",
+        "name": "India"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 31,
+      "review_count": 15
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0914132",
+          "display_name": "Mark Waters",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk3ODAyMTgwNV5BMl5BanBnXkFtZTgwMzA0NTE2MDI@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0914058",
+          "display_name": "Daniel Waters",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm3976229",
+          "display_name": "Richelle Mead",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm3614913",
+          "display_name": "Zoey Deutch",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzNiMDYyZGQtYmQ1MC00ZTY3LWIyNGQtNWJjNmI5NzNlNDVkXkEyXkFqcGdeQXVyMjMwNzU2MjM@._V1_.jpg",
+              "width": 1284,
+              "height": 1015
+            }
+          ]
+        },
+        "characters": [
+          "Rose Hathaway"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4867258",
+          "display_name": "Lucy Fry",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI0NTc0MTkwNF5BMl5BanBnXkFtZTgwMTYyOTY5MjI@._V1_.jpg",
+              "width": 1440,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Lissa Dragomir"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1572716",
+          "display_name": "Danila Kozlovskiy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTNlZDBlNDItMGVlYi00MGNiLWIwODktNTQ4YjgzZmY4NzVlXkEyXkFqcGdeQXVyNjMwOTA1MDM@._V1_.jpg",
+              "width": 1526,
+              "height": 874
+            }
+          ]
+        },
+        "characters": [
+          "Dimitri Belikov"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000321",
+          "display_name": "Gabriel Byrne",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAxMzE1ODA1Ml5BMl5BanBnXkFtZTcwODY3MjU5MQ@@._V1_.jpg",
+              "width": 318,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Victor Dashkov"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4123601",
+          "display_name": "Dominic Sherwood",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU2MDU5MTk3Ml5BMl5BanBnXkFtZTgwNzg1MjUzMDE@._V1_.jpg",
+              "width": 3744,
+              "height": 5429
+            }
+          ]
+        },
+        "characters": [
+          "Christian Ozera"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1385871",
+          "display_name": "Olga Kurylenko",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkyMzIwMjY1OF5BMl5BanBnXkFtZTcwNzA3MDkwOQ@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Headmistress Kirova"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0405103",
+          "display_name": "Sarah Hyland",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI0Njc0NDA2OV5BMl5BanBnXkFtZTgwMTAyMzM0NzE@._V1_.jpg",
+              "width": 396,
+              "height": 503
+            }
+          ]
+        },
+        "characters": [
+          "Natalie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1185747",
+          "display_name": "Cameron Monaghan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWZiMjhhYTctMzkxZC00ZTQ2LWFiNDYtODg4YWU3OTY2ODVkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "width": 3456,
+              "height": 5184
+            }
+          ]
+        },
+        "characters": [
+          "Mason"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3774109",
+          "display_name": "Sami Gayle",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWU0MmJkMWYtZjNlOC00Y2ZmLTg5OTYtOWVmM2YyMDhkYmYzXkEyXkFqcGdeQXVyMjM4MjMzMzU@._V1_.jpg",
+              "width": 485,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Mia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4852570",
+          "display_name": "Ashley Charles",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQ3YmFlYTgtMzYyMC00ZWFmLTg2ODMtYWMzNWZkODk4ZmY3XkEyXkFqcGc@._V1_.jpg",
+              "width": 542,
+              "height": 720
+            }
+          ]
+        },
+        "characters": [
+          "Jesse"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2946516",
+          "display_name": "Claire Foy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTI5OTMwNzM4NV5BMl5BanBnXkFtZTcwNDY1NjkyNA@@._V1_.jpg",
+              "width": 289,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Ms. Karp"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000613",
+          "display_name": "Joely Richardson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODgwMjMwMzE2OV5BMl5BanBnXkFtZTcwOTAzMTgxMw@@._V1_.jpg",
+              "width": 291,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Queen Tatiana"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4625680",
+          "display_name": "Dominique Tipper",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGZkNTNjNjktZDRhMS00OWJiLTk1ODItZjY3NjkzMmIwNTQ5XkEyXkFqcGdeQXVyMjg5NzI0NjM@._V1_.jpg",
+              "width": 1365,
+              "height": 1265
+            }
+          ]
+        },
+        "characters": [
+          "Guardian Gabriela"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5685205",
+          "display_name": "Edward Holcroft",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjc2MjM2OGYtNzRiOS00MWJkLTlhYmUtYzM2ZjI3MzFjNzkwXkEyXkFqcGdeQXVyODIxMzE5NDg@._V1_.jpg",
+              "width": 2148,
+              "height": 2989
+            }
+          ]
+        },
+        "characters": [
+          "Aaron"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5898438",
+          "display_name": "Bronté Terrell",
+          "avatars": null
+        },
+        "characters": [
+          "Camilla"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "title": {
+    "id": "tt2473682",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Paranormal Activity: The Marked Ones",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 84,
+    "plot": "When a young man becomes the target of a malevolent entity, he must uncover its true intentions before it takes complete control of him.",
+    "rating": {
+      "aggregate_rating": 5,
+      "votes_count": 45505
+    },
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjAwNDAxMjc0N15BMl5BanBnXkFtZTgwNDcyNDU3MDE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 42,
+      "review_count": 19
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0484907",
+          "display_name": "Christopher Landon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI5NTA1ODU2MV5BMl5BanBnXkFtZTcwODI3MDMzNA@@._V1_.jpg",
+              "width": 317,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0484907",
+          "display_name": "Christopher Landon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI5NTA1ODU2MV5BMl5BanBnXkFtZTcwODI3MDMzNA@@._V1_.jpg",
+              "width": 317,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2305431",
+          "display_name": "Oren Peli",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA2MTI3NDIyOF5BMl5BanBnXkFtZTcwMDMxMjI0Nw@@._V1_.jpg",
+              "width": 1604,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm5594209",
+          "display_name": "Andrew Jacobs",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODcyYWU0YjAtYmNhYy00MWRmLWIzNjYtNjAyZDVmNDkwMTI2XkEyXkFqcGdeQXVyNjgwMzU4NjY@._V1_.jpg",
+              "width": 4024,
+              "height": 6048
+            }
+          ]
+        },
+        "characters": [
+          "Jesse Arista"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0246612",
+          "display_name": "Jorge Diaz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQyYjY4MzktYzhiMi00ZjQzLTllNWUtYzc2OWU1MjQ4MjY0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2308,
+              "height": 3462
+            }
+          ]
+        },
+        "characters": [
+          "Hector Estrella"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4493176",
+          "display_name": "Gabrielle Walsh",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWM2YmEyZTEtMmI1OC00N2IzLWI4NWQtYmQ3MmZlZWZhNmQ4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 512,
+              "height": 768
+            }
+          ]
+        },
+        "characters": [
+          "Marisol Vargas"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0896149",
+          "display_name": "Renee Victor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTIzODg4NjU4M15BMl5BanBnXkFtZTYwOTA4NjA0._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Irma Arista"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4565874",
+          "display_name": "Noemi Gonzalez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmE0M2YwYTYtYjBhMS00ZDVmLTg2ODYtZTZjODVmMzI1MjFiXkEyXkFqcGdeQXVyMjY4MjE2ODE@._V1_.jpg",
+              "width": 1125,
+              "height": 1508
+            }
+          ]
+        },
+        "characters": [
+          "Evette Arista"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4157844",
+          "display_name": "David Saucedo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjA2ZWRmN2EtNzZmYy00NWI2LWFkMTgtZjM2ODgzZmE5ZTA0XkEyXkFqcGc@._V1_.jpg",
+              "width": 712,
+              "height": 1068
+            }
+          ]
+        },
+        "characters": [
+          "Cesar Arista"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0762121",
+          "display_name": "Gloria Sandoval",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzcxNTc2NmMtNGM4Yi00ZjdmLThhYzItYmEwMGMwOGY5ZDU3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 478,
+              "height": 720
+            }
+          ]
+        },
+        "characters": [
+          "Ana Sanchez"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3450051",
+          "display_name": "Richard Cabral",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjEwMGY3ODAtZGU2MC00ZGEyLTkwYTUtYjUyODEwZjllODhkXkEyXkFqcGdeQXVyMTgwMTM0MjA1._V1_.jpg",
+              "width": 4000,
+              "height": 5000
+            }
+          ]
+        },
+        "characters": [
+          "Arturo Lopez"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1794849",
+          "display_name": "Carlos Pratts",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2YxYmI3YzEtYjhkNC00ZmE3LTliZTEtM2E1NmI0MjFmMjcyXkEyXkFqcGc@._V1_.jpg",
+              "width": 800,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Oscar Lopez"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5926713",
+          "display_name": "Juan Vasquez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI2OGJmYjgtNGZhNi00MzM5LWJjODAtOTZjZjc2NzVmNGQxXkEyXkFqcGc@._V1_CR0,0,2388,3582_.jpg",
+              "width": 2388,
+              "height": 3582
+            }
+          ]
+        },
+        "characters": [
+          "Santo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6336340",
+          "display_name": "Carlos Romeo Arana Figuera",
+          "avatars": null
+        },
+        "characters": [
+          "Mauro"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1454378",
+          "display_name": "Molly Ephraim",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzlhNWFlM2YtYmUzZS00MDk2LWEzZjQtN2I0YTNmNThiMmI3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 4139,
+              "height": 6209
+            }
+          ]
+        },
+        "characters": [
+          "Ali Rey"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1128230",
+          "display_name": "Brent Gutierrez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGVlMjRiNTUtNzVjNi00ZWVmLWJlNTUtYWUzOTE5Nzg4ZDk4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 750,
+              "height": 1058
+            }
+          ]
+        },
+        "characters": [
+          "Diego"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6131300",
+          "display_name": "Alonso Alvarez",
+          "avatars": null
+        },
+        "characters": [
+          "Eber"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3775208",
+          "display_name": "Chris Puckett",
+          "avatars": null
+        },
+        "characters": [
+          "Cop"
+        ]
+      }
+    ]
+  }
+}

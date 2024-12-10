@@ -1,0 +1,386 @@
+{
+  "title": {
+    "id": "tt1628841",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Independence Day: Resurgence",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 120,
+    "plot": "Two decades after the first Independence Day invasion, Earth is faced with a new extra-Solar threat. But will mankind's new space defenses be enough?",
+    "rating": {
+      "aggregate_rating": 5.2,
+      "votes_count": 188852
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjIyMTg5MTg4OV5BMl5BanBnXkFtZTgwMzkzMjY5NzE@._V1_.jpg",
+        "width": 1012,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "IN",
+        "name": "India"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 32,
+      "review_count": 40
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0000386",
+          "display_name": "Roland Emmerich",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgyMzk0NTkyOF5BMl5BanBnXkFtZTcwNDcyMDgzOQ@@._V1_.jpg",
+              "width": 2048,
+              "height": 1151
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm6215044",
+          "display_name": "Gabriel Sherman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjYwMzI2MDQzN15BMl5BanBnXkFtZTgwMDc2ODM0MjE@._V1_.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1123994",
+          "display_name": "James A. Woods",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc2NjQ3NDA0OF5BMl5BanBnXkFtZTgwMTExMTIxMTE@._V1_.jpg",
+              "width": 2746,
+              "height": 2197
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0002041",
+          "display_name": "Dean Devlin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIyODg1NjE1NV5BMl5BanBnXkFtZTgwODUzMzQ4MDE@._V1_.jpg",
+              "width": 1200,
+              "height": 800
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0000386",
+          "display_name": "Roland Emmerich",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgyMzk0NTkyOF5BMl5BanBnXkFtZTcwNDcyMDgzOQ@@._V1_.jpg",
+              "width": 2048,
+              "height": 1151
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0888743",
+          "display_name": "James Vanderbilt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM1NzY0NTk4M15BMl5BanBnXkFtZTcwOTA4MzcxOA@@._V1_.jpg",
+              "width": 1409,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm2955013",
+          "display_name": "Liam Hemsworth",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI5NTM1NzYzN15BMl5BanBnXkFtZTcwODYxNTUyMw@@._V1_.jpg",
+              "width": 1230,
+              "height": 1630
+            }
+          ]
+        },
+        "characters": [
+          "Jake Morrison"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000156",
+          "display_name": "Jeff Goldblum",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2ViNDIwNmUtZGQ5Ni00MDYxLWI5YTktNWU1NGRlYWQ1ZDg0XkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_.jpg",
+              "width": 560,
+              "height": 698
+            }
+          ]
+        },
+        "characters": [
+          "David Levinson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1900772",
+          "display_name": "Jessie T. Usher",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWYwNGRmZjAtNGVhNy00NGU4LTljZTYtMjdmOTIxMDNlNTMyXkEyXkFqcGdeQXVyNTIzMDExMjA@._V1_.jpg",
+              "width": 1170,
+              "height": 1206
+            }
+          ]
+        },
+        "characters": [
+          "Dylan Hiller"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000597",
+          "display_name": "Bill Pullman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg0Mzk2MDEyM15BMl5BanBnXkFtZTgwMTczMDQzNjE@._V1_.jpg",
+              "width": 855,
+              "height": 1280
+            }
+          ]
+        },
+        "characters": [
+          "President Whitmore"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2140860",
+          "display_name": "Maika Monroe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYxNzA1MjcwMF5BMl5BanBnXkFtZTgwMDQwNjgyNjM@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        },
+        "characters": [
+          "Patricia Whitmore"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000688",
+          "display_name": "Sela Ward",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTZlZDE3YzAtNGZiMi00YTA4LTk0MGUtZDkxNTY0MzQ0YzEwXkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_.jpg",
+              "width": 640,
+              "height": 427
+            }
+          ]
+        },
+        "characters": [
+          "President Lanford"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001209",
+          "display_name": "William Fichtner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmM2Yzc1MDEtMjg5NC00NDU4LTg0Y2MtOTExMjgyZDgyZGVjXkEyXkFqcGdeQXVyNDI5Mzk0MjM@._V1_.jpg",
+              "width": 480,
+              "height": 580
+            }
+          ]
+        },
+        "characters": [
+          "General Adams"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0002139",
+          "display_name": "Judd Hirsch",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTE5MTQ2MTkwNl5BMl5BanBnXkFtZTYwNTc1ODA3._V1_.jpg",
+              "width": 443,
+              "height": 666
+            }
+          ]
+        },
+        "characters": [
+          "Julius Levinson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000653",
+          "display_name": "Brent Spiner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAxMzA3MDIwNl5BMl5BanBnXkFtZTgwMjMyNjM5NzE@._V1_.jpg",
+              "width": 500,
+              "height": 611
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Brakish Okun"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0820520",
+          "display_name": "Patrick St. Esprit",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmFmZjc5NWMtMGUyMy00ZjQ0LWE4NzUtMDQzOWM5NTRiYTBhXkEyXkFqcGdeQXVyNTE2MjI3MzY@._V1_.jpg",
+              "width": 1428,
+              "height": 2000
+            }
+          ]
+        },
+        "characters": [
+          "Secretary of Defense Tanner"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000407",
+          "display_name": "Vivica A. Fox",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjFlYzhlYjEtYjM0ZC00ZTJmLWEwYjctMTI1ZGZjMDY3MWU4XkEyXkFqcGdeQXVyMjM2NTQxNDU@._V1_.jpg",
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Jasmine Hiller"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2854802",
+          "display_name": "Angelababy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU5NDE1NzM5OF5BMl5BanBnXkFtZTcwNzQ1NTE3Nw@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Rain Lao"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001250",
+          "display_name": "Charlotte Gainsbourg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDQyMzQ5NTEzNl5BMl5BanBnXkFtZTcwNjI3NTEzNQ@@._V1_.jpg",
+              "width": 1361,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Catherine Marceaux"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0649046",
+          "display_name": "Deobia Oparei",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMyNzU5MzI5MV5BMl5BanBnXkFtZTgwMjI5MTg5ODE@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Dikembe Umbutu"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1288961",
+          "display_name": "Nicolas Wright",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmRiYTJlMzktZTkzNS00NzhjLWE1MzEtOTEwY2U2MmU4ZWYzXkEyXkFqcGdeQXVyMTQ5NzQ5NjY@._V1_.jpg",
+              "width": 1071,
+              "height": 1605
+            }
+          ]
+        },
+        "characters": [
+          "Floyd Rosenberg"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "title": {
+    "id": "tt1340138",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Terminator Genisys",
+    "original_title": null,
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 126,
+    "plot": "When John Connor, leader of the human resistance, sends Sgt. Kyle Reese back to 1984 to protect Sarah Connor and safeguard the future, an unexpected turn of events creates a fractured timeline.",
+    "rating": {
+      "aggregate_rating": 6.3,
+      "votes_count": 291044
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjM1NTc0NzE4OF5BMl5BanBnXkFtZTgwNDkyNjQ1NTE@._V1_.jpg",
+        "width": 640,
+        "height": 999
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "ukr",
+        "name": "Ukrainian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 38,
+      "review_count": 41
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0851930",
+          "display_name": "Alan Taylor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEyMDg3OTgyMl5BMl5BanBnXkFtZTYwNjEyNzIz._V1_.jpg",
+              "width": 296,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0436164",
+          "display_name": "Laeta Kalogridis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmVhMTlmNDYtMTdmYi00NmYxLTllYTUtNTAyNTZlNzJmNGE5XkEyXkFqcGdeQXVyMDE3NDQzNQ@@._V1_.jpg",
+              "width": 516,
+              "height": 500
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0527261",
+          "display_name": "Patrick Lussier",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjAzZjhhZDAtYjgyMS00OGFjLWJmNTgtZTFhNWE4MjQ0NWFmXkEyXkFqcGdeQXVyNDA2Nzg3MA@@._V1_.jpg",
+              "width": 960,
+              "height": 958
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0000116",
+          "display_name": "James Cameron",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI0MjMzOTg2MF5BMl5BanBnXkFtZTcwMTM3NjQxMw@@._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0005036",
+          "display_name": "Gale Anne Hurd",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgwODUzMjExOF5BMl5BanBnXkFtZTcwMTMxMDEyOQ@@._V1_.jpg",
+              "width": 1379,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000216",
+          "display_name": "Arnold Schwarzenegger",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI3MDc4NzUyMV5BMl5BanBnXkFtZTcwMTQyMTc5MQ@@._V1_.jpg",
+              "width": 318,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Guardian"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0164809",
+          "display_name": "Jason Clarke",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzU5ODU0MzY1MV5BMl5BanBnXkFtZTcwMTY2MDE4OA@@._V1_.jpg",
+              "width": 1164,
+              "height": 1810
+            }
+          ]
+        },
+        "characters": [
+          "John Connor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3592338",
+          "display_name": "Emilia Clarke",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjg3OTg4MDczMl5BMl5BanBnXkFtZTgwODc0NzUwNjE@._V1_.jpg",
+              "width": 929,
+              "height": 1394
+            }
+          ]
+        },
+        "characters": [
+          "Sarah Connor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2541974",
+          "display_name": "Jai Courtney",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkyNzE0OTg1MF5BMl5BanBnXkFtZTgwMDU1MDM0MTE@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Kyle Reese"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0799777",
+          "display_name": "J.K. Simmons",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzg2NTI5NzQ1MV5BMl5BanBnXkFtZTgwNjI1NDEwMDI@._V1_.jpg",
+              "width": 1679,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "O'Brien"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3912883",
+          "display_name": "Dayo Okeniyi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2E0MmYxMzQtNzcxYS00YmU4LWIzYzEtMzMzMDVmYzk0NTA0XkEyXkFqcGdeQXVyMTMzOTMyOTM4._V1_.jpg",
+              "width": 1024,
+              "height": 1280
+            }
+          ]
+        },
+        "characters": [
+          "Danny Dyson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1741002",
+          "display_name": "Matt Smith",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE0NzExMTg0MV5BMl5BanBnXkFtZTgwOTIyNTI5NzE@._V1_.jpg",
+              "width": 1719,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Alex"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005524",
+          "display_name": "Courtney B. Vance",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg3OTY1MjM1Ml5BMl5BanBnXkFtZTcwMDk2ODY3Mg@@._V1_.jpg",
+              "width": 289,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Miles Dyson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0496932",
+          "display_name": "Lee Byung-hun",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmFiNTE1ZTctZDA2Yy00M2EyLThiODAtZTFiZTU1NDI1NGI5XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+              "width": 3466,
+              "height": 5198
+            }
+          ]
+        },
+        "characters": [
+          "Cop",
+          "T-1000"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0321591",
+          "display_name": "Michael Gladis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEzMDY4MDcxNF5BMl5BanBnXkFtZTgwMTI0NDMwNTE@._V1_.jpg",
+              "width": 1449,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Lt. Matias"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0002142",
+          "display_name": "Sandrine Holt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA0OTc5NjI1NzleQTJeQWpwZ15BbWU4MDMwNzYwNzEx._V1_.jpg",
+              "width": 2700,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Detective Cheung"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1955028",
+          "display_name": "Wayne Bastrup",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWNkMWRhZWUtMmU4OC00OGY5LThiYTctOGI0NDQ1M2VmZTRhXkEyXkFqcGdeQXVyMTU1MzM2NTg@._V1_.jpg",
+              "width": 3882,
+              "height": 4481
+            }
+          ]
+        },
+        "characters": [
+          "Young O'Brien"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0930707",
+          "display_name": "Gregory Alan Williams",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmZkZWQ2NzAtNDZkNi00MzIwLWI4ZDMtMjgwMTI3MzZlOWEyXkEyXkFqcGdeQXVyNzMyNDI5Mg@@._V1_.jpg",
+              "width": 3680,
+              "height": 5520
+            }
+          ]
+        },
+        "characters": [
+          "Detective Harding"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0761024",
+          "display_name": "Otto Sanchez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc0MDk4NzQ2MV5BMl5BanBnXkFtZTYwMDQyNzIz._V1_.jpg",
+              "width": 258,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Detective Timmons"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1787599",
+          "display_name": "Matty Ferraro",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODA5MTgyNjYtYmE5NS00NDlkLThmN2YtODgyNGE2NjcyMjIwXkEyXkFqcGdeQXVyMTMxMzM0OTg@._V1_.jpg",
+              "width": 2720,
+              "height": 4080
+            }
+          ]
+        },
+        "characters": [
+          "Agent Janssen"
+        ]
+      }
+    ]
+  }
+}

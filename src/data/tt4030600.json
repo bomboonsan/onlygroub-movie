@@ -1,0 +1,333 @@
+{
+  "title": {
+    "id": "tt4030600",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Bye Bye Man",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 96,
+    "plot": "Three friends stumble upon the horrific origins of a mysterious figure they discover is the root cause of the evil behind unspeakable acts.",
+    "rating": {
+      "aggregate_rating": 4.3,
+      "votes_count": 26038
+    },
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTcxOTE5NzQwNF5BMl5BanBnXkFtZTgwOTMzMTc1ODE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CN",
+        "name": "China"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 37,
+      "review_count": 22
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0864468",
+          "display_name": "Stacy Title",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM4NDg3MDEyN15BMl5BanBnXkFtZTcwNDQ2NzgwMw@@._V1_.jpg",
+              "width": 1889,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0672103",
+          "display_name": "Jonathan Penner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI0NDU0MTg2MF5BMl5BanBnXkFtZTcwMDg1NTYxOA@@._V1_.jpg",
+              "width": 1350,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm6765196",
+          "display_name": "Robert Damon Schneck",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0808022",
+          "display_name": "Douglas Smith",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2JjNzYzMTYtNWJhOS00ZGZjLTk0NzUtMTg4NjJiMWRhM2YzXkEyXkFqcGdeQXVyMjc0NDg2MzI@._V1_.jpg",
+              "width": 4480,
+              "height": 6720
+            }
+          ]
+        },
+        "characters": [
+          "Elliot"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1620741",
+          "display_name": "Lucien Laviscount",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM3MjEzZjItMjdjZC00YWM0LWIwODEtNzZhMjBhZTc2MTQ4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 384,
+              "height": 512
+            }
+          ]
+        },
+        "characters": [
+          "John"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6463103",
+          "display_name": "Cressida Bonas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDA3NzVhMzYtODg4NC00NWViLWJkZjMtOGMxNWE3YTk0MDZmXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+              "width": 491,
+              "height": 700
+            }
+          ]
+        },
+        "characters": [
+          "Sasha"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0427964",
+          "display_name": "Doug Jones",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYzNDY4MDc0OF5BMl5BanBnXkFtZTYwODM4MDY0._V1_.jpg",
+              "width": 287,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "The Bye Bye Man"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0873998",
+          "display_name": "Michael Trucco",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzA1NDk4NDktMWYwYy00MjQzLTg0ZDAtMWJhY2UyNmI5YTEwXkEyXkFqcGdeQXVyNjA4NjQwNw@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Virgil"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3957052",
+          "display_name": "Jenna Kanell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzc1ZjQ5ODAtNzU0ZS00N2E5LWJkZTMtYjQ4OGY4ZTc4MzEyXkEyXkFqcGdeQXVyMjM0OTE1MzE@._V1_.jpg",
+              "width": 1286,
+              "height": 1607
+            }
+          ]
+        },
+        "characters": [
+          "Kim"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6615896",
+          "display_name": "Erica Tremblay",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDM4Y2EzYTctMTQ0MS00ZTdmLTgyNjYtMGVjYjk3OTRkMDkwXkEyXkFqcGdeQXVyNTU1NTM1MjU@._V1_.jpg",
+              "width": 4000,
+              "height": 6000
+            }
+          ]
+        },
+        "characters": [
+          "Alice"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2182941",
+          "display_name": "Marisa Echeverria",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ1MDI5MjA0OV5BMl5BanBnXkFtZTgwMDc5MjI2NTE@._V1_.jpg",
+              "width": 3840,
+              "height": 5760
+            }
+          ]
+        },
+        "characters": [
+          "Trina"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0454598",
+          "display_name": "Cleo King",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY5NTEwMTc3OF5BMl5BanBnXkFtZTcwNjA5MTEzOA@@._V1_.jpg",
+              "width": 1419,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mrs. Watkins"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001159",
+          "display_name": "Faye Dunaway",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk4OTU5MDY0OV5BMl5BanBnXkFtZTYwNTc0MTM1._V1_.jpg",
+              "width": 304,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Widow Redmon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005251",
+          "display_name": "Carrie-Anne Moss",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYxMjgwNzEwOF5BMl5BanBnXkFtZTcwNTQ0NzI5Ng@@._V1_.jpg",
+              "width": 1547,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Detective Shaw"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1191481",
+          "display_name": "Leigh Whannell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkyMzA3OTI0Ml5BMl5BanBnXkFtZTcwNDUzMTEzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 540
+            }
+          ]
+        },
+        "characters": [
+          "Larry Redmon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3235430",
+          "display_name": "Keelin Woodell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDgzZDNmY2QtMTVmNS00MjYzLTgxZWUtYmQwNzFlOWVkNzdkXkEyXkFqcGc@._V1_.jpg",
+              "width": 2197,
+              "height": 3216
+            }
+          ]
+        },
+        "characters": [
+          "Young Mrs. Redmon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8894953",
+          "display_name": "Lara Knox",
+          "avatars": null
+        },
+        "characters": [
+          "Jane"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0672103",
+          "display_name": "Jonathan Penner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI0NDU0MTg2MF5BMl5BanBnXkFtZTcwMDg1NTYxOA@@._V1_.jpg",
+              "width": 1350,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Daizy"
+        ]
+      }
+    ]
+  }
+}

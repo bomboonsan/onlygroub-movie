@@ -1,0 +1,334 @@
+{
+  "title": {
+    "id": "tt2388715",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Oculus",
+    "original_title": null,
+    "start_year": 2013,
+    "end_year": null,
+    "runtime_minutes": 104,
+    "plot": "A recently released inmate from a mental asylum learns from his sister that the murders he was convicted of committing were actually orchestrated by a supernatural entity, the Lasser Glass mirror.",
+    "rating": {
+      "aggregate_rating": 6.5,
+      "votes_count": 139881
+    },
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzE1NzM4MjEyNV5BMl5BanBnXkFtZTgwMjYzMjMzMTE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 61,
+      "review_count": 28
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1093039",
+          "display_name": "Mike Flanagan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjVkMmYwNWItY2U5MS00M2QyLTgyZWEtZDY5OTQ0NzdlM2E4XkEyXkFqcGdeQXVyMTU2NTcyMg@@._V1_.jpg",
+              "width": 2000,
+              "height": 3000
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1093039",
+          "display_name": "Mike Flanagan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjVkMmYwNWItY2U5MS00M2QyLTgyZWEtZDY5OTQ0NzdlM2E4XkEyXkFqcGdeQXVyMTU2NTcyMg@@._V1_.jpg",
+              "width": 2000,
+              "height": 3000
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm3670452",
+          "display_name": "Jeff Howard",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTllYzcxYjEtNGZlMS00NzU1LWE1ZWYtOWVkMjI2NGI5MjdlXkEyXkFqcGdeQXVyNTI4NDE5MTM@._V1_.jpg",
+              "width": 1041,
+              "height": 1044
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1529699",
+          "display_name": "Jeff Seidman",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm2394794",
+          "display_name": "Karen Gillan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQwMDQ0NDk1OV5BMl5BanBnXkFtZTcwNDcxOTExNg@@._V1_.jpg",
+              "width": 1411,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Kaylie Russell"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4154798",
+          "display_name": "Brenton Thwaites",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGVjZDY0NGEtMzMzOC00N2Q1LTg2MWEtNWJmYjM3ZTQ3OWI5XkEyXkFqcGdeQXVyNTg1Mjc3OTc@._V1_.jpg",
+              "width": 3000,
+              "height": 4500
+            }
+          ]
+        },
+        "characters": [
+          "Tim Russell"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0755267",
+          "display_name": "Katee Sackhoff",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc4MTAxMDMxMV5BMl5BanBnXkFtZTgwMTYxNjE5MDI@._V1_.jpg",
+              "width": 1537,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Marie Russell"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0168262",
+          "display_name": "Rory Cochrane",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQxOTNmNmEtY2VmZC00OGRlLTkyOTUtNGEzZTE5NmZjOTYwXkEyXkFqcGdeQXVyNzc2MDUyNA@@._V1_.jpg",
+              "width": 498,
+              "height": 678
+            }
+          ]
+        },
+        "characters": [
+          "Alan Russell"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2399383",
+          "display_name": "Annalise Basso",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTA5ZTg4NDItMDNlYi00M2I5LTg5NzItMDhhM2VmZmEzNmIxXkEyXkFqcGdeQXVyMTAyOTk1NTU@._V1_.jpg",
+              "width": 827,
+              "height": 1045
+            }
+          ]
+        },
+        "characters": [
+          "Young Kaylie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2238724",
+          "display_name": "Garrett Ryan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODQxODU3YTktOWVkOC00ZDY5LWFmYzMtODU1N2IzNWY5ZTJjXkEyXkFqcGc@._V1_.jpg",
+              "width": 3138,
+              "height": 4707
+            }
+          ]
+        },
+        "characters": [
+          "Young Tim"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0480798",
+          "display_name": "James Lafferty",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODFhMzY5OTItNzZjMi00YjM0LWI3ZDYtZDRiODc1ZDg4NjFjXkEyXkFqcGdeQXVyMzQ2Njc0MzM@._V1_.jpg",
+              "width": 3989,
+              "height": 4367
+            }
+          ]
+        },
+        "characters": [
+          "Michael Dumont"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0762153",
+          "display_name": "Miguel Sandoval",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzIxNWRhYzItZDUzOC00NzRmLWE3NTUtMzZhY2NkZWUzMGFlXkEyXkFqcGdeQXVyMzEyNDkzNQ@@._V1_.jpg",
+              "width": 1045,
+              "height": 690
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Shawn Graham"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2318089",
+          "display_name": "Kate Siegel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzNjNjNjYTAtY2E5Ni00OGEzLWI2NjEtMWYyODY3ZTMyNmQ1XkEyXkFqcGdeQXVyNTQ1NTQyNjk@._V1_.jpg",
+              "width": 4374,
+              "height": 5488
+            }
+          ]
+        },
+        "characters": [
+          "Marisol Chavez"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1470172",
+          "display_name": "Scott Graham",
+          "avatars": null
+        },
+        "characters": [
+          "Warren"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4960767",
+          "display_name": "Michael J. Fourticq",
+          "avatars": null
+        },
+        "characters": [
+          "St. Aidan Security Guard"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1653291",
+          "display_name": "Justin Gordon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTI0MmJiNWMtZDZlZi00NjQxLWEzYzctYTEwMTU2ZTM3NzBjXkEyXkFqcGdeQXVyODE0NTYwNw@@._V1_.jpg",
+              "width": 933,
+              "height": 1400
+            }
+          ]
+        },
+        "characters": [
+          "Mark (Supervisor)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3422130",
+          "display_name": "Katie Parker",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWUyYjVkY2EtZTY1ZC00Y2Q0LThlYjItMWE0NGVlODg1NzgyXkEyXkFqcGdeQXVyMjEwOTM5NDE@._V1_.jpg",
+              "width": 2241,
+              "height": 2808
+            }
+          ]
+        },
+        "characters": [
+          "Phone Store Clerk"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0311355",
+          "display_name": "Bob Gebert",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjcyY2E5OWItODIwYi00Njk2LTlmOGUtMGUxMDM3YzQ0NTU0XkEyXkFqcGc@._V1_.jpg",
+              "width": 2400,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Neighbor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0614861",
+          "display_name": "Brett Murray",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWQ0MmU4ZjItYTU1OC00MmYwLTk2M2EtNDljYWQ2ZWExNDNlXkEyXkFqcGdeQXVyNjI3MTk0NDQ@._V1_.jpg",
+              "width": 448,
+              "height": 593
+            }
+          ]
+        },
+        "characters": [
+          "Officer 1"
+        ]
+      }
+    ]
+  }
+}

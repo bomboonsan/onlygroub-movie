@@ -1,0 +1,381 @@
+{
+  "title": {
+    "id": "tt1872181",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Amazing Spider-Man 2",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 142,
+    "plot": "When New York is put under siege by Oscorp, it is up to Spider-Man to save the city he swore to protect as well as his loved ones.",
+    "rating": {
+      "aggregate_rating": 6.6,
+      "votes_count": 538759
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@._V1_.jpg",
+        "width": 2025,
+        "height": 3000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 53,
+      "review_count": 50
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1989536",
+          "display_name": "Marc Webb",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUxMzA2NDU4MF5BMl5BanBnXkFtZTcwNzQ3NDc1Nw@@._V1_.jpg",
+              "width": 550,
+              "height": 367
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0476064",
+          "display_name": "Alex Kurtzman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY3MDAxOTY3M15BMl5BanBnXkFtZTcwOTIxODY5Nw@@._V1_.jpg",
+              "width": 1148,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0649460",
+          "display_name": "Roberto Orci",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIxNTI4NDI4MF5BMl5BanBnXkFtZTcwNDkxODk4OQ@@._V1_.jpg",
+              "width": 1511,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0684374",
+          "display_name": "Jeff Pinkner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzRjNTIzNDItMjNlNC00NjViLThlYjktYzI0ZGJjOWQ2YjM5XkEyXkFqcGc@._V1_.jpg",
+              "width": 5000,
+              "height": 3333
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0888743",
+          "display_name": "James Vanderbilt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM1NzY0NTk4M15BMl5BanBnXkFtZTcwOTA4MzcxOA@@._V1_.jpg",
+              "width": 1409,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0498278",
+          "display_name": "Stan Lee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk3NDE3Njc5M15BMl5BanBnXkFtZTYwOTY5Nzc1._V1_.jpg",
+              "width": 278,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1940449",
+          "display_name": "Andrew Garfield",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE2MjI2OTk1OV5BMl5BanBnXkFtZTgwNTY1NzM4MDI@._V1_.jpg",
+              "width": 1391,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Spider-Man",
+          "Peter Parker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1297015",
+          "display_name": "Emma Stone",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI4NjM1NDkyN15BMl5BanBnXkFtZTgwODgyNTY1MjE@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Gwen Stacy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0004937",
+          "display_name": "Jamie Foxx",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkyNjY1NDg3NF5BMl5BanBnXkFtZTgwNjA2MTg0MzE@._V1_.jpg",
+              "width": 1545,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Electro",
+          "Max Dillon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2851530",
+          "display_name": "Dane DeHaan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUzOTgwNjg0OV5BMl5BanBnXkFtZTgwNTgyMTA1NjE@._V1_.jpg",
+              "width": 2978,
+              "height": 4474
+            }
+          ]
+        },
+        "characters": [
+          "Green Goblin",
+          "Harry Osborn"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0272173",
+          "display_name": "Colm Feore",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY2MDYzNjA2MF5BMl5BanBnXkFtZTYwMzQxMjE2._V1_.jpg",
+              "width": 254,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Donald Menken"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0428065",
+          "display_name": "Felicity Jones",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA0MTIwMzIyN15BMl5BanBnXkFtZTgwNDEyMzg1NDE@._V1_.jpg",
+              "width": 1360,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Felicia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0316079",
+          "display_name": "Paul Giamatti",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTc0MDAzMTU4N15BMl5BanBnXkFtZTcwNzA0NzcwNA@@._V1_.jpg",
+              "width": 310,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Aleksei Sytsevich"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000398",
+          "display_name": "Sally Field",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQwOTMyMDI4MV5BMl5BanBnXkFtZTcwMDYzMTM5OA@@._V1_.jpg",
+              "width": 1492,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Aunt May"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001110",
+          "display_name": "Embeth Davidtz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcyNTUyOTU5OV5BMl5BanBnXkFtZTcwMjE5MjQ1Nw@@._V1_.jpg",
+              "width": 1469,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mary Parker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001714",
+          "display_name": "Campbell Scott",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY4MjgxNzM1MV5BMl5BanBnXkFtZTcwMzU2ODQ1MQ@@._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Richard Parker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0190744",
+          "display_name": "Marton Csokas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQxOTcyNDEyMV5BMl5BanBnXkFtZTgwMjMzMzYyNTE@._V1_.jpg",
+              "width": 2298,
+              "height": 3269
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Ashley Kafka"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1209413",
+          "display_name": "Louis Cancelmi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTUxMjg4ODMxMl5BMl5BanBnXkFtZTgwNTI5ODk0MTE@._V1_.jpg",
+              "width": 4000,
+              "height": 6000
+            }
+          ]
+        },
+        "characters": [
+          "Man in Black Suit"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1934618",
+          "display_name": "Max Charles",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIyNzczNjIyNV5BMl5BanBnXkFtZTgwODg3MzQ1OTE@._V1_.jpg",
+              "width": 2048,
+              "height": 1366
+            }
+          ]
+        },
+        "characters": [
+          "Young Peter Parker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1145983",
+          "display_name": "B.J. Novak",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU0MTg4MzEyMl5BMl5BanBnXkFtZTcwMzUxMzAyOA@@._V1_.jpg",
+              "width": 640,
+              "height": 960
+            }
+          ]
+        },
+        "characters": [
+          "Alistair Smythe"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0300589",
+          "display_name": "Sarah Gadon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2I3YTA3M2EtYWJhYS00NjJlLTg1NzYtMTdmNjI5M2ViY2ZiXkEyXkFqcGdeQXVyMzE1MjkwODU@._V1_.jpg",
+              "width": 683,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Kari"
+        ]
+      }
+    ]
+  }
+}

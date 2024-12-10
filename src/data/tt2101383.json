@@ -1,0 +1,326 @@
+{
+  "title": {
+    "id": "tt2101383",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Knight of Cups",
+    "original_title": null,
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 118,
+    "plot": "A writer indulging in all that Los Angeles and Las Vegas have to offer, undertakes a search for love and self via a series of adventures with six different women.",
+    "rating": {
+      "aggregate_rating": 5.6,
+      "votes_count": 29468
+    },
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjQyOTcwODIyNF5BMl5BanBnXkFtZTgwMDE4OTI4NzE@._V1_.jpg",
+        "width": 4050,
+        "height": 6000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      },
+      {
+        "code": "srp",
+        "name": "Serbian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 53,
+      "review_count": 41
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0000517",
+          "display_name": "Terrence Malick",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUzNjQzNjYyMV5BMl5BanBnXkFtZTcwMTU5MDYyNQ@@._V1_.jpg",
+              "width": 1354,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0000517",
+          "display_name": "Terrence Malick",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUzNjQzNjYyMV5BMl5BanBnXkFtZTcwMTU5MDYyNQ@@._V1_.jpg",
+              "width": 1354,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000288",
+          "display_name": "Christian Bale",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Rick"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000949",
+          "display_name": "Cate Blanchett",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc1MDI0MDg1NV5BMl5BanBnXkFtZTgwMDM3OTAzMTE@._V1_.jpg",
+              "width": 1419,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Nancy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000204",
+          "display_name": "Natalie Portman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzU0ZGRhZWItMGJlNy00YzlkLWIzOWYtNDA2NzlhMDg3YjMwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 2667,
+              "height": 4000
+            }
+          ]
+        },
+        "characters": [
+          "Elizabeth"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001133",
+          "display_name": "Brian Dennehy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDE4MjEzMzAzMF5BMl5BanBnXkFtZTcwMzYzNDgwMw@@._V1_.jpg",
+              "width": 1736,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Joseph"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000104",
+          "display_name": "Antonio Banderas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTQ3NTYyNF5BMl5BanBnXkFtZTcwMTY2NjIzNQ@@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Tonio"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2951768",
+          "display_name": "Freida Pinto",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg5NDI0MzM0NF5BMl5BanBnXkFtZTcwOTQ4NTIwNw@@._V1_.jpg",
+              "width": 1355,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Helen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0004747",
+          "display_name": "Wes Bentley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTgyOTY5OTA5OF5BMl5BanBnXkFtZTcwNzM1MjM1Nw@@._V1_.jpg",
+              "width": 1373,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Barry"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1456970",
+          "display_name": "Isabel Lucas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTQwM2IyZDEtNzEwNi00MjFiLThkMzItZWU2MzM2OTk4NDhmXkEyXkFqcGdeQXVyMTI3NDE2MzY@._V1_.jpg",
+              "width": 2676,
+              "height": 1784
+            }
+          ]
+        },
+        "characters": [
+          "Isabel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1954240",
+          "display_name": "Teresa Palmer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWY4OWYxMmYtYWQ1Yy00NzI2LTkxMzktMWViM2JlOGEwNDgwXkEyXkFqcGdeQXVyNDE1NzY2MTI@._V1_.jpg",
+              "width": 2584,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Karen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1782299",
+          "display_name": "Imogen Poots",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU3OTA3MzM2NV5BMl5BanBnXkFtZTcwMDczNjY0Mw@@._V1_.jpg",
+              "width": 322,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Della"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0560249",
+          "display_name": "Peter Matthiessen",
+          "avatars": null
+        },
+        "characters": [
+          "Christopher"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000090",
+          "display_name": "Armin Mueller-Stahl",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM3MTI3NTk0OF5BMl5BanBnXkFtZTcwOTE3MDAxMw@@._V1_.jpg",
+              "width": 1513,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Fr. Zeitlinger"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0427728",
+          "display_name": "Cherry Jones",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyMzY0NjQ4N15BMl5BanBnXkFtZTcwNjczMTIxMw@@._V1_.jpg",
+              "width": 273,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Ruth"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0925877",
+          "display_name": "Patrick Whitesell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk0NjYxMzYxOV5BMl5BanBnXkFtZTgwODYyOTU1NDE@._V1_.jpg",
+              "width": 241,
+              "height": 270
+            }
+          ]
+        },
+        "characters": [
+          "Agent #1"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7821366",
+          "display_name": "Rick Hess",
+          "avatars": null
+        },
+        "characters": [
+          "Agent #2"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "title": {
+    "id": "tt1638355",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Man from U.N.C.L.E.",
+    "original_title": null,
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 116,
+    "plot": "In the early 1960s, CIA agent Napoleon Solo and KGB operative Illya Kuryakin participate in a joint mission against a mysterious criminal organization, which is working to proliferate nuclear weapons.",
+    "rating": {
+      "aggregate_rating": 7.2,
+      "votes_count": 333013
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTZmMWFhYmQtZDE5YS00YzBlLWJlOGEtYzAwNGU1YzVlYjZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "width": 1984,
+        "height": 2939
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "ita",
+        "name": "Italian"
+      },
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 56,
+      "review_count": 40
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0005363",
+          "display_name": "Guy Ritchie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM2NDkxMTcxMl5BMl5BanBnXkFtZTcwNTMyNjI5MQ@@._V1_.jpg",
+              "width": 291,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0005363",
+          "display_name": "Guy Ritchie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM2NDkxMTcxMl5BMl5BanBnXkFtZTcwNTMyNjI5MQ@@._V1_.jpg",
+              "width": 291,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0927880",
+          "display_name": "Lionel Wigram",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTczNDczODk2N15BMl5BanBnXkFtZTcwMjk4NDM3Mg@@._V1_.jpg",
+              "width": 1015,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0458566",
+          "display_name": "Jeff Kleeman",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0933276",
+          "display_name": "David C. Wilson",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0738222",
+          "display_name": "Sam Rolfe",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0147147",
+          "display_name": "Henry Cavill",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODI0MTYzNTIxNl5BMl5BanBnXkFtZTcwNjg2Nzc0NA@@._V1_.jpg",
+              "width": 627,
+              "height": 744
+            }
+          ]
+        },
+        "characters": [
+          "Solo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2309517",
+          "display_name": "Armie Hammer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzI3NTYwMzIxM15BMl5BanBnXkFtZTcwMzI1ODY1NA@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Illya"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2539953",
+          "display_name": "Alicia Vikander",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzg1MzQyYTktN2U3Ni00ZTQ2LThkMjEtODcxY2UyNmM5ZDBhXkEyXkFqcGdeQXVyMTExNzQ3MzAw._V1_.jpg",
+              "width": 642,
+              "height": 678
+            }
+          ]
+        },
+        "characters": [
+          "Gaby"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4456120",
+          "display_name": "Elizabeth Debicki",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWRiNzczYzMtOGE1Yi00Njg0LWFkNTUtYzE3NmVkZDZkMjg5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 450,
+              "height": 555
+            }
+          ]
+        },
+        "characters": [
+          "Victoria"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1017719",
+          "display_name": "Luca Calvani",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEzOTIwODYzNl5BMl5BanBnXkFtZTcwMjE0MTA0MQ@@._V1_.jpg",
+              "width": 350,
+              "height": 485
+            }
+          ]
+        },
+        "characters": [
+          "Alexander"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0343857",
+          "display_name": "Sylvester Groth",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTgzMGU4YzItNGVjNi00ODY5LWIyY2EtZDIxMDM5NGYzZDk5XkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_.jpg",
+              "width": 600,
+              "height": 900
+            }
+          ]
+        },
+        "characters": [
+          "Uncle Rudi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000424",
+          "display_name": "Hugh Grant",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc4MTgxOTk2Ml5BMl5BanBnXkFtZTcwNzMwMjYwMw@@._V1_.jpg",
+              "width": 299,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Waverly"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0364813",
+          "display_name": "Jared Harris",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODgyOTdjZjAtYmI2MS00ZjdhLTk0NzMtNGRhYjI4NTE3MjBhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "width": 3000,
+              "height": 2999
+            }
+          ]
+        },
+        "characters": [
+          "Sanders"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0075321",
+          "display_name": "Christian Berkel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc2MDIzOTcwMV5BMl5BanBnXkFtZTcwNzkwNzAyMg@@._V1_.jpg",
+              "width": 283,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Udo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1296172",
+          "display_name": "Misha Kuznetsov",
+          "avatars": null
+        },
+        "characters": [
+          "Oleg"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7499179",
+          "display_name": "Guy Williams",
+          "avatars": null
+        },
+        "characters": [
+          "Captain Smith"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4350702",
+          "display_name": "Marianna Di Martino",
+          "avatars": null
+        },
+        "characters": [
+          "Desk Clerk"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6111803",
+          "display_name": "Julian M. Deuster",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODg5MzJmYjEtMTJiNS00NWIyLWI5NmQtZWI1YmQ4ZmFiNjJhXkEyXkFqcGdeQXVyNDc3MDM5NDE@._V1_.jpg",
+              "width": 914,
+              "height": 1280
+            }
+          ]
+        },
+        "characters": [
+          "Assistant"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0128548",
+          "display_name": "Andrea Cagliesi",
+          "avatars": null
+        },
+        "characters": [
+          "Fishing Captain"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1941461",
+          "display_name": "Riccardo Calvanese",
+          "avatars": null
+        },
+        "characters": [
+          "Man 2"
+        ]
+      }
+    ]
+  }
+}

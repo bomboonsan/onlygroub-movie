@@ -1,0 +1,69 @@
+{
+  "title": {
+    "id": "tt3402236",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Murder on the Orient Express",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 114,
+    "plot": "When a murder occurs on the train on which he's travelling, celebrated detective Hercule Poirot is recruited to solve the case.",
+    "rating": {
+      "aggregate_rating": 6.5,
+      "votes_count": 292469
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTk5OGFiYzktMTkwNS00ZjQ5LWFkNGQtNGM0MjA4MWE2MDIwXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_.jpg",
+        "width": 2025,
+        "height": 3000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      },
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 52,
+      "review_count": 46
+    },
+    "directors": null,
+    "writers": null,
+    "casts": null
+  }
+}

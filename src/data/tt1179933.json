@@ -1,0 +1,240 @@
+{
+  "title": {
+    "id": "tt1179933",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "10 Cloverfield Lane",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 103,
+    "plot": "A young woman is held in an underground bunker by a man who insists that a hostile event has left the surface of the Earth uninhabitable.",
+    "rating": {
+      "aggregate_rating": 7.2,
+      "votes_count": 355233
+    },
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjEzMjczOTIxMV5BMl5BanBnXkFtZTgwOTUwMjI3NzE@._V1_.jpg",
+        "width": 831,
+        "height": 1231
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 76,
+      "review_count": 43
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0870469",
+          "display_name": "Dan Trachtenberg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc5NTQzNDAwNV5BMl5BanBnXkFtZTgwODYyNTMyODE@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1061091",
+          "display_name": "Josh Campbell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA0NzM5NDM2Nl5BMl5BanBnXkFtZTgwOTg5OTgyODE@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1173295",
+          "display_name": "Matt Stuecken",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm3227090",
+          "display_name": "Damien Chazelle",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE2MzcyODA3MV5BMl5BanBnXkFtZTgwNTA3NTU2MjE@._V1_.jpg",
+              "width": 1456,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000422",
+          "display_name": "John Goodman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTk1MzAzMDUxMF5BMl5BanBnXkFtZTgwODgyMTQxNjM@._V1_.jpg",
+              "width": 1535,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Howard"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0935541",
+          "display_name": "Mary Elizabeth Winstead",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGNhZDVjM2MtMGQ2Mi00ZjRmLWJkZDUtYmMzOWZjMWFmNGUxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "width": 2912,
+              "height": 4240
+            }
+          ]
+        },
+        "characters": [
+          "Michelle"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0302330",
+          "display_name": "John Gallagher Jr.",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDY3NTcwY2UtZDc0Ni00NGI1LWE3YTUtYTI3NjdiNDQwY2JmXkEyXkFqcGdeQXVyNjk1MjYyNTA@._V1_.jpg",
+              "width": 704,
+              "height": 912
+            }
+          ]
+        },
+        "characters": [
+          "Emmett"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0341174",
+          "display_name": "Douglas M. Griffin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzRkY2FlY2YtYmIzMy00MmJmLTk1MDItOGI3MjE1YzJmOWU3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2848,
+              "height": 4288
+            }
+          ]
+        },
+        "characters": [
+          "Driver"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0190550",
+          "display_name": "Suzanne Cryer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTliNTlhY2YtYTY4My00MGU3LWE0YTItYWJmYWU0NGUyN2ExXkEyXkFqcGdeQXVyMzcwNzAyMw@@._V1_.jpg",
+              "width": 700,
+              "height": 892
+            }
+          ]
+        },
+        "characters": [
+          "Woman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0177896",
+          "display_name": "Bradley Cooper",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM0OTIyMzY1M15BMl5BanBnXkFtZTgwMTg0OTE0NzE@._V1_.jpg",
+              "width": 2341,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Ben"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0599019",
+          "display_name": "Sumalee Montano",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmE3NTQ2ZmItZmFhNi00YzYzLWE3NDgtYTk5OTVkYTUyOGZhXkEyXkFqcGdeQXVyMjc3Nzg3OTA@._V1_.jpg",
+              "width": 644,
+              "height": 718
+            }
+          ]
+        },
+        "characters": [
+          "Voice on Radio"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3816936",
+          "display_name": "Frank Mottek",
+          "avatars": null
+        },
+        "characters": [
+          "Radio Broadcaster"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5932170",
+          "display_name": "Kayla Bechor",
+          "avatars": null
+        },
+        "characters": [
+          "Paper girl"
+        ]
+      }
+    ]
+  }
+}

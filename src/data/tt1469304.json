@@ -1,0 +1,366 @@
+{
+  "title": {
+    "id": "tt1469304",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Baywatch",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 116,
+    "plot": "Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit, as they uncover a criminal plot that threatens the future of the bay.",
+    "rating": {
+      "aggregate_rating": 5.5,
+      "votes_count": 202393
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTA4MjQ0ODQzNF5BMl5BanBnXkFtZTgwNzA5NjYzMjI@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CN",
+        "name": "China"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 37,
+      "review_count": 47
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1164861",
+          "display_name": "Seth Gordon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAzOTkyNTkyN15BMl5BanBnXkFtZTYwNzIzMDA3._V1_.jpg",
+              "width": 450,
+              "height": 578
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0075276",
+          "display_name": "Michael Berk",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM2ODk2NTIwNl5BMl5BanBnXkFtZTgwMDE4ODQwNzE@._V1_.jpg",
+              "width": 767,
+              "height": 1026
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0777209",
+          "display_name": "Douglas Schwartz",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0093748",
+          "display_name": "Gregory J. Bonann",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0771065",
+          "display_name": "Jay Scherick",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0740115",
+          "display_name": "David Ronn",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0425005",
+          "display_name": "Dwayne Johnson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWU1ODBiNGUtMzVjNi00MzdhLTk0OTktOWRiOTIxMWNhOGI2XkEyXkFqcGdeQXVyMTU2OTM5NDQw._V1_.jpg",
+              "width": 5464,
+              "height": 8192
+            }
+          ]
+        },
+        "characters": [
+          "Mitch Buchannon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1374980",
+          "display_name": "Zac Efron",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUxNzY3NzYwOV5BMl5BanBnXkFtZTgwNzQ3Mzc4MTI@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Matt Brody"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1231899",
+          "display_name": "Priyanka Chopra Jonas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAxNzUwNjExOV5BMl5BanBnXkFtZTcwNDUyMTUxNw@@._V1_.jpg",
+              "width": 2048,
+              "height": 1529
+            }
+          ]
+        },
+        "characters": [
+          "Victoria Leeds"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1275259",
+          "display_name": "Alexandra Daddario",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY3Nzg2NjA1OF5BMl5BanBnXkFtZTgwMjY5NTU1MzI@._V1_.jpg",
+              "width": 309,
+              "height": 419
+            }
+          ]
+        },
+        "characters": [
+          "Summer Quinn"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4859097",
+          "display_name": "Kelly Rohrbach",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY2NDc2Njk1M15BMl5BanBnXkFtZTgwNjUyNjM5MTI@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "CJ Parker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3947644",
+          "display_name": "Ilfenesh Hadera",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWJlODA5YjktM2JjOC00MzM5LTkzYjgtYmQ1NzhkZDNjYzMyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1638,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Stephanie Holden"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4723712",
+          "display_name": "Jon Bass",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDZiMmNjZDQtNDI3YS00ZDg3LWIwOTItZjk4N2U1MjUyZWMxXkEyXkFqcGdeQXVyMjM5Njg4MjM@._V1_.jpg",
+              "width": 1440,
+              "height": 1440
+            }
+          ]
+        },
+        "characters": [
+          "Ronnie Greenbaum"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5584344",
+          "display_name": "Yahya Abdul-Mateen II",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzhmYWI3MmItYTFiYy00MzhhLTlmMzgtMjY1YzgwNDk5NzYyXkEyXkFqcGdeQXVyNTg1MTg0MzY@._V1_.jpg",
+              "width": 1600,
+              "height": 1758
+            }
+          ]
+        },
+        "characters": [
+          "Sgt. Ellerbee"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2868110",
+          "display_name": "Hannibal Buress",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzMyYTg3YmEtZjJkZC00NjIzLWE1NWItZTNkODg3NDgzOGI1XkEyXkFqcGdeQXVyMTUyMTgzNjY4._V1_.jpg",
+              "width": 2048,
+              "height": 1536
+            }
+          ]
+        },
+        "characters": [
+          "Dave the Tech"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1097364",
+          "display_name": "Rob Huebel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTA5OTAyOTI0NF5BMl5BanBnXkFtZTcwODI2NDIzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 533
+            }
+          ]
+        },
+        "characters": [
+          "Captain Thorpe"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1514763",
+          "display_name": "Amin Joseph",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTdkYTZmMzItZGY3Zi00ZWVmLWI2NGItNTE1MTQ4MzRkMmRhXkEyXkFqcGdeQXVyMjAxNzIwNTQ@._V1_.jpg",
+              "width": 1024,
+              "height": 691
+            }
+          ]
+        },
+        "characters": [
+          "Frankie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4477836",
+          "display_name": "Jack Kesy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzUyZTg1OGYtNmIzNC00NjUzLWEwYWUtZTIwOTg5ZGZjNzFlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 750,
+              "height": 747
+            }
+          ]
+        },
+        "characters": [
+          "Leon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1386645",
+          "display_name": "Oscar Nuñez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc1OTEyMjM4M15BMl5BanBnXkFtZTgwNTI3MTg0MjE@._V1_.jpg",
+              "width": 1561,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Councilman Rodriguez"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001327",
+          "display_name": "David Hasselhoff",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI5OTI0NDkxOF5BMl5BanBnXkFtZTcwMjExMTQxMw@@._V1_.jpg",
+              "width": 310,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "The Mentor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000097",
+          "display_name": "Pamela Anderson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWYzODg5NDAtZjFjZS00YmQyLWFhZmMtNjBhY2QyOTljZGVmXkEyXkFqcGdeQXVyNjIwMTQzOTU@._V1_.jpg",
+              "width": 1280,
+              "height": 1657
+            }
+          ]
+        },
+        "characters": [
+          "Casey Jean Parker"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "title": {
+    "id": "tt6259380",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Code 8",
+    "original_title": null,
+    "start_year": 2019,
+    "end_year": null,
+    "runtime_minutes": 98,
+    "plot": "A super-powered construction worker falls in with a group of criminals in order to raise the funds to help his ill mother.",
+    "rating": {
+      "aggregate_rating": 6.1,
+      "votes_count": 52527
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmQ2NWMyZDgtNWQ5My00ZmQwLWE0MTQtN2ZiNjY2ODc0Y2YxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "width": 1011,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "Not Rated"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      }
+    ],
+    "critic_review": {
+      "score": 48,
+      "review_count": 5
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm3728712",
+          "display_name": "Jeff Chan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWM5MGUyOWQtYTExYy00ODFmLTgxZTctM2U0MDA0YzUxZjJjXkEyXkFqcGdeQXVyMzE5NDIyODU@._V1_.jpg",
+              "width": 1516,
+              "height": 1364
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2425790",
+          "display_name": "Chris Pare",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm3728712",
+          "display_name": "Jeff Chan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWM5MGUyOWQtYTExYy00ODFmLTgxZTctM2U0MDA0YzUxZjJjXkEyXkFqcGdeQXVyMzE5NDIyODU@._V1_.jpg",
+              "width": 1516,
+              "height": 1364
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0558182",
+          "display_name": "Kari Matchett",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQwMjAwOTE4OV5BMl5BanBnXkFtZTcwMDQwODMzMQ@@._V1_.jpg",
+              "width": 406,
+              "height": 588
+            }
+          ]
+        },
+        "characters": [
+          "Mary Reed"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2064412",
+          "display_name": "Robbie Amell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE2OTMyMDM2Ml5BMl5BanBnXkFtZTgwNDAyMjU4NzE@._V1_.jpg",
+              "width": 353,
+              "height": 500
+            }
+          ]
+        },
+        "characters": [
+          "Connor Reed"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2818965",
+          "display_name": "Penny Eizenga",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDhiYTNiZjEtMDg0Mi00N2RmLWI2OGUtOGE5ZmIyZTgzYTY5XkEyXkFqcGdeQXVyMTQyMjQxNzA@._V1_.jpg",
+              "width": 3000,
+              "height": 2000
+            }
+          ]
+        },
+        "characters": [
+          "Receptionist"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0063143",
+          "display_name": "Lawrence Bayne",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjgxMzM3ZTQtZjY5Zi00ODc5LWIxNDYtNWFlMDljMmEzMDBlXkEyXkFqcGdeQXVyNjM0OTU2OQ@@._V1_.jpg",
+              "width": 1198,
+              "height": 1198
+            }
+          ]
+        },
+        "characters": [
+          "Big Joe"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0428291",
+          "display_name": "Jai Jai Jones",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDFmNjYwMTAtNzZjNy00ZTc3LWFmZjUtMWZmNDQzYWViM2ZlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1760,
+              "height": 1440
+            }
+          ]
+        },
+        "characters": [
+          "Travis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3520506",
+          "display_name": "Alex Mallari Jr.",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTgxNjBhOWYtZjBhMS00NzhiLTg0OTQtNDdkYTg1ZWEzZjBmXkEyXkFqcGdeQXVyMjAxNTE1NTk@._V1_.jpg",
+              "width": 1600,
+              "height": 1065
+            }
+          ]
+        },
+        "characters": [
+          "Kingston"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0072648",
+          "display_name": "Shaun Benson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWNjMzZiNDAtMDRjNy00N2RiLWI5MTYtZWQzZGRhZDAzNzIxXkEyXkFqcGdeQXVyMTk0Mzk4OTE@._V1_.jpg",
+              "width": 3249,
+              "height": 4874
+            }
+          ]
+        },
+        "characters": [
+          "Dixon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0437646",
+          "display_name": "Sung Kang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTEyMzMyMjQyMjFeQTJeQWpwZ15BbWU3MDkyMjU1NTk@._V1_.jpg",
+              "width": 1361,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Park"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1378320",
+          "display_name": "Aaron Abrams",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGYxZGE1NGQtZDU2Mi00NDlkLWI3OTctMmRiMjM2Yjk0NTFkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1920,
+              "height": 1509
+            }
+          ]
+        },
+        "characters": [
+          "Davis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0730045",
+          "display_name": "Martin Roach",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjEyMjliYTEtYWU3OC00OWU5LWEyNGYtNDY1ZDdmMzBkMThjL2ltYWdlXkEyXkFqcGdeQXVyNTU4NjY5MzM@._V1_.jpg",
+              "width": 1000,
+              "height": 667
+            }
+          ]
+        },
+        "characters": [
+          "Captain Milltown"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6970024",
+          "display_name": "Nneka Elliott",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWJjNGZhZGYtNjAxYi00NTEzLTk4ZTMtZjdiNDI1MDc1NjQwXkEyXkFqcGdeQXVyNDU4MjU4ODE@._V1_.jpg",
+              "width": 3648,
+              "height": 3485
+            }
+          ]
+        },
+        "characters": [
+          "Reporter"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8088536",
+          "display_name": "Matthew Gouveia",
+          "avatars": null
+        },
+        "characters": [
+          "Dave - Grocery Store Manager"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3749442",
+          "display_name": "Kevin Claydon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDRiOGM1MDgtZGZlNi00MDNiLWIxYmYtNDVhMWU2M2QxNDJkXkEyXkFqcGc@._V1_.jpg",
+              "width": 3326,
+              "height": 4469
+            }
+          ]
+        },
+        "characters": [
+          "Truck Passenger"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1854386",
+          "display_name": "Stephen Amell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDkwZmZiMDItY2YxMC00NzA5LThlZjItZTQ0MzVkZjg4NzQwXkEyXkFqcGdeQXVyMTQyNzc5MjI@._V1_.jpg",
+              "width": 1280,
+              "height": 1920
+            }
+          ]
+        },
+        "characters": [
+          "Garrett"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5315658",
+          "display_name": "Laysla De Oliveira",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTZlNTY1OTktNWI4NC00YTdlLWI3NjQtODhiZThkZDIyYjM1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1125,
+              "height": 1488
+            }
+          ]
+        },
+        "characters": [
+          "Maddy"
+        ]
+      }
+    ]
+  }
+}

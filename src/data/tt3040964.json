@@ -1,0 +1,339 @@
+{
+  "title": {
+    "id": "tt3040964",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Jungle Book",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 106,
+    "plot": "After a threat from the tiger Shere Khan forces him to flee the jungle, a man-cub named Mowgli embarks on a journey of self discovery with the help of panther Bagheera and free-spirited bear Baloo.",
+    "rating": {
+      "aggregate_rating": 7.4,
+      "votes_count": 292300
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Drama",
+      "Family",
+      "Fantasy",
+      "Musical"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTc3NTUzNTI4MV5BMl5BanBnXkFtZTgwNjU0NjU5NzE@._V1_.jpg",
+        "width": 864,
+        "height": 1280
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "IN",
+        "name": "India"
+      },
+      {
+        "code": "NZ",
+        "name": "New Zealand"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 77,
+      "review_count": 49
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0269463",
+          "display_name": "Jon Favreau",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjcwNzg4MjktNDNlMC00M2U1LWJmMjgtZTVkMmI4MDI2MTVmXkEyXkFqcGdeQXVyMjI4MDI0NTM@._V1_.jpg",
+              "width": 1000,
+              "height": 1333
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1098479",
+          "display_name": "Justin Marks",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGU5MDlhMTUtMGQ0YS00NmRiLThkODEtMWIzYjIwZGJhYTMzXkEyXkFqcGdeQXVyMTgxNDA1OTQ@._V1_.jpg",
+              "width": 398,
+              "height": 440
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0456017",
+          "display_name": "Rudyard Kipling",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjYzYTdjMDMtZTdhNC00NzA4LTg3YzEtYWZlZjAwYTdjNmQzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg",
+              "width": 1200,
+              "height": 1200
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm5888481",
+          "display_name": "Neel Sethi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWVkY2Y2ZGItMjhhMC00MmRhLTgyZmQtY2I0NDhlODEwNWQyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1800,
+              "height": 2700
+            }
+          ]
+        },
+        "characters": [
+          "Mowgli"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000195",
+          "display_name": "Bill Murray",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ1OTM0MjEwOF5BMl5BanBnXkFtZTYwNTQwNzI1._V1_.jpg",
+              "width": 274,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Baloo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001426",
+          "display_name": "Ben Kingsley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTU2Njg2NzM4M15BMl5BanBnXkFtZTgwNjYwNjQwMTI@._V1_.jpg",
+              "width": 595,
+              "height": 807
+            }
+          ]
+        },
+        "characters": [
+          "Bagheera"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0252961",
+          "display_name": "Idris Elba",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzEzMTI2NjEyNF5BMl5BanBnXkFtZTcwNTA0OTE4OA@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Shere Khan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2143282",
+          "display_name": "Lupita Nyong'o",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY0NTQ4MDY2Nl5BMl5BanBnXkFtZTgwNDk1MTEyMDE@._V1_.jpg",
+              "width": 1360,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Raksha"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0424060",
+          "display_name": "Scarlett Johansson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM3OTUwMDYwNl5BMl5BanBnXkFtZTcwNTUyNzc3Nw@@._V1_.jpg",
+              "width": 1689,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Kaa"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0002064",
+          "display_name": "Giancarlo Esposito",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEyODM1NjI0OF5BMl5BanBnXkFtZTcwMTE0OTA1Mg@@._V1_.jpg",
+              "width": 281,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Akela"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000686",
+          "display_name": "Christopher Walken",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA4ODUyNDQ2NV5BMl5BanBnXkFtZTYwODk2MTYz._V1_.jpg",
+              "width": 278,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "King Louie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0788009",
+          "display_name": "Garry Shandling",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODkzMzAxMDMzOV5BMl5BanBnXkFtZTgwNzE2NDM0ODE@._V1_.jpg",
+              "width": 2048,
+              "height": 1453
+            }
+          ]
+        },
+        "characters": [
+          "Ikki"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11957946",
+          "display_name": "Brighton Rose Favreau",
+          "avatars": null
+        },
+        "characters": [
+          "Gray"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3492402",
+          "display_name": "Emjay Anthony",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2M2NWY1M2QtZWM0Zi00ZDQwLWFkYjAtNWIwMDZkZjMwMWNkXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 829,
+              "height": 1173
+            }
+          ]
+        },
+        "characters": [
+          "Young Wolf"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3528705",
+          "display_name": "Max Favreau",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODU1OWFmOTEtNDZkMS00YzNlLThmNjMtMmIyOWJkNzU5ZjhjXkEyXkFqcGdeQXVyNDAxOTExNTM@._V1_.jpg",
+              "width": 1920,
+              "height": 818
+            }
+          ]
+        },
+        "characters": [
+          "Young Wolf"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8041206",
+          "display_name": "Chloe Hechter",
+          "avatars": null
+        },
+        "characters": [
+          "Young Wolf"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6239143",
+          "display_name": "Asher Blinkoff",
+          "avatars": null
+        },
+        "characters": [
+          "Young Wolf"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8041207",
+          "display_name": "Knox Gagnon",
+          "avatars": null
+        },
+        "characters": [
+          "Young Wolf"
+        ]
+      }
+    ]
+  }
+}

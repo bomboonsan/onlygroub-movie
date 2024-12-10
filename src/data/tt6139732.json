@@ -1,0 +1,353 @@
+{
+  "title": {
+    "id": "tt6139732",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Aladdin",
+    "original_title": null,
+    "start_year": 2019,
+    "end_year": null,
+    "runtime_minutes": 128,
+    "plot": "A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.",
+    "rating": {
+      "aggregate_rating": 6.9,
+      "votes_count": 287338
+    },
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Musical",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjQ2ODIyMjY4MF5BMl5BanBnXkFtZTgwNzY4ODI2NzM@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "CN",
+        "name": "China"
+      },
+      {
+        "code": "CZ",
+        "name": "Czechia"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "RS",
+        "name": "Serbia"
+      },
+      {
+        "code": "SG",
+        "name": "Singapore"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 53,
+      "review_count": 50
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0005363",
+          "display_name": "Guy Ritchie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM2NDkxMTcxMl5BMl5BanBnXkFtZTcwNTMyNjI5MQ@@._V1_.jpg",
+              "width": 291,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0041864",
+          "display_name": "John August",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzQzMDU1ODQtMDBhNi00ODNlLWIyZmYtMjgzNzI4NmZiZDUxXkEyXkFqcGdeQXVyOTcwNDUyNzc@._V1_.jpg",
+              "width": 1000,
+              "height": 1500
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0005363",
+          "display_name": "Guy Ritchie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM2NDkxMTcxMl5BMl5BanBnXkFtZTcwNTMyNjI5MQ@@._V1_.jpg",
+              "width": 291,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000226",
+          "display_name": "Will Smith",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTczMzk1MjU1MV5BMl5BanBnXkFtZTcwNDk2MzAyMg@@._V1_.jpg",
+              "width": 276,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Genie",
+          "Mariner"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4565815",
+          "display_name": "Mena Massoud",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjg3ZjZhOTMtMGZjOS00MjM2LWI2MmQtNTNhYTY1NGJiOTI0XkEyXkFqcGdeQXVyMjc2MTIzNjg@._V1_.jpg",
+              "width": 1280,
+              "height": 1920
+            }
+          ]
+        },
+        "characters": [
+          "Aladdin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4305463",
+          "display_name": "Naomi Scott",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2EzOTA5OGItNjljZi00YWQ2LWFlMWEtNzE0NDFlMzVjYzE5XkEyXkFqcGdeQXVyNDU1NjUxOTc@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Jasmine"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3092471",
+          "display_name": "Marwan Kenzari",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWY1ZWJjNWEtN2ZjNS00ZTk2LWJmZTctNjNkNDY3Y2QxMGY2XkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_.jpg",
+              "width": 818,
+              "height": 1222
+            }
+          ]
+        },
+        "characters": [
+          "Jafar"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1041023",
+          "display_name": "Navid Negahban",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGEwM2VmYzItYjlhMC00YzRjLTgxOGYtZTdiMWY2YjkyNjI3XkEyXkFqcGdeQXVyMTQzMDU3Nw@@._V1_.jpg",
+              "width": 1600,
+              "height": 2195
+            }
+          ]
+        },
+        "characters": [
+          "Sultan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1840659",
+          "display_name": "Nasim Pedrad",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI2NTY1NzEzM15BMl5BanBnXkFtZTgwNzExMjg1NTM@._V1_.jpg",
+              "width": 693,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Dalia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2915105",
+          "display_name": "Billy Magnussen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzA5YWUyMDMtZGVjNS00NTk0LThlNjktZTc0NzVlOTVkYTQyXkEyXkFqcGdeQXVyMTgzNjI2ODI@._V1_.jpg",
+              "width": 1366,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Prince Anders"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5636183",
+          "display_name": "Jordan A. Nash",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzI3YTY2ODQtZjZhZC00ZjY3LTg1YjktNTAwMjk0NmEyZDJiXkEyXkFqcGdeQXVyNDYyMTMwNjE@._V1_.jpg",
+              "width": 4000,
+              "height": 6000
+            }
+          ]
+        },
+        "characters": [
+          "Omar"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10382002",
+          "display_name": "Taliyah Blair",
+          "avatars": null
+        },
+        "characters": [
+          "Lian"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9703609",
+          "display_name": "Aubrey Lin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM5Y2FmZmUtODM3ZS00ZTdlLTlkNmMtZTQxNzZjNzBmMjI4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1800,
+              "height": 2424
+            }
+          ]
+        },
+        "characters": [
+          "Omi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3281314",
+          "display_name": "Amir Boutrous",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDY4ZTllOTMtYjNjNS00MjAyLTkzOTktZDEwM2Q1MDU4MWQ1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3280,
+              "height": 4928
+            }
+          ]
+        },
+        "characters": [
+          "Jamal"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1485637",
+          "display_name": "Numan Acar",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2ZkYTQ0MTEtYmFjMi00OTcyLThjZjQtYjU2ZjE5YzgyMzQwXkEyXkFqcGdeQXVyMjM2MTczMjQ@._V1_.jpg",
+              "width": 808,
+              "height": 830
+            }
+          ]
+        },
+        "characters": [
+          "Hakim"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9528412",
+          "display_name": "Omari Bernard",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGIyMjI5ODgtYmQ4My00MmE0LTkwMmItOGFjZTU4YzQ0ZmQ4XkEyXkFqcGdeQXVyODQwMjM2MDg@._V1_.jpg",
+              "width": 2240,
+              "height": 3360
+            }
+          ]
+        },
+        "characters": [
+          "Guard #1"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9108970",
+          "display_name": "Nathaniel Ellul",
+          "avatars": null
+        },
+        "characters": [
+          "Guard #2"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0868088",
+          "display_name": "Sebastien Torkia",
+          "avatars": null
+        },
+        "characters": [
+          "Guard #3"
+        ]
+      }
+    ]
+  }
+}

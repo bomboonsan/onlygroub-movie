@@ -1,0 +1,397 @@
+{
+  "title": {
+    "id": "tt3794354",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Sonic the Hedgehog",
+    "original_title": null,
+    "start_year": 2020,
+    "end_year": null,
+    "runtime_minutes": 99,
+    "plot": "After discovering a small, blue, fast hedgehog, a small-town police officer must help him defeat an evil genius who wants to do experiments on him.",
+    "rating": {
+      "aggregate_rating": 6.5,
+      "votes_count": 159769
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTdmNmI4MzQtZTAzNS00MjhjLWEzOGQtZjI1NDNjZjk4N2JjXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_.jpg",
+        "width": 1080,
+        "height": 1596
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fas",
+        "name": "Persian"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "JP",
+        "name": "Japan"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 47,
+      "review_count": 43
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1733778",
+          "display_name": "Jeff Fowler",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDU0OGEyOTMtYzMwZS00ZmVkLTk5N2QtNGFkNzAxZDIxMTcwXkEyXkFqcGdeQXVyNTkwNjEyNw@@._V1_.jpg",
+              "width": 1248,
+              "height": 1089
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1352459",
+          "display_name": "Pat Casey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDdmMTcxN2UtZmVkMC00NmFmLWEzNTUtMDIxNWNmZjE2ZGE4XkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg",
+              "width": 2600,
+              "height": 3637
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1351254",
+          "display_name": "Josh Miller",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzk3MTM2MGItZDNhNi00ZjI3LTkyNjItYzVmZDI0ZjdkZmFhXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg",
+              "width": 5508,
+              "height": 3840
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0619913",
+          "display_name": "Yuji Naka",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjVlZThhMjgtZWYxNy00MTA5LTg2NDEtZGIxYjVlMjAxYjI3XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 620,
+              "height": 431
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1398795",
+          "display_name": "Naoto Ohshima",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjIyNjdlNGItNmY1Yy00OWJmLTkxOTQtN2RmMTk1MDFkYjE0XkEyXkFqcGdeQXVyNzY1ODU1OTk@._V1_.jpg",
+              "width": 524,
+              "height": 640
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1432739",
+          "display_name": "Hirokazu Yasuhara",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDBhMDkwYjAtMzdiYi00Zjg0LTljYjgtNGYwZWI0NmM0ZGMwXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 803,
+              "height": 1127
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm2355635",
+          "display_name": "Ben Schwartz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWRmMWNjOWMtN2Y3NC00MDc3LWI0MzItMDUyNWJkZTBjYTJhXkEyXkFqcGdeQXVyMTA2OTUzODM@._V1_.jpg",
+              "width": 2783,
+              "height": 2525
+            }
+          ]
+        },
+        "characters": [
+          "Sonic"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005188",
+          "display_name": "James Marsden",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQyOTUzNjc0MF5BMl5BanBnXkFtZTcwNTYyMDYzMw@@._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Tom"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000120",
+          "display_name": "Jim Carrey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQwMjAwNzI0M15BMl5BanBnXkFtZTcwOTY1MTMyOQ@@._V1_.jpg",
+              "width": 1665,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Robotnik"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1754366",
+          "display_name": "Tika Sumpter",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGQxNjdiOTctZjNiZS00YTU2LTgzMGYtZDdiNmJhMDVjN2NkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 4500,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Maddie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5625020",
+          "display_name": "Natasha Rothwell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODIyY2I4MTEtNjRjZi00MDI2LThiYzQtYTcxM2YzZWQ0OWUzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 400,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Rachel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1269723",
+          "display_name": "Adam Pally",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU0NzU3NjY5OV5BMl5BanBnXkFtZTgwMzM3MTk2MTE@._V1_.jpg",
+              "width": 1439,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Wade"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2837384",
+          "display_name": "Lee Majdoub",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQ0MzRkMjctZDVkOC00OWNkLWI0NzEtNThjMzI1NWVmZWU3XkEyXkFqcGdeQXVyMjQwNTc1MTU@._V1_.jpg",
+              "width": 597,
+              "height": 787
+            }
+          ]
+        },
+        "characters": [
+          "Agent Stone"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0568180",
+          "display_name": "Neal McDonough",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTViNzE5MTItODVkYy00NWZiLThlNDMtZTc4Njg0ZTEwODM2XkEyXkFqcGdeQXVyOTQ4NzcwOQ@@._V1_.jpg",
+              "width": 1197,
+              "height": 2511
+            }
+          ]
+        },
+        "characters": [
+          "Major Bennington"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0125148",
+          "display_name": "Tom Butler",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDQ1NTU1NDUxN15BMl5BanBnXkFtZTcwNTYxMDk1NQ@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Vice Chairman Walters"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0003964",
+          "display_name": "Frank C. Turner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM3MDAzNTQ2M15BMl5BanBnXkFtZTgwOTE1NjczMjE@._V1_.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ]
+        },
+        "characters": [
+          "Crazy Carl"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9961714",
+          "display_name": "Melody Nosipho Niemann",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc3MmY3NTktNmVlMi00N2ZmLWIwZTUtYzRmNjhhZWJkMjFjXkEyXkFqcGdeQXVyMTUyMTgzNzEy._V1_.jpg",
+              "width": 3024,
+              "height": 4032
+            }
+          ]
+        },
+        "characters": [
+          "Jojo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1275101",
+          "display_name": "Shannon Chan-Kent",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGFjYzU5N2YtYTYzMC00ZTEwLTllY2UtMDgwNGM2MDhkYzVjXkEyXkFqcGdeQXVyNTMzMzAyODc@._V1_.jpg",
+              "width": 5472,
+              "height": 3648
+            }
+          ]
+        },
+        "characters": [
+          "Roadhouse Waitress"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0446219",
+          "display_name": "Brad Kelly",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTFlMzMyMGYtZTgxNS00MWFiLWFjZmItNGIzZTdkZTM4ODA3XkEyXkFqcGdeQXVyMTExMTc3NzU5._V1_.jpg",
+              "width": 280,
+              "height": 392
+            }
+          ]
+        },
+        "characters": [
+          "Roadhouse Thug"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2089175",
+          "display_name": "Elfina Luk",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2Y2YjhhNzktNTdmZS00ZmUxLWEwZDktNGI0YmNhNjI2ZDQ2XkEyXkFqcGdeQXVyNzkxMTE2MQ@@._V1_.jpg",
+              "width": 3051,
+              "height": 4573
+            }
+          ]
+        },
+        "characters": [
+          "Secretary of Homeland Security"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0149942",
+          "display_name": "Garry Chalk",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDIyMzg3NDYwNF5BMl5BanBnXkFtZTYwNTkwNDA3._V1_.jpg",
+              "width": 485,
+              "height": 687
+            }
+          ]
+        },
+        "characters": [
+          "Navy Chief of Staff"
+        ]
+      }
+    ]
+  }
+}

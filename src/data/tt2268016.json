@@ -1,0 +1,302 @@
+{
+  "title": {
+    "id": "tt2268016",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Magic Mike XXL",
+    "original_title": null,
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 115,
+    "plot": "Three years after Mike bowed out of the stripper life at the top of his game, he and the remaining Kings of Tampa hit the road to Myrtle Beach to put on one last blow-out performance.",
+    "rating": {
+      "aggregate_rating": 5.6,
+      "votes_count": 61382
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDMyODU3ODk3Ml5BMl5BanBnXkFtZTgwNDc1ODkwNjE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 61,
+      "review_count": 40
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0414423",
+          "display_name": "Gregory Jacobs",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmQ0N2M5OWEtZTRiMS00YzI0LWE1Y2EtNGE2YjRmZDFmYjhjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1201,
+              "height": 1800
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1730221",
+          "display_name": "Reid Carolin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyNzI2ODQ3Nl5BMl5BanBnXkFtZTcwNDA4OTMwOA@@._V1_.jpg",
+              "width": 1398,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1475594",
+          "display_name": "Channing Tatum",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTc2NTEwNV5BMl5BanBnXkFtZTgwNDgxMjMxNjE@._V1_.jpg",
+              "width": 1093,
+              "height": 1044
+            }
+          ]
+        },
+        "characters": [
+          "Mike"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0682138",
+          "display_name": "Juan Piedrahita",
+          "avatars": null
+        },
+        "characters": [
+          "Salvador"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0085994",
+          "display_name": "Sharon Blackwood",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjk4OGZkZGYtMDRhMy00NzliLWE2ZTUtYzY5NmYzZjRmMTA2XkEyXkFqcGdeQXVyMTUwNjA4NA@@._V1_.jpg",
+              "width": 919,
+              "height": 460
+            }
+          ]
+        },
+        "characters": [
+          "Motel Clerk"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0269035",
+          "display_name": "Alison Faulk",
+          "avatars": null
+        },
+        "characters": [
+          "White Shadow"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2528649",
+          "display_name": "Josh Diogo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTgyMmY2OTctNmZhOC00OGQwLWJhYjMtOTZiNDkwMjNjMDg5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2400,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Pool Party Guy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0542133",
+          "display_name": "Joe Manganiello",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWI2MDE4YzAtZjQ5MS00NzdjLWFiYTEtZDUyMmM2OTdkNDA4XkEyXkFqcGdeQXVyMjY2OTExNA@@._V1_.jpg",
+              "width": 620,
+              "height": 889
+            }
+          ]
+        },
+        "characters": [
+          "Big Dick Richie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0621760",
+          "display_name": "Kevin Nash",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjhmZWQ1M2YtMzYyYy00ZjAyLWExNmQtYzIwZDMyMDkxOGFjXkEyXkFqcGdeQXVyMjI0MjgzNzE@._V1_.jpg",
+              "width": 1140,
+              "height": 1220
+            }
+          ]
+        },
+        "characters": [
+          "Tarzan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0407101",
+          "display_name": "Gabriel Iglesias",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMyNzk4NTQ4Ml5BMl5BanBnXkFtZTgwMTA1OTEwNjE@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Tobias"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0093589",
+          "display_name": "Matt Bomer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA5NTE4NTE5NV5BMl5BanBnXkFtZTcwMTcyOTY5Mw@@._V1_.jpg",
+              "width": 480,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Ken"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0735226",
+          "display_name": "Adam Rodriguez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQzNTQ1NjcxMV5BMl5BanBnXkFtZTgwODA2NTkwNjE@._V1_.jpg",
+              "width": 1486,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Tito"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7413425",
+          "display_name": "Vicky Vox",
+          "avatars": null
+        },
+        "characters": [
+          "Tori Snatch"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5426391",
+          "display_name": "Javier Madrid",
+          "avatars": null
+        },
+        "characters": [
+          "Voguer #1"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7308974",
+          "display_name": "Dashaun Wesley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzMzMzc5MWMtODMxNC00YTllLWE0OWEtYTg4MzdjNjI4MzdiXkEyXkFqcGc@._V1_.jpg",
+              "width": 1080,
+              "height": 1080
+            }
+          ]
+        },
+        "characters": [
+          "Voguer #2"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2471791",
+          "display_name": "Carrie Anne Hunt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGEyNmU3MTYtYWE2Yi00M2QzLTg1OWYtOWZhYWQ2ZTkzOGQzXkEyXkFqcGc@._V1_.jpg",
+              "width": 3538,
+              "height": 4423
+            }
+          ]
+        },
+        "characters": [
+          "Megan Davidson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1317000",
+          "display_name": "Crystal Hunt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDJkNzQwZmMtYjJlMy00NWU4LWI4ZGEtNGVkNDg5YjMyZTJjXkEyXkFqcGc@._V1_.jpg",
+              "width": 533,
+              "height": 937
+            }
+          ]
+        },
+        "characters": [
+          "Lauren"
+        ]
+      }
+    ]
+  }
+}

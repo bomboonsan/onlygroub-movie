@@ -1,0 +1,361 @@
+{
+  "title": {
+    "id": "tt1981128",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Geostorm",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 109,
+    "plot": "When the network of satellites designed to control the global climate starts to attack Earth, it's a race against the clock for its creator to uncover the real threat before a worldwide Geostorm wipes out everything and everyone.",
+    "rating": {
+      "aggregate_rating": 5.3,
+      "votes_count": 118653
+    },
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTA0OTQwMTIxNzheQTJeQWpwZ15BbWU4MDQ1MzI3OTMy._V1_.jpg",
+        "width": 675,
+        "height": 1000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "ces",
+        "name": "Czech"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "hun",
+        "name": "Hungarian"
+      },
+      {
+        "code": "ita",
+        "name": "Italian"
+      },
+      {
+        "code": "kor",
+        "name": "Korean"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "AE",
+        "name": "United Arab Emirates"
+      },
+      {
+        "code": "HK",
+        "name": "Hong Kong (Special Administrative Region of China)"
+      },
+      {
+        "code": "JP",
+        "name": "Japan"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 21,
+      "review_count": 22
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0002041",
+          "display_name": "Dean Devlin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIyODg1NjE1NV5BMl5BanBnXkFtZTgwODUzMzQ4MDE@._V1_.jpg",
+              "width": 1200,
+              "height": 800
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0002041",
+          "display_name": "Dean Devlin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIyODg1NjE1NV5BMl5BanBnXkFtZTgwODUzMzQ4MDE@._V1_.jpg",
+              "width": 1200,
+              "height": 800
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0349935",
+          "display_name": "Paul Guyot",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0124930",
+          "display_name": "Gerard Butler",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE4NDMwMzc4Ml5BMl5BanBnXkFtZTcwMDg4Nzg4Mg@@._V1_.jpg",
+              "width": 285,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Jake Lawson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0836343",
+          "display_name": "Jim Sturgess",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDU0NTE0NDYwOF5BMl5BanBnXkFtZTcwMDc2MDI3Nw@@._V1_.jpg",
+              "width": 509,
+              "height": 638
+            }
+          ]
+        },
+        "characters": [
+          "Max Lawson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0180411",
+          "display_name": "Abbie Cornish",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE5Mjk4NDAyN15BMl5BanBnXkFtZTcwMDMyMDY1OA@@._V1_.jpg",
+              "width": 2048,
+              "height": 1403
+            }
+          ]
+        },
+        "characters": [
+          "Sarah Wilson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0487884",
+          "display_name": "Alexandra Maria Lara",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkzMDQ5ODM4OV5BMl5BanBnXkFtZTcwNjMzODI3MQ@@._V1_.jpg",
+              "width": 290,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Ute Fassbinder"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0943079",
+          "display_name": "Daniel Wu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTIzNTk3NTA2Ml5BMl5BanBnXkFtZTYwODI2MTY1._V1_.jpg",
+              "width": 292,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Cheng Long"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0220240",
+          "display_name": "Eugenio Derbez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE4MDYwNTA0OV5BMl5BanBnXkFtZTgwMjU2NzU5NDM@._V1_.jpg",
+              "width": 2048,
+              "height": 1590
+            }
+          ]
+        },
+        "characters": [
+          "Al Hernandez"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0906756",
+          "display_name": "Amr Waked",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTBiMzE1NWYtOWE3MS00MDAzLWI2NjAtN2ZiYjVhMTM1OGQwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3506,
+              "height": 4894
+            }
+          ]
+        },
+        "characters": [
+          "Ray Dussette"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1323822",
+          "display_name": "Adepero Oduye",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM5NDA1ODI1OV5BMl5BanBnXkFtZTcwMTgwNjIzMQ@@._V1_.jpg",
+              "width": 350,
+              "height": 418
+            }
+          ]
+        },
+        "characters": [
+          "Eni Adisa"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000412",
+          "display_name": "Andy Garcia",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM3NDA5NTgxNl5BMl5BanBnXkFtZTgwMzU3NDc4NDE@._V1_.jpg",
+              "width": 1642,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "President Andrew Palma"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000438",
+          "display_name": "Ed Harris",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE4NDM4ODc2OV5BMl5BanBnXkFtZTcwNzA5NjQ5MQ@@._V1_.jpg",
+              "width": 289,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Leonard Dekkom"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1588066",
+          "display_name": "Robert Sheehan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzk1MjAyNzUtNWYyNi00YTM5LTkxY2ItMmYyY2I0ZjU3NTI3XkEyXkFqcGdeQXVyMTYwMDE3NA@@._V1_.jpg",
+              "width": 4327,
+              "height": 6490
+            }
+          ]
+        },
+        "characters": [
+          "Duncan Taylor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0771493",
+          "display_name": "Richard Schiff",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM0MDE5MzIwNF5BMl5BanBnXkFtZTYwNjgzMDI0._V1_.jpg",
+              "width": 269,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Senator Cross"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001858",
+          "display_name": "Mare Winningham",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY0ODU1NjgxMV5BMl5BanBnXkFtZTcwMDM2MTA4MQ@@._V1_.jpg",
+              "width": 296,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Cassandra Jennings"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5939164",
+          "display_name": "Zazie Beetz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGQwOTQzYjQtZjlmYi00MWYwLTg0YzEtOTlhYmYzNDcyMDM4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 600,
+              "height": 664
+            }
+          ]
+        },
+        "characters": [
+          "Dana"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5145057",
+          "display_name": "Talitha Eliana Bateman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDQ3ZTM1ODQtMTg0MS00YmIyLWFkMjMtZjAxM2M1ZGJkMzBkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1125,
+              "height": 1693
+            }
+          ]
+        },
+        "characters": [
+          "Hannah Lawson"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "title": {
+    "id": "tt9347730",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Candyman",
+    "original_title": null,
+    "start_year": 2021,
+    "end_year": null,
+    "runtime_minutes": 91,
+    "plot": "A sequel to the horror film Candyman (1992) that returns to the now-gentrified Chicago neighborhood where the legend began.",
+    "rating": {
+      "aggregate_rating": 5.9,
+      "votes_count": 75855
+    },
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWEzNDAxYmEtYWU0Zi00ZjZjLTkxY2QtMGY1MjY5ZjVhNDdjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+        "width": 3158,
+        "height": 5000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      },
+      {
+        "code": "ukr",
+        "name": "Ukrainian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "AU",
+        "name": "Australia"
+      },
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 72,
+      "review_count": 54
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm4804442",
+          "display_name": "Nia DaCosta",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjc4NDk1ZTAtY2I0Ni00ODZmLTg4OGYtNGE4ZDNhY2EzZmNhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 437,
+              "height": 621
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1443502",
+          "display_name": "Jordan Peele",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjNDgtYjdmMi00YWE4LTk3Y2MtYWQyM2Q0NTVmZWYyXkEyXkFqcGdeQXVyNTc0NjQ2Mg@@._V1_.jpg",
+              "width": 1000,
+              "height": 1000
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1545391",
+          "display_name": "Win Rosenfeld",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjJlMDRhYzktZTk0Ni00YTE4LThlNjMtNmYyMjFjZmFkYTFlXkEyXkFqcGdeQXVyODYwOTg1MTk@._V1_.jpg",
+              "width": 1000,
+              "height": 1364
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm4804442",
+          "display_name": "Nia DaCosta",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjc4NDk1ZTAtY2I0Ni00ODZmLTg4OGYtNGE4ZDNhY2EzZmNhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 437,
+              "height": 621
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0741262",
+          "display_name": "Bernard Rose",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI5Mjk2NDc0NV5BMl5BanBnXkFtZTcwMjIxMTUyMw@@._V1_.jpg",
+              "width": 1357,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0000850",
+          "display_name": "Clive Barker",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk2MjMyMzU5Nl5BMl5BanBnXkFtZTYwNDQ3MTY1._V1_.jpg",
+              "width": 315,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm5584344",
+          "display_name": "Yahya Abdul-Mateen II",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzhmYWI3MmItYTFiYy00MzhhLTlmMzgtMjY1YzgwNDk5NzYyXkEyXkFqcGdeQXVyNTg1MTg0MzY@._V1_.jpg",
+              "width": 1600,
+              "height": 1758
+            }
+          ]
+        },
+        "characters": [
+          "Anthony McCoy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3500582",
+          "display_name": "Teyonah Parris",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIzNzc4MTg3NF5BMl5BanBnXkFtZTgwMDE4ODM0NTE@._V1_.jpg",
+              "width": 400,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Brianna Cartwright"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2805533",
+          "display_name": "Nathan Stewart-Jarrett",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDgzNzAwOTMtNTM4Ni00ZDMwLWIyZmMtMTZiMzEyMDc2NDYxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3812,
+              "height": 3812
+            }
+          ]
+        },
+        "characters": [
+          "Troy Cartwright"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0231458",
+          "display_name": "Colman Domingo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDQxNDE1NTQtNmViNy00YTk3LWI5MDEtOGEwMzZlODMyNDIxXkEyXkFqcGdeQXVyMzE2ODE2NQ@@._V1_.jpg",
+              "width": 1280,
+              "height": 852
+            }
+          ]
+        },
+        "characters": [
+          "William Burke"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5269143",
+          "display_name": "Kyle Kaminsky",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTlkMDYzZGQtODVkYy00NDcwLWI0NzQtNzJmMmNhNmRhYmQxXkEyXkFqcGdeQXVyMTA1NzQ1Nzcw._V1_.jpg",
+              "width": 933,
+              "height": 1400
+            }
+          ]
+        },
+        "characters": [
+          "Grady Greenberg"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0004539",
+          "display_name": "Vanessa Williams",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjM3NjIxMjE5OV5BMl5BanBnXkFtZTcwMzg1OTQ1NA@@._V1_.jpg",
+              "width": 1165,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Anne-Marie McCoy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2444299",
+          "display_name": "Brian King",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmZkYWQ0MjYtMjAwOC00ODg0LWFjNzQtMWQ3ZDMzOTRmM2Q3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 5100,
+              "height": 3300
+            }
+          ]
+        },
+        "characters": [
+          "Clive Privler"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7700703",
+          "display_name": "Miriam Moss",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDBlNGNlNGUtNjU3NS00MTk2LWJmNGItYzE4NmIxOWU5MTg4XkEyXkFqcGc@._V1_.jpg",
+              "width": 2400,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Jerrica Cooper"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2050642",
+          "display_name": "Rebecca Spence",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWNiYjIzODAtYmZjNi00NzA0LWE0NGQtYmU4ZGRlZDBkZmQ4XkEyXkFqcGdeQXVyNTc2MDA0MTA@._V1_.jpg",
+              "width": 1574,
+              "height": 1756
+            }
+          ]
+        },
+        "characters": [
+          "Finley Stephens"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4083459",
+          "display_name": "Carl Clemons-Hopkins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDEwMGViMzUtODczYi00ZTMxLWIxY2UtYWEzNDI4YzU0OGNjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2460,
+              "height": 3690
+            }
+          ]
+        },
+        "characters": [
+          "Jameson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3951651",
+          "display_name": "Christiana Clark",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmI4YTgzZDktN2Q3MS00MWQyLTllOGEtYjk3MDVjMGQxOWI5XkEyXkFqcGc@._V1_.jpg",
+              "width": 512,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Danielle Harrington"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2726586",
+          "display_name": "Michael Hargrove",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGNkZWI0NzYtYWVhZS00MjUzLWJhNTctM2YwM2RmNmVmNDQ0XkEyXkFqcGdeQXVyMTE0MTUxMzk2._V1_.jpg",
+              "width": 4436,
+              "height": 5610
+            }
+          ]
+        },
+        "characters": [
+          "Sherman Fields"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10714288",
+          "display_name": "Rodney L Jones III",
+          "avatars": null
+        },
+        "characters": [
+          "Billy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11080218",
+          "display_name": "Heidi Grace Engerman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGExMmY0MjgtODc4MS00ZTBmLTk5MjktNWI3NDk4NzY4YzM3XkEyXkFqcGdeQXVyMTExNTE1MzYw._V1_.jpg",
+              "width": 2401,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Haley"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7951670",
+          "display_name": "Ireon Roach",
+          "avatars": null
+        },
+        "characters": [
+          "Trina"
+        ]
+      }
+    ]
+  }
+}

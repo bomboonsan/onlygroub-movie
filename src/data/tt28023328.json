@@ -1,0 +1,220 @@
+{
+  "title": {
+    "id": "tt28023328",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Haunted Hotel",
+    "original_title": "Panggonan Wingit",
+    "start_year": 2023,
+    "end_year": null,
+    "runtime_minutes": 110,
+    "plot": "Raina's life was threatened after she opened the door and entered an unnumbered room in the hotel managed by her sister, Fey. The figure of a woman with white hair and skin also made her presence known.",
+    "rating": {
+      "aggregate_rating": 5.2,
+      "votes_count": 445
+    },
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDc4OGFjMmQtYzhjNi00ZmRkLTg0NWUtNWM3OGJjN2ViN2I5XkEyXkFqcGc@._V1_.jpg",
+        "width": 1638,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "TV-MA"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "ind",
+        "name": "Indonesian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "ID",
+        "name": "Indonesia"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm1507117",
+          "display_name": "Guntur Soeharjanto",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2544631",
+          "display_name": "Riheam Junianti",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm2532164",
+          "display_name": "Luna Maya",
+          "avatars": null
+        },
+        "characters": [
+          "Raina"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2679847",
+          "display_name": "Christian Sugiono",
+          "avatars": null
+        },
+        "characters": [
+          "Ardo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9298475",
+          "display_name": "Bianca Hello",
+          "avatars": null
+        },
+        "characters": [
+          "Fey"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3029960",
+          "display_name": "Egy Fedly",
+          "avatars": null
+        },
+        "characters": [
+          "Ki Danang"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm15409890",
+          "display_name": "Firstriana Aldila",
+          "avatars": null
+        },
+        "characters": [
+          "Menoer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12239977",
+          "display_name": "Rafael Adwel",
+          "avatars": null
+        },
+        "characters": [
+          "Baskara"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3913859",
+          "display_name": "Budi Ros",
+          "avatars": null
+        },
+        "characters": [
+          "Garinto"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10046817",
+          "display_name": "Oce Permatasari",
+          "avatars": null
+        },
+        "characters": [
+          "Suktini"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12236464",
+          "display_name": "Hami Diah",
+          "avatars": null
+        },
+        "characters": [
+          "Ningrum"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10929174",
+          "display_name": "Neysa Chandria",
+          "avatars": null
+        },
+        "characters": [
+          "Karin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3745153",
+          "display_name": "Landung Simatupang",
+          "avatars": null
+        },
+        "characters": [
+          "Soemardi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm14177287",
+          "display_name": "Ivonne Dahler",
+          "avatars": null
+        },
+        "characters": [
+          "Soemardi's Wife"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7228218",
+          "display_name": "Ernanta Kusuma",
+          "avatars": null
+        },
+        "characters": [
+          "Parjo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10245269",
+          "display_name": "Willem Bevers",
+          "avatars": null
+        },
+        "characters": [
+          "Djanuar"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11151143",
+          "display_name": "Alleyra Fakhira",
+          "avatars": null
+        },
+        "characters": [
+          "Young Menoer"
+        ]
+      }
+    ]
+  }
+}

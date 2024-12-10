@@ -1,0 +1,334 @@
+{
+  "title": {
+    "id": "tt4302938",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Kubo and the Two Strings",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 101,
+    "plot": "A young boy named Kubo must locate a magical suit of armour worn by his late father in order to defeat a vengeful spirit from the past.",
+    "rating": {
+      "aggregate_rating": 7.7,
+      "votes_count": 138524
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjA2Mzg2NDMzNl5BMl5BanBnXkFtZTgwMjcwODUzOTE@._V1_.jpg",
+        "width": 4050,
+        "height": 6000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 84,
+      "review_count": 38
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1325899",
+          "display_name": "Travis Knight",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcwMzk1MDU1OF5BMl5BanBnXkFtZTcwODAxNjMxOA@@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1199351",
+          "display_name": "Marc Haimes",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzRiZmRmOGQtNDhlMi00MTJmLWEwOWYtNmZkMTYyNGFmOWE1XkEyXkFqcGdeQXVyMzEzNjUyNjA@._V1_.jpg",
+              "width": 1092,
+              "height": 1092
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2752098",
+          "display_name": "Chris Butler",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTU1NzIxNzEyMF5BMl5BanBnXkFtZTcwMjU1MDIyOA@@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1306819",
+          "display_name": "Shannon Tindle",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm3280686",
+          "display_name": "Art Parkinson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzZhNjJiZDItZDQzMC00NzRjLWE3YWEtMmU2Zjc3ZDJjODE5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3335,
+              "height": 5000
+            }
+          ]
+        },
+        "characters": [
+          "Kubo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000234",
+          "display_name": "Charlize Theron",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk5Mzc4ODU0Ml5BMl5BanBnXkFtZTcwNjU1NTI0Mw@@._V1_.jpg",
+              "width": 300,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Mother"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0882853",
+          "display_name": "Brenda Vaccaro",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc3NDUyNDUxOV5BMl5BanBnXkFtZTcwOTUwMTIwNw@@._V1_.jpg",
+              "width": 1395,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Kameyo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0846480",
+          "display_name": "Cary-Hiroyuki Tagawa",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE0MDEyMjcxMV5BMl5BanBnXkFtZTgwMDE5MDcwMTI@._V1_.jpg",
+              "width": 1464,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Hashi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5678478",
+          "display_name": "Meyrick Murphy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzQ3ODhmNDctNGJlNC00ODU0LWI1MTItOWQ0NjIwYjA5NDE1XkEyXkFqcGdeQXVyNDM1MzEyMjI@._V1_.jpg",
+              "width": 1200,
+              "height": 1800
+            }
+          ]
+        },
+        "characters": [
+          "Mari"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001786",
+          "display_name": "George Takei",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDU4MDUwMTAxOV5BMl5BanBnXkFtZTgwNjEzOTU4NjE@._V1_.jpg",
+              "width": 4408,
+              "height": 5878
+            }
+          ]
+        },
+        "characters": [
+          "Hosato"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1913734",
+          "display_name": "Rooney Mara",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM2NDE3MDk1OF5BMl5BanBnXkFtZTcwNjI1MDY0Nw@@._V1_.jpg",
+              "width": 1411,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "The Sisters"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000146",
+          "display_name": "Ralph Fiennes",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzc5MjE1NDgyN15BMl5BanBnXkFtZTcwNzg2ODgwNA@@._V1_.jpg",
+              "width": 306,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Moon King"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000190",
+          "display_name": "Matthew McConaughey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg0MDc3ODUwOV5BMl5BanBnXkFtZTcwMTk2NjY4Nw@@._V1_.jpg",
+              "width": 1256,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Beetle"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0634176",
+          "display_name": "Minae Noji",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg0MzcwMDIyMV5BMl5BanBnXkFtZTgwMzIyMDA0MjE@._V1_.jpg",
+              "width": 348,
+              "height": 525
+            }
+          ]
+        },
+        "characters": [
+          "Minae"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3006143",
+          "display_name": "Alpha Takahashi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA2ODEzMzAxOV5BMl5BanBnXkFtZTgwMTczNjIwODE@._V1_.jpg",
+              "width": 5472,
+              "height": 3648
+            }
+          ]
+        },
+        "characters": [
+          "Aiko"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1310832",
+          "display_name": "Laura Miro",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTY5Y2FhYjUtNjgzZi00MWRjLWFjNDgtYjg3Mjc2YTViOTk1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 450,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Miho"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0847543",
+          "display_name": "Ken Takemoto",
+          "avatars": null
+        },
+        "characters": [
+          "Ken"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2317837",
+          "display_name": "Aaron Aoki",
+          "avatars": null
+        },
+        "characters": [
+          "Villager"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4490824",
+          "display_name": "Luke Donaldson",
+          "avatars": null
+        },
+        "characters": [
+          "Villager"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "title": {
+    "id": "tt5109280",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Raya and the Last Dragon",
+    "original_title": null,
+    "start_year": 2021,
+    "end_year": null,
+    "runtime_minutes": 107,
+    "plot": "In a realm known as Kumandra, a re-imagined Earth inhabited by an ancient civilization, a warrior named Raya is determined to find the last dragon.",
+    "rating": {
+      "aggregate_rating": 7.3,
+      "votes_count": 169239
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Drama",
+      "Family",
+      "Fantasy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWNiOTc4NGItNGY4YS00ZGNkLThkOWEtMDE2ODcxODEwNjkwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "width": 1085,
+        "height": 1608
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 74,
+      "review_count": 48
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm2320658",
+          "display_name": "Don Hall",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc4NDg2MzkxOV5BMl5BanBnXkFtZTgwNTA4MDQwMDE@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2788015",
+          "display_name": "Carlos López Estrada",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmZiMzA5NWQtMWU3Ny00MzNjLWE1NmQtMzRjNDA1MmM1ZmJhXkEyXkFqcGdeQXVyMTgwMjA2MDg@._V1_.jpg",
+              "width": 8736,
+              "height": 11648
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2128363",
+          "display_name": "Paul Briggs",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjk2ZTE2OTEtMDAyMi00M2NjLTk3YTYtZDY2MDU3MGU0ZjA0XkEyXkFqcGdeQXVyMzM1MzI0NQ@@._V1_.jpg",
+              "width": 2592,
+              "height": 3872
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0727960",
+          "display_name": "John Ripa",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm5945690",
+          "display_name": "Qui Nguyen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzA1YWViM2YtNTBlMS00NTIzLTk5MTQtODUyZTk2NDYxMjk4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 440,
+              "height": 604
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1004604",
+          "display_name": "Adele Lim",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmVjMTkwZWMtYTAyOC00MzMyLWFmMGYtMjUzYzQ1NmZjMzczXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "width": 2613,
+              "height": 3919
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2128363",
+          "display_name": "Paul Briggs",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjk2ZTE2OTEtMDAyMi00M2NjLTk3YTYtZDY2MDU3MGU0ZjA0XkEyXkFqcGdeQXVyMzM1MzI0NQ@@._V1_.jpg",
+              "width": 2592,
+              "height": 3872
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2320658",
+          "display_name": "Don Hall",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc4NDg2MzkxOV5BMl5BanBnXkFtZTgwNTA4MDQwMDE@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2788015",
+          "display_name": "Carlos López Estrada",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmZiMzA5NWQtMWU3Ny00MzNjLWE1NmQtMzRjNDA1MmM1ZmJhXkEyXkFqcGdeQXVyMTgwMjA2MDg@._V1_.jpg",
+              "width": 8736,
+              "height": 11648
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm4511652",
+          "display_name": "Kelly Marie Tran",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTQ3OWYyYjktY2JjOC00ODAzLTgxYTItY2NlYjA1ZWVjYjVhXkEyXkFqcGdeQXVyMjY3NzQ2Mzc@._V1_.jpg",
+              "width": 1024,
+              "height": 739
+            }
+          ]
+        },
+        "characters": [
+          "Raya"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5377144",
+          "display_name": "Awkwafina",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU0NTUwNjkyN15BMl5BanBnXkFtZTgwMjM0NzEzMTI@._V1_.jpg",
+              "width": 1473,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Sisu"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9865565",
+          "display_name": "Izaac Wang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDA2ZDgxNDUtZGE0Yi00ZGYxLWJkZjAtNDM1OTE0MjA1NDEzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3648,
+              "height": 5472
+            }
+          ]
+        },
+        "characters": [
+          "Boun"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2110418",
+          "display_name": "Gemma Chan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjEwZTQ5YWMtNjg4Yy00OGRkLWJjNjctM2MzOWM1MmNiNjQ4XkEyXkFqcGdeQXVyMTE3ODY2Nzk@._V1_.jpg",
+              "width": 1440,
+              "height": 1779
+            }
+          ]
+        },
+        "characters": [
+          "Namaari"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0196654",
+          "display_name": "Daniel Dae Kim",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTRjYWNmNmMtYTFjZi00MWEzLWFhNjEtNWQwMTlkNDc0MzQzXkEyXkFqcGdeQXVyMjgyODMzNw@@._V1_.jpg",
+              "width": 1885,
+              "height": 2003
+            }
+          ]
+        },
+        "characters": [
+          "Benja"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0938950",
+          "display_name": "Benedict Wong",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDMxOGExNWItYjM4YS00ZDJhLWJiM2UtMTViYjhhNTM4OGYxXkEyXkFqcGdeQXVyMTgyMzY5MTk@._V1_.jpg",
+              "width": 1536,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Tong"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2033115",
+          "display_name": "Jona Xiao",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDc5NmRmNzktMzE2Mi00YjA3LTllYzgtMjA0MDA0MWRkMGQwXkEyXkFqcGdeQXVyMjc3MTQ3MTE@._V1_.jpg",
+              "width": 4593,
+              "height": 5417
+            }
+          ]
+        },
+        "characters": [
+          "Young Namaari"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0644897",
+          "display_name": "Sandra Oh",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMyNzYyNDE4MV5BMl5BanBnXkFtZTcwOTkxMDQ2NA@@._V1_.jpg",
+              "width": 1525,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Virana"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8009776",
+          "display_name": "Thalia Tran",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTYxZTU2MDYtN2FjMC00YjRmLThiMjAtMGZlMjc4OTVkNzkyXkEyXkFqcGdeQXVyNTY1MzA0NzU@._V1_.jpg",
+              "width": 3153,
+              "height": 4724
+            }
+          ]
+        },
+        "characters": [
+          "Little Noi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0814586",
+          "display_name": "Lucille Soong",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjViMjczZjMtOTJmMC00MTI3LTg5NTEtOTRjNDNjYTVlYmRmXkEyXkFqcGdeQXVyNzEyNzM5Mzg@._V1_.jpg",
+              "width": 726,
+              "height": 907
+            }
+          ]
+        },
+        "characters": [
+          "Dang Hu"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0876138",
+          "display_name": "Alan Tudyk",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE0MzEwNDUxNV5BMl5BanBnXkFtZTcwNTE1MDAzOQ@@._V1_.jpg",
+              "width": 186,
+              "height": 271
+            }
+          ]
+        },
+        "characters": [
+          "Tuk Tuk"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11260551",
+          "display_name": "Gordon Ip",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjJhODFhNzEtYmEzYy00ZWUzLWFkMzctMjI0N2E1M2UyNzlmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 2400,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Merchant #2"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1901842",
+          "display_name": "Dichen Lachman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmYxMjNkMjMtYmE0MC00NTZhLWFlYzgtOWNjZmRkMzMyNmU4XkEyXkFqcGdeQXVyMzExMTQxMQ@@._V1_.jpg",
+              "width": 667,
+              "height": 1000
+            }
+          ]
+        },
+        "characters": [
+          "General Atitaya",
+          "Spine Warrior"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8773928",
+          "display_name": "Patti Harrison",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTNkNjY5MDYtYjk3OC00MWQ1LTgyMTctYzJkMTNhMTg2N2MyXkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_.jpg",
+              "width": 800,
+              "height": 1000
+            }
+          ]
+        },
+        "characters": [
+          "Tail Chief"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0661864",
+          "display_name": "Jonnie Park",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzAzY2YxMTktOTE4ZC00YTUxLThkMmEtZmYyMjkyOTJlMjE4XkEyXkFqcGdeQXVyMTIzMzI2ODM@._V1_.jpg",
+              "width": 6332,
+              "height": 5443
+            }
+          ]
+        },
+        "characters": [
+          "Chai"
+        ]
+      }
+    ]
+  }
+}

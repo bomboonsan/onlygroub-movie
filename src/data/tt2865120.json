@@ -1,0 +1,382 @@
+{
+  "title": {
+    "id": "tt2865120",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Ratchet & Clank",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 94,
+    "plot": "When the galaxy comes under the threat of a nefarious space captain, a mechanic and his newfound robot ally join an elite squad of combatants to save the universe.",
+    "rating": {
+      "aggregate_rating": 5.5,
+      "votes_count": 11807
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDMxMjkzOTEzOV5BMl5BanBnXkFtZTgwNDExNjk5NzE@._V1_.jpg",
+        "width": 1012,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "CN",
+        "name": "China"
+      },
+      {
+        "code": "HK",
+        "name": "Hong Kong (Special Administrative Region of China)"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 29,
+      "review_count": 19
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1083489",
+          "display_name": "Kevin Munroe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzdlOGVmMzUtYmVmYi00ZjI0LWJjMjYtMDA2M2M4M2ZmMGRmXkEyXkFqcGc@._V1_.jpg",
+              "width": 1850,
+              "height": 2576
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0165995",
+          "display_name": "Jericca Cleland",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2686579",
+          "display_name": "T.J. Fixman",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1083489",
+          "display_name": "Kevin Munroe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzdlOGVmMzUtYmVmYi00ZjI0LWJjMjYtMDA2M2M4M2ZmMGRmXkEyXkFqcGc@._V1_.jpg",
+              "width": 1850,
+              "height": 2576
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0841532",
+          "display_name": "Gerry Swallow",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm3131921",
+          "display_name": "Brian Allgeier",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2351757",
+          "display_name": "Brian Hastings",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0316079",
+          "display_name": "Paul Giamatti",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTc0MDAzMTU4N15BMl5BanBnXkFtZTcwNzA0NzcwNA@@._V1_.jpg",
+              "width": 310,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Drek"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000422",
+          "display_name": "John Goodman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTk1MzAzMDUxMF5BMl5BanBnXkFtZTgwODgyMTQxNjM@._V1_.jpg",
+              "width": 1535,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Grimroth"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2254074",
+          "display_name": "Bella Thorne",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWVmMThmYTctMDcxYi00Yzk5LTlhZDgtYzAyMWU3NDllNDIyXkEyXkFqcGdeQXVyMzI4OTE3Nzk@._V1_.jpg",
+              "width": 8272,
+              "height": 6200
+            }
+          ]
+        },
+        "characters": [
+          "Cora"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0206257",
+          "display_name": "Rosario Dawson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjlhN2YzMDYtOTcxYi00YWIwLTkwNTItNDNlMWY2ZDNkNzA5XkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_.jpg",
+              "width": 1600,
+              "height": 2000
+            }
+          ]
+        },
+        "characters": [
+          "Elaris"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0911589",
+          "display_name": "Jim Ward",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmFmNDQ4YzQtNjgwNS00ZmFhLWFkMzQtOGM0NGJmOTk0NmZmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2272,
+              "height": 1704
+            }
+          ]
+        },
+        "characters": [
+          "Qwark"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001734",
+          "display_name": "Armin Shimerman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDJmNmVhOGItYTI2OS00YTQ3LTk5ZGYtNTVhNTBiNmMxNDVkXkEyXkFqcGdeQXVyMTAzNDAwMjU@._V1_.jpg",
+              "width": 4164,
+              "height": 4164
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Nefarious"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1925154",
+          "display_name": "Vincent Tong",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg5MjA3YjItMGNiOC00ODg5LWE3ZDEtZDY0Yzg5YTY1YjI1XkEyXkFqcGdeQXVyNDAwOTUyNDc@._V1_CR330,0,539,809_.jpg",
+              "width": 539,
+              "height": 809
+            }
+          ]
+        },
+        "characters": [
+          "Brax",
+          "Solana Trooper"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2834364",
+          "display_name": "Andrew Cownden",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGYzMDdiM2EtM2U1NC00YzBlLTg0YzQtNWU2NDJiY2MzNzhhXkEyXkFqcGc@._V1_.jpg",
+              "width": 5472,
+              "height": 3648
+            }
+          ]
+        },
+        "characters": [
+          "Zed",
+          "Blarg"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0852517",
+          "display_name": "James Arnold Taylor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkwODA4ODg5Ml5BMl5BanBnXkFtZTgwOTQ1NzY1MDE@._V1_.jpg",
+              "width": 903,
+              "height": 900
+            }
+          ]
+        },
+        "characters": [
+          "Ratchet"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0443286",
+          "display_name": "David Kaye",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjdlNDZhODEtNzNmYS00NDE0LThjYTktNDZhMDBlYmFjZTY5XkEyXkFqcGdeQXVyNTM5ODkzMTQ@._V1_.jpg",
+              "width": 1728,
+              "height": 2304
+            }
+          ]
+        },
+        "characters": [
+          "Clank"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000230",
+          "display_name": "Sylvester Stallone",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGU0Y2JiMGEtYzc0Ni00MDIwLTgxZGYtOWE2ZDMzYWQ5MjI0XkEyXkFqcGdeQXVyMTI3NjAxODc0._V1_.jpg",
+              "width": 1079,
+              "height": 1216
+            }
+          ]
+        },
+        "characters": [
+          "Victor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0865064",
+          "display_name": "Lee Tockar",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTk5ZjliNTktZTg0OS00MGY0LTkwMjYtMTVlOGU1ZmJiZDBmXkEyXkFqcGdeQXVyMjU0MDc2MTA@._V1_.jpg",
+              "width": 640,
+              "height": 478
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Micron"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0229889",
+          "display_name": "Brian Dobson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjU2Nzg5NjQ3NV5BMl5BanBnXkFtZTgwNzEzNTYyNTE@._V1_.jpg",
+              "width": 565,
+              "height": 706
+            }
+          ]
+        },
+        "characters": [
+          "Dallas Wannamaker",
+          "Announcer",
+          "Drek Computer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0319308",
+          "display_name": "Tabitha St. Germain",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODc2M2E5NmItMzkwNi00OGNmLTgzMDctNDU2MzdkODNkOTJhXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 920,
+              "height": 684
+            }
+          ]
+        },
+        "characters": [
+          "Juanita Alvaro"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0841448",
+          "display_name": "Brad Swaile",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWNlYzFlN2MtYzRkNC00YjEzLWEyZDEtNDdkMDQyZjg3YTAxXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 281,
+              "height": 317
+            }
+          ]
+        },
+        "characters": [
+          "Ollie",
+          "Super Fan"
+        ]
+      }
+    ]
+  }
+}

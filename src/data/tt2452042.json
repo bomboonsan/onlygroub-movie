@@ -1,0 +1,334 @@
+{
+  "title": {
+    "id": "tt2452042",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Peanuts Movie",
+    "original_title": null,
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 88,
+    "plot": "Snoopy embarks upon his greatest mission as he and his team take to the skies to pursue their archnemesis, while his best pal Charlie Brown begins his own epic quest back home to win the love of his life.",
+    "rating": {
+      "aggregate_rating": 7,
+      "votes_count": 49868
+    },
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTE5NzMxNzkwNl5BMl5BanBnXkFtZTgwOTQ0Nzk5NzE@._V1_.jpg",
+        "width": 486,
+        "height": 720
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "G"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 67,
+      "review_count": 31
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0553942",
+          "display_name": "Steve Martino",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0776441",
+          "display_name": "Craig Schulz",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2421049",
+          "display_name": "Bryan Schulz",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2370700",
+          "display_name": "Cornelius Uliano",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDZlNzY0ZDktN2I1OC00NTRlLTg3ODItNTI3ZjA4MzI3MjNhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1536,
+              "height": 2302
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0776433",
+          "display_name": "Charles M. Schulz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmU5NDdiYjEtY2I1MS00NGM3LWI0ZGQtN2M3MDc4ODdmNDQ4XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
+              "width": 790,
+              "height": 1087
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1661252",
+          "display_name": "Trombone Shorty",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODA2NmRiNGYtYTk5Zi00NmJhLWEwZGYtN2FhMWY4MGRiOTU5XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+              "width": 770,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Miss Othmar",
+          "Mrs. Little Red-Haired Girl"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6843974",
+          "display_name": "Rebecca Bloom",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGRhNjMxMTItOWRhMy00NTUyLThlMmItY2Q4YmRjYzAzNTQyXkEyXkFqcGdeQXVyNTY2MDI3ODU@._V1_.jpg",
+              "width": 2401,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Marcie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5975858",
+          "display_name": "Anastasia Bredikhina",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTA3YWI2M2ItZjMwYS00OTRjLTkxNTgtNjE4OGViM2UxMjIwXkEyXkFqcGdeQXVyNjM0NTYwNTQ@._V1_.jpg",
+              "width": 4480,
+              "height": 6720
+            }
+          ]
+        },
+        "characters": [
+          "Patty"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4941145",
+          "display_name": "Francesca Capaldi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTVlZGI3MjktNjM2Ny00OTZhLTk5YjgtMDk0MzMyOGY3OTc0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2896,
+              "height": 3756
+            }
+          ]
+        },
+        "characters": [
+          "The Little Red-Haired Girl",
+          "Frieda"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0155693",
+          "display_name": "Kristin Chenoweth",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI4NzEyMTQ5MV5BMl5BanBnXkFtZTcwMzg3NTUyMg@@._V1_.jpg",
+              "width": 331,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Fifi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3476372",
+          "display_name": "Alex Garfin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGZiYjM1ODAtMWYzOS00NzdlLWIxMDgtNDIzMDdlNjA5MGNhXkEyXkFqcGdeQXVyNjc4MTY4OTY@._V1_.jpg",
+              "width": 1676,
+              "height": 1770
+            }
+          ]
+        },
+        "characters": [
+          "Linus"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3096859",
+          "display_name": "Noah Johnston",
+          "avatars": null
+        },
+        "characters": [
+          "Schroeder"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0006837",
+          "display_name": "Bill Melendez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGIxODJhZTQtZmQ3ZC00NjBiLTgzMjQtMDFhMzhiZTg2MTA4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_.jpg",
+              "width": 720,
+              "height": 552
+            }
+          ]
+        },
+        "characters": [
+          "Snoopy",
+          "Woodstock"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5295511",
+          "display_name": "Hadley Belle Miller",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGYxYjBhNTQtOWFmYi00M2YzLWI0MDctYTNjOTQwYzRjZWU5XkEyXkFqcGdeQXVyMzA0MjMyODM@._V1_.jpg",
+              "width": 1280,
+              "height": 1920
+            }
+          ]
+        },
+        "characters": [
+          "Lucy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7697637",
+          "display_name": "Micah Revelli",
+          "avatars": null
+        },
+        "characters": [
+          "Little Kid"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6907855",
+          "display_name": "Noah Schnapp",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTg1NmQwYzQtODUzYi00Y2EwLTkxMDAtNjZjZjU2Y2E3OWM5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 816,
+              "height": 1146
+            }
+          ]
+        },
+        "characters": [
+          "Charlie Brown"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5908744",
+          "display_name": "Venus Schultheis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2VlMjc4MTMtODY0Ni00ZmI2LWEwZmQtNDYyNjE1ODQ4YzI0XkEyXkFqcGdeQXVyNDY4MzQyNTQ@._V1_.jpg",
+              "width": 3560,
+              "height": 2848
+            }
+          ]
+        },
+        "characters": [
+          "Peppermint Patty"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5795303",
+          "display_name": "Mariel Sheets",
+          "avatars": null
+        },
+        "characters": [
+          "Sally"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4362215",
+          "display_name": "Madisyn Shipman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmRjMDAyM2UtZDc4Ny00MjA5LWFjMGUtMzM3OTY3ZDRhNTM5XkEyXkFqcGdeQXVyMTk0NzM0MzQ@._V1_.jpg",
+              "width": 426,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Violet"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3611310",
+          "display_name": "A.J. Tecce",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ0NDI1Njc4OV5BMl5BanBnXkFtZTgwMTc4MTg1MzE@._V1_.jpg",
+              "width": 3043,
+              "height": 4565
+            }
+          ]
+        },
+        "characters": [
+          "Pigpen"
+        ]
+      }
+    ]
+  }
+}

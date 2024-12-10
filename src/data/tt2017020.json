@@ -1,0 +1,366 @@
+{
+  "title": {
+    "id": "tt2017020",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Smurfs 2",
+    "original_title": null,
+    "start_year": 2013,
+    "end_year": null,
+    "runtime_minutes": 105,
+    "plot": "The Smurfs team up with their human friends to rescue Smurfette, who has been abducted by Gargamel, since she knows a secret spell that can turn the evil sorcerer's newest creation, creatures called \"The Naughties\", into real Smurfs.",
+    "rating": {
+      "aggregate_rating": 5.3,
+      "votes_count": 46099
+    },
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMmZmZDc4ODYtYmFkYy00N2UwLThmY2UtNTliZmJiMThiNWU3XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+        "width": 810,
+        "height": 1200
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "BE",
+        "name": "Belgium"
+      },
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 34,
+      "review_count": 30
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0331532",
+          "display_name": "Raja Gosnell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA0NDE0NDI5MTVeQTJeQWpwZ15BbWU3MDQwNjg0OTE@._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0826425",
+          "display_name": "J. David Stem",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0918955",
+          "display_name": "David N. Weiss",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0771065",
+          "display_name": "Jay Scherick",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0740115",
+          "display_name": "David Ronn",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0456732",
+          "display_name": "Karey Kirkpatrick",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAwOTYwMTU4M15BMl5BanBnXkFtZTcwMTc0MjA2Mg@@._V1_.jpg",
+              "width": 600,
+              "height": 387
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000279",
+          "display_name": "Hank Azaria",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ0MzIxMzUwMV5BMl5BanBnXkFtZTcwMjE1NjM1Mg@@._V1_.jpg",
+              "width": 282,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Gargamel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000439",
+          "display_name": "Neil Patrick Harris",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUxNjQ4MjU5Ml5BMl5BanBnXkFtZTcwMTY5NzAzNw@@._V1_.jpg",
+              "width": 1567,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Patrick"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0322407",
+          "display_name": "Brendan Gleeson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA3NTMxODI0OTBeQTJeQWpwZ15BbWU3MDQ1NTY5Mjc@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Victor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1724323",
+          "display_name": "Jayma Mays",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTIyNjU5NTI1NF5BMl5BanBnXkFtZTcwNDk2ODAzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 295
+            }
+          ]
+        },
+        "characters": [
+          "Grace"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5016878",
+          "display_name": "Jacob Tremblay",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODkwODQyNGYtY2JiNi00Zjk1LWIyNmQtMjE5MzRjZTM0MTllXkEyXkFqcGdeQXVyMTMyNzI3NzIy._V1_.jpg",
+              "width": 1200,
+              "height": 630
+            }
+          ]
+        },
+        "characters": [
+          "Blue"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0640669",
+          "display_name": "Nancy O'Dell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA3Nzg5NDE1Ml5BMl5BanBnXkFtZTcwMTQxNTA0NA@@._V1_.jpg",
+              "width": 1484,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Nancy O'Dell"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1501053",
+          "display_name": "Karim Babin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWM3ZWY4MDItNjY0My00M2MzLThlMzYtY2JlOWRiMDdhODhlXkEyXkFqcGdeQXVyNTA1NDY3NzY@._V1_.jpg",
+              "width": 1366,
+              "height": 768
+            }
+          ]
+        },
+        "characters": [
+          "Room Service Waiter"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0397307",
+          "display_name": "Gaston Morrison",
+          "avatars": null
+        },
+        "characters": [
+          "New York Taxi Driver"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0087069",
+          "display_name": "Jocelyn Blanchard",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTQzNjA2ZDgtZmRiYy00OGFiLThhMDQtNTEzNzc4N2ExY2M4XkEyXkFqcGdeQXVyMTAyMzYwNzgw._V1_.jpg",
+              "width": 375,
+              "height": 562
+            }
+          ]
+        },
+        "characters": [
+          "Toad Man"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1053154",
+          "display_name": "Erika Rosenbaum",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTdiMzZiNTYtYzM2ZS00MWMzLWEyMGItZDNiYTI2NjM2YzFmXkEyXkFqcGdeQXVyOTI1MDMwMDE@._V1_.jpg",
+              "width": 3648,
+              "height": 5472
+            }
+          ]
+        },
+        "characters": [
+          "Pregnant Mom"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3846494",
+          "display_name": "Carolina Bartczak",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjg2ZjkwODEtMWFhMy00MWRmLWI2N2EtN2Y1MmZjOTNkOGJjXkEyXkFqcGdeQXVyMTc5NjU4ODc@._V1_.jpg",
+              "width": 1205,
+              "height": 1420
+            }
+          ]
+        },
+        "characters": [
+          "Peanut Mom"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1123994",
+          "display_name": "James A. Woods",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc2NjQ3NDA0OF5BMl5BanBnXkFtZTgwMTExMTIxMTE@._V1_.jpg",
+              "width": 2746,
+              "height": 2197
+            }
+          ]
+        },
+        "characters": [
+          "Peanut Father"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0661102",
+          "display_name": "Henri Pardo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWExYjI0ZGItYmE3My00M2IyLTkzZDQtMDBjNWY3YjI4OGFiXkEyXkFqcGdeQXVyMTAyMzYwNzgw._V1_.jpg",
+              "width": 959,
+              "height": 958
+            }
+          ]
+        },
+        "characters": [
+          "Father-to-Be"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1664693",
+          "display_name": "Vanessa Matsui",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTZjYjU4YzUtYTQ1NC00MTM0LTkyYzYtOWM2NGUyNzU0NjNkXkEyXkFqcGdeQXVyMTA4Mzg2MDY@._V1_.jpg",
+              "width": 2160,
+              "height": 3192
+            }
+          ]
+        },
+        "characters": [
+          "Mother with Camera"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1428452",
+          "display_name": "Dusan Dukic",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDc4MjA2NjI0MF5BMl5BanBnXkFtZTgwNzM4MDk3NzE@._V1_.jpg",
+              "width": 777,
+              "height": 1080
+            }
+          ]
+        },
+        "characters": [
+          "Curious Dad"
+        ]
+      }
+    ]
+  }
+}

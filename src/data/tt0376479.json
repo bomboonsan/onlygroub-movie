@@ -1,0 +1,337 @@
+{
+  "title": {
+    "id": "tt0376479",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "American Pastoral",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 108,
+    "plot": "An All-American college star and his beauty queen wife watch their seemingly perfect life fall apart as their daughter joins the turmoil of '60s America.",
+    "rating": {
+      "aggregate_rating": 6.1,
+      "votes_count": 18067
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Romance",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjMyMDc3MzUxNl5BMl5BanBnXkFtZTgwOTQ0NjIzMDI@._V1_.jpg",
+        "width": 1328,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "heb",
+        "name": "Hebrew"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "HK",
+        "name": "Hong Kong (Special Administrative Region of China)"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 43,
+      "review_count": 30
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0000191",
+          "display_name": "Ewan McGregor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg1MjQ0MDg0Nl5BMl5BanBnXkFtZTcwNjYyNjI5Mg@@._V1_.jpg",
+              "width": 269,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0744980",
+          "display_name": "Philip Roth",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDBhYzEwOGMtNGYzOS00M2IyLTliMDMtNmRmYWYyZjUzMTdhXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_.jpg",
+              "width": 1866,
+              "height": 2646
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0738908",
+          "display_name": "John Romano",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000191",
+          "display_name": "Ewan McGregor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg1MjQ0MDg0Nl5BMl5BanBnXkFtZTcwNjYyNjI5Mg@@._V1_.jpg",
+              "width": 269,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Swede Levov"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000124",
+          "display_name": "Jennifer Connelly",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWM0OTlhYmQtZWI0NS00NzM0LWE5YjItMWZmYzkzY2FmNTc2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+              "width": 1814,
+              "height": 2723
+            }
+          ]
+        },
+        "characters": [
+          "Dawn Levov"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0266824",
+          "display_name": "Dakota Fanning",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAwNjM3NjY5MF5BMl5BanBnXkFtZTcwMjM4NTYwOQ@@._V1_.jpg",
+              "width": 2020,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Merry Levov"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0726200",
+          "display_name": "Peter Riegert",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc2Nzc4NzkyNF5BMl5BanBnXkFtZTcwMjE0ODQyOA@@._V1_.jpg",
+              "width": 1454,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Lou Levov"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1140344",
+          "display_name": "Rupert Evans",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjM0MjFmNzAtMGRlMC00ZWM3LTgxMTgtZjAxMDdlNTNkOTAzXkEyXkFqcGdeQXVyNTgwOTM4Mzk@._V1_.jpg",
+              "width": 854,
+              "height": 742
+            }
+          ]
+        },
+        "characters": [
+          "Jerry Levov"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2499064",
+          "display_name": "Uzo Aduba",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQ5NTg4Mjg3OF5BMl5BanBnXkFtZTgwMjkzMDM2NDM@._V1_.jpg",
+              "width": 1536,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Vicky"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0662504",
+          "display_name": "Molly Parker",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY0NzQzNDQyNl5BMl5BanBnXkFtZTcwNTg5NTk3MQ@@._V1_.jpg",
+              "width": 336,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Sheila Smith"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2038170",
+          "display_name": "Valorie Curry",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjUzZWNjZGEtYTA3My00NjNhLWEzN2QtYzE3OGE3MGJlNDUxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 4390,
+              "height": 6585
+            }
+          ]
+        },
+        "characters": [
+          "Rita Cohen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6288651",
+          "display_name": "Hannah Nordberg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODNlNDMxMjQtMGEzZi00MzVmLWI0NWItNzQ5N2FhYTJmYTVlXkEyXkFqcGdeQXVyNTA3ODQ0ODg@._V1_.jpg",
+              "width": 4480,
+              "height": 6720
+            }
+          ]
+        },
+        "characters": [
+          "Merry (12 Years Old)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0798931",
+          "display_name": "Julia Silverman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGRhMDZhNDAtOTlkMC00MmYyLTg5M2EtM2NiYmNmZjMzZmI4XkEyXkFqcGdeQXVyMjg2NTA1NQ@@._V1_.jpg",
+              "width": 3356,
+              "height": 4024
+            }
+          ]
+        },
+        "characters": [
+          "Sylvia Levov"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0383926",
+          "display_name": "Mark Hildreth",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmRmYWVmZTQtNGExNC00YjQwLWIwODEtMmQzYmNiM2NkNWRmXkEyXkFqcGdeQXVyNTA3NjI1ODQ@._V1_.jpg",
+              "width": 4000,
+              "height": 6000
+            }
+          ]
+        },
+        "characters": [
+          "Agent Dolan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000526",
+          "display_name": "Samantha Mathis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg5MDgyMTU3MV5BMl5BanBnXkFtZTcwMzE1MzY1Mw@@._V1_.jpg",
+              "width": 293,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Penny Hamlin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000657",
+          "display_name": "David Strathairn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmQ2ZDY1ZGUtODM2OC00ZTMzLWIyMTQtMzk1NzAwZGQ3MWIzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 398,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Nathan Zuckerman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7337093",
+          "display_name": "Ocean James",
+          "avatars": null
+        },
+        "characters": [
+          "Merry (8 Years Old)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0923460",
+          "display_name": "David Whalen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkzNjYwMTczOV5BMl5BanBnXkFtZTcwMjczNzM4OA@@._V1_.jpg",
+              "width": 4256,
+              "height": 2832
+            }
+          ]
+        },
+        "characters": [
+          "Bill Orcutt"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "title": {
+    "id": "tt12485966",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Lingering",
+    "original_title": "Hotel Leikeu",
+    "start_year": 2020,
+    "end_year": null,
+    "runtime_minutes": 101,
+    "plot": "When Yoo-mi searches out her mother's friend at a hotel to drop off her younger sister, she falls into unexpected mystery and horror.",
+    "rating": {
+      "aggregate_rating": 5,
+      "votes_count": 584
+    },
+    "genres": [
+      "Horror"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzI2N2JkNGQtYTE0OC00NDI2LWI4ZGYtZWMyN2I2MDAzY2E1XkEyXkFqcGc@._V1_.jpg",
+        "width": 702,
+        "height": 1000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "Not Rated"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "kor",
+        "name": "Korean"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "KR",
+        "name": "Republic of Korea"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm11672085",
+          "display_name": "Yoon Een-Kyoung",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm11672085",
+          "display_name": "Yoon Een-Kyoung",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1564219",
+          "display_name": "Lee Se-yeong",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGFlNTZiY2MtOTIxYi00NGQ3LWI1YmMtODY3MjQ0M2JhZmI3XkEyXkFqcGdeQXVyMzQ2MDUxMTg@._V1_.jpg",
+              "width": 957,
+              "height": 674
+            }
+          ]
+        },
+        "characters": [
+          "Yoo-mi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1070017",
+          "display_name": "Park Ji-young",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjkzZjY1ZmUtNTAwNi00M2M5LThlYmMtNWJlZTc0OWVkNDA4XkEyXkFqcGc@._V1_.jpg",
+              "width": 570,
+              "height": 797
+            }
+          ]
+        },
+        "characters": [
+          "Gyeong-seon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11287613",
+          "display_name": "Park So-yi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjIzODU1MzUtNTk0Mi00NWNhLWJiMWEtOTA3YTliMDhhZDFkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+              "width": 3000,
+              "height": 2000
+            }
+          ]
+        },
+        "characters": [
+          "Yoon Ji-yoo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5178424",
+          "display_name": "Seo Yeong-ju",
+          "avatars": null
+        },
+        "characters": [
+          "Sang-woo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3016536",
+          "display_name": "Jeon Su-ji",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDg4NzIyNmMtODQ0MC00NmQ5LWE2ZjMtZGM2Yjc4ZGZlNTY1XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+              "width": 800,
+              "height": 1020
+            }
+          ]
+        },
+        "characters": [
+          "Choi Yoon-hee"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9621013",
+          "display_name": "Kim Bo-Yoon",
+          "avatars": null
+        },
+        "characters": [
+          "Seo Eun-kyung"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9989933",
+          "display_name": "Lee Ju-won",
+          "avatars": null
+        },
+        "characters": [
+          "Park Yeong-ho"
+        ]
+      }
+    ]
+  }
+}

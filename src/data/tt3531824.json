@@ -1,0 +1,342 @@
+{
+  "title": {
+    "id": "tt3531824",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Nerve",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 96,
+    "plot": "A high school senior finds herself immersed in an online game of truth or dare, where her every move starts to become manipulated by an anonymous community of \"watchers.\"",
+    "rating": {
+      "aggregate_rating": 6.5,
+      "votes_count": 140390
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTUzOTg1OTM4NV5BMl5BanBnXkFtZTgwMTg2Mjg0OTE@._V1_.jpg",
+        "width": 3600,
+        "height": 5550
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 58,
+      "review_count": 33
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1160962",
+          "display_name": "Henry Joost",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc2MzA0MTcxMV5BMl5BanBnXkFtZTcwNTI5MjQxNw@@._V1_.jpg",
+              "width": 1523,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1413364",
+          "display_name": "Ariel Schulman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQwNzMxOTgxNF5BMl5BanBnXkFtZTcwNjM0NzIzNw@@._V1_.jpg",
+              "width": 358,
+              "height": 499
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0789366",
+          "display_name": "Jessica Sharzer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE0OTE0NDQ3N15BMl5BanBnXkFtZTYwNzQzMjc1._V1_.jpg",
+              "width": 348,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm6290393",
+          "display_name": "Jeanne Ryan",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0731075",
+          "display_name": "Emma Roberts",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDg3ODA5MmEtNjg0Ny00ZGU2LTljZjEtNDhiMGI3ZWI0NTcxXkEyXkFqcGdeQXVyODgzODAzODg@._V1_.jpg",
+              "width": 5423,
+              "height": 7231
+            }
+          ]
+        },
+        "characters": [
+          "Vee"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2002649",
+          "display_name": "Dave Franco",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzEzMzYzMzYxMV5BMl5BanBnXkFtZTcwNTk2MDg4NQ@@._V1_.jpg",
+              "width": 1357,
+              "height": 1788
+            }
+          ]
+        },
+        "characters": [
+          "Ian"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2007030",
+          "display_name": "Emily Meade",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWI4Yjg3MTYtYmNiNy00MzE5LTk0YjctMzI0N2ZhY2U3Y2NkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 768,
+              "height": 768
+            }
+          ]
+        },
+        "characters": [
+          "Sydney"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1851028",
+          "display_name": "Miles Heizer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMyMTk4NTg1MF5BMl5BanBnXkFtZTgwNzU2ODI3NTM@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Tommy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000496",
+          "display_name": "Juliette Lewis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDNmYmMzNzAtNjEzNy00YWUyLTg0NmItYWI4NWU0YjFhMjlhXkEyXkFqcGdeQXVyMTU3Njg2MjQy._V1_.jpg",
+              "width": 2042,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Nancy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4733752",
+          "display_name": "Kimiko Glenn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDExMzc5OTc1OF5BMl5BanBnXkFtZTgwOTM1NjMwNjE@._V1_.jpg",
+              "width": 1389,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Liv"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0420384",
+          "display_name": "Marc John Jefferies",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA4ODk2MDAwOV5BMl5BanBnXkFtZTcwODA5MTEzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 685
+            }
+          ]
+        },
+        "characters": [
+          "Wes"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0446622",
+          "display_name": "Colson Baker",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWYyYTc3NDMtZmQ1Zi00NDQwLTkzNWMtYmY1ZWUxMGRhMmQ5XkEyXkFqcGdeQXVyMTI2Nzk3NzI4._V1_.jpg",
+              "width": 600,
+              "height": 372
+            }
+          ]
+        },
+        "characters": [
+          "Ty"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6891629",
+          "display_name": "Brian Marc",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjUyMDA3ZDMtMThhYi00OTU0LThmMmQtOTJiNGRiYjU2OTBhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1170,
+              "height": 1447
+            }
+          ]
+        },
+        "characters": [
+          "J.P."
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5368452",
+          "display_name": "Ed Squires",
+          "avatars": null
+        },
+        "characters": [
+          "Chuck"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2943328",
+          "display_name": "Rightor Doyle",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzY5MjI0MzQxMV5BMl5BanBnXkFtZTgwMjYyNDU2MjE@._V1_.jpg",
+              "width": 2691,
+              "height": 4050
+            }
+          ]
+        },
+        "characters": [
+          "Bergdorf Salesman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3722959",
+          "display_name": "Josh Ostrovsky",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmNlMjkyNDktNjI5OC00Y2NjLTkzOGQtY2M2ZmYyZjRlMWMxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 640,
+              "height": 427
+            }
+          ]
+        },
+        "characters": [
+          "Dirt Beard"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6779895",
+          "display_name": "Eric D'Alessandro",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjc5OTIzOGQtNjJjMS00YmE5LTljMTctNTFjZDg4NzQ0MDNlXkEyXkFqcGc@._V1_.jpg",
+              "width": 2832,
+              "height": 4256
+            }
+          ]
+        },
+        "characters": [
+          "Hype Boi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2387237",
+          "display_name": "Arielle Vandenberg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTBkMjJmZmItYzVmMC00N2U5LThjZDQtZDljZjU2ZWExM2JkXkEyXkFqcGc@._V1_.jpg",
+              "width": 2307,
+              "height": 3462
+            }
+          ]
+        },
+        "characters": [
+          "Bergdorf Sales Lady"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4759657",
+          "display_name": "Jonny Beauchamp",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzRkODYxZDgtZDU1Mi00Nzk1LWI0YzktZGRiZWY0MGRiNjMzXkEyXkFqcGdeQXVyNTI3MTE1NDY@._V1_.jpg",
+              "width": 750,
+              "height": 1000
+            }
+          ]
+        },
+        "characters": [
+          "Gatekeeper"
+        ]
+      }
+    ]
+  }
+}

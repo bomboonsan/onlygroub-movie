@@ -1,0 +1,403 @@
+{
+  "title": {
+    "id": "tt3498820",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Captain America: Civil War",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 147,
+    "plot": "Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man.",
+    "rating": {
+      "aggregate_rating": 7.8,
+      "votes_count": 851225
+    },
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "ron",
+        "name": "Romanian"
+      },
+      {
+        "code": "rus",
+        "name": "Russian"
+      },
+      {
+        "code": "xho",
+        "name": "Xhosa"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "DE",
+        "name": "Germany"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 75,
+      "review_count": 52
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0751577",
+          "display_name": "Anthony Russo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc2NjM5MTM0Ml5BMl5BanBnXkFtZTgwMTY3ODczNjM@._V1_.jpg",
+              "width": 1302,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0751648",
+          "display_name": "Joe Russo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc2NzY1NTY5OF5BMl5BanBnXkFtZTgwNjY3ODczNjM@._V1_.jpg",
+              "width": 1416,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1321655",
+          "display_name": "Christopher Markus",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAxMDAwODYwOV5BMl5BanBnXkFtZTcwMjc5OTEwNg@@._V1_.jpg",
+              "width": 1441,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1321656",
+          "display_name": "Stephen McFeely",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE0MTIxMzk1Nl5BMl5BanBnXkFtZTcwMzY5OTEwNg@@._V1_.jpg",
+              "width": 1287,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0800209",
+          "display_name": "Joe Simon",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0456158",
+          "display_name": "Jack Kirby",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjY5MTkyNDctMTc1Zi00NTcwLWEzZWYtOWVjZjRkMzIxMmI3XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 921,
+              "height": 1128
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0262635",
+          "display_name": "Chris Evans",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU2NTg1OTQzMF5BMl5BanBnXkFtZTcwNjIyMjkyMg@@._V1_.jpg",
+              "width": 285,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Steve Rogers",
+          "Captain America"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000375",
+          "display_name": "Robert Downey Jr.",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzg1MTUyNDYxOF5BMl5BanBnXkFtZTgwNTQ4MTE2MjE@._V1_.jpg",
+              "width": 1361,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Tony Stark",
+          "Iron Man"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0424060",
+          "display_name": "Scarlett Johansson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM3OTUwMDYwNl5BMl5BanBnXkFtZTcwNTUyNzc3Nw@@._V1_.jpg",
+              "width": 1689,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Natasha Romanoff",
+          "Black Widow"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1659221",
+          "display_name": "Sebastian Stan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTk2OGU4NzktODhhOC00Nzc2LWIyNzYtOWViMjljZGFiNTMxXkEyXkFqcGdeQXVyMTE1NTQwOTk@._V1_.jpg",
+              "width": 3300,
+              "height": 4293
+            }
+          ]
+        },
+        "characters": [
+          "Bucky Barnes",
+          "Winter Soldier"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1107001",
+          "display_name": "Anthony Mackie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk3NTM1MjE2M15BMl5BanBnXkFtZTcwNzc5OTI2Mg@@._V1_.jpg",
+              "width": 313,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Sam Wilson",
+          "Falcon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000332",
+          "display_name": "Don Cheadle",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDMxNDM3MzY5N15BMl5BanBnXkFtZTcwMjkzOTY4MQ@@._V1_.jpg",
+              "width": 313,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Lieutenant James Rhodes",
+          "War Machine"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0719637",
+          "display_name": "Jeremy Renner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTk2NDc2ODgzMF5BMl5BanBnXkFtZTcwMTMzOTQ4Nw@@._V1_.jpg",
+              "width": 363,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Clint Barton",
+          "Hawkeye"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1569276",
+          "display_name": "Chadwick Boseman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk2OTY5MzcwMV5BMl5BanBnXkFtZTgwODM4MDI5MjI@._V1_.jpg",
+              "width": 750,
+              "height": 1125
+            }
+          ]
+        },
+        "characters": [
+          "T'Challa",
+          "Black Panther"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0079273",
+          "display_name": "Paul Bettany",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODRmNzI3MzUtODFiOS00MWMxLWI2MWYtMGMxZjI4Nzc1NDA5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 5048,
+              "height": 3366
+            }
+          ]
+        },
+        "characters": [
+          "Vision"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0647634",
+          "display_name": "Elizabeth Olsen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEzMjA0ODk1OF5BMl5BanBnXkFtZTcwMTA4ODM3OQ@@._V1_.jpg",
+              "width": 640,
+              "height": 899
+            }
+          ]
+        },
+        "characters": [
+          "Wanda Maximoff",
+          "Scarlet Witch"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0748620",
+          "display_name": "Paul Rudd",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY4NTEwNDg1MV5BMl5BanBnXkFtZTgwODMwMDA0ODE@._V1_.jpg",
+              "width": 1638,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Scott Lang",
+          "Ant-Man"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0885840",
+          "display_name": "Emily VanCamp",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ5MDc4MDk4NF5BMl5BanBnXkFtZTgwMjkwMTYwOTE@._V1_.jpg",
+              "width": 336,
+              "height": 395
+            }
+          ]
+        },
+        "characters": [
+          "Sharon Carter"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4043618",
+          "display_name": "Tom Holland",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzZiNTEyNTItYjNhMS00YjI2LWIwMWQtZmYwYTRlNjMyZTJjXkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_.jpg",
+              "width": 3648,
+              "height": 5472
+            }
+          ]
+        },
+        "characters": [
+          "Peter Parker",
+          "Spider-Man"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0117709",
+          "display_name": "Daniel Brühl",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzliYzY1NWQtNTFhYy00NjVhLTlkOGItY2RhNDgwOTg5ZDhiXkEyXkFqcGdeQXVyNTkzODg0ODk@._V1_.jpg",
+              "width": 1490,
+              "height": 1987
+            }
+          ]
+        },
+        "characters": [
+          "Zemo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0342029",
+          "display_name": "Frank Grillo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDEyMjk5NDM1M15BMl5BanBnXkFtZTgwOTAyMDE2MjE@._V1_.jpg",
+              "width": 2048,
+              "height": 1568
+            }
+          ]
+        },
+        "characters": [
+          "Brock Rumlow",
+          "Crossbones"
+        ]
+      }
+    ]
+  }
+}

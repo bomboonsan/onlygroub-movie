@@ -1,0 +1,306 @@
+{
+  "title": {
+    "id": "tt8006374",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Baba Yaga: Terror of the Dark Forest",
+    "original_title": "Yaga. Koshmar tyomnogo lesa",
+    "start_year": 2020,
+    "end_year": null,
+    "runtime_minutes": 97,
+    "plot": "When Egor's mom dies, he gets a stepmom and then a baby half sister. Things get seriously twisted when his dad gets a hot nanny, who's the witch, Baba Yaga.",
+    "rating": {
+      "aggregate_rating": 4.7,
+      "votes_count": 2055
+    },
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Horror",
+      "Mystery"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmYzZDIxM2YtZjZjMi00YmRhLWFkZDctNWQyZTYxNmZiM2QzXkEyXkFqcGc@._V1_.jpg",
+        "width": 2086,
+        "height": 3000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "Not Rated"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "RU",
+        "name": "Russian Federation"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm5276483",
+          "display_name": "Svyatoslav Podgaevskiy",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1450100",
+          "display_name": "Nathalia Hencker",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzk3MmFhMzktOWQ1MS00ZjRhLWIwZGUtNjM4ZGE5Zjc0YzY3XkEyXkFqcGc@._V1_.jpg",
+              "width": 1632,
+              "height": 2448
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm9724101",
+          "display_name": "Natalya Dubovaya",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2477199",
+          "display_name": "Ivan Kapitonov",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm5276483",
+          "display_name": "Svyatoslav Podgaevskiy",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1801747",
+          "display_name": "Svetlana Ustinova",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTQ2NWFhNzItMDY4MC00MWY0LTk4OGQtOTExM2MxYzU5NTU0XkEyXkFqcGc@._V1_.jpg",
+              "width": 700,
+              "height": 915
+            }
+          ]
+        },
+        "characters": [
+          "Tatyana",
+          "Baba Yaga"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3539159",
+          "display_name": "Maryana Spivak",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTc3ODYyNzM2MF5BMl5BanBnXkFtZTgwOTMwMDYzMjI@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        },
+        "characters": [
+          "Yuliya"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3729612",
+          "display_name": "Aleksey Rozin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmVlZmM5MWQtNDFiYi00YmY2LWI3YmQtZjQwMDg1YTExMGYxXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg",
+              "width": 1280,
+              "height": 544
+            }
+          ]
+        },
+        "characters": [
+          "Alexey"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3052061",
+          "display_name": "Igor Khripunov",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODYzOWU2NDUtMDdkMC00Y2M4LTk4NzgtYzgzNmIwMmUwMGVkXkEyXkFqcGdeQXVyMTMzOTU3MDcz._V1_.jpg",
+              "width": 346,
+              "height": 515
+            }
+          ]
+        },
+        "characters": [
+          "Mrachnyy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8705577",
+          "display_name": "Oleg Chugunov",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGIzYzMwMmUtZjU4NS00YzAzLTk1YWMtZTlhMTY4YjE5MjFlXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_.jpg",
+              "width": 1067,
+              "height": 1600
+            }
+          ]
+        },
+        "characters": [
+          "Egor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9990866",
+          "display_name": "Glafira Golubeva",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmViZWQzNDItNThlYy00Yjg2LTgyNzItMDk4YmI0ZTVmYjdiXkEyXkFqcGc@._V1_.jpg",
+              "width": 398,
+              "height": 555
+            }
+          ]
+        },
+        "characters": [
+          "Dasha"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9516428",
+          "display_name": "Artyom Zhigulin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWRlNzMyM2QtMTY1NC00ZjA2LWI4NzUtM2VlN2Q3OGI5Y2RkXkEyXkFqcGc@._V1_.jpg",
+              "width": 381,
+              "height": 544
+            }
+          ]
+        },
+        "characters": [
+          "Anton"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7814433",
+          "display_name": "Marta Kessler",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjk3ZThmNmQtMjY1Yy00Yjk1LWI3NTgtNGY5MGZlYzFlNmVhXkEyXkFqcGdeQXVyNjczNTA3OTc@._V1_.jpg",
+              "width": 3872,
+              "height": 5808
+            }
+          ]
+        },
+        "characters": [
+          "Seta"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10576843",
+          "display_name": "Jenya Evstigneeva",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjNhYzllZDUtYjkzMS00MThkLThjYWUtZjg2ZGIwOWQ2NDQyXkEyXkFqcGc@._V1_.jpg",
+              "width": 4000,
+              "height": 6000
+            }
+          ]
+        },
+        "characters": [
+          "Egor's Mother"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2100455",
+          "display_name": "Olga Makeeva",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzVjMWJlNTktMmI4Yy00NTgwLWFmMzktMDhiODhlMDlmZWE5XkEyXkFqcGc@._V1_.jpg",
+              "width": 1600,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Dasha's Mother"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm14917810",
+          "display_name": "Polina Ryabenko",
+          "avatars": null
+        },
+        "characters": null
+      },
+      {
+        "name": {
+          "id": "nm14917811",
+          "display_name": "Alina Ryabenko",
+          "avatars": null
+        },
+        "characters": null
+      },
+      {
+        "name": {
+          "id": "nm10940740",
+          "display_name": "Ilya Ludin",
+          "avatars": null
+        },
+        "characters": [
+          "Micha"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11462087",
+          "display_name": "Filippov Daniil",
+          "avatars": null
+        },
+        "characters": null
+      },
+      {
+        "name": {
+          "id": "nm7284855",
+          "display_name": "Lada Churovskaya",
+          "avatars": null
+        },
+        "characters": null
+      }
+    ]
+  }
+}

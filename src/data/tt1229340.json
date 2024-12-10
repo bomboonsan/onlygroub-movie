@@ -1,0 +1,337 @@
+{
+  "title": {
+    "id": "tt1229340",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Anchorman 2: The Legend Continues",
+    "original_title": null,
+    "start_year": 2013,
+    "end_year": null,
+    "runtime_minutes": 119,
+    "plot": "With the 1970s behind him, Ron Burgundy, San Diego's former top-rated newsreader, returns to take New York City's first twenty-four-hour news channel by storm.",
+    "rating": {
+      "aggregate_rating": 6.3,
+      "votes_count": 192451
+    },
+    "genres": [
+      "Comedy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjE5ODk0NjQzNV5BMl5BanBnXkFtZTgwODk4MDA1MDE@._V1_.jpg",
+        "width": 464,
+        "height": 690
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 61,
+      "review_count": 40
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0570912",
+          "display_name": "Adam McKay",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmQ2ZDNkMGYtOWUzNi00N2Q3LTk1MDItODFlNDJkMTZkMjFmXkEyXkFqcGdeQXVyMjMxNzg4Mjk@._V1_.jpg",
+              "width": 1392,
+              "height": 1859
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0002071",
+          "display_name": "Will Ferrell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMxMDIzMDEzNF5BMl5BanBnXkFtZTcwODcxMjE2Mg@@._V1_.jpg",
+              "width": 276,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0570912",
+          "display_name": "Adam McKay",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmQ2ZDNkMGYtOWUzNi00N2Q3LTk1MDItODFlNDJkMTZkMjFmXkEyXkFqcGdeQXVyMjMxNzg4Mjk@._V1_.jpg",
+              "width": 1392,
+              "height": 1859
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0002071",
+          "display_name": "Will Ferrell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMxMDIzMDEzNF5BMl5BanBnXkFtZTcwODcxMjE2Mg@@._V1_.jpg",
+              "width": 276,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Ron Burgundy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0136797",
+          "display_name": "Steve Carell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMyOTM2OTk1Ml5BMl5BanBnXkFtZTgwMTI3MzkyNjM@._V1_.jpg",
+              "width": 1371,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Brick Tamland"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0748620",
+          "display_name": "Paul Rudd",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY4NTEwNDg1MV5BMl5BanBnXkFtZTgwODMwMDA0ODE@._V1_.jpg",
+              "width": 1638,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Brian Fantana"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0462712",
+          "display_name": "David Koechner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcwODM1MjExNV5BMl5BanBnXkFtZTgwMzY2ODg2MDE@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Champ Kind"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000775",
+          "display_name": "Christina Applegate",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk2NDc2OTE2Nl5BMl5BanBnXkFtZTcwMTc4NDcxNg@@._V1_.jpg",
+              "width": 1631,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Veronica Corningstone"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0048414",
+          "display_name": "Dylan Baker",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTY1MzAwNTk5NV5BMl5BanBnXkFtZTYwMzkwMjY1._V1_.jpg",
+              "width": 265,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Freddie Shapp"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0328709",
+          "display_name": "Meagan Good",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU3NGQwYjUtMmMxYS00OGU5LTgzYzUtMDk3MjFmYWVkZmNiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+              "width": 2523,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Linda Jackson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4990625",
+          "display_name": "Judah Nelson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGMwM2E5NTItODY2Yy00OTkzLWEzNTUtNDQyYjRlOWI4ZTY0XkEyXkFqcGdeQXVyMTczMzgyMDky._V1_.jpg",
+              "width": 1500,
+              "height": 2250
+            }
+          ]
+        },
+        "characters": [
+          "Walter Burgundy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005188",
+          "display_name": "James Marsden",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQyOTUzNjc0MF5BMl5BanBnXkFtZTcwNTYyMDYzMw@@._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Jack Lime"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001427",
+          "display_name": "Greg Kinnear",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcwNzE5MDM1NV5BMl5BanBnXkFtZTcwMTAzMjM3NA@@._V1_.jpg",
+              "width": 1525,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Gary"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0493257",
+          "display_name": "Josh Lawson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTIzNmQ2OTAtM2ViOC00NzJhLTk3ZWUtY2E4NDBhYjMzZTRmXkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_.jpg",
+              "width": 952,
+              "height": 1432
+            }
+          ]
+        },
+        "characters": [
+          "Kench Allenby"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1325419",
+          "display_name": "Kristen Wiig",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODY0NzMzYTEtOGZmNS00ODJiLWEzYzktY2I4NDI3ODA2ZGRhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 2673,
+              "height": 4010
+            }
+          ]
+        },
+        "characters": [
+          "Chani Lastnamé"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0929609",
+          "display_name": "Fred Willard",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg3MDMxNDQxMl5BMl5BanBnXkFtZTcwMjIwMzMzMw@@._V1_.jpg",
+              "width": 877,
+              "height": 1100
+            }
+          ]
+        },
+        "characters": [
+          "Ed Harken"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0663177",
+          "display_name": "Chris Parnell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTUyYzAwNTAtYmUwNS00NTg1LWIxMjktMzUwZjBmOGJkM2NmXkEyXkFqcGdeQXVyMDA1MTc5Mg@@._V1_.jpg",
+              "width": 1074,
+              "height": 1414
+            }
+          ]
+        },
+        "characters": [
+          "Garth"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000148",
+          "display_name": "Harrison Ford",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY4Mjg0NjIxOV5BMl5BanBnXkFtZTcwMTM2NTI3MQ@@._V1_.jpg",
+              "width": 269,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Mack Tannen"
+        ]
+      }
+    ]
+  }
+}

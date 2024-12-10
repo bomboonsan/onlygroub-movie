@@ -1,0 +1,611 @@
+{
+  "title": {
+    "id": "tt0892700",
+    "type": "tvSeries",
+    "is_adult": false,
+    "primary_title": "The Penguins of Madagascar",
+    "original_title": null,
+    "start_year": 2008,
+    "end_year": 2015,
+    "runtime_minutes": 11,
+    "plot": "The daily adventures of penguins living in New York's Central Park Zoo.",
+    "rating": {
+      "aggregate_rating": 7.5,
+      "votes_count": 23110
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Sci-Fi",
+      "Short"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2JjZTNhMWYtN2M3ZC00MThkLWFlODAtNTdiM2I1N2U0N2MwXkEyXkFqcGc@._V1_.jpg",
+        "width": 458,
+        "height": 675
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "TV-Y7"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "NZ",
+        "name": "New Zealand"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm0351821",
+          "display_name": "Bret Haaland",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA5MjAxNjc5NTdeQTJeQWpwZ15BbWU3MDI3Nzc2Nzg@._V1_.jpg",
+              "width": 2700,
+              "height": 2400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1006989",
+          "display_name": "Nicholas Filippi",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0461419",
+          "display_name": "David Knott",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0201509",
+          "display_name": "Eric Darnell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU5NDI2MzI0NV5BMl5BanBnXkFtZTcwMTAxMzgwOA@@._V1_.jpg",
+              "width": 657,
+              "height": 1036
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0569891",
+          "display_name": "Tom McGrath",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGQzMmNkNTQtYWIxMS00OGYzLWE4MTgtY2E2NTljMDdkNDY0XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",
+              "width": 522,
+              "height": 676
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0609600",
+          "display_name": "Bill Motz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTMyMGRjYTctYWE4ZS00YmIwLWI3MmEtYWY0NTJjMGFhYWZiXkEyXkFqcGdeQXVyMTI1NDYzNTk@._V1_.jpg",
+              "width": 960,
+              "height": 960
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0744793",
+          "display_name": "Bob Roth",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmEyNTFlZTctMjIwZi00YjE5LWExYzgtOGY5ODVlZTU5MjA0XkEyXkFqcGdeQXVyNjM2NDk0ODM@._V1_.jpg",
+              "width": 310,
+              "height": 323
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1725022",
+          "display_name": "Brandon Sawyer",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0569891",
+          "display_name": "Tom McGrath",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGQzMmNkNTQtYWIxMS00OGYzLWE4MTgtY2E2NTljMDdkNDY0XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",
+              "width": 522,
+              "height": 676
+            }
+          ]
+        },
+        "characters": [
+          "Skipper"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0224007",
+          "display_name": "John DiMaggio",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzI2NTk1MzYxOV5BMl5BanBnXkFtZTcwMDE2MDQ4Nw@@._V1_.jpg",
+              "width": 1503,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Rico",
+          "Burt",
+          "Bada",
+          "Radio Guy",
+          "Hans",
+          "Space Squid",
+          "Brick",
+          "Lobster #2",
+          "Snake",
+          "Animal Control Officer",
+          "Announcer",
+          "Announcer #2",
+          "Bitsy",
+          "Construction Worker",
+          "Dog",
+          "Elephant",
+          "Factory Foreman",
+          "Factory Worker",
+          "Graveyard 8 Driver",
+          "Guard #1",
+          "Leopard Seal #2",
+          "Lobster #3",
+          "Macho Announcer",
+          "Macho TV Announcer",
+          "Maintenance Man",
+          "Pretzel Vendor",
+          "Rat #1 1991",
+          "Rat #2",
+          "Rhino",
+          "Robo-Guide",
+          "Security",
+          "Security Guard",
+          "Space Squid #1",
+          "Stace Hand",
+          "Street Person #1",
+          "TV VO",
+          "The Voice",
+          "Tiny Seal",
+          "Worker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0071818",
+          "display_name": "Jeff Bennett",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQzNTQwMjU2Ml5BMl5BanBnXkFtZTcwNDQwMzgxOA@@._V1_.jpg",
+              "width": 1305,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Kowalski",
+          "Chuck Charles",
+          "Computer",
+          "Chameleons",
+          "Rat #1",
+          "Man",
+          "Frankie",
+          "Red Squirrel",
+          "Amarillo Kid",
+          "Lobster #3",
+          "Reporter",
+          "Speak & Spell",
+          "Actor",
+          "Announcer #1",
+          "Blonde Guy",
+          "Chameleon",
+          "Computer Voice",
+          "Crowd Guy",
+          "Doctor Peary",
+          "Don",
+          "Driver",
+          "Ghost Sheep",
+          "Gregor",
+          "Jim",
+          "Leopard Seal #1",
+          "Lobster #2",
+          "Lunacorn Toy",
+          "Man #1",
+          "Narrator",
+          "Office Worker",
+          "Photographer",
+          "Pigeon",
+          "Pingeon",
+          "Professor",
+          "Rat",
+          "Security System Voice",
+          "Sno-cone Vendor",
+          "Spelling Toy Voice",
+          "Techno Voice",
+          "Tiny Kowalski",
+          "Vendor",
+          "Voice",
+          "Weapons System Voice"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0835722",
+          "display_name": "James Patrick Stuart",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTM2OWMyMDYtZTY5OS00Mzg0LWJkNzQtOGVhNWQ1ZGRkZjNlXkEyXkFqcGdeQXVyMTA4NTM3MzM@._V1_.jpg",
+              "width": 4480,
+              "height": 6720
+            }
+          ]
+        },
+        "characters": [
+          "Private",
+          "Joey",
+          "Driver",
+          "Announcer",
+          "Hornet #2",
+          "Prince Sharesalot",
+          "Ad Exec #2",
+          "Beret-Wearing Frenchman",
+          "Cameraman",
+          "Cop",
+          "Delivery Truck Driver",
+          "Doorman",
+          "Family Father",
+          "Father",
+          "Foreman",
+          "Guard #2",
+          "Guy #2",
+          "Gym Patron",
+          "Hot Dog Vendor",
+          "Kid",
+          "Lab Tech",
+          "Leopard Seal #3",
+          "Lobster #4",
+          "Lunacorn",
+          "Man",
+          "Man in Crowd",
+          "Manfredi",
+          "Owner",
+          "Pretzel Vendor Maurice",
+          "Prince Sharesaldt",
+          "Princesharesalot",
+          "Scientist",
+          "Scientist #2",
+          "Suck-Up Lobster",
+          "TV Announcer",
+          "Ticket Vendor",
+          "Toy Store Worker",
+          "Vendor",
+          "Zoo Offical 1991"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0725200",
+          "display_name": "Andy Richter",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg0MjMxOTM0M15BMl5BanBnXkFtZTcwNjQ2MzI0Mg@@._V1_.jpg",
+              "width": 282,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Mort"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0414365",
+          "display_name": "Danny Jacobs",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWNhMWVhODUtNGM3Yi00NDU0LThhZGYtZDIyMjk5ZjRlNTNkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 640,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "King Julien",
+          "Roy",
+          "Delivery Boy",
+          "DJ",
+          "Hornet #1",
+          "Lobster #1",
+          "Man",
+          "Actor",
+          "Antonio",
+          "Ape",
+          "Automated Voice",
+          "Boy",
+          "Cabby",
+          "Citizen #1",
+          "Cute Little Mouse",
+          "Director",
+          "Guard",
+          "Johnson",
+          "Kid",
+          "Leopard Seal #4",
+          "Lunacorn",
+          "Pedestrian",
+          "Pizza Guy",
+          "Popcorn Cart Guy",
+          "Scientist #1",
+          "Security Guard",
+          "Sheep #3",
+          "Squirrel 1991",
+          "Streetcorner Santa #2",
+          "Taxi Driver",
+          "Toy Store Manager",
+          "Visitor #1"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0724656",
+          "display_name": "Kevin Michael Richardson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI0OTg2NDQyOV5BMl5BanBnXkFtZTcwMTAwNjkzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 554
+            }
+          ]
+        },
+        "characters": [
+          "Maurice",
+          "Bing",
+          "Pinky",
+          "Rat #2",
+          "Announcer",
+          "TV Announcer",
+          "Bejeweled Egg",
+          "Camel",
+          "Concerned Citizen #1",
+          "Dark-Suited Man",
+          "Driver",
+          "Duck",
+          "Factory Worker",
+          "Fly #2",
+          "Lab PA Voice",
+          "Lunacorn",
+          "Man",
+          "Mild-Mannered-Computer",
+          "Pigeon #1",
+          "Reporter",
+          "Security Guard",
+          "Security System Voice",
+          "Space Squid #2",
+          "Stampeding Shopper",
+          "TV Voice",
+          "Tasty Fish",
+          "Video Game",
+          "Website Announcer",
+          "Zoo Visitor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005474",
+          "display_name": "Nicole Sullivan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYxMDY0NTE0OF5BMl5BanBnXkFtZTcwNzMyMzU2Nw@@._V1_.jpg",
+              "width": 1382,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Marlene"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0770462",
+          "display_name": "Mary Scheer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzU2ZDQ5OWItY2YwZC00NjFjLWFjMzEtYWZhNWQwNDVmYTlhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 944,
+              "height": 1419
+            }
+          ]
+        },
+        "characters": [
+          "Alice",
+          "Female Doctor",
+          "Machine Voice"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0970447",
+          "display_name": "Conrad Vernon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY3NjM5NjMxNF5BMl5BanBnXkFtZTcwMTc1ODMxOA@@._V1_.jpg",
+              "width": 1249,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mason",
+          "Man #1",
+          "Policeman",
+          "Streetcorner Santa #3"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0152839",
+          "display_name": "Tara Strong",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjJhNjcyOWQtMjQ2My00MGU0LWFiMzItMDZlY2EzMjYwMWI3XkEyXkFqcGdeQXVyNzcwOTY0ODg@._V1_.jpg",
+              "width": 1242,
+              "height": 1849
+            }
+          ]
+        },
+        "characters": [
+          "Mother Duck",
+          "Eggy",
+          "Princess Selfrespectra",
+          "Boy",
+          "Girl",
+          "Kid Walla",
+          "Audience Member #1",
+          "Baby",
+          "Boy #1",
+          "Boy #33",
+          "Boy with Popcorn",
+          "Concerned Citizen #2",
+          "Duckling",
+          "Kid",
+          "Kid #2",
+          "Kids",
+          "Kindergartner",
+          "Little Boy",
+          "Lunacorn Toy",
+          "Miss Perky",
+          "Okkuu",
+          "Sheep #2",
+          "Teacher",
+          "Walla",
+          "Young Female Zoo Visitor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0831550",
+          "display_name": "Fred Stoller",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM4MTA3NzAzN15BMl5BanBnXkFtZTgwMjUwNDc5MjE@._V1_.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ]
+        },
+        "characters": [
+          "Fred"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0048389",
+          "display_name": "Dee Bradley Baker",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk4MzkzMzk0MF5BMl5BanBnXkFtZTcwNDIwMjM4NA@@._V1_.jpg",
+              "width": 1024,
+              "height": 1536
+            }
+          ]
+        },
+        "characters": [
+          "Feral Marlene",
+          "Jiggles",
+          "Bunny",
+          "Fly",
+          "Guard Dog",
+          "Kid #1",
+          "Man",
+          "Monstrous Bunny",
+          "Nanite",
+          "Pete Peters",
+          "Rottweiler",
+          "Skipper's Gut",
+          "Wild Marlene"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0046033",
+          "display_name": "Diedrich Bader",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkzMTkyNzYyOV5BMl5BanBnXkFtZTYwNTMyNDE0._V1_.jpg",
+              "width": 291,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "King Rat",
+          "Rat King"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0946382",
+          "display_name": "Cedric Yarbrough",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk5ODk0OTI5NF5BMl5BanBnXkFtZTcwOTYxNjYyMg@@._V1_.jpg",
+              "width": 284,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Officer X",
+          "Exterminator X"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "title": {
+    "id": "tt3501632",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Thor: Ragnarok",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 130,
+    "plot": "Imprisoned on the planet Sakaar, Thor must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.",
+    "rating": {
+      "aggregate_rating": 7.9,
+      "votes_count": 817109
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 74,
+      "review_count": 51
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0169806",
+          "display_name": "Taika Waititi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzk4MDIzNjcwNV5BMl5BanBnXkFtZTgwMTIyMjgwNDI@._V1_.jpg",
+              "width": 1638,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm3069408",
+          "display_name": "Eric Pearson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDAwYTkxMTAtNjRkYS00ZTI5LWIyMDEtNjU1MjQ2MmE3MWZiXkEyXkFqcGdeQXVyNDM0NDAwOTQ@._V1_.jpg",
+              "width": 3605,
+              "height": 2393
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1219736",
+          "display_name": "Craig Kyle",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYwMzE0NTcwOV5BMl5BanBnXkFtZTgwNDg2Nzc4MzI@._V1_.jpg",
+              "width": 1361,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1236653",
+          "display_name": "Christopher L. Yost",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQ5OTU4Nzc4M15BMl5BanBnXkFtZTgwMTY3Nzc4MzI@._V1_.jpg",
+              "width": 1385,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0498278",
+          "display_name": "Stan Lee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk3NDE3Njc5M15BMl5BanBnXkFtZTYwOTY5Nzc1._V1_.jpg",
+              "width": 278,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1293367",
+          "display_name": "Larry Lieber",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1165110",
+          "display_name": "Chris Hemsworth",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTU2MTI0NTIyNV5BMl5BanBnXkFtZTcwMTA4Nzc3OA@@._V1_.jpg",
+              "width": 384,
+              "height": 576
+            }
+          ]
+        },
+        "characters": [
+          "Thor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1089991",
+          "display_name": "Tom Hiddleston",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWYwODAyZjAtOTQ1My00MDY2LTg0NDQtZGFiMDRiYzY4ZmM2XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_.jpg",
+              "width": 2369,
+              "height": 3217
+            }
+          ]
+        },
+        "characters": [
+          "Loki"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000949",
+          "display_name": "Cate Blanchett",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc1MDI0MDg1NV5BMl5BanBnXkFtZTgwMDM3OTAzMTE@._V1_.jpg",
+              "width": 1419,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Hela"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0252961",
+          "display_name": "Idris Elba",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzEzMTI2NjEyNF5BMl5BanBnXkFtZTcwNTA0OTE4OA@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Heimdall"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000156",
+          "display_name": "Jeff Goldblum",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2ViNDIwNmUtZGQ5Ni00MDYxLWI5YTktNWU1NGRlYWQ1ZDg0XkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_.jpg",
+              "width": 560,
+              "height": 698
+            }
+          ]
+        },
+        "characters": [
+          "Grandmaster"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1935086",
+          "display_name": "Tessa Thompson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjk4MDU3NDg4NF5BMl5BanBnXkFtZTcwMjMxMjcwNA@@._V1_.jpg",
+              "width": 667,
+              "height": 1000
+            }
+          ]
+        },
+        "characters": [
+          "Valkyrie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0881631",
+          "display_name": "Karl Urban",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjExMjQ2MDk4OF5BMl5BanBnXkFtZTcwNDQ3MzQ1MQ@@._V1_.jpg",
+              "width": 333,
+              "height": 500
+            }
+          ]
+        },
+        "characters": [
+          "Skurge"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0749263",
+          "display_name": "Mark Ruffalo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWIzZTI1ODUtZTUzMC00NTdiLWFlOTYtZTg4MGZkYmU4YzNlXkEyXkFqcGdeQXVyNTExOTk5Nzg@._V1_.jpg",
+              "width": 4912,
+              "height": 7360
+            }
+          ]
+        },
+        "characters": [
+          "Bruce Banner",
+          "Hulk"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000164",
+          "display_name": "Anthony Hopkins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg5ODk1NTc5Ml5BMl5BanBnXkFtZTYwMjAwOTI4._V1_.jpg",
+              "width": 287,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Odin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1212722",
+          "display_name": "Benedict Cumberbatch",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE0MDkzMDQwOF5BMl5BanBnXkFtZTgwOTE1Mjg1MzE@._V1_.jpg",
+              "width": 1414,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Doctor Strange"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0169806",
+          "display_name": "Taika Waititi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzk4MDIzNjcwNV5BMl5BanBnXkFtZTgwMTIyMjgwNDI@._V1_.jpg",
+              "width": 1638,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Korg"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1344302",
+          "display_name": "Rachel House",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWNmNzEzMGUtMDc1NS00OTlkLWExMzktNTAzOGQ2N2RkMjI3XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+              "width": 660,
+              "height": 825
+            }
+          ]
+        },
+        "characters": [
+          "Topaz"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000317",
+          "display_name": "Clancy Brown",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUxODY3NjAzMF5BMl5BanBnXkFtZTcwMTQ5MjYwNg@@._V1_.jpg",
+              "width": 1418,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Surtur"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0038355",
+          "display_name": "Tadanobu Asano",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY5MzM5MTk5OV5BMl5BanBnXkFtZTgwMTcxMTY1MDE@._V1_.jpg",
+              "width": 1425,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Hogun"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0829032",
+          "display_name": "Ray Stevenson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzE0YmE5OTUtYjFmOS00OGY4LWE0NmQtMWY4MjA3OWM4MTMwXkEyXkFqcGdeQXVyMTI2Nzk3NzI4._V1_.jpg",
+              "width": 827,
+              "height": 1063
+            }
+          ]
+        },
+        "characters": [
+          "Volstagg"
+        ]
+      }
+    ]
+  }
+}

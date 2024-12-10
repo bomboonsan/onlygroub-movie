@@ -1,0 +1,179 @@
+{
+  "title": {
+    "id": "tt0214382",
+    "type": "tvMiniSeries",
+    "is_adult": false,
+    "primary_title": "Walking with Dinosaurs",
+    "original_title": null,
+    "start_year": 1999,
+    "end_year": 1999,
+    "runtime_minutes": 30,
+    "plot": "Documentary-style series about the era of the dinosaurs, mixing real locations and CGI.",
+    "rating": {
+      "aggregate_rating": 8.5,
+      "votes_count": 6960
+    },
+    "genres": [
+      "Animation",
+      "Documentary",
+      "History"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTU1YTZiOTEtYWEwOC00NGZkLWEzYjAtNDk4NTMwYjBhNTFiXkEyXkFqcGdeQXVyNjcwMzExMzU@._V1_.jpg",
+        "width": 426,
+        "height": 597
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "TV-14"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm0354307",
+          "display_name": "Tim Haines",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm13930593",
+          "display_name": "Mary Clare Bacquet",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0416583",
+          "display_name": "Jasper James",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0989448",
+          "display_name": "Georgann Kane",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0238419",
+          "display_name": "Nikolay Drozdov",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzljYzg5NjAtNTM2OS00MjU2LTllZjMtY2ZhMDZiZjA1N2Q3XkEyXkFqcGdeQXVyNjMwOTA1MDM@._V1_.jpg",
+              "width": 1000,
+              "height": 1333
+            }
+          ]
+        },
+        "characters": [
+          "Narrator Russia",
+          "Self - Narrator",
+          "Narrator"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000110",
+          "display_name": "Kenneth Branagh",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI0NTQ4Mjk5Ml5BMl5BanBnXkFtZTcwMDc1NjkzNw@@._V1_.jpg",
+              "width": 1427,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Narrator",
+          "Self - Narrator UK"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000984",
+          "display_name": "Avery Brooks",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI3ODIyNDI3M15BMl5BanBnXkFtZTYwNjQ3MTcz._V1_.jpg",
+              "width": 468,
+              "height": 664
+            }
+          ]
+        },
+        "characters": [
+          "Narrator US"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0781130",
+          "display_name": "Craig Sechler",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzJkYjAzZDItZWU1MC00ZDZmLWEyZjgtOTg2MWY5Y2JhMWQyL2ltYWdlXkEyXkFqcGdeQXVyNzAzODE2MTA@._V1_.jpg",
+              "width": 768,
+              "height": 614
+            }
+          ]
+        },
+        "characters": [
+          "Narrator US"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0244707",
+          "display_name": "André Dussollier",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA2NjE4OTMyNV5BMl5BanBnXkFtZTcwNzc4NTUzOA@@._V1_.jpg",
+              "width": 1479,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Narrator",
+          "Récitant"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0855417",
+          "display_name": "Akira Terao",
+          "avatars": null
+        },
+        "characters": [
+          "Narrator Japan"
+        ]
+      }
+    ]
+  }
+}

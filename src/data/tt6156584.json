@@ -1,0 +1,416 @@
+{
+  "title": {
+    "id": "tt6156584",
+    "type": "tvSeries",
+    "is_adult": false,
+    "primary_title": "Snowpiercer",
+    "original_title": null,
+    "start_year": 2020,
+    "end_year": 2024,
+    "runtime_minutes": 60,
+    "plot": "Seven years after the world has become a frozen wasteland, the remnants of humanity inhabit a perpetually-moving train that circles the globe, where class warfare, social injustice and the politics of survival play out.",
+    "rating": {
+      "aggregate_rating": 6.9,
+      "votes_count": 62623
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMmM1ODg0MjktY2U3ZC00ZDc4LTkxMjAtMzljY2VkZmI3MmE5XkEyXkFqcGc@._V1_.jpg",
+        "width": 675,
+        "height": 1000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "TV-MA"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm0775358",
+          "display_name": "Christoph Schrewe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGFlMGMyOWEtNDI1MC00ZDZjLTkwYWItYzBjOTc4YWQ0ZDI5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 359,
+              "height": 604
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0394012",
+          "display_name": "Leslie Hope",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg2NTgzNjMzMV5BMl5BanBnXkFtZTcwOTE2ODA3NA@@._V1_.jpg",
+              "width": 2912,
+              "height": 4368
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0369949",
+          "display_name": "James Hawes",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTZjODc2MmYtYWM5OC00Yjc3LTlhNGQtYmJlZjkzNDNkMGZkXkEyXkFqcGdeQXVyMTUzNzQxMjc@._V1_.jpg",
+              "width": 3177,
+              "height": 3177
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0589284",
+          "display_name": "Sam Miller",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzVjMWNjNzQtZmRlZC00MDlkLTljYTAtYTBkMDdmY2QyNGFhXkEyXkFqcGdeQXVyMzU2MTMyNTk@._V1_.jpg",
+              "width": 480,
+              "height": 640
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0001726",
+          "display_name": "Helen Shaver",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGQxZTNhODItOGM2My00NzBiLWE2MzktNjY0YTNlYzE1N2NiXkEyXkFqcGdeQXVyNDI4MDU1MTk@._V1_.jpg",
+              "width": 2048,
+              "height": 1242
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0295264",
+          "display_name": "Josh Friedman",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0094435",
+          "display_name": "Bong Joon Ho",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGVmYzZkODgtNTQ3OS00MzgxLTllOGUtZTFjNDc4MmE1ZDcwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "width": 4798,
+              "height": 3541
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0499429",
+          "display_name": "Benjamin Legrand",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2441468",
+          "display_name": "Jacques Lob",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1031176",
+          "display_name": "Kelly Masterson",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm4377526",
+          "display_name": "Daveed Diggs",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY5NzA2ODI1MV5BMl5BanBnXkFtZTgwMzg1OTg4ODE@._V1_.jpg",
+              "width": 625,
+              "height": 596
+            }
+          ]
+        },
+        "characters": [
+          "Andre Layton",
+          "Layton Well"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2316017",
+          "display_name": "Mickey Sumner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODllMzk1YjAtMTMwYy00MTQyLThkZGQtMDU1NGJmZGE3NjJjXkEyXkFqcGdeQXVyMjY5MzM3OTk@._V1_CR103,0,336,504_.jpg",
+              "width": 336,
+              "height": 504
+            }
+          ]
+        },
+        "characters": [
+          "Bess Till"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2226071",
+          "display_name": "Alison Wright",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTZmNWE1MDItNDU3MC00YzQ3LTkxYWEtMDI4M2M5ZTVmNGEyXkEyXkFqcGdeQXVyMTEwNTgzNDM@._V1_.jpg",
+              "width": 478,
+              "height": 720
+            }
+          ]
+        },
+        "characters": [
+          "Ruth Wardell",
+          "Lilah Anderson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0325221",
+          "display_name": "Iddo Goldberg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI3MDE3NzUxOF5BMl5BanBnXkFtZTgwNDEwOTgzNDM@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Bennett Knox"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1426855",
+          "display_name": "Roberto Urbina",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDBkY2ZlYzMtODUxNS00Nzc1LWIzM2ItM2JlZTMzZTg1NGEyXkEyXkFqcGdeQXVyMTA5MTQ0ODk@._V1_.jpg",
+              "width": 3209,
+              "height": 4814
+            }
+          ]
+        },
+        "characters": [
+          "Javier de La Torre",
+          "Avi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2969015",
+          "display_name": "Lena Hall",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM3ZDJmMmItMGM4Yy00MzZlLWE1ZmEtOTBjZGNhZTBhYmZmXkEyXkFqcGc@._V1_.jpg",
+              "width": 3604,
+              "height": 5400
+            }
+          ]
+        },
+        "characters": [
+          "Miss Audrey",
+          "Sayori"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1595086",
+          "display_name": "Katie McGuinness",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDYwMGI3YjUtNTcwMS00YjdiLThkZjgtNmE1YTNiNDM1ZjUzXkEyXkFqcGdeQXVyMzUzMjc1OQ@@._V1_.jpg",
+              "width": 4574,
+              "height": 6241
+            }
+          ]
+        },
+        "characters": [
+          "Josie Wellstead",
+          "Josie McConnell"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3688576",
+          "display_name": "Rowan Blanchard",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTg2ZjlkY2UtM2MzNS00MTZhLWI4ODYtM2M5NWU5ZDBmMGY0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+              "width": 4000,
+              "height": 6000
+            }
+          ]
+        },
+        "characters": [
+          "Alexandra Cavill"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2611074",
+          "display_name": "Sheila Vand",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTEwNzcyMTg5MV5BMl5BanBnXkFtZTgwNjkwNTc1NDE@._V1_.jpg",
+              "width": 1438,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Zarah Ferami",
+          "Cleo",
+          "Zarah"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7446337",
+          "display_name": "Sam Otto",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2M0YWVhNzAtYjIwNi00MDk0LTg5ZTEtNGY3NjQwNzdkMDQzXkEyXkFqcGc@._V1_.jpg",
+              "width": 5568,
+              "height": 3712
+            }
+          ]
+        },
+        "characters": [
+          "John Osweiller"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0465269",
+          "display_name": "Karin Konoval",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDBlZDgzZTEtOTAzMC00YmRmLWJjMmUtYWEwMmVjMzhkYTk1XkEyXkFqcGdeQXVyMjE4MTQ3MzQ@._V1_.jpg",
+              "width": 1187,
+              "height": 1280
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Pelton"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4285727",
+          "display_name": "Kwasi Thomas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGQ4MzhkNGUtODAxMi00Njk3LWFlMGQtNDM5YmNkZjc3MjM2XkEyXkFqcGdeQXVyNTkzMzIzNzM@._V1_.jpg",
+              "width": 640,
+              "height": 1136
+            }
+          ]
+        },
+        "characters": [
+          "Z-Wreck"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2399383",
+          "display_name": "Annalise Basso",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTA5ZTg4NDItMDNlYi00M2I5LTg5NzItMDhhM2VmZmEzNmIxXkEyXkFqcGdeQXVyMTAyOTk1NTU@._V1_.jpg",
+              "width": 827,
+              "height": 1045
+            }
+          ]
+        },
+        "characters": [
+          "LJ Folger",
+          "Lilah Anderson Junior"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1596999",
+          "display_name": "Miranda Edwards",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2VhZTJhYmYtZjZhZS00MTI4LWI3M2YtN2VjNTFhZDA4MjZlXkEyXkFqcGdeQXVyMTgxOTg1NTM@._V1_.jpg",
+              "width": 1889,
+              "height": 2834
+            }
+          ]
+        },
+        "characters": [
+          "Lights"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005282",
+          "display_name": "Mike O'Malley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk5NjQ5MTUzMF5BMl5BanBnXkFtZTgwMzM4NDg4NDE@._V1_.jpg",
+              "width": 349,
+              "height": 466
+            }
+          ]
+        },
+        "characters": [
+          "Sam Roche"
+        ]
+      }
+    ]
+  }
+}

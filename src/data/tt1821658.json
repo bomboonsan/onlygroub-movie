@@ -1,0 +1,344 @@
+{
+  "title": {
+    "id": "tt1821658",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Nut Job",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 85,
+    "plot": "An incorrigibly self-serving exiled squirrel finds himself helping his former park brethren survive by raiding a nut store, a location that also happens to be a front for a human gang's bank robbery.",
+    "rating": {
+      "aggregate_rating": 5.7,
+      "votes_count": 30258
+    },
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Crime",
+      "Family"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQ1NjAxMDUzN15BMl5BanBnXkFtZTgwOTE5NDM3MDE@._V1_.jpg",
+        "width": 1386,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "nld",
+        "name": "Dutch"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "KR",
+        "name": "Republic of Korea"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 37,
+      "review_count": 28
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0503259",
+          "display_name": "Peter Lepeniotis",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0503259",
+          "display_name": "Peter Lepeniotis",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0131661",
+          "display_name": "Lorne Cameron",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm5371827",
+          "display_name": "Daniel Woo",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0715257",
+          "display_name": "Robert Reece",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0004715",
+          "display_name": "Will Arnett",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTgxNDdlYjAtNGQzZC00ODJlLTliYjYtYTk0ZDE4YTBmYmM0XkEyXkFqcGdeQXVyNDc1NDA0NA@@._V1_.jpg",
+              "width": 612,
+              "height": 792
+            }
+          ]
+        },
+        "characters": [
+          "Surly"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000409",
+          "display_name": "Brendan Fraser",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA5MjExMzY0M15BMl5BanBnXkFtZTgwNTMxOTg4MTI@._V1_.jpg",
+              "width": 1536,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Grayson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000553",
+          "display_name": "Liam Neeson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA1MTQ3NzU1MV5BMl5BanBnXkFtZTgwMDE3Mjg0MzE@._V1_.jpg",
+              "width": 785,
+              "height": 783
+            }
+          ]
+        },
+        "characters": [
+          "Raccoon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001337",
+          "display_name": "Katherine Heigl",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTM0NDEwMjA1MV5BMl5BanBnXkFtZTcwMzQxMDI3Mg@@._V1_.jpg",
+              "width": 271,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Andie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0002332",
+          "display_name": "Stephen Lang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGY5NTZmOTItMWFiYy00MWNhLTk5OWUtMWUyYzY1ZDYwODg2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+              "width": 3529,
+              "height": 4622
+            }
+          ]
+        },
+        "characters": [
+          "King"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0748973",
+          "display_name": "Maya Rudolph",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMzOTQwMzAyOF5BMl5BanBnXkFtZTYwNzA1OTc0._V1_.jpg",
+              "width": 259,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Precious"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0242278",
+          "display_name": "Jeff Dunham",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcxNDcxNzM3Nl5BMl5BanBnXkFtZTcwNzI5MDk4Mg@@._V1_.jpg",
+              "width": 1537,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mole"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0407101",
+          "display_name": "Gabriel Iglesias",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMyNzk4NTQ4Ml5BMl5BanBnXkFtZTgwMTA1OTEwNjE@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Jimmy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0300589",
+          "display_name": "Sarah Gadon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2I3YTA3M2EtYWJhYS00NjJlLTg1NzYtMTdmNjI5M2ViY2ZiXkEyXkFqcGdeQXVyMzE1MjkwODU@._V1_.jpg",
+              "width": 683,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Lana"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0710258",
+          "display_name": "James Rankin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDBjOGE5NmQtNDkyNS00M2IzLWEyZjQtZmJhMzJkZjllODAyXkEyXkFqcGc@._V1_.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ]
+        },
+        "characters": [
+          "Fingers"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1064104",
+          "display_name": "Scott Yaphe",
+          "avatars": null
+        },
+        "characters": [
+          "Lucky"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0684187",
+          "display_name": "Joe Pingue",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTIzYTc2OGEtYTViZi00MjI3LThiYmItYzYyZTI4MjEwMTVjXkEyXkFqcGdeQXVyMTI1MzY2MTQ1._V1_.jpg",
+              "width": 4887,
+              "height": 3258
+            }
+          ]
+        },
+        "characters": [
+          "Johnny"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0643449",
+          "display_name": "Annick Obonsawin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGQ3OTVjNTctZTA1ZC00Yjk0LWFmOGMtNTFiYmViNTk2N2JkXkEyXkFqcGc@._V1_.jpg",
+              "width": 411,
+              "height": 594
+            }
+          ]
+        },
+        "characters": [
+          "Jamie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0501306",
+          "display_name": "Julie Lemieux",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDhiYWM4OGYtMGI0Mi00Mzg0LTgyMTEtZGZiZDY0ZDYyYzc3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1400,
+              "height": 1237
+            }
+          ]
+        },
+        "characters": [
+          "Girl Scout"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0863999",
+          "display_name": "Rob Tinkler",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY3ODIzNDYxOF5BMl5BanBnXkFtZTgwMjE5NDc0ODE@._V1_.jpg",
+              "width": 3024,
+              "height": 4032
+            }
+          ]
+        },
+        "characters": [
+          "Redline",
+          "Buddy"
+        ]
+      }
+    ]
+  }
+}

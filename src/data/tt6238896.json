@@ -1,0 +1,150 @@
+{
+  "title": {
+    "id": "tt6238896",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Earth: One Amazing Day",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 95,
+    "plot": "From BBC Earth Films, the studio that brought you Earth, comes the sequel - Earth: One Amazing Day, an astonishing journey revealing the awesome power of the natural world. Over the course of one single day, we track the sun from the highest mountains to the remotest islands to exotic jungles. Breakthroughs in filmmaking technology bring you up close with a cast of unforgettable characters. Told with humour, intimacy and a jaw-dropping sense of cinematic splendour, Earth: One Amazing Day highlights how every day is filled with more wonders than you can possibly imagine- until now.",
+    "rating": {
+      "aggregate_rating": 7.8,
+      "votes_count": 3113
+    },
+    "genres": [
+      "Documentary",
+      "Family"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDAyODk4ZjYtZjZiZi00ZWE0LWE4NDgtZGQ4ODg2YjllY2U1XkEyXkFqcGc@._V1_.jpg",
+        "width": 2025,
+        "height": 3000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "G"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "zho",
+        "name": "Chinese"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CN",
+        "name": "China"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm0197773",
+          "display_name": "Richard Dale",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1292131",
+          "display_name": "Lixin Fan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTE5NDU3MDk2N15BMl5BanBnXkFtZTYwMDk1MjMz._V1_.jpg",
+              "width": 265,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0916424",
+          "display_name": "Peter Webber",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzUwNGRkZjItNzBlMS00MmY1LWJhODAtNDJiNTVmMTZhZDkyXkEyXkFqcGdeQXVyNjQ2ODcyNQ@@._V1_.jpg",
+              "width": 1179,
+              "height": 1166
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0101639",
+          "display_name": "Frank Cottrell Boyce",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0197773",
+          "display_name": "Richard Dale",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0945802",
+          "display_name": "Geling Yan",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000602",
+          "display_name": "Robert Redford",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk1Nzc5MzQyMV5BMl5BanBnXkFtZTcwNjQ5OTA0Mg@@._V1_.jpg",
+              "width": 288,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Narrator"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000329",
+          "display_name": "Jackie Chan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk4MDM0MDUzM15BMl5BanBnXkFtZTcwOTI4MzU1Mw@@._V1_.jpg",
+              "width": 288,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Narrator"
+        ]
+      }
+    ]
+  }
+}

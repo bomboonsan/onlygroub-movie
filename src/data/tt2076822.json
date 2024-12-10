@@ -1,0 +1,347 @@
+{
+  "title": {
+    "id": "tt2076822",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Chaos Walking",
+    "original_title": null,
+    "start_year": 2021,
+    "end_year": null,
+    "runtime_minutes": 109,
+    "plot": "Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality where all thoughts are seen and heard by everyone.",
+    "rating": {
+      "aggregate_rating": 5.7,
+      "votes_count": 56195
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi",
+      "Western"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTcxYTk3MWQtZThlMS00ZjQ0LTg0NjktNGVkNWM2MTAyYWJmXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+        "width": 973,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "HK",
+        "name": "Hong Kong (Special Administrative Region of China)"
+      },
+      {
+        "code": "LU",
+        "name": "Luxembourg"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 38,
+      "review_count": 32
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0510731",
+          "display_name": "Doug Liman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODk4MjIwNjU5OF5BMl5BanBnXkFtZTcwODU4Njk1Mw@@._V1_.jpg",
+              "width": 294,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm4710432",
+          "display_name": "Patrick Ness",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU5MTQ5MDQ2MV5BMl5BanBnXkFtZTgwMjQzNzk5OTE@._V1_.jpg",
+              "width": 1385,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1755986",
+          "display_name": "Christopher Ford",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc3Njg0ODIyMV5BMl5BanBnXkFtZTcwOTMzNjEzNw@@._V1_.jpg",
+              "width": 412,
+              "height": 497
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm4043618",
+          "display_name": "Tom Holland",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzZiNTEyNTItYjNhMS00YjI2LWIwMWQtZmYwYTRlNjMyZTJjXkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_.jpg",
+              "width": 3648,
+              "height": 5472
+            }
+          ]
+        },
+        "characters": [
+          "Todd"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5397459",
+          "display_name": "Daisy Ridley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgzMDk3MjI4OF5BMl5BanBnXkFtZTgwMzQxMDY5NjE@._V1_.jpg",
+              "width": 1638,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Viola"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0065007",
+          "display_name": "Demián Bichir",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIzNDMwMzI3OV5BMl5BanBnXkFtZTgwNTk2NzMyMTE@._V1_.jpg",
+              "width": 451,
+              "height": 594
+            }
+          ]
+        },
+        "characters": [
+          "Ben"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0654648",
+          "display_name": "David Oyelowo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTMyODkxMzktNWMwMy00MjRlLTlmNjUtM2I0NTczZDU3YjE0XkEyXkFqcGdeQXVyOTkyMDQ2Mw@@._V1_.jpg",
+              "width": 788,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Aaron"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1176676",
+          "display_name": "Kurt Sutter",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA2NDgwODI1Ml5BMl5BanBnXkFtZTgwOTgyODk5NjE@._V1_.jpg",
+              "width": 378,
+              "height": 378
+            }
+          ]
+        },
+        "characters": [
+          "Cillian"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7248827",
+          "display_name": "Cynthia Erivo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcyMTI3NzI1Nl5BMl5BanBnXkFtZTgwNjQ3Njk2NjM@._V1_.jpg",
+              "width": 605,
+              "height": 855
+            }
+          ]
+        },
+        "characters": [
+          "Hildy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3869592",
+          "display_name": "Bethany Anne Lind",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWU1ZWJmZDgtNjNiMS00NjlmLThlMDMtYWJiZjUwNTQ1NjdhXkEyXkFqcGdeQXVyMjM4NjU0NDM@._V1_CR205,71,2116,3173_.jpg",
+              "width": 2116,
+              "height": 3173
+            }
+          ]
+        },
+        "characters": [
+          "Karyssa Hewitt"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0586568",
+          "display_name": "Mads Mikkelsen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcyMTU5MzgxMF5BMl5BanBnXkFtZTYwMDI0NjI1._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Mayor Prentiss"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2679917",
+          "display_name": "Nick Jonas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI2NTI0NjczM15BMl5BanBnXkFtZTgwMDc4NDI1NDM@._V1_.jpg",
+              "width": 1545,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Davy Prentiss, Jr."
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0571964",
+          "display_name": "Ray McKinnon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkwNzEwMDg1NV5BMl5BanBnXkFtZTcwNDU1MDQ5OQ@@._V1_.jpg",
+              "width": 450,
+              "height": 517
+            }
+          ]
+        },
+        "characters": [
+          "Matthew"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1296188",
+          "display_name": "Vincent Leclerc",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDk3ZjgxMzYtNjU3Yy00NDMzLWI2NTgtMjZlNjgzYjFiYmQyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1115,
+              "height": 668
+            }
+          ]
+        },
+        "characters": [
+          "Daws"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7511667",
+          "display_name": "Blane Crockarell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGQ1ZGU1NjEtNGNiNi00Zjg5LTkzNWEtMzg0ZmI0YTExYjFiXkEyXkFqcGdeQXVyNjIwNDA2MTk@._V1_.jpg",
+              "width": 1080,
+              "height": 1329
+            }
+          ]
+        },
+        "characters": [
+          "Young Todd"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0309890",
+          "display_name": "François Gauthier",
+          "avatars": null
+        },
+        "characters": [
+          "Charlie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0072419",
+          "display_name": "Tyrone Benskin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDcyYTRhMGItM2VjYi00ZjRiLThkZTEtMjBhMWJjMDBhYzU3XkEyXkFqcGdeQXVyMDg3NjEyNQ@@._V1_.jpg",
+              "width": 1997,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Hammer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0284804",
+          "display_name": "Frank Fontaine",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjk4NTUyODItMGVlZC00OTFiLTkwMTAtYjliMTY3ZGQ0YWQyXkEyXkFqcGdeQXVyNTA1NDY3NzY@._V1_.jpg",
+              "width": 680,
+              "height": 382
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Phelps"
+        ]
+      }
+    ]
+  }
+}

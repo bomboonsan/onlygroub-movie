@@ -1,0 +1,377 @@
+{
+  "title": {
+    "id": "tt4633694",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Spider-Man: Into the Spider-Verse",
+    "original_title": null,
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 117,
+    "plot": "Teen Miles Morales becomes the Spider-Man of his universe and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+    "rating": {
+      "aggregate_rating": 8.4,
+      "votes_count": 673141
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_.jpg",
+        "width": 1381,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 87,
+      "review_count": 50
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm2130108",
+          "display_name": "Bob Persichetti",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM1ZmFlZDUtNTQ4YS00OTU5LTkzYTktNjcwODkwZGQ3NjUxXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+              "width": 853,
+              "height": 1024
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0709056",
+          "display_name": "Peter Ramsey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjRhNzUxZmMtNTIxZS00ZDhiLWFjMmItOTI4YmU2ZGNiYjk4XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
+              "width": 1080,
+              "height": 1440
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0745247",
+          "display_name": "Rodney Rothman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDA3ZmQ0ZjYtOTlkOS00YTQxLThlZDItMTA1MjZhYzIxZjNjXkEyXkFqcGdeQXVyMTA5MTAzMDY@._V1_.jpg",
+              "width": 1782,
+              "height": 996
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0520488",
+          "display_name": "Phil Lord",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTI5NTUwMTAwOV5BMl5BanBnXkFtZTcwMDIxMDgzOQ@@._V1_.jpg",
+              "width": 1662,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0745247",
+          "display_name": "Rodney Rothman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDA3ZmQ0ZjYtOTlkOS00YTQxLThlZDItMTA1MjZhYzIxZjNjXkEyXkFqcGdeQXVyMTA5MTAzMDY@._V1_.jpg",
+              "width": 1782,
+              "height": 996
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm4271336",
+          "display_name": "Shameik Moore",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAwNDU2OTc5M15BMl5BanBnXkFtZTgwOTk0ODMyNDE@._V1_.jpg",
+              "width": 2400,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Miles Morales"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2159926",
+          "display_name": "Jake Johnson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjExMzc5NDM0Nl5BMl5BanBnXkFtZTcwOTU3MDU3OA@@._V1_.jpg",
+              "width": 540,
+              "height": 720
+            }
+          ]
+        },
+        "characters": [
+          "Peter B. Parker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2794962",
+          "display_name": "Hailee Steinfeld",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGFmZDVhZDUtZWIyNC00NzBjLTg0ZGEtY2FhMjJlZWJhZjBlXkEyXkFqcGdeQXVyMTcwNzE4OTI@._V1_.jpg",
+              "width": 1200,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Gwen Stacy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0991810",
+          "display_name": "Mahershala Ali",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZThiZjJjNWYtNGRlYS00NDdkLTk0MTMtYjEwYzM1MDExNTYwXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",
+              "width": 3260,
+              "height": 3569
+            }
+          ]
+        },
+        "characters": [
+          "Uncle Aaron"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3109964",
+          "display_name": "Brian Tyree Henry",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjc5Njg2OTQtNmNkMS00YmZlLWIwYzgtNGQ5MjFkNTliMWIxXkEyXkFqcGdeQXVyMjE0NjY2NTA@._V1_.jpg",
+              "width": 8736,
+              "height": 11648
+            }
+          ]
+        },
+        "characters": [
+          "Jefferson Davis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005499",
+          "display_name": "Lily Tomlin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYwNjc5NzA2NV5BMl5BanBnXkFtZTcwNjk1MTk3Mw@@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Aunt May"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0904967",
+          "display_name": "Luna Lauren Velez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODQxNjE3OTUwN15BMl5BanBnXkFtZTcwODE4NTk4OQ@@._V1_.jpg",
+              "width": 786,
+              "height": 1036
+            }
+          ]
+        },
+        "characters": [
+          "Rio Morales"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2368789",
+          "display_name": "Zoë Kravitz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2NmMWViOTYtOGJhYi00MzU2LWI5ODYtOGJhYzhkMWViODY5XkEyXkFqcGdeQXVyNjk2NTA3MTc@._V1_.jpg",
+              "width": 422,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Mary Jane"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1825214",
+          "display_name": "John Mulaney",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcyNjU3MjE3MF5BMl5BanBnXkFtZTgwNDk5MzIyMTE@._V1_.jpg",
+              "width": 1467,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Spider-Ham"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4733752",
+          "display_name": "Kimiko Glenn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDExMzc5OTc1OF5BMl5BanBnXkFtZTgwOTM1NjMwNjE@._V1_.jpg",
+              "width": 1389,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Peni Parker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000115",
+          "display_name": "Nicolas Cage",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjUxMjE4MTQxMF5BMl5BanBnXkFtZTcwNzc2MDM1NA@@._V1_.jpg",
+              "width": 1503,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Spider-Man Noir"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1063517",
+          "display_name": "Kathryn Hahn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE1OTcxNDczMl5BMl5BanBnXkFtZTcwMDA1NDcyMQ@@._V1_.jpg",
+              "width": 300,
+              "height": 391
+            }
+          ]
+        },
+        "characters": [
+          "Doc Ock"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000630",
+          "display_name": "Liev Schreiber",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM5NjI1NzA1Ml5BMl5BanBnXkFtZTgwNDc0ODM3ODE@._V1_.jpg",
+              "width": 1568,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Wilson Fisk"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1517976",
+          "display_name": "Chris Pine",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM4OTQ4NTU3NV5BMl5BanBnXkFtZTcwNjEwNDU0OQ@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Peter Parker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2295540",
+          "display_name": "Natalie Morales",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODgyNTllNmYtMTdlNC00MWVkLTg1NmUtMjY3YWVmN2E1YjhkXkEyXkFqcGdeQXVyMTI5NDg4ODE@._V1_.jpg",
+              "width": 850,
+              "height": 1066
+            }
+          ]
+        },
+        "characters": [
+          "Miss Calleros"
+        ]
+      }
+    ]
+  }
+}

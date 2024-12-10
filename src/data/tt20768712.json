@@ -1,0 +1,330 @@
+{
+  "title": {
+    "id": "tt20768712",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Book Club: The Next Chapter",
+    "original_title": null,
+    "start_year": 2023,
+    "end_year": null,
+    "runtime_minutes": 107,
+    "plot": "Follows the new journey of four best friends as they take their book club to Italy for the fun girls trip they never had.",
+    "rating": {
+      "aggregate_rating": 5.6,
+      "votes_count": 6997
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGM0ZmFiYmEtMzMxOC00YWFlLWE4YzQtYzk2Y2NjNzZjYzA1XkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_.jpg",
+        "width": 1080,
+        "height": 1600
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "ita",
+        "name": "Italian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 46,
+      "review_count": 28
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm2250139",
+          "display_name": "Bill Holderman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTU3YWRmYWEtYzVlNy00NzhhLTkyYzEtM2ZhNjc0ZjE3ZGE0XkEyXkFqcGdeQXVyMTg2NzI5NA@@._V1_.jpg",
+              "width": 412,
+              "height": 612
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2250139",
+          "display_name": "Bill Holderman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTU3YWRmYWEtYzVlNy00NzhhLTkyYzEtM2ZhNjc0ZjE3ZGE0XkEyXkFqcGdeQXVyMTg2NzI5NA@@._V1_.jpg",
+              "width": 412,
+              "height": 612
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0799958",
+          "display_name": "Erin Simms",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmYyMzgxNGQtMWYzMS00ODU3LWFkZDctMzg5YjEwNDA2ZWIxXkEyXkFqcGdeQXVyMTMxNzIwOTg@._V1_.jpg",
+              "width": 378,
+              "height": 467
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000473",
+          "display_name": "Diane Keaton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY5NDI5OTEyOF5BMl5BanBnXkFtZTgwMzU4NDI1NzM@._V1_.jpg",
+              "width": 602,
+              "height": 854
+            }
+          ]
+        },
+        "characters": [
+          "Diane"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000404",
+          "display_name": "Jane Fonda",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzQ5NTE2MDAzOV5BMl5BanBnXkFtZTgwOTQ3MTQ3MjE@._V1_.jpg",
+              "width": 1740,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Vivian"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000298",
+          "display_name": "Candice Bergen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA3MTM1MTIxNTdeQTJeQWpwZ15BbWU3MDc4NDY2MjE@._V1_.jpg",
+              "width": 300,
+              "height": 420
+            }
+          ]
+        },
+        "characters": [
+          "Sharon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005460",
+          "display_name": "Mary Steenburgen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk1OTI5OTc0Nl5BMl5BanBnXkFtZTcwNjc5NDMwNA@@._V1_.jpg",
+              "width": 305,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Carol"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000412",
+          "display_name": "Andy Garcia",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM3NDA5NTgxNl5BMl5BanBnXkFtZTgwMzU3NDc4NDE@._V1_.jpg",
+              "width": 1642,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mitchell"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000467",
+          "display_name": "Don Johnson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg4ODYwOTU0N15BMl5BanBnXkFtZTgwNjc5NDM2MTE@._V1_.jpg",
+              "width": 1563,
+              "height": 2000
+            }
+          ]
+        },
+        "characters": [
+          "Arthur"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005266",
+          "display_name": "Craig T. Nelson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI0ODQwMDU1OV5BMl5BanBnXkFtZTcwMDkxNTE2Mg@@._V1_.jpg",
+              "width": 310,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Bruce"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0316284",
+          "display_name": "Giancarlo Giannini",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTIxMTMxNTMxNV5BMl5BanBnXkFtZTcwOTY5Mzc1MQ@@._V1_.jpg",
+              "width": 450,
+              "height": 677
+            }
+          ]
+        },
+        "characters": [
+          "Police Chief"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0702934",
+          "display_name": "Hugh Quarshie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQzODAzOTM5OV5BMl5BanBnXkFtZTcwNDEyNzYxOA@@._V1_.jpg",
+              "width": 1351,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Ousmane"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0516020",
+          "display_name": "Vincent Riotta",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmEzOWQ0YzEtYjM1Yi00Zjc2LTg4YmUtZTUyOThjNzFiYzE2XkEyXkFqcGdeQXVyMTE3Nzg4MTc2._V1_.jpg",
+              "width": 3337,
+              "height": 5000
+            }
+          ]
+        },
+        "characters": [
+          "Chef Gianni"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0261164",
+          "display_name": "Giovanni Esposito",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ4NjY5NTY3MF5BMl5BanBnXkFtZTgwODEwMTI5NDE@._V1_.jpg",
+              "width": 2592,
+              "height": 3872
+            }
+          ]
+        },
+        "characters": [
+          "Pasquale"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0431935",
+          "display_name": "Giampiero Judica",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgzNjA3Mzk5OF5BMl5BanBnXkFtZTgwNDQwNTY4MjE@._V1_.jpg",
+              "width": 5200,
+              "height": 3461
+            }
+          ]
+        },
+        "characters": [
+          "Donato"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3007926",
+          "display_name": "Vera Dragone",
+          "avatars": null
+        },
+        "characters": [
+          "Sofia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0226533",
+          "display_name": "Ugo Dighero",
+          "avatars": null
+        },
+        "characters": [
+          "Conductor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5962406",
+          "display_name": "Brice Martinet",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzgxYWI3YTItNDk3Zi00NThjLWFiMmEtNjliMzZhY2M5ZTVjXkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_.jpg",
+              "width": 1357,
+              "height": 1810
+            }
+          ]
+        },
+        "characters": [
+          "Police Officer"
+        ]
+      }
+    ]
+  }
+}

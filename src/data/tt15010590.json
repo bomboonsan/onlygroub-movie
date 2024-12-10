@@ -1,0 +1,285 @@
+{
+  "title": {
+    "id": "tt15010590",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Anita",
+    "original_title": null,
+    "start_year": 2021,
+    "end_year": null,
+    "runtime_minutes": 137,
+    "plot": "Traces the life of Anita Mui, Hong Kong's legendary Cantopop star.",
+    "rating": {
+      "aggregate_rating": 7,
+      "votes_count": 1275
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "History",
+      "Music"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTc5ZTM2YmMtNzFjYS00Njc3LWFhOGItNWIwZGRhNjdiMjc0XkEyXkFqcGc@._V1_.jpg",
+        "width": 1080,
+        "height": 1555
+      }
+    ],
+    "certificates": null,
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "jpn",
+        "name": "Japanese"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "HK",
+        "name": "Hong Kong (Special Administrative Region of China)"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm2410081",
+          "display_name": "Lok Man Leung",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWEzYjYxZjAtYjM4OS00MzczLTk1NDctMjEyYzRmZGQ1YjVkXkEyXkFqcGc@._V1_.jpg",
+              "width": 400,
+              "height": 598
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2410081",
+          "display_name": "Lok Man Leung",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWEzYjYxZjAtYjM4OS00MzczLTk1NDctMjEyYzRmZGQ1YjVkXkEyXkFqcGc@._V1_.jpg",
+              "width": 400,
+              "height": 598
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1210422",
+          "display_name": "Wai-Lun Ng",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm13144837",
+          "display_name": "Louise Wong",
+          "avatars": null
+        },
+        "characters": [
+          "Anita Mui"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0465503",
+          "display_name": "Louis Koo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUzNTY0MjIwNV5BMl5BanBnXkFtZTcwNDMyODA4OQ@@._V1_.jpg",
+              "width": 2048,
+              "height": 1582
+            }
+          ]
+        },
+        "characters": [
+          "Eddie Lau Pui-kei"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7184245",
+          "display_name": "Fish Liew",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2QxNWNjNDItZjcyZC00NzE5LTk0MzMtMzc0NjUxMzhhNWIxXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 435,
+              "height": 609
+            }
+          ]
+        },
+        "characters": [
+          "Ann Mui"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0482628",
+          "display_name": "Ka-Tung Lam",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYxNDI3OTA5OF5BMl5BanBnXkFtZTgwOTY1MDMzMjE@._V1_.jpg",
+              "width": 5126,
+              "height": 3417
+            }
+          ]
+        },
+        "characters": [
+          "So Hau-leung"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6331906",
+          "display_name": "Ayumu Nakajima",
+          "avatars": null
+        },
+        "characters": [
+          "Yuki Godo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7832704",
+          "display_name": "Chun-Him Lau",
+          "avatars": null
+        },
+        "characters": [
+          "Leslie Cheung"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1173559",
+          "display_name": "Miriam Chin-Wah Yeung",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2I0OWZkNmUtYzBhYi00OGMzLTg2OTctNjY3YWVhMjFjYTUzXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 1300,
+              "height": 1300
+            }
+          ]
+        },
+        "characters": [
+          "Florence Chan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1683092",
+          "display_name": "Yo Yang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGE0M2IyOTQtZjU5MC00NWIwLTg0NzYtMjY5NDhkMmUzNzhhL2ltYWdlXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 328,
+              "height": 550
+            }
+          ]
+        },
+        "characters": [
+          "Ben"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0498429",
+          "display_name": "Waise Lee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWNlYWI4NjYtMmE1ZC00ZGRiLWE2MWItNDJiOGNjNTNkODkyXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 367,
+              "height": 550
+            }
+          ]
+        },
+        "characters": [
+          "Leonard Ho"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3225390",
+          "display_name": "Carlos Chan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTQ4Y2QxMzktNWM4Zi00NjIxLThlMWItNDk1NDAxMTU4MjA1XkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 640,
+              "height": 960
+            }
+          ]
+        },
+        "characters": [
+          "Adam Cheng"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8220650",
+          "display_name": "Chloe Chan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2MwZDI3Y2EtYzRkNC00MTRlLThiNzMtODA0Yzk4OWZiNjdjXkEyXkFqcGc@._V1_.jpg",
+              "width": 960,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Anita's crew"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8726611",
+          "display_name": "Isabelle Hoi-Ning Chan",
+          "avatars": null
+        },
+        "characters": [
+          "Bridal Shop Staff"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm13191134",
+          "display_name": "Jan Chan",
+          "avatars": null
+        },
+        "characters": [
+          "Young Anita (Juvenile)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2980436",
+          "display_name": "Pak-Yu Chan",
+          "avatars": null
+        },
+        "characters": [
+          "Lai Chi Kok Park performer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9523968",
+          "display_name": "Sara Chan",
+          "avatars": null
+        },
+        "characters": [
+          "Amanda Lee Wai Man"
+        ]
+      }
+    ]
+  }
+}

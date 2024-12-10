@@ -1,0 +1,312 @@
+{
+  "title": {
+    "id": "tt1945044",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Exeter",
+    "original_title": null,
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 91,
+    "plot": "A group of teenagers accidentally release an evil spirit that starts to possess them one by one.",
+    "rating": {
+      "aggregate_rating": 4.5,
+      "votes_count": 6107
+    },
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BODA3NjAxMTIzN15BMl5BanBnXkFtZTgwODY0MDM1NTE@._V1_.jpg",
+        "width": 2024,
+        "height": 2866
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm1197971",
+          "display_name": "Marcus Nispel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDA5MDY1MjAyMl5BMl5BanBnXkFtZTcwOTE5NzEzMg@@._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1187454",
+          "display_name": "Kirsten Elms",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1197971",
+          "display_name": "Marcus Nispel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDA5MDY1MjAyMl5BMl5BanBnXkFtZTcwOTE5NzEzMg@@._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0002332",
+          "display_name": "Stephen Lang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGY5NTZmOTItMWFiYy00MWNhLTk5OWUtMWUyYzY1ZDYwODg2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+              "width": 3529,
+              "height": 4622
+            }
+          ]
+        },
+        "characters": [
+          "Father Conway"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0152430",
+          "display_name": "Kevin Chapman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDU4Y2YwMGItMzAxOS00NTVmLWI1MjQtOGZiZDFiODc1N2EzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 480,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Greer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2034147",
+          "display_name": "Kelly Blatz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjM3OTA4ODQ0OF5BMl5BanBnXkFtZTgwMTA2NjIxMDI@._V1_.jpg",
+              "width": 5304,
+              "height": 7952
+            }
+          ]
+        },
+        "characters": [
+          "Patrick"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1589004",
+          "display_name": "Brittany Curran",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmY0ZWNkNDktNDVlMi00MzhjLWI4YzEtMWM1ZTFhNzJhYTk4XkEyXkFqcGdeQXVyNTIxMzU0MTA@._V1_.jpg",
+              "width": 826,
+              "height": 1240
+            }
+          ]
+        },
+        "characters": [
+          "Reign"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2322192",
+          "display_name": "Brett Dier",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2IwMzhhZTItZDU3Zi00NDdiLTkyM2YtODkzMjk5MmI2Zjk4XkEyXkFqcGdeQXVyMTE5ODQyMDc@._V1_.jpg",
+              "width": 1200,
+              "height": 1800
+            }
+          ]
+        },
+        "characters": [
+          "Brad"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1463605",
+          "display_name": "Gage Golightly",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjQ3MjMzMzY2NF5BMl5BanBnXkFtZTgwMjMxNDUwNzE@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Amber"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1885051",
+          "display_name": "Nick Nicotera",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWU4MjMxMDQtMjI2YS00ZTE1LWI1OTEtZTEwMjgzMDg1NzRkXkEyXkFqcGdeQXVyNTAzNzQ0NA@@._V1_.jpg",
+              "width": 3936,
+              "height": 2216
+            }
+          ]
+        },
+        "characters": [
+          "Knowles"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0634984",
+          "display_name": "Nick Nordella",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGI5ODA1OGYtMjQ4Yi00ZjNmLTljNTMtZTRlOWZmOTk1ZjUwXkEyXkFqcGc@._V1_.jpg",
+              "width": 967,
+              "height": 1500
+            }
+          ]
+        },
+        "characters": [
+          "Drew"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2176465",
+          "display_name": "Michael Ormsby",
+          "avatars": null
+        },
+        "characters": [
+          "Rory"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7603665",
+          "display_name": "Malena Corso",
+          "avatars": null
+        },
+        "characters": [
+          "Girl in Torture Chair"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4099356",
+          "display_name": "Meredith Prunty",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTNmZTM4ODUtYWE5Yy00ZmNkLWFjNWUtYmZmOWE0ODk2NjE4XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 214,
+              "height": 317
+            }
+          ]
+        },
+        "characters": [
+          "Party Dancer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4098984",
+          "display_name": "Ashley Tramonte",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTEzOWJjODUtMWY5NC00NTdkLThhN2ItN2NlMzkxN2ZkOTYyXkEyXkFqcGc@._V1_.jpg",
+              "width": 2448,
+              "height": 3264
+            }
+          ]
+        },
+        "characters": [
+          "Rave Party Teen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2797888",
+          "display_name": "Hilary Pingle",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGExYTRkYTktZTI1MC00NmJhLThkZDYtODBmNzI4YTgyMzBmXkEyXkFqcGc@._V1_.jpg",
+              "width": 720,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Voice"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2728461",
+          "display_name": "Aaron Dorsey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTIyNGNhYjUtYmM1OC00MjNmLTk0NTktZmZiMDZiY2Q0NmUxXkEyXkFqcGdeQXVyMTI0NTMwNTE@._V1_.jpg",
+              "width": 1242,
+              "height": 2208
+            }
+          ]
+        },
+        "characters": [
+          "Teenage Guy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4619754",
+          "display_name": "Lindsay MacDonald",
+          "avatars": null
+        },
+        "characters": [
+          "Rave Scene Party Guest"
+        ]
+      }
+    ]
+  }
+}

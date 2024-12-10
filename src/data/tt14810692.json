@@ -1,0 +1,299 @@
+{
+  "title": {
+    "id": "tt14810692",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Escape from Mogadishu",
+    "original_title": "Mogadisyu",
+    "start_year": 2021,
+    "end_year": null,
+    "runtime_minutes": 121,
+    "plot": "In 1991 war-torn Somalia the personnel and the families of both the South Korean and the North Korean embassies have the same goal: to escape from Mogadishu.",
+    "rating": {
+      "aggregate_rating": 7,
+      "votes_count": 7580
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2M0ZWFhOGQtNGQ0OC00YWZmLWJjMmItNjBlYmEwZjIxYWUwXkEyXkFqcGc@._V1_.jpg",
+        "width": 640,
+        "height": 917
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "TV-14"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "kor",
+        "name": "Korean"
+      },
+      {
+        "code": "som",
+        "name": "Somali"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "KR",
+        "name": "Republic of Korea"
+      }
+    ],
+    "critic_review": {
+      "score": 71,
+      "review_count": 9
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0753423",
+          "display_name": "Ryoo Seung-wan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWZiODJlMWQtZTllZS00YzFmLWI0YmMtZjQ5OTU5MzVhZmQ4XkEyXkFqcGdeQXVyNzY1ODU1OTk@._V1_.jpg",
+              "width": 556,
+              "height": 693
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm5225567",
+          "display_name": "Ki-cheol Lee",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0753423",
+          "display_name": "Ryoo Seung-wan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWZiODJlMWQtZTllZS00YzFmLWI0YmMtZjQ5OTU5MzVhZmQ4XkEyXkFqcGdeQXVyNzY1ODU1OTk@._V1_.jpg",
+              "width": 556,
+              "height": 693
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm2412823",
+          "display_name": "Kim Yoon-seok",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQwNzk5MzI5M15BMl5BanBnXkFtZTcwMzEzOTc0Mg@@._V1_.jpg",
+              "width": 640,
+              "height": 427
+            }
+          ]
+        },
+        "characters": [
+          "Han Shin-sung"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1251770",
+          "display_name": "Zo In-sung",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGRkMzY1MzUtMjliYy00OTA1LTg5Y2QtMTAxNmJlZmJiMzRjXkEyXkFqcGdeQXVyMjIyNzU0OA@@._V1_.jpg",
+              "width": 600,
+              "height": 743
+            }
+          ]
+        },
+        "characters": [
+          "Kang Dae-jin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0401135",
+          "display_name": "Huh Joon-ho",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDljZTFhYjAtM2IyMy00NDVjLTk5MzEtZWY4OGE3NjNjYWU2XkEyXkFqcGdeQXVyNzY1ODU1OTk@._V1_.jpg",
+              "width": 702,
+              "height": 883
+            }
+          ]
+        },
+        "characters": [
+          "Rim Yong-su"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3640854",
+          "display_name": "Koo Kyo-hwan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTYzYjVlMDQtZGFjNS00NjhhLWI3ZDMtNmEwZjhlYjJlZWYwXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+              "width": 1140,
+              "height": 1710
+            }
+          ]
+        },
+        "characters": [
+          "Tae Joon-ki"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6020024",
+          "display_name": "Kim So-jin",
+          "avatars": null
+        },
+        "characters": [
+          "Kim Myung-hee"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3362169",
+          "display_name": "Jeong Man-sik",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDEzZjA0MDUtNmViMy00MTBiLThjZjctNGQ5OWIxZmE1OGMwXkEyXkFqcGdeQXVyODA4ODIwNDM@._V1_.jpg",
+              "width": 1232,
+              "height": 1432
+            }
+          ]
+        },
+        "characters": [
+          "Kim Myung-hee"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3797278",
+          "display_name": "Kim Jae-hwa",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjkwODhkM2EtZjQ3OS00M2U2LWIxZTItODgyMTAxNzkxZDBlXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+              "width": 3360,
+              "height": 5040
+            }
+          ]
+        },
+        "characters": [
+          "Jo Soo-jin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9048342",
+          "display_name": "Park Kyung-hye",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWNmY2QwODQtYWI3Zi00ZTg3LWEwMjktYTlhZWIwZmUzMGRiXkEyXkFqcGdeQXVyMTQyMjYyODk@._V1_.jpg",
+              "width": 1600,
+              "height": 900
+            }
+          ]
+        },
+        "characters": [
+          "Park Ji-eun"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1241993",
+          "display_name": "Park Myung-shin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzg2YzFlYjItOTAyYS00ZjVhLWE1MWUtMTI5YTgzYWIxOTA0XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+              "width": 906,
+              "height": 1358
+            }
+          ]
+        },
+        "characters": [
+          "Bae Yeong-sook"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6771372",
+          "display_name": "Chul-Woo Han",
+          "avatars": null
+        },
+        "characters": [
+          "Secretary Chae Kang-sik"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6975783",
+          "display_name": "Joo Bo-bi",
+          "avatars": null
+        },
+        "characters": [
+          "Baek Hwa-si"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9541536",
+          "display_name": "Ahn Se-ho",
+          "avatars": null
+        },
+        "characters": [
+          "Secretary Jang Ri-cheol"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4776658",
+          "display_name": "Lee Jin-hee",
+          "avatars": null
+        },
+        "characters": [
+          "Won Mi-sook"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm13145549",
+          "display_name": "Choi Kyeong-Hoon",
+          "avatars": null
+        },
+        "characters": [
+          "Secretary Ryang Hyeong-gon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4304672",
+          "display_name": "Lee Hwa-jung",
+          "avatars": null
+        },
+        "characters": [
+          "Jang Yoon-hwa"
+        ]
+      }
+    ]
+  }
+}

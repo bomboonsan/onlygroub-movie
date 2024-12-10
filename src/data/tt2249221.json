@@ -1,0 +1,348 @@
+{
+  "title": {
+    "id": "tt2249221",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Zulu",
+    "original_title": null,
+    "start_year": 2013,
+    "end_year": null,
+    "runtime_minutes": 110,
+    "plot": "Policemen Ali Sokhela and Brian Epkeen investigate the brutal murder of a young white woman, apparently provoked by the availability of a new illegal drug and somehow connected to the disappearance of black street children.",
+    "rating": {
+      "aggregate_rating": 6.7,
+      "votes_count": 19859
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjA0NjE1OTI0M15BMl5BanBnXkFtZTgwMDkyNTM3MDE@._V1_.jpg",
+        "width": 353,
+        "height": 480
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "afr",
+        "name": "Afrikaans"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "xho",
+        "name": "Xhosa"
+      },
+      {
+        "code": "zul",
+        "name": "Zulu"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "ZA",
+        "name": "South Africa"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm1362432",
+          "display_name": "Jérôme Salle",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWYyZDlkMzAtZjUzYi00YWI3LTliODctMjllNGFjOTA2NmZjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 752,
+              "height": 1024
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2530716",
+          "display_name": "Caryl Ferey",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1272853",
+          "display_name": "Julien Rappeneau",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1362432",
+          "display_name": "Jérôme Salle",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWYyZDlkMzAtZjUzYi00YWI3LTliODctMjllNGFjOTA2NmZjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 752,
+              "height": 1024
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0089217",
+          "display_name": "Orlando Bloom",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE1MDkxMjQ3NV5BMl5BanBnXkFtZTcwMzQ3Mjc4MQ@@._V1_.jpg",
+              "width": 291,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Brian Epkeen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001845",
+          "display_name": "Forest Whitaker",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQzMDI3NTg2OV5BMl5BanBnXkFtZTcwNTgwMzg5Mg@@._V1_.jpg",
+              "width": 303,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Ali Sokhela"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2883828",
+          "display_name": "Conrad Kemp",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGJhYzdhZjktNWRlOS00MmE4LTgxNjAtZTQ1MmRhNWVkY2U0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 4480,
+              "height": 6720
+            }
+          ]
+        },
+        "characters": [
+          "Dan Fletcher"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4125416",
+          "display_name": "Inge Beckmann",
+          "avatars": null
+        },
+        "characters": [
+          "Ruby"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1723148",
+          "display_name": "Tinarie van Wyk Loots",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjZmMWE5MmUtNTY3Yi00OGU4LWI5NGItNzViNTYwM2FhMzA0XkEyXkFqcGc@._V1_.jpg",
+              "width": 1346,
+              "height": 755
+            }
+          ]
+        },
+        "characters": [
+          "Claire Fletcher"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0074566",
+          "display_name": "Regardt van den Bergh",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjNmM2VhYWMtZGFlOC00NjEwLWE5MjUtYWVlMDhkMmIwYzY5XkEyXkFqcGdeQXVyMTY3NTY5OTcx._V1_.jpg",
+              "width": 440,
+              "height": 608
+            }
+          ]
+        },
+        "characters": [
+          "De Beer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6570548",
+          "display_name": "Randall Majiet",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjI3N2Y0M2UtNmQzYS00ZjgxLWJhMzItNjE0YzUxMzNhODI1XkEyXkFqcGc@._V1_.jpg",
+              "width": 497,
+              "height": 666
+            }
+          ]
+        },
+        "characters": [
+          "Cat"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0529300",
+          "display_name": "Patrick Lyster",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDZjYTk4ZWQtMTZhOC00YWE5LTgyNDQtNTBkNjlhMTRmYWUwXkEyXkFqcGdeQXVyMTYzMTk3NTU3._V1_.jpg",
+              "width": 409,
+              "height": 569
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Joost Opperman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5521659",
+          "display_name": "Joelle Kayembe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzUzMDJiNGItZGViMS00MzM4LThjYmItZmVkODAxMmQ5N2Y1XkEyXkFqcGc@._V1_.jpg",
+              "width": 575,
+              "height": 821
+            }
+          ]
+        },
+        "characters": [
+          "Zina"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2117238",
+          "display_name": "Tanya van Graan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODFhYmEwODEtYzg2NS00MmMyLTkwNGEtNDBhNDIzZTcyNWFkXkEyXkFqcGdeQXVyMjMwMDA3MjI@._V1_.jpg",
+              "width": 3599,
+              "height": 4798
+            }
+          ]
+        },
+        "characters": [
+          "Tara"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0449044",
+          "display_name": "Danny Keogh",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjg0MGQ1NzQtZTcyMS00NWIxLWIzMTctNWY3MzdiMThiZGY5XkEyXkFqcGdeQXVyMTMzOTU3MDcz._V1_.jpg",
+              "width": 415,
+              "height": 616
+            }
+          ]
+        },
+        "characters": [
+          "Kruger"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2752929",
+          "display_name": "Christian Bennett",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGE0ZjY4MmQtZDczOC00NTYxLWIzOGMtMjBjM2VjNGRiNTcyXkEyXkFqcGc@._V1_.jpg",
+              "width": 643,
+              "height": 850
+            }
+          ]
+        },
+        "characters": [
+          "Stan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6570549",
+          "display_name": "Iman Isaacs",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWExZWIwY2UtZTAxMy00ODkzLWI3NzgtYjcwZjVkNDJlOGFhXkEyXkFqcGc@._V1_.jpg",
+              "width": 643,
+              "height": 850
+            }
+          ]
+        },
+        "characters": [
+          "Janet"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1099054",
+          "display_name": "Nomhle Nkonyeni",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjRmOTljNjktOWQyNy00ZThjLTkzM2YtN2Q0YzRhMWViMTM5XkEyXkFqcGc@._V1_.jpg",
+              "width": 863,
+              "height": 999
+            }
+          ]
+        },
+        "characters": [
+          "Josephina"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0628063",
+          "display_name": "Denise Newman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODc0ODg3OTM4M15BMl5BanBnXkFtZTYwMDg3NzEz._V1_.jpg",
+              "width": 316,
+              "height": 418
+            }
+          ]
+        },
+        "characters": [
+          "Shebeen Queen"
+        ]
+      }
+    ]
+  }
+}

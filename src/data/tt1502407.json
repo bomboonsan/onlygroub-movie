@@ -1,0 +1,373 @@
+{
+  "title": {
+    "id": "tt1502407",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Halloween",
+    "original_title": null,
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 106,
+    "plot": "Laurie Strode confronts her long-time foe, Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.",
+    "rating": {
+      "aggregate_rating": 6.5,
+      "votes_count": 169273
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2FlMzdkZTMtN2MwOS00NjQzLTlkMGYtMTRiYWUxZjM2M2ZiXkEyXkFqcGc@._V1_.jpg",
+        "width": 555,
+        "height": 820
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 67,
+      "review_count": 51
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0337773",
+          "display_name": "David Gordon Green",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYyNjI3NTUwOF5BMl5BanBnXkFtZTYwMTg1NjY1._V1_.jpg",
+              "width": 277,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0000118",
+          "display_name": "John Carpenter",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTAzMzgwNDgzODBeQTJeQWpwZ15BbWU4MDA2OTk2NDEx._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0384185",
+          "display_name": "Debra Hill",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWE3MjU4YzEtOWJmYi00MmY1LWIzMjItNTQ2ZWRiYjYzNzZlXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
+              "width": 534,
+              "height": 712
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2171769",
+          "display_name": "Jeff Fradley",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1144419",
+          "display_name": "Danny McBride",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk5NTM0ODI4NF5BMl5BanBnXkFtZTcwNzg3MjY0Mg@@._V1_.jpg",
+              "width": 311,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0337773",
+          "display_name": "David Gordon Green",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYyNjI3NTUwOF5BMl5BanBnXkFtZTYwMTg1NjY1._V1_.jpg",
+              "width": 277,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000130",
+          "display_name": "Jamie Lee Curtis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI0MTI0MDk2OV5BMl5BanBnXkFtZTgwODQ4MTE0NDE@._V1_.jpg",
+              "width": 564,
+              "height": 750
+            }
+          ]
+        },
+        "characters": [
+          "Laurie Strode"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0339460",
+          "display_name": "Judy Greer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg5MTAyMzMzMl5BMl5BanBnXkFtZTcwMDY2Mzc2NQ@@._V1_.jpg",
+              "width": 1387,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Karen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5506858",
+          "display_name": "Andi Matichak",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ0ZTU3ZDctNzIxMy00MDNlLWIzNjEtNTAxOGNlMzU1OWJmXkEyXkFqcGdeQXVyMTU0MzQxODA0._V1_.jpg",
+              "width": 1050,
+              "height": 1655
+            }
+          ]
+        },
+        "characters": [
+          "Allyson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0183921",
+          "display_name": "James Jude Courtney",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjVhZjQwYjEtNjE1Ni00OWJiLWEwYTktZTRjMGUzZjRkNTI0XkEyXkFqcGdeQXVyNTA5ODQ4NzU@._V1_.jpg",
+              "width": 2848,
+              "height": 4288
+            }
+          ]
+        },
+        "characters": [
+          "The Shape"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0145309",
+          "display_name": "Nick Castle",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzgzMTk3Nzk0N15BMl5BanBnXkFtZTgwMTc3NTA4NTM@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "The Shape"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0082211",
+          "display_name": "Haluk Bilginer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2U3NDIwMzUtMDFkNC00ZDM1LWE5ODctMTNhMjMzZjRhNDI4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2048,
+              "height": 1536
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Sartain"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001599",
+          "display_name": "Will Patton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTIyOTEzNzMxMV5BMl5BanBnXkFtZTYwNTk2Njc3._V1_.jpg",
+              "width": 443,
+              "height": 666
+            }
+          ]
+        },
+        "characters": [
+          "Officer Hawkins"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3593977",
+          "display_name": "Rhian Rees",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjBmZDFjM2QtY2IxOC00NmNhLTg3YzctMzQ2ZWFiNzBjMDI3XkEyXkFqcGdeQXVyMjU4MjMwMTU@._V1_.jpg",
+              "width": 506,
+              "height": 652
+            }
+          ]
+        },
+        "characters": [
+          "Dana Haines"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2131630",
+          "display_name": "Jefferson Hall",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGY3YjliMWEtMDQ2MS00OGNkLWFlMjUtYTVjZjNhMmRiMDg1XkEyXkFqcGdeQXVyMzQ0NTk5NzU@._V1_.jpg",
+              "width": 799,
+              "height": 999
+            }
+          ]
+        },
+        "characters": [
+          "Aaron Korey"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0403947",
+          "display_name": "Toby Huss",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjM4YzJmNzItNjYyNS00MjRjLTlhMGYtNTcwZjQ2ZDUyZDUwXkEyXkFqcGdeQXVyODI1Mjc1Mg@@._V1_.jpg",
+              "width": 1988,
+              "height": 2783
+            }
+          ]
+        },
+        "characters": [
+          "Ray"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4722966",
+          "display_name": "Virginia Gardner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmZiYzcxYjUtNDkwNS00ZTZmLTk2NDMtOWJhM2U1M2U3ZTNkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 439,
+              "height": 656
+            }
+          ]
+        },
+        "characters": [
+          "Vicky"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4003553",
+          "display_name": "Dylan Arnold",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTc3Zjc3OTgtZDNmNS00NTM3LTlkZWEtZDAzZGIyNmI4NmU5XkEyXkFqcGdeQXVyMjcxNjgyNDU@._V1_.jpg",
+              "width": 682,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Cameron Elam"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0730428",
+          "display_name": "Miles Robbins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzU5NGNmNjEtMDQzZS00YTBkLWIzYzQtYjcwNWM3ODBiMTg4XkEyXkFqcGdeQXVyNzM0NzE0Nzc@._V1_.jpg",
+              "width": 402,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Dave"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5902264",
+          "display_name": "Drew Scheid",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGNkMTAxODAtMWM4Yy00NWQzLWE1OTctNDcxMmUxMTA3YWU0XkEyXkFqcGdeQXVyNzg3NTExNDY@._V1_.jpg",
+              "width": 1200,
+              "height": 1800
+            }
+          ]
+        },
+        "characters": [
+          "Oscar"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9753946",
+          "display_name": "Jibrail Nantambu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTczOGQxNDMtZWQ4MC00NTQ5LWFhNTAtMjNjZTlhMmIwZGM3XkEyXkFqcGc@._V1_.jpg",
+              "width": 682,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Julian"
+        ]
+      }
+    ]
+  }
+}

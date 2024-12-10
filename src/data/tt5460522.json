@@ -1,0 +1,344 @@
+{
+  "title": {
+    "id": "tt5460522",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "JT LeRoy",
+    "original_title": "Jeremiah Terminator LeRoy",
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 108,
+    "plot": "A young woman named Savannah Knoop spends six years pretending to be the celebrated author JT LeRoy, the made-up literary persona of her sister-in-law.",
+    "rating": {
+      "aggregate_rating": 5.5,
+      "votes_count": 2893
+    },
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjIyNzkxNDQ0MV5BMl5BanBnXkFtZTgwNDAwNzQ3NzM@._V1_.jpg",
+        "width": 1080,
+        "height": 1350
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 55,
+      "review_count": 23
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0446539",
+          "display_name": "Justin Kelly",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDg4ZDBkMTgtNWUzNi00YjBiLThhZWMtNzMwNDE3ZmUzM2VmXkEyXkFqcGc@._V1_.jpg",
+              "width": 683,
+              "height": 1024
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm8620175",
+          "display_name": "Savannah Knoop",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUxODcyNTQzMV5BMl5BanBnXkFtZTgwNTE4NTE1NzE@._V1_.jpg",
+              "width": 1721,
+              "height": 1080
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0446539",
+          "display_name": "Justin Kelly",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDg4ZDBkMTgtNWUzNi00YjBiLThhZWMtNzMwNDE3ZmUzM2VmXkEyXkFqcGc@._V1_.jpg",
+              "width": 683,
+              "height": 1024
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0829576",
+          "display_name": "Kristen Stewart",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTJlOGE3ZjEtZDg4OS00MGJlLTgzY2QtYzg3OWE2NmZmYmE1XkEyXkFqcGdeQXVyMTI2Nzk2ODk3._V1_.jpg",
+              "width": 3981,
+              "height": 4281
+            }
+          ]
+        },
+        "characters": [
+          "Savannah Knoop"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000368",
+          "display_name": "Laura Dern",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI3NzY0MDQxMF5BMl5BanBnXkFtZTcwNzMwMzcyNw@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Laura Albert"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0836343",
+          "display_name": "Jim Sturgess",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDU0NTE0NDYwOF5BMl5BanBnXkFtZTcwMDc2MDI3Nw@@._V1_.jpg",
+              "width": 509,
+              "height": 638
+            }
+          ]
+        },
+        "characters": [
+          "Geoff Knoop"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1208167",
+          "display_name": "Diane Kruger",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM3MzY0Nzk2Ml5BMl5BanBnXkFtZTcwODQ0MTMyMw@@._V1_.jpg",
+              "width": 408,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Eva Avalon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5123156",
+          "display_name": "Kelvin Harrison Jr.",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2RjOTgxM2YtMDU3ZC00ZDc5LTg1ZGMtNTI5ZDBiYzk2ZTBiXkEyXkFqcGdeQXVyMzU5ODIwNzY@._V1_.jpg",
+              "width": 495,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Sean"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2754532",
+          "display_name": "James Jagger",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI4MzE3NDMzOV5BMl5BanBnXkFtZTgwODg3MzMxODE@._V1_.jpg",
+              "width": 480,
+              "height": 622
+            }
+          ]
+        },
+        "characters": [
+          "Ben"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001482",
+          "display_name": "Courtney Love",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ5MDk5OTI1MF5BMl5BanBnXkFtZTcwNjE5NDE5Mw@@._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Sasha"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0113357",
+          "display_name": "David Lawrence Brown",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjRjYzAyMGUtMzUzNi00YjEwLTlhNGItNmRlYjVhNzViYjQwXkEyXkFqcGc@._V1_CR1,0,1365,2047_.jpg",
+              "width": 1365,
+              "height": 2047
+            }
+          ]
+        },
+        "characters": [
+          "Bruce"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1770466",
+          "display_name": "Alicia Johnston",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkyOTAyODk3Nl5BMl5BanBnXkFtZTcwMjU1ODkyMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 630
+            }
+          ]
+        },
+        "characters": [
+          "Isabelle"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6584058",
+          "display_name": "Eric Plamondon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjRmMzMwODQtMzA0OC00MWM2LWIxMmQtYzc4ODc0MTQ2NDEzXkEyXkFqcGc@._V1_.jpg",
+              "width": 615,
+              "height": 923
+            }
+          ]
+        },
+        "characters": [
+          "Gaspard"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1311987",
+          "display_name": "Craig Haas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODUxYmU3YTgtMTQ4MC00ZTg5LTk4NDQtMTFlNmMzMWVlMjBiXkEyXkFqcGdeQXVyMjU0NzY4OQ@@._V1_.jpg",
+              "width": 3648,
+              "height": 5472
+            }
+          ]
+        },
+        "characters": [
+          "Ennio"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4463792",
+          "display_name": "Adam Hurtig",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDIzMWUxNDAtMGRkNi00MmRiLTk3YjktN2IzOGRkMDg3OWM4XkEyXkFqcGdeQXVyMjg0MTY1ODA@._V1_.jpg",
+              "width": 4912,
+              "height": 7360
+            }
+          ]
+        },
+        "characters": [
+          "Darren"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1307094",
+          "display_name": "Will Woytowich",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmVjMGEwYjctMjM5Ny00MDI4LTlhZTQtZDRkODljMjczMjA4XkEyXkFqcGc@._V1_.jpg",
+              "width": 2000,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Cassian"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4346951",
+          "display_name": "Bobby Robidoux",
+          "avatars": null
+        },
+        "characters": [
+          "Elliot"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0176164",
+          "display_name": "Sarah Constible",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg5NTE2OTc2OF5BMl5BanBnXkFtZTcwODYyNDEzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 337
+            }
+          ]
+        },
+        "characters": [
+          "Bookstore Manager"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "title": {
+    "id": "tt10945164",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "February",
+    "original_title": "Février",
+    "start_year": 2020,
+    "end_year": null,
+    "runtime_minutes": 125,
+    "plot": "The life of a man at the ages of eight, eighteen, and eighty-two",
+    "rating": {
+      "aggregate_rating": 6.5,
+      "votes_count": 239
+    },
+    "genres": [
+      "Drama"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BODdmMGZlYmUtY2RjMC00Mzg4LWExZDUtYWZlZjdkM2YyZmJkXkEyXkFqcGc@._V1_.jpg",
+        "width": 500,
+        "height": 758
+      }
+    ],
+    "certificates": null,
+    "spoken_languages": [
+      {
+        "code": "bul",
+        "name": "Bulgarian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "BG",
+        "name": "Bulgaria"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm1189816",
+          "display_name": "Kamen Kalev",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzM5NzA2Mzk1MF5BMl5BanBnXkFtZTgwMzA0NTU4MTE@._V1_.jpg",
+              "width": 1516,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1189816",
+          "display_name": "Kamen Kalev",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzM5NzA2Mzk1MF5BMl5BanBnXkFtZTgwMzA0NTU4MTE@._V1_.jpg",
+              "width": 1516,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm9911943",
+          "display_name": "Lachezar Dimitrov",
+          "avatars": null
+        },
+        "characters": [
+          "Petar (Age 8)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11971263",
+          "display_name": "Kolyo Dobrev",
+          "avatars": null
+        },
+        "characters": [
+          "Petar (Man)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1031565",
+          "display_name": "Ivan Nalbantov",
+          "avatars": null
+        },
+        "characters": [
+          "Petar (Old Man)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11531865",
+          "display_name": "Hristo Dimitrov-Hindo",
+          "avatars": null
+        },
+        "characters": [
+          "Petar's Grandfather"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4069703",
+          "display_name": "Milko Lazarov",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUwYjdmYWEtODRhZS00NTEyLWE0OWItZmI4NjcxZTIwYzdiXkEyXkFqcGc@._V1_.jpg",
+              "width": 600,
+              "height": 900
+            }
+          ]
+        },
+        "characters": [
+          "Captain"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12748335",
+          "display_name": "Aleksiya Georgieva",
+          "avatars": null
+        },
+        "characters": [
+          "Kuna"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11002449",
+          "display_name": "Nencho Kostov",
+          "avatars": null
+        },
+        "characters": [
+          "Poet"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1587418",
+          "display_name": "Nikolay Todorov",
+          "avatars": null
+        },
+        "characters": [
+          "Captain First Rank"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12579701",
+          "display_name": "Stanislav Kondov",
+          "avatars": null
+        },
+        "characters": [
+          "Sailor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12748336",
+          "display_name": "Stivan Mitev",
+          "avatars": null
+        },
+        "characters": [
+          "Sailor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12748337",
+          "display_name": "Georgi Dimitrov",
+          "avatars": null
+        },
+        "characters": [
+          "Sailor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12748338",
+          "display_name": "Veselina Terzieva",
+          "avatars": null
+        },
+        "characters": [
+          "Woman at wedding"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12748339",
+          "display_name": "Maria Velichkova",
+          "avatars": null
+        },
+        "characters": [
+          "Zhelyaza"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12748340",
+          "display_name": "Marina Dimitrova",
+          "avatars": null
+        },
+        "characters": [
+          "Zhelyaza (voice)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12445087",
+          "display_name": "Stoqn Atanasov",
+          "avatars": null
+        },
+        "characters": [
+          "Sailor"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "title": {
+    "id": "tt3532216",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "American Made",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 115,
+    "plot": "The story of Barry Seal, an American pilot who became a drug-runner for the CIA in the 1980s in a clandestine operation that would be exposed as the Iran-Contra Affair.",
+    "rating": {
+      "aggregate_rating": 7.1,
+      "votes_count": 208565
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTUxNzUwMjk1Nl5BMl5BanBnXkFtZTgwNDkwODI1MjI@._V1_.jpg",
+        "width": 1013,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "CO",
+        "name": "Colombia"
+      },
+      {
+        "code": "JP",
+        "name": "Japan"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 65,
+      "review_count": 50
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0510731",
+          "display_name": "Doug Liman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODk4MjIwNjU5OF5BMl5BanBnXkFtZTcwODU4Njk1Mw@@._V1_.jpg",
+              "width": 294,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0818889",
+          "display_name": "Gary Spinelli",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000129",
+          "display_name": "Tom Cruise",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTFlOTdjMjgtNmY0ZC00MDgxLThjNmEtZGIxZTQyZDdkMTRjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "width": 3795,
+              "height": 5122
+            }
+          ]
+        },
+        "characters": [
+          "Barry Seal"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1727304",
+          "display_name": "Domhnall Gleeson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA5MjI0MzY2MF5BMl5BanBnXkFtZTcwMzM3ODM3OA@@._V1_.jpg",
+              "width": 720,
+              "height": 1080
+            }
+          ]
+        },
+        "characters": [
+          "Monty 'Schafer'"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0942792",
+          "display_name": "Sarah Wright",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTgzODAyODA1Ml5BMl5BanBnXkFtZTcwNTIxMDk5MQ@@._V1_.jpg",
+              "width": 268,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Lucy Seal"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0687146",
+          "display_name": "Jesse Plemons",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMThmNjY0YjUtZjNiZi00YWE0LWI0NTEtM2RkZjllN2JiMDA4XkEyXkFqcGdeQXVyMTY5MDYxNDg5._V1_.jpg",
+              "width": 720,
+              "height": 900
+            }
+          ]
+        },
+        "characters": [
+          "Sheriff Downing"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2655177",
+          "display_name": "Caleb Landry Jones",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA5ODE4MTg2N15BMl5BanBnXkFtZTcwNTE2NDM4Nw@@._V1_.jpg",
+              "width": 2048,
+              "height": 1457
+            }
+          ]
+        },
+        "characters": [
+          "JB"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3860305",
+          "display_name": "Lola Kirke",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTBiNDUzNzktNDc3Zi00Y2I5LTliMTAtNGU0M2NkMzdiODNmXkEyXkFqcGdeQXVyNjAzNDcwNA@@._V1_.jpg",
+              "width": 346,
+              "height": 470
+            }
+          ]
+        },
+        "characters": [
+          "Judy Downing"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1724323",
+          "display_name": "Jayma Mays",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTIyNjU5NTI1NF5BMl5BanBnXkFtZTcwNDk2ODAzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 295
+            }
+          ]
+        },
+        "characters": [
+          "Dana Sibota"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2338470",
+          "display_name": "Alejandro Edda",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTdhYTZhM2MtODA2Mi00ZWZmLTgyNTktYmM4ZDVmYjgzMjM0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 5616,
+              "height": 3744
+            }
+          ]
+        },
+        "characters": [
+          "Jorge Ochoa"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0553468",
+          "display_name": "Benito Martinez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDRmNjE3ZDgtOGM0Yi00ZGJjLWFlZDAtZmExOWI0OGE5ZDMxXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_.jpg",
+              "width": 1000,
+              "height": 1586
+            }
+          ]
+        },
+        "characters": [
+          "James Rangel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0593301",
+          "display_name": "E. Roger Mitchell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA2MDgzMzcyOF5BMl5BanBnXkFtZTcwMDkyNTAzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 664
+            }
+          ]
+        },
+        "characters": [
+          "Agent Craig McCall"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0715915",
+          "display_name": "Jed Rees",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2IwOWQ4ZWItMDlmMy00M2ZlLWEzMWItMTVlZTMxNWE0ZjNkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 566,
+              "height": 856
+            }
+          ]
+        },
+        "characters": [
+          "Louis Finkle"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7712997",
+          "display_name": "Fredy Yate",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzEyZTBjYzctMTU1OC00YjNiLTlmMDEtZjNhNTMzOWQ1ZmQ3XkEyXkFqcGdeQXVyODU5NjY0MTc@._V1_.jpg",
+              "width": 1332,
+              "height": 1332
+            }
+          ]
+        },
+        "characters": [
+          "Carlos Lehder"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2991465",
+          "display_name": "Mauricio Mejía",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjI2MzBjNWYtYWEzYS00OGE4LWE3MzUtYzZlODI2NjFkY2Q0XkEyXkFqcGc@._V1_.jpg",
+              "width": 1046,
+              "height": 588
+            }
+          ]
+        },
+        "characters": [
+          "Pablo Escobar"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0268454",
+          "display_name": "Robert Farrior",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDI4MThlNmItM2UwYi00NmE0LTg3Y2ItM2Q5NTA2ZjdkMDU3XkEyXkFqcGdeQXVyOTM1NzAwNw@@._V1_.jpg",
+              "width": 800,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Oliver North"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4587398",
+          "display_name": "Morgan Hinkleman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2IyMmZkMmMtZmEwYi00ZjU2LTkxYjEtYjU0ZmUwMjMzMmMwXkEyXkFqcGc@._V1_.jpg",
+              "width": 641,
+              "height": 960
+            }
+          ]
+        },
+        "characters": [
+          "Christina"
+        ]
+      }
+    ]
+  }
+}

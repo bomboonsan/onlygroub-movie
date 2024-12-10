@@ -1,0 +1,154 @@
+{
+  "title": {
+    "id": "tt11242242",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Bridge Curse",
+    "original_title": null,
+    "start_year": 2020,
+    "end_year": null,
+    "runtime_minutes": 88,
+    "plot": "University students, planning a bravery initiation test for their fellow classmates, choose a campus bridge rumored to be haunted by a vengeful female ghost.",
+    "rating": {
+      "aggregate_rating": 5.3,
+      "votes_count": 2273
+    },
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjk2MzQ0ZTMtMThlNi00MmQ1LWJmNWEtN2I0MDlhMGJkMjBiXkEyXkFqcGdeQXVyNjgwNTk4Mg@@._V1_.jpg",
+        "width": 1240,
+        "height": 1771
+      }
+    ],
+    "certificates": null,
+    "spoken_languages": [
+      {
+        "code": "zho",
+        "name": "Chinese"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "TW",
+        "name": "Taiwan (Province of China)"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm11111908",
+          "display_name": "Lester Hsi",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm8753060",
+          "display_name": "Keng-Ming Chang",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm7988962",
+          "display_name": "Po-Hsiang Hao",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm6021633",
+          "display_name": "Ning Chang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGU5Njg1NWQtNDJmMS00MmM5LTgyYjktYzdkNDgwZTJlMzdhXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 256,
+              "height": 384
+            }
+          ]
+        },
+        "characters": null
+      },
+      {
+        "name": {
+          "id": "nm11095634",
+          "display_name": "Cheng Ko",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGZjNWZkOWQtNDAzNy00MTYxLWI2YTUtYjQyZjg2MGU0ZjA5XkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 598,
+              "height": 958
+            }
+          ]
+        },
+        "characters": null
+      },
+      {
+        "name": {
+          "id": "nm9061279",
+          "display_name": "J.C. Lin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmQ2NWQzZDItNWE4Ni00NDQ4LTkxMTktY2QyN2UyMTUyMzFlXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 1182,
+              "height": 1706
+            }
+          ]
+        },
+        "characters": null
+      },
+      {
+        "name": {
+          "id": "nm5397723",
+          "display_name": "Summer Meng",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzQwZGNiNjUtMjJmZS00NjkzLWJiN2YtMWM1ZGUzMmZhYjE1L2ltYWdlXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 508,
+              "height": 762
+            }
+          ]
+        },
+        "characters": null
+      },
+      {
+        "name": {
+          "id": "nm4063471",
+          "display_name": "Vera Yen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGE0OTU1MmUtNzNhNy00N2UzLWE5Y2EtNmJhNTRkNjgwMmNlXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 331,
+              "height": 400
+            }
+          ]
+        },
+        "characters": null
+      },
+      {
+        "name": {
+          "id": "nm9221969",
+          "display_name": "Wan-Ru Zhan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTE0YTFjYmItMDZmNS00YWI5LWI3YWUtZmM0MWI3OTA0YzQ4XkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 333,
+              "height": 500
+            }
+          ]
+        },
+        "characters": null
+      }
+    ]
+  }
+}

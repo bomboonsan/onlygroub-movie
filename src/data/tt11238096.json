@@ -1,0 +1,427 @@
+{
+  "title": {
+    "id": "tt11238096",
+    "type": "tvSeries",
+    "is_adult": false,
+    "primary_title": "Big Shot",
+    "original_title": null,
+    "start_year": 2021,
+    "end_year": 2022,
+    "runtime_minutes": null,
+    "plot": "A temperamental college basketball coach who gets fired from his job and must take a teaching and coaching job at an elite all-girls private high school.",
+    "rating": {
+      "aggregate_rating": 7.5,
+      "votes_count": 5446
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sport"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BODZkNDYyNjYtMWFlOS00NzNhLWI4MTEtNjUwYTdjODU4ZjE2XkEyXkFqcGc@._V1_.jpg",
+        "width": 2049,
+        "height": 3000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "TV-PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm0002704",
+          "display_name": "Bill D'Elia",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY1NTkwNjI0NF5BMl5BanBnXkFtZTcwNTIzNTYzNw@@._V1_.jpg",
+              "width": 1000,
+              "height": 667
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0113073",
+          "display_name": "Barbara Brown",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjBmZDEyMDgtMDIyNC00MDMxLThjZTUtYTJiZjhhZDU1N2U1XkEyXkFqcGc@._V1_.jpg",
+              "width": 3190,
+              "height": 4785
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0881038",
+          "display_name": "Ron Underwood",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQxOTY4MTM4Ml5BMl5BanBnXkFtZTgwNjYwOTU5ODE@._V1_.jpg",
+              "width": 5760,
+              "height": 3840
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0629152",
+          "display_name": "Viet Nguyen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWFiMzRkODQtMzUwMi00ODc4LTg2YzMtYTkxZDg0NjAzZTQzXkEyXkFqcGdeQXVyNjcwMzEyMTY@._V1_.jpg",
+              "width": 356,
+              "height": 449
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm3768241",
+          "display_name": "Bola Ogun",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTllNjgyNTItNTBiZi00MDMyLWEwYTUtYjcxY2IxMjUxMzViXkEyXkFqcGdeQXVyMjYyODM5NzQ@._V1_.jpg",
+              "width": 1440,
+              "height": 1800
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0004951",
+          "display_name": "Brad Garrett",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEwMjYyMjYxNF5BMl5BanBnXkFtZTgwNzE0MDU3ODE@._V1_.jpg",
+              "width": 463,
+              "height": 594
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0005082",
+          "display_name": "David E. Kelley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAzNTcwODc5MV5BMl5BanBnXkFtZTcwNTA1NjM1Mg@@._V1_.jpg",
+              "width": 306,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0520893",
+          "display_name": "Dean Lorey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTQxNmRmNjItYjg5Mi00ZDQ1LTk1MGMtZDNiZjU5NjQzMTNhXkEyXkFqcGdeQXVyMzQ1MDI5NDI@._V1_.jpg",
+              "width": 983,
+              "height": 1475
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm6212941",
+          "display_name": "Leslie Schapira",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjIxYzdlZDgtZjA4MC00YTcyLTllMWMtMjE1NGEzNjRjYWI1XkEyXkFqcGc@._V1_.jpg",
+              "width": 841,
+              "height": 1639
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0081060",
+          "display_name": "Grace Cary Bickley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODNiMGViYzgtNzczNi00YjQ0LWJiMGItMGFlNDI1OTI2YTljXkEyXkFqcGdeQXVyODQzNTQwOTE@._V1_.jpg",
+              "width": 480,
+              "height": 598
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0001764",
+          "display_name": "John Stamos",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI4ODA5OTY2M15BMl5BanBnXkFtZTYwMDIwMTgy._V1_.jpg",
+              "width": 450,
+              "height": 605
+            }
+          ]
+        },
+        "characters": [
+          "Marvyn Korn"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0319698",
+          "display_name": "Jessalyn Gilsig",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODhlZDJlMjktNGZmNy00NmYxLTlkNDUtMzYzODkxMjJlMzFmXkEyXkFqcGdeQXVyMjI3NjY1ODA@._V1_.jpg",
+              "width": 1520,
+              "height": 2515
+            }
+          ]
+        },
+        "characters": [
+          "Holly Barrett"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3885943",
+          "display_name": "Sophia Mitri Schloss",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWI5M2E5M2QtNjFmZi00OTE5LWExZWUtMjhmZTIyOTliN2NhXkEyXkFqcGdeQXVyMjIyMDg5NTM@._V1_.jpg",
+              "width": 2553,
+              "height": 2985
+            }
+          ]
+        },
+        "characters": [
+          "Emma Korn"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9321325",
+          "display_name": "Nell Verlaque",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGQ1MzBiMGYtZTljZi00YzlhLWFkZjgtNWVjY2ZlZjY2ZjQ2XkEyXkFqcGdeQXVyOTYwMjk3MDk@._V1_.jpg",
+              "width": 2144,
+              "height": 3120
+            }
+          ]
+        },
+        "characters": [
+          "Louise Gruzinsky"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7830379",
+          "display_name": "Tiana Le",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzEwZTY2ZDktNTlkNC00MTgyLWI2ZGQtMTM3MDdkYjJiNDUwXkEyXkFqcGc@._V1_CR0,0,3265,4898_.jpg",
+              "width": 3265,
+              "height": 4898
+            }
+          ]
+        },
+        "characters": [
+          "Destiny Winters"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7644326",
+          "display_name": "Tisha Custodio",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTAxNzA0ZWItY2M5NS00ZWQzLTlhN2YtOWE2ODkyZTU5YTdlXkEyXkFqcGc@._V1_.jpg",
+              "width": 1308,
+              "height": 1534
+            }
+          ]
+        },
+        "characters": [
+          "Carolyn 'Mouse' Smith"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5470921",
+          "display_name": "Cricket Wampler",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDFkMTc0NWYtZGQwZC00MjdiLWEwZTctYWY0YWQ2MDE5ZGFjXkEyXkFqcGc@._V1_.jpg",
+              "width": 868,
+              "height": 1300
+            }
+          ]
+        },
+        "characters": [
+          "Samantha 'Giggles' Finkman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1304328",
+          "display_name": "Yvette Nicole Brown",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzc1YjIzODUtNDNhOC00NTQxLWJkMjktMjhlMTE1MDgxZjdkXkEyXkFqcGdeQXVyOTQ4NDcyOQ@@._V1_.jpg",
+              "width": 653,
+              "height": 769
+            }
+          ]
+        },
+        "characters": [
+          "Sherilyn Thomas"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1393246",
+          "display_name": "Darcy Rose Byrnes",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTFhMjAyODYtOTE4NC00ZjQwLWFhNjEtZWNlNjEwZDc4YTdjXkEyXkFqcGdeQXVyMTMwMDA1NTI@._V1_.jpg",
+              "width": 2418,
+              "height": 3013
+            }
+          ]
+        },
+        "characters": [
+          "Harper Schapira"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1767468",
+          "display_name": "Richard Robichaux",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGMwYWE5Y2ItZGM1Zi00ZTRlLThhNzAtNGY5NmUyNmFiNjUzXkEyXkFqcGdeQXVyNDI1NzUyOA@@._V1_.jpg",
+              "width": 4475,
+              "height": 7206
+            }
+          ]
+        },
+        "characters": [
+          "George Pappas"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12716946",
+          "display_name": "Sara Echeagaray",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjYxZDQ5ZWMtY2RiNy00YjMzLWE1ODItYTUwYmE5ZmVmMTM5XkEyXkFqcGc@._V1_.jpg",
+              "width": 1280,
+              "height": 1044
+            }
+          ]
+        },
+        "characters": [
+          "Ava Navarro"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4673995",
+          "display_name": "Monique A. Green",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWNhYmZmODItMDcwMy00YzBjLTg3OTMtY2IxMjczNzFlMDc4XkEyXkFqcGdeQXVyMjk1NTU0NTc@._V1_.jpg",
+              "width": 1366,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Olive Cooper"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10604776",
+          "display_name": "Charlie Hall",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjU4NDlmNjgtNTIzNC00YTliLWJiNGUtMDU0MTI4NjlmMmVmXkEyXkFqcGdeQXVyMTMxMTE0MTUy._V1_.jpg",
+              "width": 3648,
+              "height": 5472
+            }
+          ]
+        },
+        "characters": [
+          "Nick Russo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4499094",
+          "display_name": "Dale Whibley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTdkMmQ4OGEtZmQxZC00ZjY3LWEzMjMtNWVlMmE0YzkyMTFlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 700,
+              "height": 716
+            }
+          ]
+        },
+        "characters": [
+          "Lucas Gruzinsky"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1137659",
+          "display_name": "Kathleen Rose Perkins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTM4NzQxNTE4Nl5BMl5BanBnXkFtZTcwODUxMDk5Nw@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Maggie Goodwyn"
+        ]
+      }
+    ]
+  }
+}

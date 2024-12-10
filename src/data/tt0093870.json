@@ -1,0 +1,329 @@
+{
+  "title": {
+    "id": "tt0093870",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "RoboCop",
+    "original_title": null,
+    "start_year": 1987,
+    "end_year": null,
+    "runtime_minutes": 102,
+    "plot": "In a dystopic and crime-ridden Detroit, a terminally wounded cop returns to the force as a powerful cyborg haunted by submerged memories.",
+    "rating": {
+      "aggregate_rating": 7.6,
+      "votes_count": 283595
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWVlYzU2ZjQtZmNkMi00OTc3LTkwZmYtZDVjNmY4OWFmZGJlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "width": 917,
+        "height": 1422
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 70,
+      "review_count": 17
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0000682",
+          "display_name": "Paul Verhoeven",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU5NTc4OTU0Nl5BMl5BanBnXkFtZTYwMDU2MDc0._V1_.jpg",
+              "width": 275,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0627159",
+          "display_name": "Edward Neumeier",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzY0NDA5YjItZGQyMS00YjhiLTkxODAtNTA4MjI0MmM4N2U3XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 896,
+              "height": 1142
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0591160",
+          "display_name": "Michael Miner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzY2N2FjNWQtZTVlNC00ZGQ2LTlkNGItYTlmMGJmNmIxZmE1XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 759,
+              "height": 940
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000693",
+          "display_name": "Peter Weller",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTE5MTIxNTM1NV5BMl5BanBnXkFtZTYwOTMzNjc1._V1_.jpg",
+              "width": 277,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Alex Murphy",
+          "RoboCop"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000262",
+          "display_name": "Nancy Allen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzU3NTFjZjUtNzE1OS00YTA4LWI3ZmYtNTBiZGY3YmY0YjU5XkEyXkFqcGdeQXVyMjI3NDc1NTU@._V1_.jpg",
+              "width": 427,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Anne Lewis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0641397",
+          "display_name": "Dan O'Herlihy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMwNjYxOTEzMl5BMl5BanBnXkFtZTcwOTA3NTUwOA@@._V1_.jpg",
+              "width": 1669,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "The Old Man"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001074",
+          "display_name": "Ronny Cox",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEyMjAzNTI0M15BMl5BanBnXkFtZTcwNTA1MjcyMQ@@._V1_.jpg",
+              "width": 149,
+              "height": 206
+            }
+          ]
+        },
+        "characters": [
+          "Dick Jones"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001748",
+          "display_name": "Kurtwood Smith",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU0NTQxNTkxOV5BMl5BanBnXkFtZTcwMjAzMjU5MQ@@._V1_.jpg",
+              "width": 269,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Clarence Boddicker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001208",
+          "display_name": "Miguel Ferrer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ3MTYxNDE2MV5BMl5BanBnXkFtZTYwMTY0MTU3._V1_.jpg",
+              "width": 2008,
+              "height": 2856
+            }
+          ]
+        },
+        "characters": [
+          "Bob Morton"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0233306",
+          "display_name": "Robert DoQui",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk3NjQ4OTU0Ml5BMl5BanBnXkFtZTYwMTY4Nzcy._V1_.jpg",
+              "width": 450,
+              "height": 680
+            }
+          ]
+        },
+        "characters": [
+          "Sgt. Reed"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0936403",
+          "display_name": "Ray Wise",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYzNTg0NDU5NF5BMl5BanBnXkFtZTcwNDQ5NTk3MQ@@._V1_.jpg",
+              "width": 316,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Leon Nash"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0675066",
+          "display_name": "Felton Perry",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE1NjM3NDA4M15BMl5BanBnXkFtZTgwMzUzNzczMjE@._V1_.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ]
+        },
+        "characters": [
+          "Johnson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005204",
+          "display_name": "Paul McCrane",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI2Mjc1NzExN15BMl5BanBnXkFtZTYwNjUzMzQz._V1_.jpg",
+              "width": 272,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Emil Antonowsky"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0324795",
+          "display_name": "Jesse D. Goins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ2NDA3MzkxMF5BMl5BanBnXkFtZTgwMzIzOTQyNzE@._V1_.jpg",
+              "width": 515,
+              "height": 772
+            }
+          ]
+        },
+        "characters": [
+          "Joe Cox"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0952685",
+          "display_name": "Del Zamora",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzg3ZjEwYjItNDUxNy00ZmVlLWI3OWUtZWMwZjg2YzQ5MjdhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 288,
+              "height": 512
+            }
+          ]
+        },
+        "characters": [
+          "Kaplan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0432517",
+          "display_name": "Calvin Jung",
+          "avatars": null
+        },
+        "characters": [
+          "Steve Minh"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0509408",
+          "display_name": "Rick Lieberman",
+          "avatars": null
+        },
+        "characters": [
+          "Walker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0207616",
+          "display_name": "Lee de Broux",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWIwNTIwMTgtNjM4NS00NmM4LWJhYzktNDgxZjcxMDViNTY4XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 662,
+              "height": 1000
+            }
+          ]
+        },
+        "characters": [
+          "Sal"
+        ]
+      }
+    ]
+  }
+}

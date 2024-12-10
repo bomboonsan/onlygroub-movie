@@ -1,0 +1,100 @@
+{
+  "title": {
+    "id": "tt3231010",
+    "type": "short",
+    "is_adult": false,
+    "primary_title": "Island of Lemurs: Madagascar",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 39,
+    "plot": "A documentary that follows Dr. Patricia C. Wright's mission to help lemurs, the highly evolved creatures who arrived on Madagascar millions of years ago as castaways but are now highly endangered.",
+    "rating": {
+      "aggregate_rating": 7,
+      "votes_count": 1024
+    },
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Documentary",
+      "Family",
+      "Short"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY2ODAwMzQxMV5BMl5BanBnXkFtZTgwOTY3MzA3MDE@._V1_.jpg",
+        "width": 1404,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "G"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "MG",
+        "name": "Madagascar"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 66,
+      "review_count": 12
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0235010",
+          "display_name": "David Douglas",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm4187702",
+          "display_name": "Drew Fellman",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000151",
+          "display_name": "Morgan Freeman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc0MDMyMzI2OF5BMl5BanBnXkFtZTcwMzM2OTk1MQ@@._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Narrator"
+        ]
+      }
+    ]
+  }
+}

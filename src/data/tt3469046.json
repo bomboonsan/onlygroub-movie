@@ -1,0 +1,373 @@
+{
+  "title": {
+    "id": "tt3469046",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Despicable Me 3",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 89,
+    "plot": "Gru meets his long-lost, charming, cheerful, and more successful twin brother Dru, who wants to team up with him for one last criminal heist.",
+    "rating": {
+      "aggregate_rating": 6.2,
+      "votes_count": 150999
+    },
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Crime",
+      "Family",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjUyNzQ2MTg3Ml5BMl5BanBnXkFtZTgwNzE4NDM3MTI@._V1_.jpg",
+        "width": 1293,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "rus",
+        "name": "Russian"
+      },
+      {
+        "code": "ukr",
+        "name": "Ukrainian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "JP",
+        "name": "Japan"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 49,
+      "review_count": 37
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0049633",
+          "display_name": "Kyle Balda",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWYwNWIwYWMtOGU2OC00OTY3LWI5OGEtZDE1YmNlMTA0YWI0XkEyXkFqcGdeQXVyMTQ1NzI0OTU@._V1_.jpg",
+              "width": 930,
+              "height": 1244
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1853544",
+          "display_name": "Pierre Coffin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUzOTQ3OTA3OF5BMl5BanBnXkFtZTcwNzEzNTMyOA@@._V1_.jpg",
+              "width": 909,
+              "height": 1312
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm3210494",
+          "display_name": "Eric Guillon",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0666791",
+          "display_name": "Cinco Paul",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0202425",
+          "display_name": "Ken Daurio",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjQ5MDQ3MDA5Nl5BMl5BanBnXkFtZTcwNDI3MjcyOA@@._V1_.jpg",
+              "width": 1353,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0136797",
+          "display_name": "Steve Carell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMyOTM2OTk1Ml5BMl5BanBnXkFtZTgwMTI3MzkyNjM@._V1_.jpg",
+              "width": 1371,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Gru",
+          "Dru"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1325419",
+          "display_name": "Kristen Wiig",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODY0NzMzYTEtOGZmNS00ODJiLWEzYzktY2I4NDI3ODA2ZGRhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 2673,
+              "height": 4010
+            }
+          ]
+        },
+        "characters": [
+          "Lucy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005295",
+          "display_name": "Trey Parker",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk1ODExNDY2Nl5BMl5BanBnXkFtZTYwNDIyMTQ0._V1_.jpg",
+              "width": 254,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Balthazar Bratt"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1388927",
+          "display_name": "Miranda Cosgrove",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTAwYTNlNTktN2IwZC00YjJmLWEyNDUtMjVjYmJhMTA3YWFlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1516,
+              "height": 1515
+            }
+          ]
+        },
+        "characters": [
+          "Margo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3269138",
+          "display_name": "Dana Gaier",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIzYjc0YjctMmMxYy00ZDk0LTg4NjEtMmRkZGIxNzk5YjdhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 412,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Edith"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7058841",
+          "display_name": "Nev Scharrel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDlmNzdkYTItMDMzMy00M2ViLTk1ZTYtNGFlNjFiMmIyNjkzXkEyXkFqcGc@._V1_.jpg",
+              "width": 5464,
+              "height": 8192
+            }
+          ]
+        },
+        "characters": [
+          "Agnes"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1853544",
+          "display_name": "Pierre Coffin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUzOTQ3OTA3OF5BMl5BanBnXkFtZTcwNzEzNTMyOA@@._V1_.jpg",
+              "width": 909,
+              "height": 1312
+            }
+          ]
+        },
+        "characters": [
+          "Minions",
+          "Museum Director",
+          "Additional Voices"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0176869",
+          "display_name": "Steve Coogan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTIzMTU2NjcwOF5BMl5BanBnXkFtZTcwNjczMzU4MQ@@._V1_.jpg",
+              "width": 259,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Fritz",
+          "Silas Ramsbottom"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000267",
+          "display_name": "Julie Andrews",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjExMTYyODA2Ml5BMl5BanBnXkFtZTYwMTgyMDA0._V1_.jpg",
+              "width": 274,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Gru's Mom"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2809577",
+          "display_name": "Jenny Slate",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM0YjI1MzMtNTliMy00YTMwLTllOTUtOWVhMjY1ZmQxOThkXkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_.jpg",
+              "width": 402,
+              "height": 386
+            }
+          ]
+        },
+        "characters": [
+          "Valerie Da Vinci"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0064170",
+          "display_name": "Michael Beattie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2UyZGRlNWQtZGExMi00OWM0LThiNDAtNjI3N2YxZmNhOTY4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1852,
+              "height": 2315
+            }
+          ]
+        },
+        "characters": [
+          "TV Show Host",
+          "Scar-Faced Man"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0638762",
+          "display_name": "Andy Nyman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTQ4MjlkOGItNjZiOS00MGYyLTk0M2EtYjQyZjM4ZjcyYjc3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 5760,
+              "height": 3840
+            }
+          ]
+        },
+        "characters": [
+          "Clive the Robot"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7777139",
+          "display_name": "Adrian Ciscato",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTk2ZDE0MzMtNzgyZS00YzQzLTgwMWMtZmI5NGJkYmU3ZDRkXkEyXkFqcGdeQXVyNjQxMzkwMzE@._V1_.jpg",
+              "width": 2729,
+              "height": 3586
+            }
+          ]
+        },
+        "characters": [
+          "Niko"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1281932",
+          "display_name": "Brian T. Delaney",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWQyMjYwMGQtYjA4NC00OWY4LTg3ZDAtM2Q0MmNlYWJiODVhXkEyXkFqcGdeQXVyNTAyNDQ2NjI@._V1_.jpg",
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        "characters": [
+          "Commercial Announcer",
+          "Military Officer",
+          "Additional Voices"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9086298",
+          "display_name": "Katia Saponenko",
+          "avatars": null
+        },
+        "characters": [
+          "Niko's Mother"
+        ]
+      }
+    ]
+  }
+}

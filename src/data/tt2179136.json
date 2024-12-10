@@ -1,0 +1,334 @@
+{
+  "title": {
+    "id": "tt2179136",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "American Sniper",
+    "original_title": null,
+    "start_year": 2014,
+    "end_year": null,
+    "runtime_minutes": 133,
+    "plot": "Navy S.E.A.L. sniper Chris Kyle's pinpoint accuracy saves countless lives on the battlefield and turns him into a legend. Back home with his family after four tours of duty, however, Chris finds that it is the war he can't leave behind.",
+    "rating": {
+      "aggregate_rating": 7.3,
+      "votes_count": 523686
+    },
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama",
+      "War"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTkxNzI3ODI4Nl5BMl5BanBnXkFtZTgwMjkwMjY4MjE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "ara",
+        "name": "Arabic"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 73,
+      "review_count": 48
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0000142",
+          "display_name": "Clint Eastwood",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg3MDc0MjY0OV5BMl5BanBnXkFtZTcwNzU1MDAxOA@@._V1_.jpg",
+              "width": 1517,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0355699",
+          "display_name": "Jason Hall",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTUwNjA2NTM2N15BMl5BanBnXkFtZTgwNjg1ODAzNDE@._V1_.jpg",
+              "width": 1542,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm4881574",
+          "display_name": "Chris Kyle",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTdmYWFjOWQtMzQ4OC00ZDk2LWE4NjktMzg1MjRkNzZjYmRiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+              "width": 600,
+              "height": 600
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm6984200",
+          "display_name": "Scott McEwen",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm7198520",
+          "display_name": "Jim DeFelice",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0177896",
+          "display_name": "Bradley Cooper",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM0OTIyMzY1M15BMl5BanBnXkFtZTgwMTg0OTE0NzE@._V1_.jpg",
+              "width": 2341,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Chris Kyle"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0973177",
+          "display_name": "Kyle Gallner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDU5ZDIxZTctMmU4Zi00MmEzLTk5ZWUtN2ZlYTRjZDhiYTdjXkEyXkFqcGdeQXVyNDUxNjE3MA@@._V1_.jpg",
+              "width": 2498,
+              "height": 3122
+            }
+          ]
+        },
+        "characters": [
+          "Goat-Winston"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6518675",
+          "display_name": "Cole Konis",
+          "avatars": null
+        },
+        "characters": [
+          "Young Chris Kyle"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0715314",
+          "display_name": "Ben Reed",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmRlNGM3MjUtZmUyNS00ZjYxLTk1ZTgtMjc2ZGQ5ZjJjYzcxXkEyXkFqcGdeQXVyMTg5MDYxNw@@._V1_.jpg",
+              "width": 2316,
+              "height": 3088
+            }
+          ]
+        },
+        "characters": [
+          "Wayne Kyle"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0731826",
+          "display_name": "Elise Robertson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjgzZWJlODEtZmYyNC00N2VlLTkxODgtM2Y2N2JiYzI0NDlkXkEyXkFqcGdeQXVyMjA4NTg5Ng@@._V1_.jpg",
+              "width": 2121,
+              "height": 3007
+            }
+          ]
+        },
+        "characters": [
+          "Deby Kyle"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6555190",
+          "display_name": "Luke Sunshine",
+          "avatars": null
+        },
+        "characters": [
+          "Young Jeff Kyle"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2241686",
+          "display_name": "Troy Vincent",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTNlOGI1MDQtY2MyYy00MWQ1LWJjNzYtZTQ5MmQ1OGExM2NjXkEyXkFqcGdeQXVyMTUwNTExMTI@._V1_.jpg",
+              "width": 408,
+              "height": 450
+            }
+          ]
+        },
+        "characters": [
+          "Pastor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3175985",
+          "display_name": "Brandon Salgado Telis",
+          "avatars": null
+        },
+        "characters": [
+          "Bully"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1218757",
+          "display_name": "Keir O'Donnell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDhjZmY2ZDQtMmYxZi00NjFjLWJiMDktMTRkYjllYTgwODA4XkEyXkFqcGdeQXVyMTIxMjU5OTA@._V1_.jpg",
+              "width": 524,
+              "height": 666
+            }
+          ]
+        },
+        "characters": [
+          "Jeff Kyle"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005297",
+          "display_name": "Marnette Patterson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk1MmQwZjktMjk4MC00YzE0LTkyMDEtYmM5M2QzN2JjNDJiXkEyXkFqcGdeQXVyMzc0NDAyNjU@._V1_.jpg",
+              "width": 4000,
+              "height": 6000
+            }
+          ]
+        },
+        "characters": [
+          "Sarah"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0355699",
+          "display_name": "Jason Hall",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTUwNjA2NTM2N15BMl5BanBnXkFtZTgwNjg1ODAzNDE@._V1_.jpg",
+              "width": 1542,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Cowboy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1188294",
+          "display_name": "Billy Miller",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk0NDU1NzI1MF5BMl5BanBnXkFtZTcwODUwMjY3MQ@@._V1_.jpg",
+              "width": 1676,
+              "height": 1081
+            }
+          ]
+        },
+        "characters": [
+          "Navy Recruiter"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0731346",
+          "display_name": "Leonard Roberts",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI2MDk4NDIyOV5BMl5BanBnXkFtZTcwMTc5MTgyMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 677
+            }
+          ]
+        },
+        "characters": [
+          "Instructor Rolle"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4729510",
+          "display_name": "Jason Walsh",
+          "avatars": null
+        },
+        "characters": [
+          "Instructor #2"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1274545",
+          "display_name": "Reynaldo Gallegos",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWFkNzhkZDEtYTI0Ny00OThhLTk2MGMtOGYyZDY0MzA0MTRmXkEyXkFqcGdeQXVyMTUwNjc0NTM@._V1_.jpg",
+              "width": 1350,
+              "height": 2025
+            }
+          ]
+        },
+        "characters": [
+          "Tony"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "title": {
+    "id": "tt10403962",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Special Actors",
+    "original_title": null,
+    "start_year": 2019,
+    "end_year": null,
+    "runtime_minutes": 119,
+    "plot": "Kazuto has a lifelong dream of becoming an actor, but has been suffering from a special medical condition where he faints and collapses when he gets nervous.",
+    "rating": {
+      "aggregate_rating": 6.5,
+      "votes_count": 495
+    },
+    "genres": [
+      "Comedy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjkyMmM5MmMtNTc4OS00NWVlLWI2YjAtMTJkM2FkYjliOWE2XkEyXkFqcGc@._V1_.jpg",
+        "width": 566,
+        "height": 800
+      }
+    ],
+    "certificates": null,
+    "spoken_languages": [
+      {
+        "code": "jpn",
+        "name": "Japanese"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "JP",
+        "name": "Japan"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm4940051",
+          "display_name": "Shin'ichirô Ueda",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm4940051",
+          "display_name": "Shin'ichirô Ueda",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm7339270",
+          "display_name": "Nozomi de Lencquesaing",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTYzMzA3YmItNGI3MC00OTEyLTllNDctNTc2MzAyNzI1ZjFhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 678,
+              "height": 1010
+            }
+          ]
+        },
+        "characters": [
+          "John (Rescue Man)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10858837",
+          "display_name": "Aver Hamilton II",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODc2YTE0ZjUtYjk2Yi00MzJkLTgxYWQtZjU5MmY5ZmEyZTY0XkEyXkFqcGdeQXVyMTA3NTAzOTEz._V1_CR1376,0,2773,4160_.jpg",
+              "width": 2773,
+              "height": 4160
+            }
+          ]
+        },
+        "characters": [
+          "Gang member"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11287490",
+          "display_name": "Hiroki Kono",
+          "avatars": null
+        },
+        "characters": [
+          "Hiroki Ohno"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10988352",
+          "display_name": "Hayate Masao",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWNkNDg5MDUtNmIxMC00NzlhLWI5NmMtZTI0YTM1ZGI1YjdmXkEyXkFqcGc@._V1_.jpg",
+              "width": 3085,
+              "height": 2057
+            }
+          ]
+        },
+        "characters": null
+      },
+      {
+        "name": {
+          "id": "nm12837656",
+          "display_name": "Ono Sayuri",
+          "avatars": null
+        },
+        "characters": null
+      }
+    ]
+  }
+}

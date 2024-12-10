@@ -1,0 +1,325 @@
+{
+  "title": {
+    "id": "tt10342730",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Spiral",
+    "original_title": "Spiral: From the Book of Saw",
+    "start_year": 2021,
+    "end_year": null,
+    "runtime_minutes": 93,
+    "plot": "A criminal mastermind unleashes a twisted form of justice in Spiral, the terrifying new chapter from the book of Saw.",
+    "rating": {
+      "aggregate_rating": 5.2,
+      "votes_count": 68418
+    },
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjI4ZWQwYzctMGJlMi00OTE1LWFkNjMtY2VlOGQxZmVhNDYyXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg",
+        "width": 1944,
+        "height": 2880
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 40,
+      "review_count": 33
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1135423",
+          "display_name": "Darren Lynn Bousman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTA0NzQ2NjcwOV5BMl5BanBnXkFtZTgwNjkxODIxOTE@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0831457",
+          "display_name": "Josh Stolberg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTgyN2JhOTYtZTY2MC00YzBjLWI3ZmMtYmY3NThiODE4YzliXkEyXkFqcGdeQXVyNjMzMzQ2MjM@._V1_.jpg",
+              "width": 1500,
+              "height": 1000
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1539257",
+          "display_name": "Pete Goldfinger",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0001674",
+          "display_name": "Chris Rock",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTEyNjM5MjgyNzdeQTJeQWpwZ15BbWU3MDAzMzUyODc@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Detective Zeke Banks"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1540404",
+          "display_name": "Max Minghella",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ4OTEwNTcwN15BMl5BanBnXkFtZTgwNDU4MDgxMTE@._V1_.jpg",
+              "width": 614,
+              "height": 702
+            }
+          ]
+        },
+        "characters": [
+          "Detective William Schenk"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000168",
+          "display_name": "Samuel L. Jackson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ1NTQwMTYxNl5BMl5BanBnXkFtZTYwMjA1MzY1._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Marcus Banks"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0629653",
+          "display_name": "Marisol Nichols",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGI1ODA1ZWUtN2E5Yy00MmVmLWJkODUtMTdlYTgzZTYwMTI3XkEyXkFqcGdeQXVyNDgyMjgyNg@@._V1_.jpg",
+              "width": 1244,
+              "height": 1870
+            }
+          ]
+        },
+        "characters": [
+          "Captain Angie Garza"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0678107",
+          "display_name": "Dan Petronijevic",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgwMTg4MzAwOV5BMl5BanBnXkFtZTcwNTc1Nzk1OA@@._V1_.jpg",
+              "width": 462,
+              "height": 676
+            }
+          ]
+        },
+        "characters": [
+          "Detective Marv 'Boz' Boswick"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0954999",
+          "display_name": "Richard Zeppieri",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk4MDYxMTIyNl5BMl5BanBnXkFtZTgwNDcwMzY3OTE@._V1_.jpg",
+              "width": 800,
+              "height": 532
+            }
+          ]
+        },
+        "characters": [
+          "Detective Fitch"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0573164",
+          "display_name": "Patrick McManus",
+          "avatars": null
+        },
+        "characters": [
+          "Peter Dunleavy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7241877",
+          "display_name": "Ali Johnson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk0OWUyYTgtZjU2Ni00ZDY4LTlhMGQtZDlkMTc1MTdjNzJjXkEyXkFqcGdeQXVyNjA4OTUwMDk@._V1_.jpg",
+              "width": 3708,
+              "height": 5191
+            }
+          ]
+        },
+        "characters": [
+          "Officer Jeannie Lewis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1235776",
+          "display_name": "Zoie Palmer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWE4NDlkYTgtY2MxZi00OTMxLWIwMDEtYmJkMTNmMWQ1MzlmXkEyXkFqcGdeQXVyMjM2NDU0Ng@@._V1_.jpg",
+              "width": 3000,
+              "height": 2000
+            }
+          ]
+        },
+        "characters": [
+          "Kara Boswick"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0731048",
+          "display_name": "Dylan Roberts",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAwODczNjM3MF5BMl5BanBnXkFtZTcwNTE3MDkyMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 675
+            }
+          ]
+        },
+        "characters": [
+          "Sergeant Morgey"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0172220",
+          "display_name": "K.C. Collins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGUzM2EzNDAtODc1Yi00ODZmLTlhOGMtMDhlZjM1MGMwYjU1XkEyXkFqcGdeQXVyMjA3NDg3OTc@._V1_.jpg",
+              "width": 2125,
+              "height": 3189
+            }
+          ]
+        },
+        "characters": [
+          "Detective Drury"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1141621",
+          "display_name": "Edie Inksetter",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTYyOWYyN2UtMzZkYS00ZGUwLWE3NTktN2NhNGY4NjFjNWUxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1093,
+              "height": 1366
+            }
+          ]
+        },
+        "characters": [
+          "Detective Kraus"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1345890",
+          "display_name": "Nazneen Contractor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzZhMjYzMGEtYTA2Zi00ODI1LTgyMzItNTBmZjhiYjQ1ODhlXkEyXkFqcGdeQXVyMTQ4NzI0NDQ@._V1_.jpg",
+              "width": 3520,
+              "height": 4659
+            }
+          ]
+        },
+        "characters": [
+          "Coroner Chada"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0593776",
+          "display_name": "Thomas Mitchell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAzODcwNjMxNF5BMl5BanBnXkFtZTcwOTY4NTE3MQ@@._V1_.jpg",
+              "width": 541,
+              "height": 354
+            }
+          ]
+        },
+        "characters": [
+          "Detective O'Brien"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3493412",
+          "display_name": "Carvin Winans",
+          "avatars": null
+        },
+        "characters": [
+          "Officer Paul"
+        ]
+      }
+    ]
+  }
+}

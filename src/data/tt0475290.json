@@ -1,0 +1,361 @@
+{
+  "title": {
+    "id": "tt0475290",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Hail, Caesar!",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 106,
+    "plot": "A Hollywood fixer in the 1950s works to keep the studio's stars in line.",
+    "rating": {
+      "aggregate_rating": 6.3,
+      "votes_count": 143250
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Mystery"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmE1NDE2ODUtZmVmNi00OTM3LWFkOTItZDE2NGUwMTM0YjIyXkEyXkFqcGc@._V1_.jpg",
+        "width": 675,
+        "height": 1000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "JP",
+        "name": "Japan"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 72,
+      "review_count": 50
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0001053",
+          "display_name": "Ethan Coen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI3NjIwNzQ2N15BMl5BanBnXkFtZTcwNTY0ODkyMg@@._V1_.jpg",
+              "width": 263,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0001054",
+          "display_name": "Joel Coen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg3MjgwMzUzOF5BMl5BanBnXkFtZTcwODM5Nzk4MQ@@._V1_.jpg",
+              "width": 265,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0001054",
+          "display_name": "Joel Coen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg3MjgwMzUzOF5BMl5BanBnXkFtZTcwODM5Nzk4MQ@@._V1_.jpg",
+              "width": 265,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0001053",
+          "display_name": "Ethan Coen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI3NjIwNzQ2N15BMl5BanBnXkFtZTcwNTY0ODkyMg@@._V1_.jpg",
+              "width": 263,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000982",
+          "display_name": "Josh Brolin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ1MzYyMjQ0Nl5BMl5BanBnXkFtZTcwMTA0ODkyMg@@._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Eddie Mannix"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000123",
+          "display_name": "George Clooney",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEyMTEyOTQ0MV5BMl5BanBnXkFtZTcwNzU3NTMzNw@@._V1_.jpg",
+              "width": 1507,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Baird Whitlock"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2403277",
+          "display_name": "Alden Ehrenreich",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjY5ODY0MDE5Nl5BMl5BanBnXkFtZTgwODg2NDM4ODE@._V1_.jpg",
+              "width": 1024,
+              "height": 1535
+            }
+          ]
+        },
+        "characters": [
+          "Hobie Doyle"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000146",
+          "display_name": "Ralph Fiennes",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzc5MjE1NDgyN15BMl5BanBnXkFtZTcwNzg2ODgwNA@@._V1_.jpg",
+              "width": 306,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Laurence Laurentz"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0424060",
+          "display_name": "Scarlett Johansson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM3OTUwMDYwNl5BMl5BanBnXkFtZTcwNTUyNzc3Nw@@._V1_.jpg",
+              "width": 1689,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "DeeAnna Moran"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0842770",
+          "display_name": "Tilda Swinton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM4NzMzMTkwNV5BMl5BanBnXkFtZTcwMzU4MDg1Mw@@._V1_.jpg",
+              "width": 319,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Thora Thacker",
+          "Thessaly Thacker"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1475594",
+          "display_name": "Channing Tatum",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTc2NTEwNV5BMl5BanBnXkFtZTgwNDgxMjMxNjE@._V1_.jpg",
+              "width": 1093,
+              "height": 1044
+            }
+          ]
+        },
+        "characters": [
+          "Burt Gurney"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000531",
+          "display_name": "Frances McDormand",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI3NzgxNjYzOF5BMl5BanBnXkFtZTgwNTIxMjExNzE@._V1_.jpg",
+              "width": 1976,
+              "height": 2380
+            }
+          ]
+        },
+        "characters": [
+          "C.C. Calhoun"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1706767",
+          "display_name": "Jonah Hill",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyNDU0NzAwNl5BMl5BanBnXkFtZTcwMzQxMzIzNw@@._V1_.jpg",
+              "width": 460,
+              "height": 541
+            }
+          ]
+        },
+        "characters": [
+          "Joe Silverman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4088280",
+          "display_name": "Veronica Osorio",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTI1YmNjNGMtOTQyNC00NTJjLWJmZWEtZjY4OTA2ZjkxMzM0XkEyXkFqcGc@._V1_.jpg",
+              "width": 353,
+              "height": 483
+            }
+          ]
+        },
+        "characters": [
+          "Carlotta Valdez"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0325552",
+          "display_name": "Heather Goldenhersh",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQwMDY3MDc0OF5BMl5BanBnXkFtZTYwMzM3NTg3._V1_.jpg",
+              "width": 334,
+              "height": 500
+            }
+          ]
+        },
+        "characters": [
+          "Natalie - Secretary"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0683467",
+          "display_name": "Alison Pill",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTY1NGVjNjAtNzg5YS00YjRhLWFlZTYtNWFlMGI2YjcxMWYyXkEyXkFqcGdeQXVyNzAzNzg4NTg@._V1_.jpg",
+              "width": 2641,
+              "height": 3225
+            }
+          ]
+        },
+        "characters": [
+          "Mrs. Mannix"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0048755",
+          "display_name": "Max Baker",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY4NzA0MmYtMDI0NS00YTk0LTg0MjUtYmUyOTEzNzEyNWU2XkEyXkFqcGdeQXVyNjc5Mjg0NjU@._V1_.jpg",
+              "width": 1000,
+              "height": 667
+            }
+          ]
+        },
+        "characters": [
+          "Head Communist Writer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001770",
+          "display_name": "Fisher Stevens",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2VkODkxZTItNWExNi00MzU3LWE3NTMtYjUxZGQ0NTliYjJiXkEyXkFqcGdeQXVyOTEyMDM1NTY@._V1_.jpg",
+              "width": 427,
+              "height": 640
+            }
+          ]
+        },
+        "characters": [
+          "Communist Writer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0279209",
+          "display_name": "Patrick Fischler",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGUxYWRiZWUtMjM4Yy00ZWI3LTkzNmMtZmUxZTFkNTYwYzgwXkEyXkFqcGdeQXVyOTYzMDk5Njc@._V1_.jpg",
+              "width": 666,
+              "height": 1000
+            }
+          ]
+        },
+        "characters": [
+          "Communist Writer"
+        ]
+      }
+    ]
+  }
+}

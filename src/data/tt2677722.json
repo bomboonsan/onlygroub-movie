@@ -1,0 +1,343 @@
+{
+  "title": {
+    "id": "tt2677722",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "City of Lies",
+    "original_title": null,
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 112,
+    "plot": "Russell Poole and Jack Jackson investigate the murder of rapper Notorious B.I.G.",
+    "rating": {
+      "aggregate_rating": 6.5,
+      "votes_count": 19124
+    },
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BODUwMzU5YzktMjM2Ny00MzBhLWJjNzAtNjljNmQyMjcwNGE0XkEyXkFqcGc@._V1_.jpg",
+        "width": 4050,
+        "height": 6000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 44,
+      "review_count": 12
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1026778",
+          "display_name": "Brad Furman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDM0MzdjZWUtMTUyOC00YWM3LWI0MDQtMTAzMWU0OWEwNThkXkEyXkFqcGdeQXVyNjM2MDk5ODc@._V1_.jpg",
+              "width": 533,
+              "height": 800
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0838300",
+          "display_name": "Randall Sullivan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGJjZTg2MTItZGVmNy00ZGRlLWIwNjEtM2NmYjEwNTAyZDUxXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 1034,
+              "height": 1398
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2757852",
+          "display_name": "Christian Contreras",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE2NzA1MjcyMV5BMl5BanBnXkFtZTgwNDgzNTE3NDE@._V1_.jpg",
+              "width": 600,
+              "height": 900
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000136",
+          "display_name": "Johnny Depp",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTBhMTI1NDQtYmU4Mi00MjYyLTk5MjEtZjllMDkxOWY3ZGRhXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg",
+              "width": 1080,
+              "height": 1591
+            }
+          ]
+        },
+        "characters": [
+          "Russell Poole"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001845",
+          "display_name": "Forest Whitaker",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQzMDI3NTg2OV5BMl5BanBnXkFtZTcwNTgwMzg5Mg@@._V1_.jpg",
+              "width": 303,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Jack Jackson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0403947",
+          "display_name": "Toby Huss",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjM4YzJmNzItNjYyNS00MjRjLTlhMGYtNTcwZjQ2ZDUyZDUwXkEyXkFqcGdeQXVyODI1Mjc1Mg@@._V1_.jpg",
+              "width": 1988,
+              "height": 2783
+            }
+          ]
+        },
+        "characters": [
+          "Detective Fred Miller"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0130502",
+          "display_name": "Dayton Callie",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQxMjg1NjczMV5BMl5BanBnXkFtZTcwODMxMTMxOA@@._V1_.jpg",
+              "width": 1546,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Lieutenant O'Shea"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0112932",
+          "display_name": "Neil Brown Jr.",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGVlOGExZGItNzBlNi00YjJmLTllYTYtYWFmN2MxOWEzYjA5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 894,
+              "height": 602
+            }
+          ]
+        },
+        "characters": [
+          "Rafael Perez"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0381043",
+          "display_name": "Louis Herthum",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2Y3N2JlNWUtZjVhYy00ZTMxLTgzMTAtNTk5ZjhkNmNiMDk1XkEyXkFqcGdeQXVyMDMyMjc3MA@@._V1_.jpg",
+              "width": 1040,
+              "height": 1018
+            }
+          ]
+        },
+        "characters": [
+          "City Attorney Stone"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0924154",
+          "display_name": "Shea Whigham",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTQzMDUwNjg1NF5BMl5BanBnXkFtZTgwMzE0NjcxNDE@._V1_.jpg",
+              "width": 2048,
+              "height": 1991
+            }
+          ]
+        },
+        "characters": [
+          "Frank Lyga"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0075359",
+          "display_name": "Xander Berkeley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTAwMjA1OTEwOTheQTJeQWpwZ15BbWU2MDkxODgxMw@@._V1_.jpg",
+              "width": 485,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Edwards"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3875456",
+          "display_name": "Shamier Anderson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGQ0ZWE3MDktMjVhOS00MTgyLTgzZDYtNmUwZTM2YmQ2NTU0XkEyXkFqcGdeQXVyMzU2MTUxMDM@._V1_.jpg",
+              "width": 3764,
+              "height": 4704
+            }
+          ]
+        },
+        "characters": [
+          "David Mack"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0556808",
+          "display_name": "Laurence Mason",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTE4MWQwMzgtNjJkZi00ZDFiLTk4M2EtZGI2MDQ4ZDUwMWE3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2400,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "FBI Agent Dunton"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1382202",
+          "display_name": "Christian George",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWI0MWE5ZmMtMGJhZS00NjUzLWFkYjMtN2Q1NmM3YWEyNzM5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1242,
+              "height": 2208
+            }
+          ]
+        },
+        "characters": [
+          "Belsher"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001595",
+          "display_name": "Michael Paré",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDAzNDQxNjI1OF5BMl5BanBnXkFtZTcwMjA1OTE3NQ@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Detective Varney"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1514763",
+          "display_name": "Amin Joseph",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTdkYTZmMzItZGY3Zi00ZWVmLWI2NGItNTE1MTQ4MzRkMmRhXkEyXkFqcGdeQXVyMjAxNzIwNTQ@._V1_.jpg",
+              "width": 1024,
+              "height": 691
+            }
+          ]
+        },
+        "characters": [
+          "Kevin Gaines"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5849384",
+          "display_name": "Josh Hardwick",
+          "avatars": null
+        },
+        "characters": [
+          "Russell Poole Jr."
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0687625",
+          "display_name": "Glenn Plummer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY3NDgwNzM5NF5BMl5BanBnXkFtZTcwMjY3ODgyMQ@@._V1_.jpg",
+              "width": 442,
+              "height": 700
+            }
+          ]
+        },
+        "characters": [
+          "Psycho Mike"
+        ]
+      }
+    ]
+  }
+}

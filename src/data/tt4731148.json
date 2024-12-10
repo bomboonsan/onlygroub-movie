@@ -1,0 +1,295 @@
+{
+  "title": {
+    "id": "tt4731148",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Attraction",
+    "original_title": "Prityazhenie",
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 132,
+    "plot": "After a spaceship crash-lands in the center of Moscow, a young woman finds herself torn between loyalty to her seemingly normal life and the allure of a new state of being promised by one of the aliens.",
+    "rating": {
+      "aggregate_rating": 5.6,
+      "votes_count": 14169
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BODNkNTFlMWItZWNkYS00YTUwLWJkN2YtYWQxMGJlZDA0OGFlXkEyXkFqcGdeQXVyMjcxNjI4NTk@._V1_.jpg",
+        "width": 780,
+        "height": 1170
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "RU",
+        "name": "Russian Federation"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm0094080",
+          "display_name": "Fedor Bondarchuk",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTZiMGFjMjQtYzEwNS00ZDJlLWI0OGQtYjA1OWI1NTVjYzFiXkEyXkFqcGdeQXVyMTE0NTkyMzI2._V1_.jpg",
+              "width": 3456,
+              "height": 5184
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2672655",
+          "display_name": "Oleg Malovichko",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm2454599",
+          "display_name": "Andrey Zolotarev",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm7590244",
+          "display_name": "Irina Starshenbaum",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk4MjU2NzE3NV5BMl5BanBnXkFtZTgwMjkzODUzNzE@._V1_.jpg",
+              "width": 1748,
+              "height": 992
+            }
+          ]
+        },
+        "characters": [
+          "Julia Lebedeva"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5003252",
+          "display_name": "Alexander Petrov",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjg4MjlhNzItOTMyNS00NjYxLTlmYjktNGU1Y2QzZWM2YjM1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 541,
+              "height": 812
+            }
+          ]
+        },
+        "characters": [
+          "Tyoma"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4928333",
+          "display_name": "Rinal Mukhametov",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTJmZGNhYTgtZWE2MS00NmJiLWFjODAtZDkyMjQxZmMxYzJlXkEyXkFqcGdeQXVyNjMwOTA1MDM@._V1_.jpg",
+              "width": 761,
+              "height": 1280
+            }
+          ]
+        },
+        "characters": [
+          "Hakon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0579823",
+          "display_name": "Oleg Menshikov",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTUxNDMzZTMtNGQ5OS00ZmNlLWJkOWMtMTRiMWI0NjEyNWE3XkEyXkFqcGdeQXVyNjMwOTA1MDM@._V1_.jpg",
+              "width": 600,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Colonel Lebedev"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0307628",
+          "display_name": "Sergey Garmash",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmIzNzYzMzMtZjQ0Yi00MmMxLTlmYjItZTI0ZGExMjRhNDk0XkEyXkFqcGdeQXVyMTMzOTU3MDcz._V1_.jpg",
+              "width": 299,
+              "height": 407
+            }
+          ]
+        },
+        "characters": [
+          "Vice-Prime Minister"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0538753",
+          "display_name": "Lyudmila Maksakova",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWNkYTk0MTEtNGY4Mi00ZTZjLWI2YTctMmU1NTNhODIxZDQ0XkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_.jpg",
+              "width": 680,
+              "height": 510
+            }
+          ]
+        },
+        "characters": [
+          "Lyuba"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5736031",
+          "display_name": "Evgeniy Mikheev",
+          "avatars": null
+        },
+        "characters": [
+          "Google"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6592336",
+          "display_name": "Nikita Kukushkin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2IzZDI4MGEtYmU1ZS00ZmNhLWE4YWUtMDBlN2ZlMzI5ZGNhXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg",
+              "width": 250,
+              "height": 375
+            }
+          ]
+        },
+        "characters": [
+          "Ruslan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4140819",
+          "display_name": "Evgeniy Sangadzhiev",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGQ2ZGYyNDktOTRkNi00NmJlLTlmNzUtMGM3NmM0MDY2ZGE5XkEyXkFqcGdeQXVyMTA3NTQ1NDEw._V1_.jpg",
+              "width": 1093,
+              "height": 1639
+            }
+          ]
+        },
+        "characters": [
+          "Python"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3770746",
+          "display_name": "Aleksey Maslodudov",
+          "avatars": null
+        },
+        "characters": [
+          "Zhenya"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4823076",
+          "display_name": "Darya Rudenok",
+          "avatars": null
+        },
+        "characters": [
+          "Sveta"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6641677",
+          "display_name": "Anton Shpinkov",
+          "avatars": null
+        },
+        "characters": [
+          "Mironov"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1572687",
+          "display_name": "Evgeniy Koryakovskiy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2IzODQ4NzctZDY3Zi00NmZlLTgyZWUtN2ZmYWJkM2Q5NzliXkEyXkFqcGc@._V1_.jpg",
+              "width": 248,
+              "height": 373
+            }
+          ]
+        },
+        "characters": [
+          "Teacher"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1649967",
+          "display_name": "Nikita Tarasov",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI5NTcxMDQ0NV5BMl5BanBnXkFtZTgwMTcxMTAxMzE@._V1_.jpg",
+              "width": 1280,
+              "height": 949
+            }
+          ]
+        },
+        "characters": [
+          "Deputy Mikhail Poleskin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9690161",
+          "display_name": "Irina Rossius",
+          "avatars": null
+        },
+        "characters": [
+          "Female Reporter"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,371 @@
+{
+  "title": {
+    "id": "tt1396484",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "It",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 135,
+    "plot": "In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town.",
+    "rating": {
+      "aggregate_rating": 7.3,
+      "votes_count": 598313
+    },
+    "genres": [
+      "Horror"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWE1ODEtMWMzMWMzNDA0NmQ4XkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_.jpg",
+        "width": 2000,
+        "height": 3000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "heb",
+        "name": "Hebrew"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 69,
+      "review_count": 49
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0615592",
+          "display_name": "Andy Muschietti",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkwMDE0NTc0NF5BMl5BanBnXkFtZTcwNTcyMTM5OA@@._V1_.jpg",
+              "width": 1399,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1286060",
+          "display_name": "Chase Palmer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTc1ZDBkNzEtZThmZi00MWMwLWI3NjUtMTEzMmRmZDVmMTczXkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_.jpg",
+              "width": 1985,
+              "height": 1085
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1560977",
+          "display_name": "Cary Joji Fukunaga",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU4MTY2ODExMV5BMl5BanBnXkFtZTcwMzEwNzY2NA@@._V1_.jpg",
+              "width": 1568,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2477891",
+          "display_name": "Gary Dauberman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcyNDcxNTk4NV5BMl5BanBnXkFtZTgwNTcwODAzNjM@._V1_.jpg",
+              "width": 1593,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0000175",
+          "display_name": "Stephen King",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA2ODIxNDM4Nl5BMl5BanBnXkFtZTYwMjkzMzU1._V1_.jpg",
+              "width": 257,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm5897057",
+          "display_name": "Jaeden Martell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmNkZjgwZmYtNzNjOC00ZGUxLTgzMmQtYWU0NDQyNmE4NWM5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 3227,
+              "height": 4841
+            }
+          ]
+        },
+        "characters": [
+          "Bill Denbrough"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5582294",
+          "display_name": "Jeremy Ray Taylor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDBmMTg1Y2EtMjFmNy00MGZhLTk2NzEtYjNjMDRlYjQ4YjE1XkEyXkFqcGdeQXVyMjMwMzc0NTI@._V1_.jpg",
+              "width": 2545,
+              "height": 3817
+            }
+          ]
+        },
+        "characters": [
+          "Ben Hanscom"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6096118",
+          "display_name": "Sophia Lillis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzc2OWYyZjctMzNjZi00ZmM4LTliZGYtOGMzYWUzNWY3NzdjXkEyXkFqcGdeQXVyMTA1ODAyOTI1._V1_.jpg",
+              "width": 3943,
+              "height": 5912
+            }
+          ]
+        },
+        "characters": [
+          "Beverly Marsh"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6016511",
+          "display_name": "Finn Wolfhard",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjlkNTdhNjYtYTFhNy00MTUxLWIwNTgtMTE5NTY5Y2I3MDc0XkEyXkFqcGdeQXVyNjY5NDgzNjQ@._V1_.jpg",
+              "width": 5312,
+              "height": 7967
+            }
+          ]
+        },
+        "characters": [
+          "Richie Tozier"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7483475",
+          "display_name": "Chosen Jacobs",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc4ZTlkYzItZTRkZC00ZjllLTlmZjUtZTI0ZmI3OTNlODY0XkEyXkFqcGdeQXVyNjM1NTA0Mjg@._V1_.jpg",
+              "width": 3237,
+              "height": 4046
+            }
+          ]
+        },
+        "characters": [
+          "Mike Hanlon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6244013",
+          "display_name": "Jack Dylan Grazer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjQzYmE5OGItM2UzOC00YmViLTk4OGUtNzNjOGYyMTg0Y2FlXkEyXkFqcGdeQXVyOTg2NzI4Nw@@._V1_.jpg",
+              "width": 1580,
+              "height": 2016
+            }
+          ]
+        },
+        "characters": [
+          "Eddie Kaspbrak"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5200476",
+          "display_name": "Wyatt Oleff",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmYyMDRhODktY2RiZS00N2NhLWJkNTUtZjliZGZjM2I1MTZiXkEyXkFqcGdeQXVyMzU4NDY2MDQ@._V1_.jpg",
+              "width": 1327,
+              "height": 1720
+            }
+          ]
+        },
+        "characters": [
+          "Stanley Uris"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0803889",
+          "display_name": "Bill Skarsgård",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODBlNmRhODYtOWE2Ni00MTZmLWExMWYtMmRjYWNhNDRjNGU2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 4638,
+              "height": 3236
+            }
+          ]
+        },
+        "characters": [
+          "Pennywise"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5640595",
+          "display_name": "Nicholas Hamilton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTc3OGRhMjAtMTA3NS00NDllLWE4YzktZTkzOTI4MGYyZThhXkEyXkFqcGdeQXVyNDM4NTYzMjQ@._V1_.jpg",
+              "width": 1098,
+              "height": 1253
+            }
+          ]
+        },
+        "characters": [
+          "Henry Bowers"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3604267",
+          "display_name": "Jake Sim",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWFhZDdjODAtZjg0Mi00MzNiLWI1NTktNzJiNWE4N2ZiMDFjXkEyXkFqcGdeQXVyMzk3OTIwNjc@._V1_.jpg",
+              "width": 760,
+              "height": 1013
+            }
+          ]
+        },
+        "characters": [
+          "Belch Huggins"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8264384",
+          "display_name": "Logan Thompson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmViNmRlZTktZjcyOC00ZjE1LThhMjMtMjZjYWU3MjBhZDJhXkEyXkFqcGdeQXVyNjc4NDYzMjY@._V1_.jpg",
+              "width": 299,
+              "height": 200
+            }
+          ]
+        },
+        "characters": [
+          "Victor Criss"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4977122",
+          "display_name": "Owen Teague",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmExOWFmNWUtZjRkMi00ZGMyLWIyMjMtODdiY2E3NDExYTEzXkEyXkFqcGdeQXVyMzMzMDMzODQ@._V1_.jpg",
+              "width": 1224,
+              "height": 1837
+            }
+          ]
+        },
+        "characters": [
+          "Patrick Hockstetter"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7669135",
+          "display_name": "Jackson Robert Scott",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU1Njg2NjMxMl5BMl5BanBnXkFtZTgwNTA4MTE0OTE@._V1_.jpg",
+              "width": 733,
+              "height": 1163
+            }
+          ]
+        },
+        "characters": [
+          "Georgie Denbrough"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0091505",
+          "display_name": "Stephen Bogaert",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODEzNDY2MTM4NF5BMl5BanBnXkFtZTgwODY5NzA2MzE@._V1_.jpg",
+              "width": 4070,
+              "height": 2713
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Marsh"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0400949",
+          "display_name": "Stuart Hughes",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDUxYWM2MDctMGJmMS00MjU4LTgzN2YtZDA3OTA0YzUzYzAzXkEyXkFqcGdeQXVyMTk2NTAwMzI@._V1_.jpg",
+              "width": 879,
+              "height": 959
+            }
+          ]
+        },
+        "characters": [
+          "Officer Bowers"
+        ]
+      }
+    ]
+  }
+}

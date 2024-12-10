@@ -1,0 +1,291 @@
+{
+  "title": {
+    "id": "tt4995790",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Square",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 151,
+    "plot": "A prestigious Stockholm museum's chief art curator finds himself in times of both professional and personal crisis as he attempts to set up a controversial new exhibit.",
+    "rating": {
+      "aggregate_rating": 7.1,
+      "votes_count": 77416
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzY5NmJkNWYtZjExYS00NjQyLWJhNmQtYzJlMTNlNzQxOWUzXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+        "width": 1920,
+        "height": 2880
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "dan",
+        "name": "Danish"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "swe",
+        "name": "Swedish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "DE",
+        "name": "Germany"
+      },
+      {
+        "code": "DK",
+        "name": "Denmark"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "SE",
+        "name": "Sweden"
+      }
+    ],
+    "critic_review": {
+      "score": 73,
+      "review_count": 33
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1128037",
+          "display_name": "Ruben Östlund",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQxNTI2MTY3OV5BMl5BanBnXkFtZTgwMDM5OTA5MjE@._V1_.jpg",
+              "width": 1535,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1128037",
+          "display_name": "Ruben Östlund",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQxNTI2MTY3OV5BMl5BanBnXkFtZTgwMDM5OTA5MjE@._V1_.jpg",
+              "width": 1535,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0051903",
+          "display_name": "Claes Bang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMzNzY1NTUwOF5BMl5BanBnXkFtZTcwMTIwMTc5OQ@@._V1_.jpg",
+              "width": 3256,
+              "height": 4810
+            }
+          ]
+        },
+        "characters": [
+          "Christian"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005253",
+          "display_name": "Elisabeth Moss",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTMwMDg1MDkyNV5BMl5BanBnXkFtZTcwNzEwMzg1Nw@@._V1_.jpg",
+              "width": 1296,
+              "height": 864
+            }
+          ]
+        },
+        "characters": [
+          "Anne"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0922035",
+          "display_name": "Dominic West",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM1MDU1Mzg3N15BMl5BanBnXkFtZTgwNTcwNzcyMzI@._V1_.jpg",
+              "width": 1280,
+              "height": 799
+            }
+          ]
+        },
+        "characters": [
+          "Julian"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1024953",
+          "display_name": "Terry Notary",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk1NDc5NTM5NV5BMl5BanBnXkFtZTgwOTM4MTAzMjI@._V1_.jpg",
+              "width": 2048,
+              "height": 1309
+            }
+          ]
+        },
+        "characters": [
+          "Oleg"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1412125",
+          "display_name": "Christopher Læssø",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDUzM2NiOGEtZmJmMC00MWQxLWE0MjAtYmQyMzY5Zjk1ZmVjXkEyXkFqcGdeQXVyNjQxOTY5NTE@._V1_.jpg",
+              "width": 914,
+              "height": 1280
+            }
+          ]
+        },
+        "characters": [
+          "Michael"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8960942",
+          "display_name": "Lise Stephenson Engström",
+          "avatars": null
+        },
+        "characters": [
+          "Daughter"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8952917",
+          "display_name": "Lilianne Mardon",
+          "avatars": null
+        },
+        "characters": [
+          "Daughter"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1901946",
+          "display_name": "Marina Schiptjenko",
+          "avatars": null
+        },
+        "characters": [
+          "Elna"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6918796",
+          "display_name": "Annica Liljeblad",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWExMGZiMzMtNGUwZi00YTdhLThmMDItNWM2NmIwYmIyMzM3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3862,
+              "height": 2570
+            }
+          ]
+        },
+        "characters": [
+          "Sonja"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9039885",
+          "display_name": "Elijandro Edouard",
+          "avatars": null
+        },
+        "characters": [
+          "Boy with Letter"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm8671597",
+          "display_name": "Daniel Hallberg",
+          "avatars": null
+        },
+        "characters": [
+          "Dark-Haired Advertising Agent"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9039886",
+          "display_name": "Martin Sööder",
+          "avatars": null
+        },
+        "characters": [
+          "Blond Advertising Agent"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0635409",
+          "display_name": "John Nordling",
+          "avatars": null
+        },
+        "characters": [
+          "Account Manager"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1779313",
+          "display_name": "Maja Gödicke",
+          "avatars": null
+        },
+        "characters": [
+          "Marketing First Assistant"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9828104",
+          "display_name": "Nicki Dar",
+          "avatars": null
+        },
+        "characters": [
+          "Nicki"
+        ]
+      }
+    ]
+  }
+}

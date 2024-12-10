@@ -1,0 +1,311 @@
+{
+  "title": {
+    "id": "tt7131870",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Wolf Warrior 2",
+    "original_title": "Zhan lang II",
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 123,
+    "plot": "China's deadliest special forces operative settles into a quiet life on the sea. When sadistic mercenaries begin targeting nearby civilians, he must leave his newfound peace behind and return to his duties as a soldier and protector.",
+    "rating": {
+      "aggregate_rating": 5.9,
+      "votes_count": 8932
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Thriller",
+      "War"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY0NjU4NjE4Nl5BMl5BanBnXkFtZTgwNjk0ODY5MjI@._V1_.jpg",
+        "width": 406,
+        "height": 600
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "Not Rated"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CN",
+        "name": "China"
+      }
+    ],
+    "critic_review": {
+      "score": 44,
+      "review_count": 4
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0943104",
+          "display_name": "Jing Wu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMyMzM5MDkzM15BMl5BanBnXkFtZTcwNzI3ODAxNw@@._V1_.jpg",
+              "width": 625,
+              "height": 417
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0943104",
+          "display_name": "Jing Wu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMyMzM5MDkzM15BMl5BanBnXkFtZTcwNzI3ODAxNw@@._V1_.jpg",
+              "width": 625,
+              "height": 417
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm8127866",
+          "display_name": "Qun Dong",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm3146222",
+          "display_name": "Yi Liu",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm11840879",
+          "display_name": "Yan Gao",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0943104",
+          "display_name": "Jing Wu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMyMzM5MDkzM15BMl5BanBnXkFtZTcwNzI3ODAxNw@@._V1_.jpg",
+              "width": 625,
+              "height": 417
+            }
+          ]
+        },
+        "characters": [
+          "Leng Feng"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0342029",
+          "display_name": "Frank Grillo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDEyMjk5NDM1M15BMl5BanBnXkFtZTgwOTAyMDE2MjE@._V1_.jpg",
+              "width": 2048,
+              "height": 1568
+            }
+          ]
+        },
+        "characters": [
+          "Big Daddy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3018796",
+          "display_name": "Celina Jade",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ3OTE2MDI2MV5BMl5BanBnXkFtZTgwOTg2MTM2NTE@._V1_.jpg",
+              "width": 1417,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Rachel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2518711",
+          "display_name": "Gang Wu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGNlYzQ0NjEtZjBiYi00NzQwLThlMDQtYzQ2NmY0NTJhODZkXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 800,
+              "height": 1201
+            }
+          ]
+        },
+        "characters": [
+          "He Jianguo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2186770",
+          "display_name": "Hans Zhang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmU0MDkyYmQtODg2OS00ZTk5LWE3NzktYWM1MWY0ZGI1NGQ1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 632,
+              "height": 905
+            }
+          ]
+        },
+        "characters": [
+          "Zhuo Yifan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4999384",
+          "display_name": "Qian Yu",
+          "avatars": null
+        },
+        "characters": [
+          "Bida Qian"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9202875",
+          "display_name": "Ann James",
+          "avatars": null
+        },
+        "characters": [
+          "Nesa"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0950544",
+          "display_name": "Nan Yu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjg2MjU1NTA0M15BMl5BanBnXkFtZTcwNjg0MDM3Nw@@._V1_.jpg",
+              "width": 1328,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Long Xiaoyun"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1163857",
+          "display_name": "Shanshan Chunyu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjY1NDA2YjItMjQ0NC00NTY4LTkyMzktODJiOWY5ZmI3YjkzL2ltYWdlXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 239,
+              "height": 375
+            }
+          ]
+        },
+        "characters": [
+          "Lin Zhixiong"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9169912",
+          "display_name": "Nwachukwu Kennedy Chukwuebuka",
+          "avatars": null
+        },
+        "characters": [
+          "Tundu"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0227620",
+          "display_name": "Haifeng Ding",
+          "avatars": null
+        },
+        "characters": [
+          "Captain Zhang"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9169913",
+          "display_name": "Diana Sylla",
+          "avatars": null
+        },
+        "characters": [
+          "Pasha"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9202876",
+          "display_name": "Duyu Song",
+          "avatars": null
+        },
+        "characters": [
+          "Ambassador Fan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0591241",
+          "display_name": "Ming Gao",
+          "avatars": null
+        },
+        "characters": [
+          "Head"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1253217",
+          "display_name": "Zhaoqi Shi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDFkZmM0NGYtNjQ4OC00N2U0LWJlMWQtNTg5NDdhZTEzYWJhXkEyXkFqcGc@._V1_.jpg",
+              "width": 293,
+              "height": 443
+            }
+          ]
+        },
+        "characters": [
+          "Head Shi"
+        ]
+      }
+    ]
+  }
+}

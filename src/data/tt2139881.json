@@ -1,0 +1,354 @@
+{
+  "title": {
+    "id": "tt2139881",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Long Shot",
+    "original_title": null,
+    "start_year": 2019,
+    "end_year": null,
+    "runtime_minutes": 125,
+    "plot": "Journalist, Fred Flarsky, reunites with his childhood crush, Charlotte Field; now one of the most influential women in the world. As she prepares to run for president, Charlotte hires Fred as her speechwriter, and sparks fly.",
+    "rating": {
+      "aggregate_rating": 6.8,
+      "votes_count": 121885
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2E2NDIwMGUtNmFkZC00NDFjLWI5ZWMtMTE1M2E2YTM1OWVlXkEyXkFqcGc@._V1_.jpg",
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      },
+      {
+        "code": "heb",
+        "name": "Hebrew"
+      },
+      {
+        "code": "rus",
+        "name": "Russian"
+      },
+      {
+        "code": "swe",
+        "name": "Swedish"
+      },
+      {
+        "code": "vie",
+        "name": "Vietnamese"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "CO",
+        "name": "Colombia"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 67,
+      "review_count": 45
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1349522",
+          "display_name": "Jonathan Levine",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTQ2Mzc2MjUzN15BMl5BanBnXkFtZTcwNzQ5ODY5OA@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1003839",
+          "display_name": "Dan Sterling",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkyNDk3ODA5N15BMl5BanBnXkFtZTgwMDI5ODY2MzE@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2176283",
+          "display_name": "Liz Hannah",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGRlY2ExOTMtYzA4Yy00ZThkLTk0MTctYjNkNjFhNjQ3MWQ3XkEyXkFqcGdeQXVyOTI4OTM5MDI@._V1_.jpg",
+              "width": 609,
+              "height": 862
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000234",
+          "display_name": "Charlize Theron",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk5Mzc4ODU0Ml5BMl5BanBnXkFtZTcwNjU1NTI0Mw@@._V1_.jpg",
+              "width": 300,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Charlotte Field"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0736622",
+          "display_name": "Seth Rogen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWI2NzQ0MzQtYTYxNi00ZTQxLWE3ZjUtNTg1MTE0YzJlOWZjXkEyXkFqcGdeQXVyMTMyNzI3NzIy._V1_.jpg",
+              "width": 2600,
+              "height": 3900
+            }
+          ]
+        },
+        "characters": [
+          "Fred Flarsky"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2053085",
+          "display_name": "June Diane Raphael",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDEwZTMyZDktNTY4OS00ZmQ5LTkzZTEtYWFkM2JmOTM3MjNjXkEyXkFqcGdeQXVyNTI0NTI3MzI@._V1_.jpg",
+              "width": 3600,
+              "height": 2699
+            }
+          ]
+        },
+        "characters": [
+          "Maggie Millikin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6578009",
+          "display_name": "O'Shea Jackson Jr.",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzExMTU2NTQ2OF5BMl5BanBnXkFtZTgwMjQ0MzEzNzE@._V1_.jpg",
+              "width": 1618,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Lance"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2201027",
+          "display_name": "Ravi Patel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc5NzM5MDA1N15BMl5BanBnXkFtZTcwMjAwNjM5NA@@._V1_.jpg",
+              "width": 1483,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Tom"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0644022",
+          "display_name": "Bob Odenkirk",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWM5MDJjYTItMTRkNC00NTQ4LThkNjUtNDY3Mzk0YWMwMTBhXkEyXkFqcGdeQXVyNzQzNDYwMA@@._V1_.jpg",
+              "width": 1359,
+              "height": 1723
+            }
+          ]
+        },
+        "characters": [
+          "President Chambers"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0785227",
+          "display_name": "Andy Serkis",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTgwYmM0ZjgtMWRmZC00YTc1LWIwYWEtYTFjMTZiMDNjNWRkXkEyXkFqcGdeQXVyNjcwMjczMzE@._V1_.jpg",
+              "width": 3648,
+              "height": 5472
+            }
+          ]
+        },
+        "characters": [
+          "Parker Wembley"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1320827",
+          "display_name": "Randall Park",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2ViZjE4ZmItM2M5NC00NTI4LWI3YjEtZjk4ZWU5ODZkZThjXkEyXkFqcGdeQXVyMzQ5MjIzMA@@._V1_.jpg",
+              "width": 4480,
+              "height": 6720
+            }
+          ]
+        },
+        "characters": [
+          "Boss"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1941571",
+          "display_name": "Tristan D. Lalla",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGI2NTdlZDUtMWM0YS00ZDAwLTgyYTMtOWJlZjNmMTdjMTlkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3238,
+              "height": 4857
+            }
+          ]
+        },
+        "characters": [
+          "Agent M"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0002907",
+          "display_name": "Alexander Skarsgård",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY1MjQxNjEzOF5BMl5BanBnXkFtZTgwMTU5ODM2ODE@._V1_.jpg",
+              "width": 1360,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Prime Minister James Steward"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4841549",
+          "display_name": "Aladeen Tawfeek",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODgxNzhmYzYtNGVkOC00YjM3LWI5YTctNzFiY2U3YTNjNzllXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 6286,
+              "height": 9429
+            }
+          ]
+        },
+        "characters": [
+          "Bharath"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1157924",
+          "display_name": "Nathan Morris",
+          "avatars": null
+        },
+        "characters": [
+          "Nathan Morris"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0606996",
+          "display_name": "Wanya Morris",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgyMTYwNTEyMF5BMl5BanBnXkFtZTgwNTMzOTM1NTE@._V1_.jpg",
+              "width": 429,
+              "height": 594
+            }
+          ]
+        },
+        "characters": [
+          "Wanya Morris"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0830892",
+          "display_name": "Shawn Stockman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI2OTM0NDc5N15BMl5BanBnXkFtZTcwNzYyMzcwMw@@._V1_.jpg",
+              "width": 400,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Shawn Stockman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9636993",
+          "display_name": "Isla Dowling",
+          "avatars": null
+        },
+        "characters": [
+          "Katarina Prudence Wembley"
+        ]
+      }
+    ]
+  }
+}

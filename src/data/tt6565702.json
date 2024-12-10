@@ -1,0 +1,342 @@
+{
+  "title": {
+    "id": "tt6565702",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Dark Phoenix",
+    "original_title": null,
+    "start_year": 2019,
+    "end_year": null,
+    "runtime_minutes": 113,
+    "plot": "Jean Grey begins to develop incredible powers that corrupt and turn her into a Dark Phoenix, causing the X-Men to decide if her life is worth more than all of humanity.",
+    "rating": {
+      "aggregate_rating": 5.7,
+      "votes_count": 202414
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMmZmYTgwZGItNDIxMS00MmRkLWEzODQtYTllNzM0ZWE1NmQ5XkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_.jpg",
+        "width": 1382,
+        "height": 2047
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 43,
+      "review_count": 52
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1334526",
+          "display_name": "Simon Kinberg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA4OTIzMzE4NzleQTJeQWpwZ15BbWU4MDYyMzkzNDUz._V1_.jpg",
+              "width": 395,
+              "height": 594
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1334526",
+          "display_name": "Simon Kinberg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA4OTIzMzE4NzleQTJeQWpwZ15BbWU4MDYyMzkzNDUz._V1_.jpg",
+              "width": 395,
+              "height": 594
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0564215",
+          "display_name": "James McAvoy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQzNzIxOTYzMl5BMl5BanBnXkFtZTcwNjYxNTk1Nw@@._V1_.jpg",
+              "width": 1569,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Professor Charles Xavier"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1055413",
+          "display_name": "Michael Fassbender",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk0NjM2MTE5M15BMl5BanBnXkFtZTcwODIxMzcyNw@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Erik Lehnsherr",
+          "Magneto"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2225369",
+          "display_name": "Jennifer Lawrence",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTU3NDE5MDQ4MV5BMl5BanBnXkFtZTgwMzE5ODQ3MDI@._V1_.jpg",
+              "width": 1284,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Raven",
+          "Mystique"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0396558",
+          "display_name": "Nicholas Hoult",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUxMTYxNzMzNF5BMl5BanBnXkFtZTcwMTU0NTcxOQ@@._V1_.jpg",
+              "width": 1427,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Hank McCoy",
+          "Beast"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3849842",
+          "display_name": "Sophie Turner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM5Mjg4MDQ3MF5BMl5BanBnXkFtZTgwMDA2MjkxMjI@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Jean Grey",
+          "Phoenix"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4446467",
+          "display_name": "Tye Sheridan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjQzNmQ0NzQtNzdkMy00YzlmLThlNjMtNzVlYTkzMzg1MGUyXkEyXkFqcGdeQXVyMjYyNzQ0MzU@._V1_.jpg",
+              "width": 3000,
+              "height": 2000
+            }
+          ]
+        },
+        "characters": [
+          "Scott Summers",
+          "Cyclops"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3381295",
+          "display_name": "Alexandra Shipp",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzUxOWUwYWItMzIzNS00YTQ3LWJhZGYtYTJkNGZlZjEzMmIwXkEyXkFqcGdeQXVyMTI4MDM5MzYw._V1_.jpg",
+              "width": 4838,
+              "height": 6048
+            }
+          ]
+        },
+        "characters": [
+          "Ororo Munroe",
+          "Storm"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1404239",
+          "display_name": "Evan Peters",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA2NDg2ODYwMV5BMl5BanBnXkFtZTgwNTE4MzQyNzE@._V1_.jpg",
+              "width": 1379,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Peter Maximoff",
+          "Quicksilver"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2240346",
+          "display_name": "Kodi Smit-McPhee",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTE4ODU4NzY5NV5BMl5BanBnXkFtZTgwOTIwNTk5MDE@._V1_.jpg",
+              "width": 801,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Kurt Wagner",
+          "Nightcrawler"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1567113",
+          "display_name": "Jessica Chastain",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU1MDM5NjczOF5BMl5BanBnXkFtZTcwOTY2MDE4OA@@._V1_.jpg",
+              "width": 1268,
+              "height": 1884
+            }
+          ]
+        },
+        "characters": [
+          "Vuk"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0791864",
+          "display_name": "Scott Shepherd",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM4NDA2NjQzOF5BMl5BanBnXkFtZTcwNzMzNjc1OA@@._V1_.jpg",
+              "width": 400,
+              "height": 525
+            }
+          ]
+        },
+        "characters": [
+          "John Grey"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1017951",
+          "display_name": "Ato Essandoh",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmIxMzViN2EtNTg3NC00NDJmLWEzYmYtNDVlZTEyMGRlZmE1XkEyXkFqcGdeQXVyMTE1NDI5OA@@._V1_.jpg",
+              "width": 5616,
+              "height": 3744
+            }
+          ]
+        },
+        "characters": [
+          "Jones"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0195421",
+          "display_name": "Brian d'Arcy James",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTQ2MDY4MTU1OF5BMl5BanBnXkFtZTcwMDU2NTI4Nw@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "President of the United States"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4296013",
+          "display_name": "Halston Sage",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDQzMWU0MTMtNTNjNC00YjUyLTlhMjctZjEwMGQ0YzRlNDRmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1125,
+              "height": 1836
+            }
+          ]
+        },
+        "characters": [
+          "Dazzler"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4045841",
+          "display_name": "Lamar Johnson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDcwNWZiYzAtMjNhYi00ZGEzLWI4ZGMtN2E1NTlkMWZjNTFiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+              "width": 2541,
+              "height": 3811
+            }
+          ]
+        },
+        "characters": [
+          "Match"
+        ]
+      }
+    ]
+  }
+}

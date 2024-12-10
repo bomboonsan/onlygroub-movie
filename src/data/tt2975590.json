@@ -1,0 +1,381 @@
+{
+  "title": {
+    "id": "tt2975590",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Batman v Superman: Dawn of Justice",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 151,
+    "plot": "Batman is manipulated by Lex Luthor to fear Superman. Superman´s existence is meanwhile dividing the world and he is framed for murder during an international crisis. The heroes clash and force the neutral Wonder Woman to reemerge.",
+    "rating": {
+      "aggregate_rating": 6.5,
+      "votes_count": 749168
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "width": 1823,
+        "height": 2700
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 44,
+      "review_count": 51
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0811583",
+          "display_name": "Zack Snyder",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMzMjUyNjk1MV5BMl5BanBnXkFtZTcwMDc2Mzk3NA@@._V1_.jpg",
+              "width": 1527,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0004170",
+          "display_name": "Bob Kane",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM2MDQ2MDAyOV5BMl5BanBnXkFtZTcwMDUyMjcxOA@@._V1_.jpg",
+              "width": 2048,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0277730",
+          "display_name": "Bill Finger",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGIyMDY3OTQtNjViMi00OTI4LWI3ZmQtNTk1ZTM5MzI2MWU1XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 780,
+              "height": 971
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0796950",
+          "display_name": "Jerry Siegel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjY1MzJmMWUtNWQ1YS00MGNiLTljN2ItNGE5M2M2OTU5YjhiXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 488,
+              "height": 598
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0795975",
+          "display_name": "Joe Shuster",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDdmMzA2MGYtZjFiZS00Nzg5LWE5MTctNTI0NWM4ZjI0YzdmXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+              "width": 488,
+              "height": 608
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0551376",
+          "display_name": "William Moulton Marston",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTBjZjY4ODMtZWU2MS00YjBhLTg1MDUtMjk2OWU4MTM5MjFkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+              "width": 427,
+              "height": 580
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000255",
+          "display_name": "Ben Affleck",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzczNzNiMDAtMmUzZS00MTkwLWIwOTYtNmYyNjg3MTVkNThhXkEyXkFqcGdeQXVyMjA4MjI5MTA@._V1_.jpg",
+              "width": 3781,
+              "height": 5041
+            }
+          ]
+        },
+        "characters": [
+          "Bruce Wayne",
+          "Batman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0147147",
+          "display_name": "Henry Cavill",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODI0MTYzNTIxNl5BMl5BanBnXkFtZTcwNjg2Nzc0NA@@._V1_.jpg",
+              "width": 627,
+              "height": 744
+            }
+          ]
+        },
+        "characters": [
+          "Clark Kent",
+          "Superman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0010736",
+          "display_name": "Amy Adams",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg2NTk2MTgxMV5BMl5BanBnXkFtZTgwNjcxMjAzMTI@._V1_.jpg",
+              "width": 1340,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Lois"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0251986",
+          "display_name": "Jesse Eisenberg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTE3MzQzODE3OV5BMl5BanBnXkFtZTcwMDE0ODY1NA@@._V1_.jpg",
+              "width": 1445,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Lex Luthor"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000178",
+          "display_name": "Diane Lane",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDIxNWNhZGYtYzgyYi00YTc1LTg5NjItYTA1ZjMyYmFmZDliXkEyXkFqcGdeQXVyMTA2MDIzMDE5._V1_.jpg",
+              "width": 1280,
+              "height": 854
+            }
+          ]
+        },
+        "characters": [
+          "Martha Kent"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000401",
+          "display_name": "Laurence Fishburne",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc0NjczNDc1MV5BMl5BanBnXkFtZTYwMDU0Mjg1._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Perry White"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000460",
+          "display_name": "Jeremy Irons",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY5Mzg2NDY5OV5BMl5BanBnXkFtZTcwMDQwNzA0Mg@@._V1_.jpg",
+              "width": 303,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Alfred"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000456",
+          "display_name": "Holly Hunter",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIzNzg1ODA1NF5BMl5BanBnXkFtZTcwNTI4NzQ4Mg@@._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Senator Finch"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2933757",
+          "display_name": "Gal Gadot",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzgxYTA2OTUtYmE0ZC00ZTc0LWJjY2QtOTIzMTJhNGUyZjBlXkEyXkFqcGdeQXVyMTg4NDI0NDM@._V1_.jpg",
+              "width": 1170,
+              "height": 1461
+            }
+          ]
+        },
+        "characters": [
+          "Diana Prince",
+          "Wonder Woman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1058940",
+          "display_name": "Scoot McNairy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzUxYjM1ZjEtYTcwNy00MDkyLWJjZGItMjFmNjZjM2ViMDMwXkEyXkFqcGdeQXVyMjMxOTI4MTk@._V1_.jpg",
+              "width": 871,
+              "height": 641
+            }
+          ]
+        },
+        "characters": [
+          "Wallace Keefe"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0612534",
+          "display_name": "Callan Mulvey",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzU2NmYwYzYtMmFhMS00NjUxLWE4ZmYtOGEzOThkMjg1ODQ5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2184,
+              "height": 3192
+            }
+          ]
+        },
+        "characters": [
+          "Anatoli Knyazev"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5148840",
+          "display_name": "Tao Okamoto",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzMxNjk2YzEtZTU2YS00ZGU5LWFkZjktZDg0N2U1MTA5NTllXkEyXkFqcGdeQXVyNDMwMjg1NjU@._V1_CR532,188,3200,4800_.jpg",
+              "width": 3200,
+              "height": 4800
+            }
+          ]
+        },
+        "characters": [
+          "Mercy Graves"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1659348",
+          "display_name": "Lauren Cohan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA1MDg0MzgxOF5BMl5BanBnXkFtZTgwMzM5NDg1MzE@._V1_.jpg",
+              "width": 337,
+              "height": 427
+            }
+          ]
+        },
+        "characters": [
+          "Martha Wayne"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4800462",
+          "display_name": "Brandon Spink",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTVkNGQzNTAtMmIxNS00MmJmLWFmZTctYTIzZWIwYjQ3MTExXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 640,
+              "height": 800
+            }
+          ]
+        },
+        "characters": [
+          "Young Bruce Wayne"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0701042",
+          "display_name": "Alan D. Purwin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmQ0YTkyOGYtMjEzNy00YzliLTk2YzktNmZhMmFiZTdjNzY2XkEyXkFqcGdeQXVyMTY3NTY5OTcx._V1_.jpg",
+              "width": 569,
+              "height": 848
+            }
+          ]
+        },
+        "characters": [
+          "Wayne Industries Pilot"
+        ]
+      }
+    ]
+  }
+}

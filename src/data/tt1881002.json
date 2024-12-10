@@ -1,0 +1,312 @@
+{
+  "title": {
+    "id": "tt1881002",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Maggie",
+    "original_title": null,
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 95,
+    "plot": "A teenage girl in the Midwest becomes infected by an outbreak of a disease that slowly turns the infected into cannibalistic zombies. During her transformation, her loving father stays by her side.",
+    "rating": {
+      "aggregate_rating": 5.6,
+      "votes_count": 46756
+    },
+    "genres": [
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTkyNzk0MTU2Ml5BMl5BanBnXkFtZTgwNDExNzMyNTE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CH",
+        "name": "Switzerland"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 52,
+      "review_count": 30
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm3918746",
+          "display_name": "Henry Hobson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc3NDM1OTU1OV5BMl5BanBnXkFtZTgwNjMyNTYyNTE@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm4401747",
+          "display_name": "John Scott 3",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000216",
+          "display_name": "Arnold Schwarzenegger",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI3MDc4NzUyMV5BMl5BanBnXkFtZTcwMTQyMTc5MQ@@._V1_.jpg",
+              "width": 318,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Wade Vogel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1113550",
+          "display_name": "Abigail Breslin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzU5MTA5MzYzOF5BMl5BanBnXkFtZTcwODc4OTIxNw@@._V1_.jpg",
+              "width": 1434,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Maggie Vogel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000613",
+          "display_name": "Joely Richardson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODgwMjMwMzE2OV5BMl5BanBnXkFtZTcwOTAzMTgxMw@@._V1_.jpg",
+              "width": 291,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Caroline Vogel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0341174",
+          "display_name": "Douglas M. Griffin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzRkY2FlY2YtYmIzMy00MmJmLTk1MDItOGI3MjE1YzJmOWU3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 2848,
+              "height": 4288
+            }
+          ]
+        },
+        "characters": [
+          "Ray"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0263625",
+          "display_name": "JD Evermore",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTc0Yzc2ZjQtYTIwNy00ZmNiLTk1M2YtMjNjOTYyZWNjOTRhXkEyXkFqcGdeQXVyMTE5NDQ1Nw@@._V1_.jpg",
+              "width": 1323,
+              "height": 1806
+            }
+          ]
+        },
+        "characters": [
+          "Deputy Holt"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2565812",
+          "display_name": "Rachel Whitman Groves",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTk0NDI2NTItOGUxZi00NjUzLTgxY2YtMGI3MTJlMTg0NDE2XkEyXkFqcGc@._V1_.jpg",
+              "width": 2848,
+              "height": 4272
+            }
+          ]
+        },
+        "characters": [
+          "Bonnie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2346014",
+          "display_name": "Jodie Moore",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzc0NDE4ZTYtY2VlYi00MDI0LWI3YmItOWJiYjA0OWYzNmU1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 410,
+              "height": 610
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Vern Kaplan"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4299489",
+          "display_name": "Bryce Romero",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzI1NmY3NDctMDAyNy00ZDI3LWIwMjEtZGUxMTVjZjI4OTIxXkEyXkFqcGc@._V1_.jpg",
+              "width": 1500,
+              "height": 1000
+            }
+          ]
+        },
+        "characters": [
+          "Trent"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4209857",
+          "display_name": "Raeden Greer",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGM0ZDA4ODktMDgwZi00YmM4LWFlZmUtNzJiZjkwN2M0NjFlXkEyXkFqcGdeQXVyMjQ0MzYwMTU@._V1_.jpg",
+              "width": 683,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Allie"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5583008",
+          "display_name": "Aiden Flowers",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAyNTUxODEtYWNkYi00MDE0LTg4ZTQtYmQ1N2QwNTVlYWQ2XkEyXkFqcGdeQXVyNDE5Mjk2MDg@._V1_.jpg",
+              "width": 1536,
+              "height": 1920
+            }
+          ]
+        },
+        "characters": [
+          "Bobby"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5242830",
+          "display_name": "Carsen Flowers",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWI2M2MwMzAtOWY4OC00MTM5LWExNzItZWUyYjc1Y2UwOTFhXkEyXkFqcGc@._V1_.jpg",
+              "width": 340,
+              "height": 485
+            }
+          ]
+        },
+        "characters": [
+          "Molly"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0902467",
+          "display_name": "Walter von Huene",
+          "avatars": null
+        },
+        "characters": [
+          "Security Officer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4158239",
+          "display_name": "Dana Gourrier",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDQwOTk4NjI5MV5BMl5BanBnXkFtZTgwODY2NzIyNzE@._V1_.jpg",
+              "width": 3723,
+              "height": 5234
+            }
+          ]
+        },
+        "characters": [
+          "Woman In Scrubs"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0105471",
+          "display_name": "Amy Brassette",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWM4OGY0YjEtZDI4MS00ZTUxLWJjYmMtNjFlZDk5ZTI2MTAwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 1034,
+              "height": 1121
+            }
+          ]
+        },
+        "characters": [
+          "Lauretta"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4305826",
+          "display_name": "David A Cole",
+          "avatars": null
+        },
+        "characters": [
+          "Doctor"
+        ]
+      }
+    ]
+  }
+}

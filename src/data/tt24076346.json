@@ -1,0 +1,154 @@
+{
+  "title": {
+    "id": "tt24076346",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Switch",
+    "original_title": "Seuwichi",
+    "start_year": 2023,
+    "end_year": null,
+    "runtime_minutes": 113,
+    "plot": "The movie \"Switch\" is about top star Park Kang, who is a hit actor but a troublemaker, meets a taxi driver on Christmas Eve and experiences a new life.",
+    "rating": {
+      "aggregate_rating": 6.7,
+      "votes_count": 601
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWU2ODllMzktZjZmMC00Y2ViLTkxYzgtY2U2NTY3ZWJmMjc0XkEyXkFqcGdeQXVyMDM1MzY1Mg@@._V1_.jpg",
+        "width": 900,
+        "height": 1282
+      }
+    ],
+    "certificates": null,
+    "spoken_languages": null,
+    "origin_countries": [
+      {
+        "code": "KR",
+        "name": "Republic of Korea"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm14314554",
+          "display_name": "Ma Dae-Yoon",
+          "avatars": null
+        }
+      }
+    ],
+    "writers": null,
+    "casts": [
+      {
+        "name": {
+          "id": "nm2442113",
+          "display_name": "Oh Jung-se",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTZmMThhMjktMmRmMi00MDlkLWIzMmEtNGIyZDdjOThiNTM3XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+              "width": 1000,
+              "height": 1167
+            }
+          ]
+        },
+        "characters": [
+          "Jo Yoon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0453605",
+          "display_name": "Kim Mi-kyung",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTIyMWQzNTctMTA2YS00MWMzLWEwZGItMGNmYjBiODFmMGFiXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+              "width": 3712,
+              "height": 5568
+            }
+          ]
+        },
+        "characters": [
+          "Nam-soon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2601709",
+          "display_name": "Lee Min-Jung",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWZmNTVlNmYtMWMwNC00ODMwLWI0ZDktOTdhZDY4YWY4ZDYxXkEyXkFqcGdeQXVyMjIyNzU0OA@@._V1_.jpg",
+              "width": 700,
+              "height": 1050
+            }
+          ]
+        },
+        "characters": [
+          "Gong Soo-hyeon"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm14314555",
+          "display_name": "Kwon Sang-Woo",
+          "avatars": null
+        },
+        "characters": null
+      },
+      {
+        "name": {
+          "id": "nm8675611",
+          "display_name": "Lee Seo-hwan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTVhNDZlNDMtYzY3Ni00MzUyLThkMDQtNjNjMzY1NGQwNzE1XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+              "width": 600,
+              "height": 900
+            }
+          ]
+        },
+        "characters": [
+          "Director Oh"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3726588",
+          "display_name": "Kim Seung-hun",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTc4YTg4Y2ItM2ZhZC00ODU3LTkyNWItODAyOTQxYmRhMDJlXkEyXkFqcGc@._V1_.jpg",
+              "width": 936,
+              "height": 1404
+            }
+          ]
+        },
+        "characters": [
+          "Psychiatrist"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm11287613",
+          "display_name": "Park So-yi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjIzODU1MzUtNTk0Mi00NWNhLWJiMWEtOTA3YTliMDhhZDFkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+              "width": 3000,
+              "height": 2000
+            }
+          ]
+        },
+        "characters": [
+          "Park Ro-hee"
+        ]
+      }
+    ]
+  }
+}

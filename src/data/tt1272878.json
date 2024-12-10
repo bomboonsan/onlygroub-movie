@@ -1,0 +1,331 @@
+{
+  "title": {
+    "id": "tt1272878",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "2 Guns",
+    "original_title": null,
+    "start_year": 2013,
+    "end_year": null,
+    "runtime_minutes": 109,
+    "plot": "Two hardened criminals get into trouble with the US border patrol after meeting with a Mexican drug lord, and then revelations start to unfold.",
+    "rating": {
+      "aggregate_rating": 6.7,
+      "votes_count": 224081
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Thriller"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTQ5MTgzNDg4OF5BMl5BanBnXkFtZTcwMjAyODEzOQ@@._V1_.jpg",
+        "width": 1292,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 55,
+      "review_count": 43
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0466349",
+          "display_name": "Baltasar Kormákur",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEwNDA0NzY1Ml5BMl5BanBnXkFtZTgwNDY0MTc3NjE@._V1_.jpg",
+              "width": 2048,
+              "height": 2017
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1398578",
+          "display_name": "Blake Masters",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1556427",
+          "display_name": "Steven Grant",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000243",
+          "display_name": "Denzel Washington",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE5NDU2Mzc3MV5BMl5BanBnXkFtZTcwNjAwNTE5OQ@@._V1_.jpg",
+              "width": 1536,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Bobby"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000242",
+          "display_name": "Mark Wahlberg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU0MTQ4OTMyMV5BMl5BanBnXkFtZTcwMTQxOTY1NA@@._V1_.jpg",
+              "width": 1572,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Stig"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1745736",
+          "display_name": "Paula Patton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg4MTQ1ODM0NV5BMl5BanBnXkFtZTYwMTUyNDky._V1_.jpg",
+              "width": 450,
+              "height": 328
+            }
+          ]
+        },
+        "characters": [
+          "Deb"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001579",
+          "display_name": "Edward James Olmos",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEzODQzODQ4OF5BMl5BanBnXkFtZTcwMDczMTkxNw@@._V1_.jpg",
+              "width": 1553,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Papi Greco"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000200",
+          "display_name": "Bill Paxton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjY2NTQwOTAyNV5BMl5BanBnXkFtZTcwNTUyNjYwMw@@._V1_.jpg",
+              "width": 290,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Earl"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0121559",
+          "display_name": "Robert John Burke",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUxMjA1MTE3N15BMl5BanBnXkFtZTgwNzgzMDc1MzI@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Jessup"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005188",
+          "display_name": "James Marsden",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQyOTUzNjc0MF5BMl5BanBnXkFtZTcwNTYyMDYzMw@@._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Quince"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1829945",
+          "display_name": "Greg Sproles",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWQ5ZjgyYzgtM2RlNS00ZWM2LWFjOGUtZTc2NmMwNGZjNTQwXkEyXkFqcGc@._V1_.jpg",
+              "width": 800,
+              "height": 800
+            }
+          ]
+        },
+        "characters": [
+          "Chief Lucas"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0911542",
+          "display_name": "Fred Ward",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ1NDg0MTE2MF5BMl5BanBnXkFtZTcwNzMwODQ1Mw@@._V1_.jpg",
+              "width": 167,
+              "height": 260
+            }
+          ]
+        },
+        "characters": [
+          "Admiral Tuwey"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0279209",
+          "display_name": "Patrick Fischler",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGUxYWRiZWUtMjM4Yy00ZWI3LTkzNmMtZmUxZTFkNTYwYzgwXkEyXkFqcGdeQXVyOTYzMDk5Njc@._V1_.jpg",
+              "width": 666,
+              "height": 1000
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Ken"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3998145",
+          "display_name": "Derek Solorsano",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjVhNTU2NDEtMzRkOC00MDg4LTg0YWUtOTgyMDdkZTFhNWM3XkEyXkFqcGdeQXVyMjExMTc1MTQ@._V1_.jpg",
+              "width": 2400,
+              "height": 3600
+            }
+          ]
+        },
+        "characters": [
+          "Ferret Nose Julio"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1598758",
+          "display_name": "Edgar Arreola",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTVkOThmYTctYmE1OS00MGUwLWFkMDEtYzljMjYyOGQ2MjgxXkEyXkFqcGc@._V1_.jpg",
+              "width": 3007,
+              "height": 4126
+            }
+          ]
+        },
+        "characters": [
+          "Rudy (Papi's Men)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2356797",
+          "display_name": "Kyle Clements",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGNmZTcxOGUtZWI1Yy00MWJkLThkOTgtNmRjNTRmMzc3YmUwXkEyXkFqcGdeQXVyMTMwNzk4Njc@._V1_.jpg",
+              "width": 2972,
+              "height": 4466
+            }
+          ]
+        },
+        "characters": [
+          "Teemo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4232922",
+          "display_name": "Christopher Matthew Cook",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWYxNjNhN2UtYTkzZi00NjJhLTg5YjEtYTJkNDc5MzczOGMwXkEyXkFqcGdeQXVyMjc4Mjk0OTY@._V1_.jpg",
+              "width": 1586,
+              "height": 1983
+            }
+          ]
+        },
+        "characters": [
+          "Thick"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1419241",
+          "display_name": "Tim Bell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDgzM2IwZTQtODZlYS00NTYzLWFmYzItMzI4MjQ5ZWMyYzk2XkEyXkFqcGdeQXVyNTE5MjU5Mg@@._V1_.jpg",
+              "width": 549,
+              "height": 714
+            }
+          ]
+        },
+        "characters": [
+          "Lean"
+        ]
+      }
+    ]
+  }
+}

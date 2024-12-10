@@ -1,0 +1,253 @@
+{
+  "title": {
+    "id": "tt5918090",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "I Am Not Madame Bovary",
+    "original_title": "Wo bu shi Pan Jin Lian",
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 128,
+    "plot": "After being swindled by her ex-husband, a woman takes on the Chinese legal system.",
+    "rating": {
+      "aggregate_rating": 6.9,
+      "votes_count": 2540
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzE4ODgzNjYzMl5BMl5BanBnXkFtZTgwOTg4MDMzMDI@._V1_.jpg",
+        "width": 1400,
+        "height": 2074
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "Not Rated"
+      }
+    ],
+    "spoken_languages": null,
+    "origin_countries": null,
+    "critic_review": {
+      "score": 65,
+      "review_count": 13
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0271815",
+          "display_name": "Xiaogang Feng",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgzMzAzMDUxMV5BMl5BanBnXkFtZTYwNTEzOTA2._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1532265",
+          "display_name": "Zhenyun Liu",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1549063",
+          "display_name": "Bingbing Fan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQzMjcyNjk5NF5BMl5BanBnXkFtZTcwNDIzOTc0OQ@@._V1_.jpg",
+              "width": 709,
+              "height": 1024
+            }
+          ]
+        },
+        "characters": [
+          "Li Xuelian"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1981215",
+          "display_name": "Wei Fan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTM5NDVhOWEtYTE2Ny00Y2Y5LTk5MWYtYjhhYjQ1Y2ExMTMxXkEyXkFqcGdeQXVyNDg5Mzk5Mg@@._V1_.jpg",
+              "width": 550,
+              "height": 733
+            }
+          ]
+        },
+        "characters": [
+          "Guo Nong"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0271815",
+          "display_name": "Xiaogang Feng",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgzMzAzMDUxMV5BMl5BanBnXkFtZTYwNTEzOTA2._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Narrator"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0849919",
+          "display_name": "Tao Guo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc3MzcyNDQ3M15BMl5BanBnXkFtZTgwNjI5ODc5OTE@._V1_.jpg",
+              "width": 1500,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Zhao Datou"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4106945",
+          "display_name": "Zonghan Li",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2M3Njk3MTAtYjJhNy00MGJiLTljMzUtNDQ2NjQyMDcwZTdmXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 950,
+              "height": 1425
+            }
+          ]
+        },
+        "characters": [
+          "Qin Yuhe"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2348667",
+          "display_name": "Hua Liu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzVjODE3MTktYjdjZC00ODBiLThiNTItNmNkMTNhZWE5NTI1XkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 289,
+              "height": 410
+            }
+          ]
+        },
+        "characters": [
+          "Lao Hu"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3934959",
+          "display_name": "Da Peng",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGFkOWRlMGEtYjQ1YS00N2E3LWJiODYtMzg3N2MzNjMyNDI0XkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 1200,
+              "height": 1600
+            }
+          ]
+        },
+        "characters": [
+          "Wang Gongdao"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2950385",
+          "display_name": "Hai Tao",
+          "avatars": null
+        },
+        "characters": null
+      },
+      {
+        "name": {
+          "id": "nm3388842",
+          "display_name": "Hewei Yu",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzUzZjM1MjEtMDkyYS00YjRlLWEwNzAtYTYwZDQyNzBlYzkyXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 813,
+              "height": 1221
+            }
+          ]
+        },
+        "characters": [
+          "Zheng Zhong"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1289005",
+          "display_name": "Jia-yi Zhang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWJiOThjZjQtNjI5Yy00NjRlLWJmZWItNGI2MzU4OWM0MjUxXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 449,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Ma Wenbin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3589263",
+          "display_name": "Yi Zhang",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY4ODE5NzMxM15BMl5BanBnXkFtZTgwNzk2Mjc1MjE@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Jia Congming"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0955496",
+          "display_name": "Lixin Zhao",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjVhNTljY2ItNTQ0ZC00YmE3LWE2ZGItZDJlNTIyODdmZDY1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_.jpg",
+              "width": 300,
+              "height": 450
+            }
+          ]
+        },
+        "characters": [
+          "Shi Weimin"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "title": {
+    "id": "tt2042568",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Inside Llewyn Davis",
+    "original_title": null,
+    "start_year": 2013,
+    "end_year": null,
+    "runtime_minutes": 104,
+    "plot": "A week in the life of a young singer as he navigates the Greenwich Village folk scene of 1961.",
+    "rating": {
+      "aggregate_rating": 7.4,
+      "votes_count": 163630
+    },
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjAxNjcyNDQxM15BMl5BanBnXkFtZTgwNzU2NDA0MDE@._V1_.jpg",
+        "width": 1324,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 93,
+      "review_count": 53
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0001053",
+          "display_name": "Ethan Coen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI3NjIwNzQ2N15BMl5BanBnXkFtZTcwNTY0ODkyMg@@._V1_.jpg",
+              "width": 263,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0001054",
+          "display_name": "Joel Coen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg3MjgwMzUzOF5BMl5BanBnXkFtZTcwODM5Nzk4MQ@@._V1_.jpg",
+              "width": 265,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0001054",
+          "display_name": "Joel Coen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg3MjgwMzUzOF5BMl5BanBnXkFtZTcwODM5Nzk4MQ@@._V1_.jpg",
+              "width": 265,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0001053",
+          "display_name": "Ethan Coen",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI3NjIwNzQ2N15BMl5BanBnXkFtZTcwNTY0ODkyMg@@._V1_.jpg",
+              "width": 263,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1209966",
+          "display_name": "Oscar Isaac",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ2ODE2NDQ5OF5BMl5BanBnXkFtZTcwOTU3OTM1OQ@@._V1_.jpg",
+              "width": 1456,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Llewyn Davis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1659547",
+          "display_name": "Carey Mulligan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjQ1NGM2ODUtODc3Ny00ZjdhLTljNzEtMmY2M2M2MDY2Y2IzXkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_.jpg",
+              "width": 448,
+              "height": 676
+            }
+          ]
+        },
+        "characters": [
+          "Jean"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005493",
+          "display_name": "Justin Timberlake",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUwMjE1MjU2N15BMl5BanBnXkFtZTcwNjk0ODY1NA@@._V1_.jpg",
+              "width": 1516,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Jim"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0680392",
+          "display_name": "Ethan Phillips",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTJkN2Y1MDUtMTcyNC00ODJlLWFiNDMtMmY5MDg4NzE0NjlhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 960,
+              "height": 1280
+            }
+          ]
+        },
+        "characters": [
+          "Mitch Gorfein"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000862",
+          "display_name": "Robin Bartlett",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI3NDMwOTQxN15BMl5BanBnXkFtZTgwOTY2MjM2MDE@._V1_.jpg",
+              "width": 1470,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Lillian Gorfein"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0143295",
+          "display_name": "Max Casella",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmI3ZDI5OGEtMzBiMS00YmVkLTljODQtOGQzZDhkZDkxYzEzXkEyXkFqcGdeQXVyMTcyODExMA@@._V1_.jpg",
+              "width": 999,
+              "height": 1339
+            }
+          ]
+        },
+        "characters": [
+          "Pappi Corsicato"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0337106",
+          "display_name": "Jerry Grayson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI4NDM5NjM3NF5BMl5BanBnXkFtZTcwMDg5MjgyMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 689
+            }
+          ]
+        },
+        "characters": [
+          "Mel Novikoff"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2365404",
+          "display_name": "Jeanine Serralles",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWYxZDFmZTItOGEwYS00ZmY2LThhM2ItYjcxOGE3ZDA4Zjc1XkEyXkFqcGdeQXVyMTExMzMxNDAy._V1_.jpg",
+              "width": 1536,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Joy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3485845",
+          "display_name": "Adam Driver",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYThiYmU0ODAtNjZkMC00OTBiLWE5NzgtMDY3YjMwYTg5NWJjXkEyXkFqcGdeQXVyMTUwOTY2MDYx._V1_.jpg",
+              "width": 1068,
+              "height": 1388
+            }
+          ]
+        },
+        "characters": [
+          "Al Cody"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1197466",
+          "display_name": "Stark Sands",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQ0MTcyMTY5OV5BMl5BanBnXkFtZTgwMTIwOTYzODE@._V1_.jpg",
+              "width": 600,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Troy Nelson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000422",
+          "display_name": "John Goodman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTk1MzAzMDUxMF5BMl5BanBnXkFtZTgwODgyMTQxNjM@._V1_.jpg",
+              "width": 1535,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Roland Turner"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1330560",
+          "display_name": "Garrett Hedlund",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM0NDM1NTMwNF5BMl5BanBnXkFtZTYwMTE0NTgz._V1_.jpg",
+              "width": 273,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Johnny Five"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1493163",
+          "display_name": "Alex Karpovsky",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkzNTE0MTQ1OF5BMl5BanBnXkFtZTgwMjA3MjM3NDE@._V1_.jpg",
+              "width": 1433,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Marty Green"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1998151",
+          "display_name": "Helen Hong",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjI4Y2E2MjctOTVjNi00ZDYzLThjZDItMmZhNjk4ZDA3ZTk2XkEyXkFqcGdeQXVyNDM2MTgzMTA@._V1_.jpg",
+              "width": 2000,
+              "height": 1333
+            }
+          ]
+        },
+        "characters": [
+          "Janet Fung"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0609447",
+          "display_name": "Bradley Mott",
+          "avatars": null
+        },
+        "characters": [
+          "Joe Flom"
+        ]
+      }
+    ]
+  }
+}

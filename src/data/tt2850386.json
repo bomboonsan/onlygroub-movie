@@ -1,0 +1,354 @@
+{
+  "title": {
+    "id": "tt2850386",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Croods: A New Age",
+    "original_title": null,
+    "start_year": 2020,
+    "end_year": null,
+    "runtime_minutes": 95,
+    "plot": "The prehistoric family the Croods are challenged by a rival family the Bettermans, who claim to be better and more evolved.",
+    "rating": {
+      "aggregate_rating": 6.9,
+      "votes_count": 53119
+    },
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjUwNjdhM2UtYTcxZC00NTI4LTlhZWMtMGEzNjBiZWI1NzJiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "width": 3158,
+        "height": 5000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "JP",
+        "name": "Japan"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 56,
+      "review_count": 30
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm3150455",
+          "display_name": "Joel Crawford",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjU1ZWRkYTgtMzc4Zi00YWU4LTkwZmItNWFjY2I3NjdkNDc1XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",
+              "width": 1449,
+              "height": 2173
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1156984",
+          "display_name": "Kevin Hageman",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1087952",
+          "display_name": "Dan Hageman",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0279729",
+          "display_name": "Paul Fisher",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjE4ZWI0ZGItOTE1NC00YmYyLWFmMmUtYWVlOGFmMGUxMmE3XkEyXkFqcGdeQXVyMTA3MjE5MTI3._V1_.jpg",
+              "width": 2779,
+              "height": 3992
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0517517",
+          "display_name": "Bob Logan",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0210320",
+          "display_name": "Kirk DeMicco",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkzODE4OTg4Ml5BMl5BanBnXkFtZTcwODkwNjExOQ@@._V1_.jpg",
+              "width": 2048,
+              "height": 1352
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0000115",
+          "display_name": "Nicolas Cage",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjUxMjE4MTQxMF5BMl5BanBnXkFtZTcwNzc2MDM1NA@@._V1_.jpg",
+              "width": 1503,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Grug"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1297015",
+          "display_name": "Emma Stone",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI4NjM1NDkyN15BMl5BanBnXkFtZTgwODgyNTY1MjE@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Eep"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005351",
+          "display_name": "Ryan Reynolds",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODFmN2VmZmEtYTRjZi00ZjY1LTgxYjQtODMyNDI3ZDk4ZTJiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+              "width": 2034,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Guy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001416",
+          "display_name": "Catherine Keener",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIwMzQ1Mzg1MF5BMl5BanBnXkFtZTcwNTE4MTU5MQ@@._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Ugga"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001458",
+          "display_name": "Cloris Leachman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTEwNTM4NjI4NzleQTJeQWpwZ15BbWU2MDkxMTg0NQ@@._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Gran"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0241173",
+          "display_name": "Clark Duke",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2U4ZTY4MTktNTE1Zi00ZDhkLTlhZjMtMDk3NDBkNTllNWU4XkEyXkFqcGdeQXVyNTQzMTY4ODA@._V1_.jpg",
+              "width": 400,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Thunk"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0005182",
+          "display_name": "Leslie Mann",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU4MTI1MTAwMF5BMl5BanBnXkFtZTcwNjUxMTQ5Mg@@._V1_.jpg",
+              "width": 283,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Hope Betterman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0227759",
+          "display_name": "Peter Dinklage",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM1MTI5Mzc0MF5BMl5BanBnXkFtZTYwNzgzOTQz._V1_.jpg",
+              "width": 321,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Phil Betterman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4511652",
+          "display_name": "Kelly Marie Tran",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTQ3OWYyYjktY2JjOC00ODAzLTgxYTItY2NlYjA1ZWVjYjVhXkEyXkFqcGdeQXVyMjY3NzQ2Mzc@._V1_.jpg",
+              "width": 1024,
+              "height": 739
+            }
+          ]
+        },
+        "characters": [
+          "Dawn Betterman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12080960",
+          "display_name": "Kailey Crawford",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTQ2M2U4NDAtODVjNC00ZWE3LWFmZjEtZGZlMzYwOTM5ZTFmXkEyXkFqcGc@._V1_.jpg",
+              "width": 798,
+              "height": 991
+            }
+          ]
+        },
+        "characters": [
+          "Sandy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0761498",
+          "display_name": "Chris Sanders",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTEzNTE3OTYzNl5BMl5BanBnXkFtZTcwMTgwNjExOQ@@._V1_.jpg",
+              "width": 2048,
+              "height": 1333
+            }
+          ]
+        },
+        "characters": [
+          "Belt"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1121631",
+          "display_name": "James Ryan",
+          "avatars": null
+        },
+        "characters": [
+          "Sash"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm12080962",
+          "display_name": "Gabriel Jack",
+          "avatars": null
+        },
+        "characters": [
+          "Young Guy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0228396",
+          "display_name": "Melissa Disney",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkyMDE4ODI2OF5BMl5BanBnXkFtZTcwMjA4MTYzMQ@@._V1_.jpg",
+              "width": 350,
+              "height": 490
+            }
+          ]
+        },
+        "characters": [
+          "Guy's Mother"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3150455",
+          "display_name": "Joel Crawford",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjU1ZWRkYTgtMzc4Zi00YWU4LTkwZmItNWFjY2I3NjdkNDc1XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",
+              "width": 1449,
+              "height": 2173
+            }
+          ]
+        },
+        "characters": [
+          "Guy's Father"
+        ]
+      }
+    ]
+  }
+}

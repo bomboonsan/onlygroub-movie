@@ -1,0 +1,359 @@
+{
+  "title": {
+    "id": "tt3095734",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Monster Trucks",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 104,
+    "plot": "A young man working at a small town junkyard discovers and befriends a creature which feeds on oil being sought by a fracking company.",
+    "rating": {
+      "aggregate_rating": 5.7,
+      "votes_count": 18951
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTEyMjAzMDk4ODZeQTJeQWpwZ15BbWU4MDUxNzMzMDEy._V1_.jpg",
+        "width": 960,
+        "height": 1500
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 41,
+      "review_count": 23
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0917188",
+          "display_name": "Chris Wedge",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ3OTE5MjcxNV5BMl5BanBnXkFtZTgwMTE0MTU0MjE@._V1_.jpg",
+              "width": 435,
+              "height": 594
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2081046",
+          "display_name": "Derek Connolly",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkzMTMxNjI5MV5BMl5BanBnXkFtZTcwMDc0NTUxOQ@@._V1_.jpg",
+              "width": 1480,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2816668",
+          "display_name": "Matthew Robinson",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWIxYjIwNzUtZWM0YS00Nzc4LTk2MGEtNjM3MDY3MjcxMWU5XkEyXkFqcGdeQXVyMjY2Mjg1Ng@@._V1_.jpg",
+              "width": 646,
+              "height": 1029
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0008743",
+          "display_name": "Jonathan Aibel",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAzNDI0MTAzOV5BMl5BanBnXkFtZTcwOTMwNzkyMg@@._V1_.jpg",
+              "width": 1184,
+              "height": 1083
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0074184",
+          "display_name": "Glenn Berger",
+          "avatars": null
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1395771",
+          "display_name": "Lucas Till",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg1NzUzNmQtMWI2ZC00YzdlLWI5ZTgtMGM3MjJlZTgwYTVlXkEyXkFqcGdeQXVyMTIzMzY2NDQ2._V1_.jpg",
+              "width": 871,
+              "height": 1307
+            }
+          ]
+        },
+        "characters": [
+          "Tripp"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3994408",
+          "display_name": "Jane Levy",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2U2YWY2MTAtN2I1OC00YmE5LWEwYjQtMzMzY2IxYzBmMWQ5XkEyXkFqcGdeQXVyMjM2MTM1ODA@._V1_.jpg",
+              "width": 5792,
+              "height": 8688
+            }
+          ]
+        },
+        "characters": [
+          "Meredith"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0502073",
+          "display_name": "Thomas Lennon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDBkOGUxNjQtOGFiOC00ZGI1LWJiM2MtMjc0N2JiNTU4MzM1XkEyXkFqcGdeQXVyNDQwOTUzMA@@._V1_.jpg",
+              "width": 3024,
+              "height": 4032
+            }
+          ]
+        },
+        "characters": [
+          "Jim Dowd"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001608",
+          "display_name": "Barry Pepper",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGIzYmY0ZmMtMjI1Yy00Zjg3LWE5NGQtN2E4NmU5NWNiZTk4XkEyXkFqcGdeQXVyMTU1MjM5NTk0._V1_.jpg",
+              "width": 1278,
+              "height": 1452
+            }
+          ]
+        },
+        "characters": [
+          "Sheriff Rick"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000507",
+          "display_name": "Rob Lowe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc3NjIwMjgyMV5BMl5BanBnXkFtZTgwMDI1MTQ2NjE@._V1_.jpg",
+              "width": 1462,
+              "height": 1950
+            }
+          ]
+        },
+        "characters": [
+          "Reece Tenneson"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000418",
+          "display_name": "Danny Glover",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI4ODM2MzQwN15BMl5BanBnXkFtZTcwMjY2OTI5MQ@@._V1_.jpg",
+              "width": 314,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Weathers"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0752407",
+          "display_name": "Amy Ryan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY0MTcwMzM0Nl5BMl5BanBnXkFtZTcwODIyMjM3NA@@._V1_.jpg",
+              "width": 1376,
+              "height": 1976
+            }
+          ]
+        },
+        "characters": [
+          "Cindy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0564697",
+          "display_name": "Holt McCallany",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI1NDQwMDA5N15BMl5BanBnXkFtZTgwMDI2OTQ1NDM@._V1_.jpg",
+              "width": 2048,
+              "height": 1363
+            }
+          ]
+        },
+        "characters": [
+          "Burke"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001844",
+          "display_name": "Frank Whaley",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzkyODAyMDA1N15BMl5BanBnXkFtZTcwOTEyNDk0OQ@@._V1_.jpg",
+              "width": 2271,
+              "height": 2839
+            }
+          ]
+        },
+        "characters": [
+          "Wade Coley"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2784214",
+          "display_name": "Aliyah O'Brien",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmIwYmY4NjItNzNlMy00YTA5LTk0NjctYzcxY2QxNGU4ZmFhXkEyXkFqcGdeQXVyMTY2MDI1MjE@._V1_.jpg",
+              "width": 1741,
+              "height": 2611
+            }
+          ]
+        },
+        "characters": [
+          "Junior Scientist"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0004028",
+          "display_name": "Daniel Bacon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTgxOTY1NjE0OV5BMl5BanBnXkFtZTgwMTc5MTMzMTE@._V1_.jpg",
+              "width": 3840,
+              "height": 5760
+            }
+          ]
+        },
+        "characters": [
+          "Technician"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3079572",
+          "display_name": "Faustino Di Bauda",
+          "avatars": null
+        },
+        "characters": [
+          "Roughneck"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5288835",
+          "display_name": "Jedidiah Goodacre",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTU3YzdiMjQtMDE4OC00ZTM3LTgzM2MtNDc2Zjk5MWI0OTFlXkEyXkFqcGdeQXVyMzM1OTgxODI@._V1_.jpg",
+              "width": 1079,
+              "height": 1074
+            }
+          ]
+        },
+        "characters": [
+          "Jake (Letterman Kid)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3034977",
+          "display_name": "Samara Weaving",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU1Njc2NTc3OV5BMl5BanBnXkFtZTgwMzUyNjU5NDM@._V1_.jpg",
+              "width": 2048,
+              "height": 1365
+            }
+          ]
+        },
+        "characters": [
+          "Brianne"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7727058",
+          "display_name": "Ruairi MacDonald",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmZmMGNkOWUtYzI2MC00M2M5LWI4NTgtY2EzMzA5ZGIxYjRjXkEyXkFqcGc@._V1_.jpg",
+              "width": 3220,
+              "height": 4829
+            }
+          ]
+        },
+        "characters": [
+          "9th Grader"
+        ]
+      }
+    ]
+  }
+}

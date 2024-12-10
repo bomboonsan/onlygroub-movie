@@ -1,0 +1,324 @@
+{
+  "title": {
+    "id": "tt3581652",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "West Side Story",
+    "original_title": null,
+    "start_year": 2021,
+    "end_year": null,
+    "runtime_minutes": 156,
+    "plot": "An adaptation of the 1957 musical, West Side Story explores forbidden love and the rivalry between the Jets and the Sharks, two teenage street gangs of different ethnic backgrounds.",
+    "rating": {
+      "aggregate_rating": 7.1,
+      "votes_count": 94185
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Musical",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTBiNDQxN2ItZTVmZi00YzAzLThlMmQtYmQ5MmM3MzczYWFiXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg",
+        "width": 2025,
+        "height": 3000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "spa",
+        "name": "Spanish"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 85,
+      "review_count": 62
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0000229",
+          "display_name": "Steven Spielberg",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY1NjAzNzE1MV5BMl5BanBnXkFtZTYwNTk0ODc0._V1_.jpg",
+              "width": 267,
+              "height": 400
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm1065785",
+          "display_name": "Tony Kushner",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM1MzMyODI0OV5BMl5BanBnXkFtZTcwMjI4MjQ5OA@@._V1_.jpg",
+              "width": 1510,
+              "height": 1920
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0491306",
+          "display_name": "Arthur Laurents",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTEyMTkyMDY3MzReQTJeQWpwZ15BbWU3MDQ0NTc3MTU@._V1_.jpg",
+              "width": 1312,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm5052065",
+          "display_name": "Ansel Elgort",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTk1NWNmMTEtODdiMS00YzQ1LTg4MDQtMDczMzU5OGM3ZGFhXkEyXkFqcGdeQXVyODIzMDE1OTg@._V1_.jpg",
+              "width": 2249,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Tony"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10399505",
+          "display_name": "Rachel Zegler",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjQyNzg3MDQ2OF5BMl5BanBnXkFtZTgwMDAzNjcxNzM@._V1_.jpg",
+              "width": 400,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "María"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3663196",
+          "display_name": "Ariana DeBose",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTJjMWFhNzktNTNlMi00YmNkLWJjOWQtNjM1ODRhMWEyMDA4XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
+              "width": 800,
+              "height": 716
+            }
+          ]
+        },
+        "characters": [
+          "Anita"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3174725",
+          "display_name": "David Alvarez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDM3YmFiMmYtNWRmZS00M2YzLWEzMTctZTEwMmFhZjYxZTEzXkEyXkFqcGdeQXVyNjY5NDgzNjQ@._V1_.jpg",
+              "width": 427,
+              "height": 403
+            }
+          ]
+        },
+        "characters": [
+          "Bernardo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001549",
+          "display_name": "Rita Moreno",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkyMzI4ODExM15BMl5BanBnXkFtZTcwNjkzNDEzNw@@._V1_.jpg",
+              "width": 1734,
+              "height": 2727
+            }
+          ]
+        },
+        "characters": [
+          "Valentina"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0195421",
+          "display_name": "Brian d'Arcy James",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTQ2MDY4MTU1OF5BMl5BanBnXkFtZTcwMDU2NTI4Nw@@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Officer Krupke"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1015684",
+          "display_name": "Corey Stoll",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGQxN2I1OTEtYTgwYi00Zjg2LWE4MTAtNTJmZTdhMGYwZTBmXkEyXkFqcGdeQXVyNTE4NTQwMA@@._V1_.jpg",
+              "width": 926,
+              "height": 1182
+            }
+          ]
+        },
+        "characters": [
+          "Lieutenant Schrank"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4576311",
+          "display_name": "Mike Faist",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2FjZmE2YTMtYWM5Yy00MTMyLWEwYjktZjRiMjc2YTE4MjU3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+              "width": 4096,
+              "height": 1716
+            }
+          ]
+        },
+        "characters": [
+          "Riff"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10399506",
+          "display_name": "Josh Andrés Rivera",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2JjNTc4MTAtNDJkMi00ZGQzLTllNmEtNDc1ZDU5ZjcxZGNkXkEyXkFqcGdeQXVyOTk1MDQyNTc@._V1_.jpg",
+              "width": 3277,
+              "height": 4096
+            }
+          ]
+        },
+        "characters": [
+          "Chino"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10772681",
+          "display_name": "Iris Menas",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGU5ZTQ0NDktMmE3Yy00OGEyLWJhMzYtZWY1MDA4MTg4MTRkXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "width": 994,
+              "height": 1254
+            }
+          ]
+        },
+        "characters": [
+          "Anybodys"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5822012",
+          "display_name": "David Aviles Morales",
+          "avatars": null
+        },
+        "characters": [
+          "Aníbal"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7756613",
+          "display_name": "Sebastian Serra",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTlhYTNkMWQtOWY4NC00NGQzLThiMmItMDFiNDE4ODE5OTZkXkEyXkFqcGdeQXVyOTU0MzIzNTQ@._V1_.jpg",
+              "width": 4391,
+              "height": 6586
+            }
+          ]
+        },
+        "characters": [
+          "Braulio"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10772682",
+          "display_name": "Ricardo Zayas",
+          "avatars": null
+        },
+        "characters": [
+          "Chago"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm10772686",
+          "display_name": "Carlos E. Gonzalez",
+          "avatars": null
+        },
+        "characters": [
+          "Chucho"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5080141",
+          "display_name": "Ricky Ubeda",
+          "avatars": null
+        },
+        "characters": [
+          "Flaco"
+        ]
+      }
+    ]
+  }
+}

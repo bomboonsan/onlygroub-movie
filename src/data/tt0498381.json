@@ -1,0 +1,348 @@
+{
+  "title": {
+    "id": "tt0498381",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Rings",
+    "original_title": null,
+    "start_year": 2017,
+    "end_year": null,
+    "runtime_minutes": 102,
+    "plot": "A young woman finds herself on the receiving end of a terrifying curse that threatens to take her life in 7 days.",
+    "rating": {
+      "aggregate_rating": 4.5,
+      "votes_count": 43256
+    },
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTQzZjhiYjYtNDMzOS00ZjNiLTg2MGMtYWZmYWNjN2U5YTVmXkEyXkFqcGdeQXVyNjI3OTcxOTU@._V1_.jpg",
+        "width": 769,
+        "height": 1200
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 25,
+      "review_count": 23
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1279573",
+          "display_name": "F. Javier Gutiérrez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ2NTUzODg5OV5BMl5BanBnXkFtZTcwNjIyMTM5OQ@@._V1_.jpg",
+              "width": 737,
+              "height": 1024
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0521649",
+          "display_name": "David Loucka",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm1096524",
+          "display_name": "Jacob Estes",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWM1M2Y4MDgtOWI2MS00MjQzLTk3NzUtYmNlNDM5ZjQ3ZDBhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 621,
+              "height": 621
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0326040",
+          "display_name": "Akiva Goldsman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI0Mjg1MTY4NV5BMl5BanBnXkFtZTYwMDM3NDQ1._V1_.jpg",
+              "width": 265,
+              "height": 400
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0840626",
+          "display_name": "Kôji Suzuki",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODI4YmQ5NzctNGI0Ni00YmY2LTg4M2YtMTExZDUwNmNkNGQzXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+              "width": 300,
+              "height": 347
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm4436761",
+          "display_name": "Matilda Anna Ingrid Lutz",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGJjZjExYzktOWFkNS00N2E4LWI4Y2ItYzFlZTZiYzJhZGQwXkEyXkFqcGdeQXVyMzE2NjAwMDk@._V1_.jpg",
+              "width": 1066,
+              "height": 1600
+            }
+          ]
+        },
+        "characters": [
+          "Julia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1025139",
+          "display_name": "Alex Roe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTlhYmY1MzEtYmFhYy00Njk4LWE3MjYtYzI5NjQ1ZGI3N2QxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 418,
+              "height": 594
+            }
+          ]
+        },
+        "characters": [
+          "Holt"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0301959",
+          "display_name": "Johnny Galecki",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzQ2ODY0MTIwMV5BMl5BanBnXkFtZTcwNDQ2NzMzMw@@._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Gabriel"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000352",
+          "display_name": "Vincent D'Onofrio",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk0NTE2MDkzNF5BMl5BanBnXkFtZTYwODUzMjcz._V1_.jpg",
+              "width": 285,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Burke"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1631435",
+          "display_name": "Aimee Teegarden",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2VlMGU1MjQtOTcwYi00YTNmLThiZjEtMDIyYjkzNmZlYzlkXkEyXkFqcGdeQXVyMjQwNTQyOTQ@._V1_.jpg",
+              "width": 1366,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Skye"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0604507",
+          "display_name": "Bonnie Morgan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzAwOTQyOTgwMV5BMl5BanBnXkFtZTcwOTAxNzIzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 674
+            }
+          ]
+        },
+        "characters": [
+          "Samara"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3221619",
+          "display_name": "Se Oh",
+          "avatars": null
+        },
+        "characters": [
+          "Blue"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5604932",
+          "display_name": "Patrick Walker",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGI5YjhiZTYtNTdhMS00NTM2LWJjNjUtZjQ0MTMyZTRkYjg3XkEyXkFqcGdeQXVyNDcwMzg4OTk@._V1_.jpg",
+              "width": 2472,
+              "height": 3716
+            }
+          ]
+        },
+        "characters": [
+          "Jamal"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1813534",
+          "display_name": "Zach Roerig",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzVjYzUyNjUtZWUxMC00YzFiLTk4ODAtZGZiZjljMmE4NDgwXkEyXkFqcGdeQXVyMjIzODkxNDQ@._V1_.jpg",
+              "width": 2758,
+              "height": 3447
+            }
+          ]
+        },
+        "characters": [
+          "Carter"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2270016",
+          "display_name": "Laura Wiggins",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIzMDI1MDkxNV5BMl5BanBnXkFtZTcwODU3MDQ2OQ@@._V1_.jpg",
+              "width": 443,
+              "height": 590
+            }
+          ]
+        },
+        "characters": [
+          "Faith"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1227053",
+          "display_name": "Lizzie Brocheré",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI3MjQ0NjM4OV5BMl5BanBnXkFtZTcwMzI3MTY2Nw@@._V1_.jpg",
+              "width": 1366,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Kelly"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1957798",
+          "display_name": "Karen Ceesay",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmZhMWM5NzItZGMwMy00NmZmLTgxNzItY2JmYTliNWExYTJhXkEyXkFqcGdeQXVyMjQ2Nzc1NzY@._V1_.jpg",
+              "width": 3024,
+              "height": 4032
+            }
+          ]
+        },
+        "characters": [
+          "Flight Attendant"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2817581",
+          "display_name": "Dave Blamy",
+          "avatars": null
+        },
+        "characters": [
+          "First Officer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0761661",
+          "display_name": "Michael E. Sanders",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU5MjYzNDQzNV5BMl5BanBnXkFtZTgwMTQ2MDY2MjE@._V1_.jpg",
+              "width": 500,
+              "height": 375
+            }
+          ]
+        },
+        "characters": [
+          "Pilot"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0853024",
+          "display_name": "Randall Taylor",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWUyY2FlMTktNzI2OS00NjYzLTkxMzEtMDAyNTVlNWEzNTQzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3264,
+              "height": 2448
+            }
+          ]
+        },
+        "characters": [
+          "Holt's Father"
+        ]
+      }
+    ]
+  }
+}

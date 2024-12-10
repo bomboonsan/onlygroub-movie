@@ -1,0 +1,341 @@
+{
+  "title": {
+    "id": "tt0810819",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Danish Girl",
+    "original_title": null,
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 119,
+    "plot": "A fictitious love story loosely inspired by the lives of Danish artists Lili Elbe and Gerda Wegener. Lili and Gerda's marriage and work evolve as they navigate Lili's groundbreaking journey as a transgender pioneer.",
+    "rating": {
+      "aggregate_rating": 7.1,
+      "votes_count": 199367
+    },
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjA0NjA4NjE2Nl5BMl5BanBnXkFtZTgwNzIxNTY2NjE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "deu",
+        "name": "German"
+      },
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "fra",
+        "name": "French"
+      },
+      {
+        "code": "ukr",
+        "name": "Ukrainian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "BE",
+        "name": "Belgium"
+      },
+      {
+        "code": "DE",
+        "name": "Germany"
+      },
+      {
+        "code": "DK",
+        "name": "Denmark"
+      },
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "JP",
+        "name": "Japan"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 66,
+      "review_count": 41
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0393799",
+          "display_name": "Tom Hooper",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMyOTQ5MTE5OV5BMl5BanBnXkFtZTcwNjMxNjA0NA@@._V1_.jpg",
+              "width": 1479,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0185309",
+          "display_name": "Lucinda Coxon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk1ODE1MDExOV5BMl5BanBnXkFtZTgwMTM0MjIzNzE@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm2286442",
+          "display_name": "David Ebershoff",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcwOTQ4MDI5OV5BMl5BanBnXkFtZTgwMzc0MjIzNzE@._V1_.jpg",
+              "width": 1365,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm2539953",
+          "display_name": "Alicia Vikander",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzg1MzQyYTktN2U3Ni00ZTQ2LThkMjEtODcxY2UyNmM5ZDBhXkEyXkFqcGdeQXVyMTExNzQ3MzAw._V1_.jpg",
+              "width": 642,
+              "height": 678
+            }
+          ]
+        },
+        "characters": [
+          "Gerda"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1519666",
+          "display_name": "Eddie Redmayne",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU0MjEyNzQyM15BMl5BanBnXkFtZTcwMTc4ODUxOQ@@._V1_.jpg",
+              "width": 1366,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Lili"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0797860",
+          "display_name": "Tusse Silberg",
+          "avatars": null
+        },
+        "characters": [
+          "Older Woman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0771621",
+          "display_name": "Adrian Schiller",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTM0ZmU3ODMtOGU5Zi00YWEyLWJjYTktOTFmZTg0ZGJiZjFiXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 520,
+              "height": 705
+            }
+          ]
+        },
+        "characters": [
+          "Rasmussen"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1720028",
+          "display_name": "Amber Heard",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA4NDkyODA3M15BMl5BanBnXkFtZTgwMzUzMjYzNzM@._V1_.jpg",
+              "width": 272,
+              "height": 272
+            }
+          ]
+        },
+        "characters": [
+          "Ulla"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2193504",
+          "display_name": "Emerald Fennell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmU4YWNlZmUtNTAwMi00N2JhLTkxZGYtNzkzYjZmMmUyY2U0XkEyXkFqcGdeQXVyMjMyMDMyNjI@._V1_.jpg",
+              "width": 960,
+              "height": 1200
+            }
+          ]
+        },
+        "characters": [
+          "Elsa"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2447755",
+          "display_name": "Henry Pettigrew",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTU4NmJhYTktYWZiMi00NTMyLTljODYtN2JmNWI3ZWJkYzFmXkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_.jpg",
+              "width": 717,
+              "height": 900
+            }
+          ]
+        },
+        "characters": [
+          "Niels"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0119100",
+          "display_name": "Claus Bue",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzIwMjlkNmMtOWU0NC00NjdiLTk4OWUtM2NhMWVkNTE0OTY0XkEyXkFqcGdeQXVyNjM4Nzk4OTQ@._V1_.jpg",
+              "width": 3264,
+              "height": 4896
+            }
+          ]
+        },
+        "characters": [
+          "Man at Window"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1177117",
+          "display_name": "Peter Krag",
+          "avatars": null
+        },
+        "characters": [
+          "Stage Doorman"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0192805",
+          "display_name": "Angela Curran",
+          "avatars": null
+        },
+        "characters": [
+          "Dresser"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm7736233",
+          "display_name": "Pixie",
+          "avatars": null
+        },
+        "characters": [
+          "Hvappe"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0228960",
+          "display_name": "Richard Dixon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2Q3Y2RhZDctYzE0YS00NGJlLWE1NzktYzRkYjQ5MDFmOTJhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 550,
+              "height": 688
+            }
+          ]
+        },
+        "characters": [
+          "Fonnesbech"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0924210",
+          "display_name": "Ben Whishaw",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc1MDYzNzY4MF5BMl5BanBnXkFtZTcwMDcwNzU0OA@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Henrik"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0868476",
+          "display_name": "Pip Torrens",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjM5YzZkYzAtMmRmZi00Yjg3LWI3ZGEtODQ4OTUyMzVkNWRiXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+              "width": 1995,
+              "height": 3000
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Hexler"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0081901",
+          "display_name": "Paul Bigley",
+          "avatars": null
+        },
+        "characters": [
+          "Man in Gallery"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "title": {
+    "id": "tt3065132",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "He Named Me Malala",
+    "original_title": null,
+    "start_year": 2015,
+    "end_year": null,
+    "runtime_minutes": 88,
+    "plot": "A look at the events leading up to the Taliban's attack on Pakistani schoolgirl Malala Yousafzai for speaking out on girls' education, followed by the aftermath, including her speech to the United Nations.",
+    "rating": {
+      "aggregate_rating": 7,
+      "votes_count": 4824
+    },
+    "genres": [
+      "Biography",
+      "Documentary"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjQwODg2NDIyN15BMl5BanBnXkFtZTgwMTI4NDMwNjE@._V1_.jpg",
+        "width": 676,
+        "height": 1000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "AE",
+        "name": "United Arab Emirates"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 61,
+      "review_count": 26
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm0346550",
+          "display_name": "Davis Guggenheim",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGZmMDE5ZDktNmQxZC00MmFiLTkxNzctOWEzMTIzMjU3OTVlXkEyXkFqcGdeQXVyNDI5MzY5MDQ@._V1_.jpg",
+              "width": 1220,
+              "height": 1238
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm5324796",
+          "display_name": "Malala Yousafzai",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM0MTY5MDI3MF5BMl5BanBnXkFtZTgwNDcxNDYwNjE@._V1_.jpg",
+              "width": 1334,
+              "height": 1039
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm1783154",
+          "display_name": "Mobin Khan",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA3NzExOTY3OF5BMl5BanBnXkFtZTcwMjQ1NTAzMQ@@._V1_.jpg",
+              "width": 450,
+              "height": 560
+            }
+          ]
+        },
+        "characters": [
+          "ER Doctor"
+        ]
+      }
+    ]
+  }
+}

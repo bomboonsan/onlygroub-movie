@@ -1,0 +1,320 @@
+{
+  "title": {
+    "id": "tt3783958",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "La La Land",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 128,
+    "plot": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.",
+    "rating": {
+      "aggregate_rating": 8,
+      "votes_count": 657439
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music",
+      "Musical",
+      "Romance"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_.jpg",
+        "width": 4050,
+        "height": 6000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "HK",
+        "name": "Hong Kong (Special Administrative Region of China)"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 94,
+      "review_count": 54
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm3227090",
+          "display_name": "Damien Chazelle",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE2MzcyODA3MV5BMl5BanBnXkFtZTgwNTA3NTU2MjE@._V1_.jpg",
+              "width": 1456,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm3227090",
+          "display_name": "Damien Chazelle",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE2MzcyODA3MV5BMl5BanBnXkFtZTgwNTA3NTU2MjE@._V1_.jpg",
+              "width": 1456,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0331516",
+          "display_name": "Ryan Gosling",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQzMjkwNTQ2OF5BMl5BanBnXkFtZTgwNTQ4MTQ4MTE@._V1_.jpg",
+              "width": 1619,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Sebastian"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1297015",
+          "display_name": "Emma Stone",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI4NjM1NDkyN15BMl5BanBnXkFtZTgwODgyNTY1MjE@._V1_.jpg",
+              "width": 1362,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Mia"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2353430",
+          "display_name": "Amiee Conn",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDQ4N2VjNjktMDcwNC00MGZmLThmMWQtZTM3NmFkN2JlZmIxXkEyXkFqcGdeQXVyMjUyOTM1ODY@._V1_.jpg",
+              "width": 978,
+              "height": 797
+            }
+          ]
+        },
+        "characters": [
+          "Famous Actress"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0881814",
+          "display_name": "Terry Walters",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWJkODQxNGYtM2M2ZC00ZmNlLWJiODEtNjUzZTNmZjliMzAxXkEyXkFqcGdeQXVyMjY4MzUwNjc@._V1_.jpg",
+              "width": 1024,
+              "height": 1536
+            }
+          ]
+        },
+        "characters": [
+          "Linda (Coffee Shop Manager)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3235876",
+          "display_name": "Thom Shelton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTJjN2Q0ZTgtYmFkNC00MWQ4LWI1NGYtZDEwZGVhYTk0MmVmXkEyXkFqcGdeQXVyNDE5MDI3MDk@._V1_.jpg",
+              "width": 3735,
+              "height": 5602
+            }
+          ]
+        },
+        "characters": [
+          "Coffee Spiller"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1197574",
+          "display_name": "Cinda Adams",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTRmZWE2NDctMWIxMS00MzJjLTg3YmItYzI0ZjEzYjMzNmYxXkEyXkFqcGdeQXVyMTk3MjQzMjg@._V1_.jpg",
+              "width": 507,
+              "height": 570
+            }
+          ]
+        },
+        "characters": [
+          "Casting Director (First Audition)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5555747",
+          "display_name": "Callie Hernandez",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzQyOWE4NTgtNDllYS00ZWM0LTk4ODAtZTNiYWE5MzJiZTJjXkEyXkFqcGdeQXVyNDE1MjI5NTY@._V1_.jpg",
+              "width": 1125,
+              "height": 827
+            }
+          ]
+        },
+        "characters": [
+          "Tracy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1557329",
+          "display_name": "Jessica Rothe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmJhNTMwYWMtNGQ2ZC00ODJkLTkwZDUtOTdlOTk4MTE0MGM3XkEyXkFqcGdeQXVyMjc0MDc1Mzg@._V1_.jpg",
+              "width": 6326,
+              "height": 8443
+            }
+          ]
+        },
+        "characters": [
+          "Alexis"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4420495",
+          "display_name": "Sonoya Mizuno",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWUzZjJiZjUtNGM3YS00YTkwLThhMGYtYTk4ODBkM2RjNzI4XkEyXkFqcGdeQXVyNDg1MjM0ODk@._V1_.jpg",
+              "width": 1024,
+              "height": 765
+            }
+          ]
+        },
+        "characters": [
+          "Caitlin"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1679669",
+          "display_name": "Rosemarie DeWitt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMxMTg3ODA5M15BMl5BanBnXkFtZTcwOTA1NzQyMg@@._V1_.jpg",
+              "width": 265,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Laura"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0799777",
+          "display_name": "J.K. Simmons",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzg2NTI5NzQ1MV5BMl5BanBnXkFtZTgwNjI1NDEwMDI@._V1_.jpg",
+              "width": 1679,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Bill"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0165246",
+          "display_name": "Claudine Claudio",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI2OTY0MzAyOV5BMl5BanBnXkFtZTgwMDY4Nzc1MDI@._V1_.jpg",
+              "width": 576,
+              "height": 720
+            }
+          ]
+        },
+        "characters": [
+          "Karen (Waitress)"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0297229",
+          "display_name": "Jason Fuchs",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDUxNzc4ODItZjdjYy00OTA4LWE4ZGEtMWM0ZjJkZWRhZjUyXkEyXkFqcGdeQXVyNzc0OTEyMQ@@._V1_.jpg",
+              "width": 677,
+              "height": 1079
+            }
+          ]
+        },
+        "characters": [
+          "Carlo"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5240923",
+          "display_name": "D.A. Wallach",
+          "avatars": null
+        },
+        "characters": [
+          "'80s Singer"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9191380",
+          "display_name": "Mike Fallin",
+          "avatars": null
+        },
+        "characters": [
+          "Free way Krump Dancer 'Hat Kid'"
+        ]
+      }
+    ]
+  }
+}

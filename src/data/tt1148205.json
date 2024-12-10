@@ -1,0 +1,363 @@
+{
+  "title": {
+    "id": "tt1148205",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "The Bronx Bull",
+    "original_title": null,
+    "start_year": 2016,
+    "end_year": null,
+    "runtime_minutes": 94,
+    "plot": "Based on the tumultuous real-life experiences of legendary boxing champion Jake LaMotta, THE BRONX BULL chronicles his rise as a world-class boxer and his struggles with life outside of the ring, offering an unflinchingly honest look into the heart of a champion.",
+    "rating": {
+      "aggregate_rating": 4.8,
+      "votes_count": 725
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTg0MjY3NTE3Ml5BMl5BanBnXkFtZTgwNzc5NDQ4MDI@._V1_.jpg",
+        "width": 1531,
+        "height": 2156
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "R"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": null,
+    "directors": [
+      {
+        "name": {
+          "id": "nm0346841",
+          "display_name": "Martin Guigui",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmRmNjhiYmEtMDhiMC00YTk3LTg4YmQtN2VkOWU1MDc5Y2E0XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+              "width": 800,
+              "height": 1195
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm0104312",
+          "display_name": "Rustam Branaman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODdmMTVmMWItNzg4My00ZTBjLTk0ZDMtMGY5NGJjZjM5OTFhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3123,
+              "height": 3851
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0346841",
+          "display_name": "Martin Guigui",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmRmNjhiYmEtMDhiMC00YTk3LTg4YmQtN2VkOWU1MDc5Y2E0XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+              "width": 800,
+              "height": 1195
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm5654941",
+          "display_name": "Chris Anderson",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm4120929",
+          "display_name": "Sharon McGehee",
+          "avatars": null
+        }
+      },
+      {
+        "name": {
+          "id": "nm0483766",
+          "display_name": "Jake LaMotta",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI3MzcxNjMyOF5BMl5BanBnXkFtZTcwNTI1ODExOA@@._V1_.jpg",
+              "width": 1521,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0001235",
+          "display_name": "William Forsythe",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk4MTkxMTMwM15BMl5BanBnXkFtZTYwNzkyNDMz._V1_.jpg",
+              "width": 269,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Jake LaMotta"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001505",
+          "display_name": "Joe Mantegna",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDU3MTQyMDUtMmMyOC00NzMzLTg3OTEtY2Q5ZWQ1MWE0Y2JjXkEyXkFqcGdeQXVyMTU0MTk2ODEz._V1_.jpg",
+              "width": 855,
+              "height": 1281
+            }
+          ]
+        },
+        "characters": [
+          "Rick Rosselli"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001744",
+          "display_name": "Tom Sizemore",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjA3NjA0MzIwOV5BMl5BanBnXkFtZTYwNzk5NDE1._V1_.jpg",
+              "width": 272,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Tony"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000649",
+          "display_name": "Paul Sorvino",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyNjkyMjk1OV5BMl5BanBnXkFtZTYwNjE1NjQ1._V1_.jpg",
+              "width": 261,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Giuseppe LaMotta"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000542",
+          "display_name": "Penelope Ann Miller",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWNlMWZmMjUtMzgwNi00NTk5LTg1NTMtMTMxYWU0MmJhZGM4XkEyXkFqcGdeQXVyMjUxOTcxNTI@._V1_.jpg",
+              "width": 2700,
+              "height": 4050
+            }
+          ]
+        },
+        "characters": [
+          "Debbie Forrester"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm2828232",
+          "display_name": "Mojean Aria",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmQzNzMzMDUtYmNkZi00MDNlLTk5ZjItZDJjZTdlYmE4ZDYzXkEyXkFqcGdeQXVyMjI5MTMwNTI@._V1_.jpg",
+              "width": 2912,
+              "height": 4368
+            }
+          ]
+        },
+        "characters": [
+          "Young Jake LaMotta"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0936403",
+          "display_name": "Ray Wise",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYzNTg0NDU5NF5BMl5BanBnXkFtZTcwNDQ5NTk3MQ@@._V1_.jpg",
+              "width": 316,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Father Joseph"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000449",
+          "display_name": "Natasha Henstridge",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgyNDEyMjUyOV5BMl5BanBnXkFtZTcwMDQ4Mjk3MQ@@._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Sally Carlton"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001458",
+          "display_name": "Cloris Leachman",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTEwNTM4NjI4NzleQTJeQWpwZ15BbWU2MDkxMTg0NQ@@._V1_.jpg",
+              "width": 266,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Lillian Forrester"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001108",
+          "display_name": "Robert Davi",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzM2MDY5NjA4OV5BMl5BanBnXkFtZTYwMDQ5NDEz._V1_.jpg",
+              "width": 450,
+              "height": 627
+            }
+          ]
+        },
+        "characters": [
+          "Aaron Levy"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0181288",
+          "display_name": "Joe Cortese",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODZjYTkyY2UtN2I4ZS00OTA2LWEwZGYtYzFiMjQ1MzljOWZiXkEyXkFqcGdeQXVyODg3Nzg3MA@@._V1_.jpg",
+              "width": 1638,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Vito Lazio"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0751638",
+          "display_name": "James Russo",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzk1M2RhNmUtZWRiMS00ZDcyLTgwZmYtOGJjZTg5ZDc3ZDkwXkEyXkFqcGdeQXVyMTEyNTY5NjYx._V1_.jpg",
+              "width": 396,
+              "height": 594
+            }
+          ]
+        },
+        "characters": [
+          "Rocky Graziano"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm5037323",
+          "display_name": "Eric Mamann",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BODhkNWE0ZjItNmE2OS00YjUxLThjODQtYzYyZmI3NzkzMGRhXkEyXkFqcGc@._V1_.jpg",
+              "width": 600,
+              "height": 900
+            }
+          ]
+        },
+        "characters": [
+          "Young Rick Rosselli"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001117",
+          "display_name": "Bruce Davison",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY4NDU5NjI1MF5BMl5BanBnXkFtZTcwNjA2NjMxOA@@._V1_.jpg",
+              "width": 500,
+              "height": 389
+            }
+          ]
+        },
+        "characters": [
+          "D.A. Bonomi"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0823563",
+          "display_name": "Mike Starr",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ0MTg2OTY0NF5BMl5BanBnXkFtZTgwNjAzODA1NTE@._V1_.jpg",
+              "width": 1360,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Jerry"
+        ]
+      }
+    ]
+  }
+}

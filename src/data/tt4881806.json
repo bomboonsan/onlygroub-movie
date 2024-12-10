@@ -1,0 +1,360 @@
+{
+  "title": {
+    "id": "tt4881806",
+    "type": "movie",
+    "is_adult": false,
+    "primary_title": "Jurassic World: Fallen Kingdom",
+    "original_title": null,
+    "start_year": 2018,
+    "end_year": null,
+    "runtime_minutes": 128,
+    "plot": "When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
+    "rating": {
+      "aggregate_rating": 6.1,
+      "votes_count": 341249
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "posters": [
+      {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzIxMjYwNDEwN15BMl5BanBnXkFtZTgwMzk5MDI3NTM@._V1_.jpg",
+        "width": 675,
+        "height": 1000
+      }
+    ],
+    "certificates": [
+      {
+        "country": {
+          "code": "US",
+          "name": "United States"
+        },
+        "rating": "PG-13"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "eng",
+        "name": "English"
+      },
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "origin_countries": [
+      {
+        "code": "CN",
+        "name": "China"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "critic_review": {
+      "score": 51,
+      "review_count": 59
+    },
+    "directors": [
+      {
+        "name": {
+          "id": "nm1291105",
+          "display_name": "J.A. Bayona",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg2MTU2ODUzOF5BMl5BanBnXkFtZTcwOTI5NjU3OA@@._V1_.jpg",
+              "width": 1240,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "writers": [
+      {
+        "name": {
+          "id": "nm2081046",
+          "display_name": "Derek Connolly",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkzMTMxNjI5MV5BMl5BanBnXkFtZTcwMDc0NTUxOQ@@._V1_.jpg",
+              "width": 1480,
+              "height": 2048
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm1119880",
+          "display_name": "Colin Trevorrow",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTNjMjY2M2EtZTMwNC00NGZkLTliMDMtYzNiNzVjMjJkMzBmXkEyXkFqcGdeQXVyMjMyMzEzOTM@._V1_.jpg",
+              "width": 817,
+              "height": 1214
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "id": "nm0000341",
+          "display_name": "Michael Crichton",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgwOTQ1NTAyM15BMl5BanBnXkFtZTgwMTk4NzU0MDI@._V1_.jpg",
+              "width": 1402,
+              "height": 2048
+            }
+          ]
+        }
+      }
+    ],
+    "casts": [
+      {
+        "name": {
+          "id": "nm0695435",
+          "display_name": "Chris Pratt",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjdkYjg1NzMtOTY2YS00ZWI1LWEwZWYtOTU1YTM2ODA2ZWY5XkEyXkFqcGdeQXVyMTM1MjAxMDc3._V1_.jpg",
+              "width": 1536,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Owen Grady"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0397171",
+          "display_name": "Bryce Dallas Howard",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGRkZGQ5OGQtNTlkZS00MDJjLWFlNzMtODRmMDVmYmE1ZTIzXkEyXkFqcGdeQXVyMjQ0MTg4Nw@@._V1_.jpg",
+              "width": 1892,
+              "height": 2837
+            }
+          ]
+        },
+        "characters": [
+          "Claire Dearing"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm1245863",
+          "display_name": "Rafe Spall",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzU3OTIzMzM1OF5BMl5BanBnXkFtZTcwMDc1MDkwOQ@@._V1_.jpg",
+              "width": 1363,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Eli Mills"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6819854",
+          "display_name": "Justice Smith",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDI4Y2UzZTAtYWVhOS00MDhkLWFhNzAtOGVhNjcwMTM0MjQ2XkEyXkFqcGdeQXVyNTU2NjEwMzY@._V1_.jpg",
+              "width": 4704,
+              "height": 3136
+            }
+          ]
+        },
+        "characters": [
+          "Franklin Webb"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm4427331",
+          "display_name": "Daniella Pineda",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE0MTU5MTcyNF5BMl5BanBnXkFtZTgwMjMwOTQ4NTM@._V1_.jpg",
+              "width": 1655,
+              "height": 2048
+            }
+          ]
+        },
+        "characters": [
+          "Zia Rodriguez"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000342",
+          "display_name": "James Cromwell",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzU1NTEzMzMxM15BMl5BanBnXkFtZTgwMzY0MjAzMTE@._V1_.jpg",
+              "width": 1000,
+              "height": 1500
+            }
+          ]
+        },
+        "characters": [
+          "Benjamin Lockwood"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0429363",
+          "display_name": "Toby Jones",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgwMzc5NzM1MV5BMl5BanBnXkFtZTYwMzA0ODk0._V1_.jpg",
+              "width": 284,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Mr. Eversoll"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0505971",
+          "display_name": "Ted Levine",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk4NTE3MjEwMF5BMl5BanBnXkFtZTYwODkzNTkz._V1_.jpg",
+              "width": 254,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Ken Wheatley"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000156",
+          "display_name": "Jeff Goldblum",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2ViNDIwNmUtZGQ5Ni00MDYxLWI5YTktNWU1NGRlYWQ1ZDg0XkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_.jpg",
+              "width": 560,
+              "height": 698
+            }
+          ]
+        },
+        "characters": [
+          "Ian Malcolm"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0000703",
+          "display_name": "BD Wong",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYxNTEyMjEyOF5BMl5BanBnXkFtZTcwNjAwNTMwNA@@._V1_.jpg",
+              "width": 276,
+              "height": 400
+            }
+          ]
+        },
+        "characters": [
+          "Dr. Wu"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0001036",
+          "display_name": "Geraldine Chaplin",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU4OTAzMTkxOF5BMl5BanBnXkFtZTYwMDA5OTc3._V1_.jpg",
+              "width": 485,
+              "height": 322
+            }
+          ]
+        },
+        "characters": [
+          "Iris"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm9830820",
+          "display_name": "Isabella Sermon",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGFiMzhkYmItZWQzMC00NzU2LWJiZTMtYTYyNmRmMDRiNGVkXkEyXkFqcGdeQXVyNzM4NjI5MTI@._V1_.jpg",
+              "width": 2278,
+              "height": 3300
+            }
+          ]
+        },
+        "characters": [
+          "Maisie Lockwood"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm3016166",
+          "display_name": "Robert Emms",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNThlNzVlMGMtYmJiNy00ZTdiLTkyODktYTk3NjUwOGEwZTg4XkEyXkFqcGdeQXVyMTc5MzQzNzI@._V1_.jpg",
+              "width": 4480,
+              "height": 4479
+            }
+          ]
+        },
+        "characters": [
+          "Tech Merc"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm0419273",
+          "display_name": "Peter Jason",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQxMjcxOTE3NF5BMl5BanBnXkFtZTcwMzYyNTg5Mw@@._V1_.jpg",
+              "width": 399,
+              "height": 600
+            }
+          ]
+        },
+        "characters": [
+          "Senator Sherwood"
+        ]
+      },
+      {
+        "name": {
+          "id": "nm6442861",
+          "display_name": "Kevin Layne",
+          "avatars": [
+            {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzJmNjdhZGYtYjM4MS00NTZiLTkxZDEtNTA5ZmIzZWYyODNkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "width": 3744,
+              "height": 5616
+            }
+          ]
+        },
+        "characters": [
+          "Sub Pilot"
+        ]
+      }
+    ]
+  }
+}
